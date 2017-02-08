@@ -13,7 +13,7 @@ link: http://fr.wikipedia.org/wiki/%C3%89ponyme
 
 L'éponymie est le fait de « donner son nom » à quelque chose. Ce qui donne son nom est un éponyme.
 Le terme s'emploie surtout en littérature, histoire, cinéma économie :
-\item pour une personne/chose donnant son nom à l'œuvre ;
-\item pour un personnage (Dieu, héros, saint) ayant donné son nom à un lieu ou à un peuple ;
-\item pour le créateur d'une entreprise qui la baptise de son nom.
+<li> pour une personne/chose donnant son nom à l'œuvre ;
+<li> pour un personnage (Dieu, héros, saint) ayant donné son nom à un lieu ou à un peuple ;
+<li> pour le créateur d'une entreprise qui la baptise de son nom.
 

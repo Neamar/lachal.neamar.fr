@@ -39,7 +39,7 @@ words.forEach(function(data) {
   content += "link: " + data.Lien + "\n";
   content += "---" + "\n";
   content += "\n";
-  content += data.Definition + "\n\n";
+  content += data.Definition.replace(/\\i{(.+?)}/g, "*$1*").replace(/\\b{(.+?)}/g, "**$1**").replace(/\\item/g, "<li>") + "\n\n";
 
   fs.writeFileSync(__dirname + "/../_words/" + data.Slug + ".md", content);
 });

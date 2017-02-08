@@ -13,7 +13,7 @@ examples:
 link: http://fr.wikipedia.org/wiki/Philistin
 ---
 
-Les Philistins (Assyrien Palastu ou Pilistu, hébreu : \i{&#1508;&#1456;&#1468;&#1500;&#1460;&#1513;&#1456;&#1473;&#1514;&#1460;&#1468;&#1497;&#1501;} - pelišt&#299;m, en arabe : \i{&#1601;&#1604;&#1587;&#1591;&#1610;&#1606;&#1610;&#1608;&#1606;} - filas&#7789;&#299;n&#299;un) sont un peuple de l'Antiquité connus par différentes sources textuelles (assyriennes, hébraïques, égyptiennes) ou archéologiques.
+Les Philistins (Assyrien Palastu ou Pilistu, hébreu : *&#1508;&#1456;&#1468;&#1500;&#1460;&#1513;&#1456;&#1473;&#1514;&#1460;&#1468;&#1497;&#1501;* - pelišt&#299;m, en arabe : *&#1601;&#1604;&#1587;&#1591;&#1610;&#1606;&#1610;&#1608;&#1606;* - filas&#7789;&#299;n&#299;un) sont un peuple de l'Antiquité connus par différentes sources textuelles (assyriennes, hébraïques, égyptiennes) ou archéologiques.
 
 Les Philistins apparaissent dans les sources égyptiennes au \c{-XII} siècle avant J.-C., et sont présentés comme des ennemis de l'Égypte venus du nord, mélangés à d'autres populations hostiles connues collectivement des anciens égyptiens sous le nom de peuples de la mer.
 

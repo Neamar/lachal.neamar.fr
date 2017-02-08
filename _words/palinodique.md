@@ -12,7 +12,7 @@ examples:
 link: http://fr.wikipedia.org/wiki/Palinodie
 ---
 
-Une palinodie (du grec \i{palin}, de nouveau, et \i{ôdê}, chant) est un texte dans lequel on contredit ce que l'on avait affirmé auparavant. Indique aussi un brusque changement d'opinion.
+Une palinodie (du grec *palin*, de nouveau, et *ôdê*, chant) est un texte dans lequel on contredit ce que l'on avait affirmé auparavant. Indique aussi un brusque changement d'opinion.
 
 Par extension, faire une palinodie c'est se contredire volontairement - ce qui suppose en principe une intention didactique.
 
