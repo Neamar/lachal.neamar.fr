@@ -41,7 +41,7 @@ words.forEach(function(data) {
   content += "\n";
   content += data.Definition + "\n";
 
-  fs.writeFileSync(__dirname + "/../words/" + data.Slug + ".md", content);
+  fs.writeFileSync(__dirname + "/../_words/" + data.Slug + ".md", content);
 });
 
 

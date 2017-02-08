@@ -1,1 +1,4 @@
 exlude: [code]
+collections:
+  words:
+    output: true
