@@ -12,7 +12,7 @@ synonyms:
   - Rebattu
   - Facile
 examples:
-  - "Et ça, ce n'était pas une pure trivialité apodictique..."
+  - "Et ça, ce n'était pas une pure trivialité apodictique…"
   - "Et ça, permettez moi de vous dire que c'est la trivialité sur le gâteau !"
 link: http://fr.wiktionary.org/wiki/trivialit%C3%A9
 ---

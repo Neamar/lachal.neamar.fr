@@ -9,7 +9,7 @@ synonyms:
   - réunion
   - association.
 examples:
-  - "Un petit exo cathartique pour amener à résipiscence ceux qui auraient fréquenté un cénacle de soudards dévoyés..."
+  - "Un petit exo cathartique pour amener à résipiscence ceux qui auraient fréquenté un cénacle de soudards dévoyés…"
   - "diantre ! Aurais-je affaire à un cénacle exerçant son condominium oligarchique ?"
 link: http://www.linternaute.com/dictionnaire/fr/definition/cenacle/
 ---

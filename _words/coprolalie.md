@@ -10,7 +10,7 @@ synonyms:
   - Grossièreté
 examples:
   - "Vous avez une rhétorique idiolecte coprolalique !"
-  - "M Tschirhardt! je vous croyais rhétoricien alambiqué et ampoulé, et il me semble pourtant que je viens d'ouïr une coprolalie venant de votre coté..."
+  - "M Tschirhardt! je vous croyais rhétoricien alambiqué et ampoulé, et il me semble pourtant que je viens d'ouïr une coprolalie venant de votre coté…"
 link: http://www.dicopsy.com/coprolalie.htm
 ---
 

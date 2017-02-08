@@ -8,7 +8,7 @@ synonyms:
   - Au sens strict
   - strictement
 examples:
-  - "Si on prenait la définition stricto sensu, on aurait bien ce que vous dites...Mais un peu de magie vaudoue n'a jamais fait de mal à personnne."
+  - "Si on prenait la définition stricto sensu, on aurait bien ce que vous dites…Mais un peu de magie vaudoue n'a jamais fait de mal à personnne."
 link: http://fr.wikipedia.org/wiki/Stricto_sensu
 ---
 

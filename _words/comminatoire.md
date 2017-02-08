@@ -7,7 +7,7 @@ categories:
 synonyms:
   - Menacer
 examples:
-  - "Ne le parlez pas sur ce ton comminatoire ! Diantre, vous avez tort, un point c'est tout..."
+  - "Ne le parlez pas sur ce ton comminatoire ! Diantre, vous avez tort, un point c'est tout…"
   - "A ces mots, Mickey prit un ton comminatoire et lui adresse quelques privautés (cf les Histoires)"
 link: http://www.juritravail.com/lexique/Comminatoire.html
 ---

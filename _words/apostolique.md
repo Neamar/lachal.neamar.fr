@@ -8,7 +8,7 @@ synonyms:
   - Bénévolat
   - Désintéressement
 examples:
-  - "Vous avez aimé le 4ème degré ? Vous allez aduler dans une génuflexion apostolique le 5ème..."
+  - "Vous avez aimé le 4ème degré ? Vous allez aduler dans une génuflexion apostolique le 5ème…"
   - "Mr Tschirardt, une petite révélation apostolique ?"
 link: http://fr.wikipedia.org/wiki/Apostolique
 ---

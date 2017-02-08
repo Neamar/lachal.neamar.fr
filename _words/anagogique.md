@@ -8,7 +8,7 @@ synonyms:
   - symbolique
   - allégorique
 examples:
-  - "Je vous sens plongés dans une pâmoison anagogique..."
+  - "Je vous sens plongés dans une pâmoison anagogique…"
 link: http://definition.ptidico.com/anagogique.html
 ---
 

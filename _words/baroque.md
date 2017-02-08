@@ -25,7 +25,7 @@ synonyms:
   - original
 examples:
   - "Je ne suis pas sensible à l'art baroque"
-  - "Puisque, quoi que l'on puisse dire, je ne suis pas complètement insensible à l'art baroque..."
+  - "Puisque, quoi que l'on puisse dire, je ne suis pas complètement insensible à l'art baroque…"
 link: http://pagesperso-orange.fr/revue.shakti/renbaroq.htm
 ---
 

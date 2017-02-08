@@ -8,7 +8,7 @@ synonyms:
   - Voix Forte
   - Voix Portante
 examples:
-  - "M. Millon nous informe de sa belle voix de stentor qu'une erreur s'est insidieusement glissée dans cet énoncé..."
+  - "M. Millon nous informe de sa belle voix de stentor qu'une erreur s'est insidieusement glissée dans cet énoncé…"
 link: http://fr.wikipedia.org/wiki/Stentor
 ---
 
@@ -22,7 +22,7 @@ Il n'apparaît pourtant qu'une seule fois dans la littérature grecque et de man
 >
     «  Héra, la déesse aux bras blancs, s'arrêta et, prenant
     Les traits du valeureux Stentor, qui, de sa voix de bronze,
-    Faisait autant de bruit que cinquante hommes, s'écria (...)  »
+    Faisait autant de bruit que cinquante hommes, s'écria (…)  »
 
 
 Il partage avec Achille sa « voix de bronze ».

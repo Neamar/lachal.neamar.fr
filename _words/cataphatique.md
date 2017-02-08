@@ -14,7 +14,7 @@ synonyms:
   - Qui tacet consentire videtur
 examples:
   - "C'est un silence cataphatique  !"
-  - "Bonne remarque ! J'ai cru que ça allait plonger la salle dans un silence cataphatique..."
+  - "Bonne remarque ! J'ai cru que ça allait plonger la salle dans un silence cataphatique…"
 link: http://blog.legardemots.fr/post/2007/07/05/Catastrophe
 ---
 

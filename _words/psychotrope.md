@@ -7,7 +7,7 @@ categories:
 synonyms:
   - Stupéfiant
 examples:
-  - "Si je prends un exemple corroboratif et psychotrope..."
+  - "Si je prends un exemple corroboratif et psychotrope…"
 link: http://www.linternaute.com/dictionnaire/fr/definition/psychotrope/
 ---
 

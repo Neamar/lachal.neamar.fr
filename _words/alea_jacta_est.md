@@ -9,7 +9,7 @@ synonyms:
   - Le vin est tiré
   - il faut le boire
 examples:
-  - "Alea jacta est ! [Après distribution des sujets...]"
+  - "Alea jacta est ! [Après distribution des sujets…]"
 link: http://fr.wikipedia.org/wiki/Alea_jacta_est
 ---
 

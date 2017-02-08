@@ -15,5 +15,5 @@ examples:
 link: http://lemotdujour.over-blog.com/article-13656982.html
 ---
 
-Du latin *ad patres* « chez les ancêtres » : désigne une personne décédée. Aller *ad patres*, c'est mourir...
+Du latin *ad patres* « chez les ancêtres » : désigne une personne décédée. Aller *ad patres*, c'est mourir…
 

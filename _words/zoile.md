@@ -16,7 +16,7 @@ synonyms:
   - méprisant
   - ricaneur
 examples:
-  - "Pour les détracteurs et autres zoïles de mauvaise foi... (cf. histoires)"
+  - "Pour les détracteurs et autres zoïles de mauvaise foi… (cf. histoires)"
   - "Ventre-saint-gris ! Encore une comparution devant l'aréopage de zoïlescoercitifs à tendance acrimonieuse ?"
 link: http://blog.legardemots.fr/post/2008/12/25/Zoile
 ---

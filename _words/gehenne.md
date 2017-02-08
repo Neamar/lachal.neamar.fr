@@ -9,8 +9,8 @@ synonyms:
   - Torture
   - Souffrance.
 examples:
-  - "Ne vous laisser pas aller à une déréliction endémique qui pourrait vous conduire dans les abysses d'une géhenne apocalyptique..."
-  - "Bon, maintenant pour être un peu plus prosaïque, il va falloir se remettre au travail qui devient poussif !!! Mais je suis sûr qu'en deux mois, le pinacle sera à portée de main...En espérant que la géhenne apocalyptique de la fin de l'année n'aura pas été trop douloureuse, je vous souhaite à tous de bonnes vacances (pas trop sybaritiques, isnt'it?)"
+  - "Ne vous laisser pas aller à une déréliction endémique qui pourrait vous conduire dans les abysses d'une géhenne apocalyptique…"
+  - "Bon, maintenant pour être un peu plus prosaïque, il va falloir se remettre au travail qui devient poussif !!! Mais je suis sûr qu'en deux mois, le pinacle sera à portée de main…En espérant que la géhenne apocalyptique de la fin de l'année n'aura pas été trop douloureuse, je vous souhaite à tous de bonnes vacances (pas trop sybaritiques, isnt'it?)"
 link: http://lemotdujour.over-blog.com/article-48901.html
 ---
 

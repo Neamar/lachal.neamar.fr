@@ -11,7 +11,7 @@ synonyms:
   - Réflechi
 examples:
   - "Pour ceux qui recherchent l'apocatastase après componction, vous voilà servis !"
-  - "Je reconnais les faits qui me sont reprochés dans une indicible componction...je vous rajoute donc le point injustement spolié !"
+  - "Je reconnais les faits qui me sont reprochés dans une indicible componction…je vous rajoute donc le point injustement spolié !"
 link: http://fr.wiktionary.org/wiki/componction
 ---
 

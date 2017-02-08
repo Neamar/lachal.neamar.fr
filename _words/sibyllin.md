@@ -12,8 +12,8 @@ synonyms:
   - incompréhensible
   - insaisissable.
 examples:
-  - "Ça peut peut-être vous sembler de la cabale mythico-sibylline...mais ce n'en est pas !"
-  - "Mystico-sibyllin, pas mythico-sibyllin ! Vous me décevez, greffier... :-)"
+  - "Ça peut peut-être vous sembler de la cabale mythico-sibylline…mais ce n'en est pas !"
+  - "Mystico-sibyllin, pas mythico-sibyllin ! Vous me décevez, greffier… :-)"
 link: http://www.linternaute.com/dictionnaire/fr/definition/sibyllin/
 ---
 

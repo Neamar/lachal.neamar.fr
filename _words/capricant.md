@@ -8,7 +8,7 @@ synonyms:
   - Caprin
   - Ridicule
 examples:
-  - "Quelle gestuelle capricante..."
+  - "Quelle gestuelle capricante…"
 link: http://fr.wiktionary.org/wiki/capricant
 ---
 

@@ -10,7 +10,7 @@ synonyms:
   - Charabia
   - Jargon.
 examples:
-  - "C'est un galimatias amphigourique..."
+  - "C'est un galimatias amphigourique…"
 link: http://fr.wiktionary.org/wiki/galimatias
 ---
 

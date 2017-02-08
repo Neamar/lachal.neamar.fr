@@ -7,8 +7,8 @@ synonyms:
   - Discrètement
   - Furtivement
 examples:
-  - "Une petite gouaillerie s'est subrepticement immiscée dans le texte..."
-  - "Permettez moi de me gausser subrepticement ..."
+  - "Une petite gouaillerie s'est subrepticement immiscée dans le texte…"
+  - "Permettez moi de me gausser subrepticement …"
 link: http://www.linternaute.com/dictionnaire/fr/definition/subrepticement/
 ---
 

@@ -12,7 +12,7 @@ synonyms:
   - senteur
   - Empyreumatique
 examples:
-  - "Votre humble factotum qui ne souhaite pas sentir le remugle... (cf. Correspondance)"
+  - "Votre humble factotum qui ne souhaite pas sentir le remugle… (cf. Correspondance)"
 link: http://www.linternaute.com/dictionnaire/fr/definition/remugle/
 ---
 

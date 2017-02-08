@@ -10,7 +10,7 @@ synonyms:
   - Tartuffe
   - Hypocrite
 examples:
-  - "Mickey, notre sigisbée patelin, papelard, voire cauteleux, donc, invite une copine à la campagne. Cette copine, c'est... Clarabelle, le bovidé mafflu ! (cf. Histoires)"
+  - "Mickey, notre sigisbée patelin, papelard, voire cauteleux, donc, invite une copine à la campagne. Cette copine, c'est… Clarabelle, le bovidé mafflu ! (cf. Histoires)"
 link: http://www.ac-grenoble.fr/lettres/pages/jjr/livres/notes/patelin.htm
 ---
 

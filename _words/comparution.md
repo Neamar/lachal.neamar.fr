@@ -6,7 +6,7 @@ categories:
 synonyms:
   - Présentation
 examples:
-  - "M Tschirhard... Comparution immédiate au tableau."
+  - "M Tschirhard… Comparution immédiate au tableau."
 link: http://www.linternaute.com/dictionnaire/fr/definition/comparution/
 ---
 

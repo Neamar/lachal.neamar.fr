@@ -10,7 +10,7 @@ synonyms:
   - L'essentiel Lachalis à l'INSA pour benêt de premiére année
 examples:
   - "Tâchez de ranger ces formules dans un coins de votre vade mecum"
-  - "Vade mecum du Bizuth insalien (à l'attention de la 51ème promo... et des suivantes)"
+  - "Vade mecum du Bizuth insalien (à l'attention de la 51ème promo… et des suivantes)"
 link: http://fr.wiktionary.org/wiki/vad%C3%A9m%C3%A9cum
 ---
 

@@ -8,7 +8,7 @@ synonyms:
   - Don
   - Divertissement
 examples:
-  - "Et en bonus track, la démonstration..."
+  - "Et en bonus track, la démonstration…"
   - "Allez, en bonus track, une histoire bidonnante de Toto !"
 link: http://en.wikipedia.org/wiki/Bonus_track
 ---

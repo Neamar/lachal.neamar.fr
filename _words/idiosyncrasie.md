@@ -9,7 +9,7 @@ synonyms:
   - Mélange
   - Propre
 examples:
-  - "C'est une belle idiosyncrasie primesautière..."
+  - "C'est une belle idiosyncrasie primesautière…"
 link: http://fr.wikipedia.org/wiki/Idiosyncrasie
 ---
 

@@ -10,7 +10,7 @@ synonyms:
   - Raillerie
   - Critique.
 examples:
-  - "Titeuf qui n'a pas la plume particulièrement littéraire, et donc peu enclin à rédiger des épigrammes élégiaques ou anacréontiques, voire ossianiques, lui propose plutôt, rimbou et avec un ton relou : \"Eh Nadia, tu viens faire un tour dans ma décapotable rouge... couleur Ferrari ?!\"  (cf. Histoires)"
+  - "Titeuf qui n'a pas la plume particulièrement littéraire, et donc peu enclin à rédiger des épigrammes élégiaques ou anacréontiques, voire ossianiques, lui propose plutôt, rimbou et avec un ton relou : \"Eh Nadia, tu viens faire un tour dans ma décapotable rouge… couleur Ferrari ?!\"  (cf. Histoires)"
 link: http://www.universalis.fr/encyclopedie/T230609/EPIGRAMME.htm
 ---
 

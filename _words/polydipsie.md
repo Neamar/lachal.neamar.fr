@@ -9,7 +9,7 @@ synonyms:
   - Pulsion
 examples:
   - "Quelques minutes de pause pour évacuer la lie engrangée lors d'une crise de polydipsie."
-  - "Un petit exo prophylaxique après une crise de polydipsie..."
+  - "Un petit exo prophylaxique après une crise de polydipsie…"
 link: http://fr.wikipedia.org/wiki/Polydipsie
 ---
 

@@ -12,7 +12,7 @@ synonyms:
   - Maxime
 examples:
   - "Avec cet apophtegme subliminaire, ca devrait être clair !"
-  - "...donc ne pas dire un apophtegme captieux dans ce cas là..."
+  - "…donc ne pas dire un apophtegme captieux dans ce cas là…"
 link: http://fr.wiktionary.org/wiki/Apophtegme
 ---
 

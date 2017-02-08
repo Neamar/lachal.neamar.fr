@@ -9,7 +9,7 @@ synonyms:
   - Soudoiement
   - Corruption
 examples:
-  - "...mais ayant toujours cette propension compulsive et incoercible à quelque malversation, prévarication et autre concussion, la prudence est de mise."
+  - "…mais ayant toujours cette propension compulsive et incoercible à quelque malversation, prévarication et autre concussion, la prudence est de mise."
 link: http://www.absurditis.com/index.php?page=dico&amp;lettre=C&amp;mot=Concussion
 ---
 

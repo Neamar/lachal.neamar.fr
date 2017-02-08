@@ -29,7 +29,7 @@ synonyms:
   - compliqué
   - difficile
 examples:
-  - "...Byzantinisme amphigourique."
+  - "…Byzantinisme amphigourique."
   - "Non dit par le prof, mais ajouté pour comprendre : Un amphigouri composé sur un air d’opéra."
 link: http://fr.wiktionary.org/wiki/amphigouri
 ---

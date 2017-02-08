@@ -8,7 +8,7 @@ synonyms:
   - Folie
   - Aliénation
 examples:
-  - "Un instant de vésanie..."
+  - "Un instant de vésanie…"
 link: http://fr.wikipedia.org/wiki/V%C3%A9sanie
 ---
 

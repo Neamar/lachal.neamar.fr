@@ -8,8 +8,8 @@ synonyms:
   - le plus haut degré
   - Maximum
 examples:
-  - "Quelle conviction paroxystique..."
-  - "Vous avez atteint un stade de déréliction endémique et paroxystique..."
+  - "Quelle conviction paroxystique…"
+  - "Vous avez atteint un stade de déréliction endémique et paroxystique…"
 link: http://fr.wiktionary.org/wiki/paroxystique
 ---
 

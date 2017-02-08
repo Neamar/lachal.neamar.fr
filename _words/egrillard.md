@@ -7,7 +7,7 @@ synonyms:
   - Chansonnier
   - Gaillard
 examples:
-  - "Evitez nonobstant les échansons égrillards..."
+  - "Evitez nonobstant les échansons égrillards…"
   - "Le samedi soir, au lieu d'aller dans des baloches bucoliques à la rencontre d'échansons égrillards."
 link: http://lemotdujour.over-blog.com/article-2034138.html
 ---

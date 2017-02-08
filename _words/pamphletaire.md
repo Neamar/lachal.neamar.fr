@@ -9,7 +9,7 @@ synonyms:
   - Polémique
 examples:
   - "Quelle expression pamphlétaire et attentatoire !"
-  - "C'est une diatribe pamphlétaire indigne de vous..."
+  - "C'est une diatribe pamphlétaire indigne de vous…"
 link: http://fr.wikipedia.org/wiki/Pamphl%C3%A9taire
 ---
 

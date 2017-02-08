@@ -10,7 +10,7 @@ synonyms:
   - condamnation
   - blâme
 examples:
-  - "Au risque de jeter quelque anathème imprécatoire..."
+  - "Au risque de jeter quelque anathème imprécatoire…"
 link: http://definition.ptidico.com/anathème.html
 ---
 

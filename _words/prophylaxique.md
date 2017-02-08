@@ -14,7 +14,7 @@ synonyms:
   - prévention
   - protection.
 examples:
-  - "Un petit exo prophylaxique après une crise de polydipsie..."
+  - "Un petit exo prophylaxique après une crise de polydipsie…"
 link: http://fr.wikipedia.org/wiki/Prophylaxie
 ---
 
@@ -31,5 +31,5 @@ Types de prophylaxie :
 
 La prophylaxie concerne aussi bien les maladies infectieuses que les accidents du travail, les parasitoses ou le développement psychomoteur.
 
-À ce titre, les campagnes de vaccination systématique (B.C.G., variole, *etc.*), la déclaration de certaines maladies contagieuses, ainsi que les démarches de prévention diverses d'hygiène de vie (anti-alcoolique, anti-tabac...), la médecine du travail, le dépistage précoce de certaines maladies (cancer, par exemple), les rééducations en milieu psychiatrique, *etc.*, sont autant d'entreprises prophylactiques.
+À ce titre, les campagnes de vaccination systématique (B.C.G., variole, *etc.*), la déclaration de certaines maladies contagieuses, ainsi que les démarches de prévention diverses d'hygiène de vie (anti-alcoolique, anti-tabac…), la médecine du travail, le dépistage précoce de certaines maladies (cancer, par exemple), les rééducations en milieu psychiatrique, *etc.*, sont autant d'entreprises prophylactiques.
 

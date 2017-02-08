@@ -8,7 +8,7 @@ categories:
 synonyms:
   - Erotique
 examples:
-  - "Titeuf qui n'a pas la plume particulièrement littéraire, et donc peu enclin à rédiger des épigrammes élégiaques ou anacréontiques, voire ossianiques..."
+  - "Titeuf qui n'a pas la plume particulièrement littéraire, et donc peu enclin à rédiger des épigrammes élégiaques ou anacréontiques, voire ossianiques…"
 link: http://www.dicocitations.com/definition_littre/33785/Anacreontique.php
 ---
 

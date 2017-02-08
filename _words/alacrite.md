@@ -10,7 +10,7 @@ synonyms:
   - Vivacité
 examples:
   - "Mlle Doteau, je vous sens en proie à une alacrité inénarrable et incoercible."
-  - "Vous n'imaginez pas l'alacrité dans laquelle ça me plonge..."
+  - "Vous n'imaginez pas l'alacrité dans laquelle ça me plonge…"
 link: http://www.absurditis.com/index.php?page=dico&lettre=A&mot=Alacrit%E9
 ---
 

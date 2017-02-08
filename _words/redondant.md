@@ -11,7 +11,7 @@ synonyms:
   - Superflu
   - Surabondant.
 examples:
-  - "Votre raisonnement est d'une redondance fuligineuse..."
+  - "Votre raisonnement est d'une redondance fuligineuse…"
 link: http://www.linternaute.com/dictionnaire/fr/definition/redondant/
 ---
 

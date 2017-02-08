@@ -8,7 +8,7 @@ synonyms:
   - Vent descendant
   - Rapide
 examples:
-  - "Pour le cas général, il faudra peut-être procéder ad augusta per angustaet adopter un modus opérandi suivant un vent catabatique..."
+  - "Pour le cas général, il faudra peut-être procéder ad augusta per angustaet adopter un modus opérandi suivant un vent catabatique…"
 link: http://fr.wikipedia.org/wiki/Vent_catabatique
 ---
 

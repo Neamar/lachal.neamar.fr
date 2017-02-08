@@ -8,7 +8,7 @@ synonyms:
   - Equanimité
 examples:
   - "Je vous laisse à votre béatitude ataraxique"
-  - "J'ose espérer qu'il ne s'agit là que d'une simple boutade ataraxique..."
+  - "J'ose espérer qu'il ne s'agit là que d'une simple boutade ataraxique…"
 link: http://fr.wiktionary.org/wiki/ataraxie
 ---
 

@@ -10,8 +10,8 @@ synonyms:
   - Fétide
   - Nauséabond
 examples:
-  - "(à une personne prise d'une crise de hoquet) : Vous éructez des borborygmes méphitiques..."
-  - "Maintenant que nous avons évacué nos relents méphitiques et empyreumatiques, ..."
+  - "(à une personne prise d'une crise de hoquet) : Vous éructez des borborygmes méphitiques…"
+  - "Maintenant que nous avons évacué nos relents méphitiques et empyreumatiques, …"
 link: http://fr.wiktionary.org/wiki/m%C3%A9phitique
 ---
 

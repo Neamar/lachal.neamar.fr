@@ -9,7 +9,7 @@ synonyms:
   - Futilité
   - Frivolité
 examples:
-  - "Inacrité ? Non, ce n'est pas ce mot... ça devait être alacrité. J'aurais pu dire inanité, mais c'aurait été méchant..."
+  - "Inacrité ? Non, ce n'est pas ce mot… ça devait être alacrité. J'aurais pu dire inanité, mais c'aurait été méchant…"
 link: http://fr.wiktionary.org/wiki/inanit%C3%A9
 ---
 

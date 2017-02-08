@@ -8,7 +8,7 @@ synonyms:
   - Amish
   - Rétrograde
 examples:
-  - "Vous savez bien qu'il y a des misonéistes de partout..."
+  - "Vous savez bien qu'il y a des misonéistes de partout…"
 link: http://www.absurditis.com/index.php?page=dico&amp;lettre=M&amp;mot=Mison%E9isme
 ---
 

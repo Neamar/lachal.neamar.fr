@@ -7,7 +7,7 @@ categories:
 synonyms:
   - Purification
 examples:
-  - "Vite ! Une petite anamnèse cathartique : les mondes concomitants, ce que j'écris, ce que je pense..."
+  - "Vite ! Une petite anamnèse cathartique : les mondes concomitants, ce que j'écris, ce que je pense…"
 link: http://fr.wiktionary.org/wiki/cathartique
 ---
 

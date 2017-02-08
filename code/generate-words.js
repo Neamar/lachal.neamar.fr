@@ -60,6 +60,9 @@ words.forEach(function(data) {
   // Windows linefeed: yerk
   content = content.replace(/\r/g, "");
 
+  // ... => &hellip;
+  content = content.replace(/\.\.\./g, "…");
+
   fs.writeFileSync(__dirname + "/../_words/" + data.Slug + ".md", content);
 });
 

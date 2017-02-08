@@ -9,7 +9,7 @@ synonyms:
   - Empreinte
   - Marque
 examples:
-  - "Nonobstant, je vais m'arroger incontinent quelques vacances, j'ai quelques théorèmes sur le feu qu'il faut que je rédige maintenant pour laisser des engrammes à la postérité..."
+  - "Nonobstant, je vais m'arroger incontinent quelques vacances, j'ai quelques théorèmes sur le feu qu'il faut que je rédige maintenant pour laisser des engrammes à la postérité…"
 link: http://fr.wiktionary.org/wiki/engramme
 ---
 

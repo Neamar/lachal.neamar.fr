@@ -9,7 +9,7 @@ synonyms:
   - Recensement
 examples:
   - "A priori, je donne un critère non exhaustif, puis j'élague."
-  - "Un exemple qui n'est ni significatif ni exhaustif...."
+  - "Un exemple qui n'est ni significatif ni exhaustif…."
 link: http://fr.wikipedia.org/wiki/Syst%C3%A8me_exhaustif
 ---
 

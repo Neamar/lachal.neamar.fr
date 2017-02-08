@@ -8,7 +8,7 @@ synonyms:
   - Inintelligible
   - Incompréhensible
 examples:
-  - "C'est très abscons ce que vous dites là..."
+  - "C'est très abscons ce que vous dites là…"
   - "C'est un délire non moins abscons !"
 link: http://fr.wiktionary.org/wiki/abscons
 ---

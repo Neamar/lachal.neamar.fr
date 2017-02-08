@@ -8,7 +8,7 @@ synonyms:
   - Bien fait ?
 examples:
   - "Le cours est terminé, vae victis."
-  - "Vae victis ! [A la fin de l'interro...]"
+  - "Vae victis ! [A la fin de l'interro…]"
 link: http://omnilogie.fr/O/Vae_Victis
 ---
 

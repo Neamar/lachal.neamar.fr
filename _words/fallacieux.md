@@ -10,7 +10,7 @@ synonyms:
   - spécieux
   - trompeur
 examples:
-  - "C'est un peu fallacieux, voire même fastidieux..."
+  - "C'est un peu fallacieux, voire même fastidieux…"
 link: http://fr.wiktionary.org/wiki/fallacieux
 ---
 

@@ -12,7 +12,7 @@ synonyms:
   - Vitupérer.
 examples:
   - "Arrêtez de déblatérer, vil individu méphistophélique."
-  - "On a pris du retard à force de déblatérer toutes formes de rodomontades..."
+  - "On a pris du retard à force de déblatérer toutes formes de rodomontades…"
 link: http://www.linternaute.com/dictionnaire/fr/definition/deblaterer/
 ---
 

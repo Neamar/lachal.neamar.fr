@@ -9,7 +9,7 @@ synonyms:
   - Courageux
   - Volontaire
 examples:
-  - "Fluctuat nec mergitur ! [le jour de l'interro...]"
+  - "Fluctuat nec mergitur ! [le jour de l'interro…]"
 link: http://fr.wikipedia.org/wiki/Fluctuat_nec_mergitur
 ---
 

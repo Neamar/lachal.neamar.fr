@@ -9,7 +9,7 @@ synonyms:
   - Lubricité
   - Paillardise.
 examples:
-  - "...aux almées lascives qui n'avaient cessé de se trémousser"
+  - "…aux almées lascives qui n'avaient cessé de se trémousser"
 link: http://fr.wiktionary.org/wiki/lascif
 ---
 

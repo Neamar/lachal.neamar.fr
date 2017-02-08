@@ -8,7 +8,7 @@ synonyms:
   - Réserve
 examples:
   - "Ne cachez point vos escarcelles !"
-  - "L'exercice 8, vous le mettez dans votre escarcelle pour plus tard..."
+  - "L'exercice 8, vous le mettez dans votre escarcelle pour plus tard…"
 link: http://lemotdujour.over-blog.com/article-3097485.html
 ---
 

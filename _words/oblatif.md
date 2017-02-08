@@ -10,7 +10,7 @@ synonyms:
   - Dévoué
   - Généreux
 examples:
-  - "Je compte sur votre viatique oblatif...Avec mes remerciements anticipés, (cf. Correspondance)"
+  - "Je compte sur votre viatique oblatif…Avec mes remerciements anticipés, (cf. Correspondance)"
 link: http://fr.wiktionary.org/wiki/oblatif
 ---
 

@@ -8,7 +8,7 @@ synonyms:
   - Poésie celtique
   - Envolée lyrique
 examples:
-  - "Titeuf qui n'a pas la plume particulièrement littéraire, et donc peu enclin à rédiger des épigrammes élégiaques ou anacréontiques, voire ossianiques...(cf. Histoires)"
+  - "Titeuf qui n'a pas la plume particulièrement littéraire, et donc peu enclin à rédiger des épigrammes élégiaques ou anacréontiques, voire ossianiques…(cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Ossian
 ---
 

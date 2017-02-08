@@ -7,7 +7,7 @@ synonyms:
   - Kénose
   - Allégorie
 examples:
-  - "Après cette crise d'anthropomorphisme intempestive..."
+  - "Après cette crise d'anthropomorphisme intempestive…"
 link: http://www.linternaute.com/dictionnaire/fr/definition/anthropomorphisme/
 ---
 

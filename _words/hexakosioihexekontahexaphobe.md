@@ -9,7 +9,7 @@ synonyms:
   - "Voir aussi : Triskaiddékaphobe (nombre 13)"
   - "Voir aussi : Apopathodiaphulatophobe (beaucoup moins mathématiques !)"
 examples:
-  - "Au risque de croiser quelque ribaud hédoniste et dévoyé, un petit exo pour samedi soir... attention, il n'est pas recommandé aux hexakosioihexekontahexaphobes !"
+  - "Au risque de croiser quelque ribaud hédoniste et dévoyé, un petit exo pour samedi soir… attention, il n'est pas recommandé aux hexakosioihexekontahexaphobes !"
 link: http://fr.wikipedia.org/wiki/Hexakosioihexekontahexaphobie
 ---
 
@@ -17,7 +17,7 @@ L'hexakosioihexekontahexaphobie (littéralement, « peur du nombre six cent soix
 
 Les hexakosioihexekontahexaphobes évitent au maximum toute chose reliée au nombre 666. Un exemple célèbre est celui de Nancy et Ronald Reagan qui, en 1989, alors qu'ils déménageaient vers leur résidence de Bel-Air (Los Angeles) firent changer leur adresse, 666, St. Cloud Road, en 668, St. Cloud Road. Certaines femmes ont exprimé leur inquiétude quant au fait de donner naissance à un enfant le 6 juin 2006.
 
-Certains cas plus rares évitent même les références indirectes à ce nombre. Par exemple, la fraction $\frac23$ a un développement décimal infini qui répète le chiffre 6, et qu'on peut lire comme 0.666 666 666 666... Certains hexakosioihexekontahexaphobes gravement atteints éviteront d'avoir à utiliser des fractions incluant cette répétition de décimales. Les malades peuvent ainsi considérer qu'obtenir un brelan de 6 au poker est un signe de malchance, même si on peut considérer que c'est une assez bonne main.
+Certains cas plus rares évitent même les références indirectes à ce nombre. Par exemple, la fraction $\frac23$ a un développement décimal infini qui répète le chiffre 6, et qu'on peut lire comme 0.666 666 666 666… Certains hexakosioihexekontahexaphobes gravement atteints éviteront d'avoir à utiliser des fractions incluant cette répétition de décimales. Les malades peuvent ainsi considérer qu'obtenir un brelan de 6 au poker est un signe de malchance, même si on peut considérer que c'est une assez bonne main.
 
 De nombreux malades ont peur des chiffres constituant 666, plutôt que du nombre en lui-même ou des opérations mathématiques menant à ce résultat.
 

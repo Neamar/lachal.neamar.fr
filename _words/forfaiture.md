@@ -7,7 +7,7 @@ categories:
 synonyms:
   - Faute grave.
 examples:
-  - "Toto 1er qui entend bien s'arroger subrepticement une part léonine, et pour qui une forfaiture ou félonie n'est jamais de trop, fit mine d'accepter, magnanime, la règle du jeu et pose à Toto 2nd le problème suivant :[...] (cf. Histoires)"
+  - "Toto 1er qui entend bien s'arroger subrepticement une part léonine, et pour qui une forfaiture ou félonie n'est jamais de trop, fit mine d'accepter, magnanime, la règle du jeu et pose à Toto 2nd le problème suivant :[…] (cf. Histoires)"
 link: http://www.universalis.fr/encyclopedie/T321732/FORFAITURE.htm
 ---
 
