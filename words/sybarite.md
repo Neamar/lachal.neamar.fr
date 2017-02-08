@@ -3,7 +3,7 @@ title: Sybarite
 permalink: sybarite.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Concupiscent
   - Dionysien

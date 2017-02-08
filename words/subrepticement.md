@@ -3,7 +3,6 @@ title: Subrepticement
 permalink: subrepticement.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Discrètement
   - Furtivement

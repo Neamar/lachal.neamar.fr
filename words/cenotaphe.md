@@ -3,7 +3,7 @@ title: Cénotaphe
 permalink: cenotaphe.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Tombeau
   - Mausolée

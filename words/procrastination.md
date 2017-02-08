@@ -3,7 +3,7 @@ title: Procrastination
 permalink: procrastination.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Ajournement
   - atermoiement

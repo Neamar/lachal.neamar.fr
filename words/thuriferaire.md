@@ -3,7 +3,7 @@ title: Thuriféraire
 permalink: thuriferaire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Encenseur
   - Flatteur

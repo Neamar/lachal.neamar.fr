@@ -3,7 +3,7 @@ title: Prophylaxique
 permalink: prophylaxique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - antisepsie
   - asepsie

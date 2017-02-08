@@ -3,7 +3,7 @@ title: Apophatique
 permalink: apophatique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Théologie négative
 examples:

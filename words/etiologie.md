@@ -3,7 +3,7 @@ title: étiologie
 permalink: etiologie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Animalier
   - Métaphore

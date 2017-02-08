@@ -3,7 +3,7 @@ title: Apocryphe
 permalink: apocryphe.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Inauthentique
   - suspect

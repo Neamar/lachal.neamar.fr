@@ -3,7 +3,8 @@ title: Philippique
 permalink: philippique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Satire
   - Pamphlet

@@ -3,7 +3,7 @@ title: Vae victis
 permalink: vae_victis.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Bien fait ?
 examples:

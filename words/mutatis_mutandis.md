@@ -3,7 +3,9 @@ title: Mutatis Mutandis
 permalink: mutatis_mutandis.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Sans autre forme de procès
 examples:

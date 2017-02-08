@@ -3,7 +3,6 @@ title: Béotien
 permalink: beotien.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - bélître
   - ignorant

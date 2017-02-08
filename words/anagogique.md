@@ -3,7 +3,7 @@ title: Anagogique
 permalink: anagogique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - symbolique
   - allégorique

@@ -3,7 +3,7 @@ title: Mélophage
 permalink: melophage.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Mouche
   - Stomoxe

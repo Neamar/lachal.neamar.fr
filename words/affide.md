@@ -3,7 +3,7 @@ title: Affidé
 permalink: affide.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Adepte
   - partisan

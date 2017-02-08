@@ -3,7 +3,7 @@ title: Mansuétude
 permalink: mansuetude.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Bonté
   - Sympathie

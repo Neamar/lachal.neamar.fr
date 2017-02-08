@@ -3,7 +3,7 @@ title: Gouaillerie
 permalink: gouaillerie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Moquerie
   - Ironie

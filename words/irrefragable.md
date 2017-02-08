@@ -3,7 +3,7 @@ title: Irréfragable
 permalink: irrefragable.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Irréfutable
 examples:

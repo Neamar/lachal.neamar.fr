@@ -3,7 +3,6 @@ title: Escarcelle
 permalink: escarcelle.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Bourse
   - Réserve

@@ -3,7 +3,7 @@ title: Tautologie
 permalink: tautologie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Redondance
   - Pléonasme

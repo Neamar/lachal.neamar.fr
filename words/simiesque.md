@@ -3,7 +3,6 @@ title: Simiesque
 permalink: simiesque.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Singe
   - Comédie

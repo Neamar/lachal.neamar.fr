@@ -3,7 +3,6 @@ title: Endiguer
 permalink: endiguer.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - barrer
   - bloquer

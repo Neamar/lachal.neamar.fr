@@ -3,7 +3,7 @@ title: Récapépèter
 permalink: recapepeter.html
 layout: words
 categories:
-  - Mot Complexe
+  - Néologisme Lachalien
 synonyms:
   - Répéter
   - Radoter

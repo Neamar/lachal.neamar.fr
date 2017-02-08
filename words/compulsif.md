@@ -3,7 +3,6 @@ title: Compulsif
 permalink: compulsif.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Irréfléchi
   - Rapide

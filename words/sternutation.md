@@ -3,7 +3,7 @@ title: Sternutation
 permalink: sternutation.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Éternuement
 examples:

@@ -3,7 +3,6 @@ title: Inénarrable
 permalink: inenarrable.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Inexprimable
 examples:

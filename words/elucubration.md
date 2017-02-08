@@ -3,7 +3,7 @@ title: élucubration
 permalink: elucubration.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Raisonnement abscons
   - Inutile

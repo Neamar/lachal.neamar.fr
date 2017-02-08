@@ -3,7 +3,6 @@ title: Pâmoison
 permalink: pamoison.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - S'évanouir
   - Défaillir

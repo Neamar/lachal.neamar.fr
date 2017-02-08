@@ -3,7 +3,7 @@ title: Deus ex machina
 permalink: deus_ex_machina.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Facile
   - Truché

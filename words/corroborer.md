@@ -3,7 +3,7 @@ title: Corroborer
 permalink: corroborer.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Appuyer
   - Confirmer

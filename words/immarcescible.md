@@ -3,7 +3,7 @@ title: Immarcescible
 permalink: immarcescible.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Éternel
   - Inusable

@@ -3,7 +3,7 @@ title: Sarcasme
 permalink: sarcasme.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Injure
   - Offense

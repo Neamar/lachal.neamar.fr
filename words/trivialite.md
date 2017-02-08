@@ -3,7 +3,6 @@ title: Trivialité
 permalink: trivialite.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Grossièreté
   - Banalité

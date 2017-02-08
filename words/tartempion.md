@@ -3,7 +3,6 @@ title: Tartempion
 permalink: tartempion.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Anonyme
   - Personne

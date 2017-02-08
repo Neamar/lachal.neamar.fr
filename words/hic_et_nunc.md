@@ -3,7 +3,7 @@ title: Hic et nunc
 permalink: hic_et_nunc.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Maintenant
 examples:

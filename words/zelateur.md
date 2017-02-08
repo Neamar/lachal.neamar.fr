@@ -3,7 +3,7 @@ title: Zélateur
 permalink: zelateur.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Apôtre
   - Fanatique

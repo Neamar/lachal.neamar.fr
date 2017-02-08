@@ -3,7 +3,8 @@ title: Paronomase
 permalink: paronomase.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Homonymie approximative
   - A-peu-près

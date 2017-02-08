@@ -3,7 +3,7 @@ title: Ampoulé
 permalink: ampoule.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Discours ampoulé
   - Style ampoulé

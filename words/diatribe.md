@@ -3,7 +3,8 @@ title: Diatribe
 permalink: diatribe.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Accusation
   - Réquisitoire

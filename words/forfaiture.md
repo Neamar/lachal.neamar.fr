@@ -3,7 +3,7 @@ title: Forfaiture
 permalink: forfaiture.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Faute grave.
 examples:

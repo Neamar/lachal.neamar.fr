@@ -3,7 +3,7 @@ title: Catabatique
 permalink: catabatique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Vent descendant
   - Rapide

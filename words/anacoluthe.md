@@ -3,7 +3,8 @@ title: Anacoluthe
 permalink: anacoluthe.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Rupture
   - Séparation

@@ -3,7 +3,6 @@ title: Amphitryon
 permalink: amphitryon.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - convive
   - écornifleur

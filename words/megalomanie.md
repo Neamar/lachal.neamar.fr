@@ -3,7 +3,6 @@ title: Mégalomanie
 permalink: megalomanie.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Egocentrique
 examples:

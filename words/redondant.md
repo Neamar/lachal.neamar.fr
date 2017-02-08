@@ -3,7 +3,6 @@ title: Redondant
 permalink: redondant.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Abondant
   - Copieux

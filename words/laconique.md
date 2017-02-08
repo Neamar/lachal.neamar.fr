@@ -3,7 +3,6 @@ title: Laconique
 permalink: laconique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Bref
   - Concis

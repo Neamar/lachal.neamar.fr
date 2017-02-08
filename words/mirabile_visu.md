@@ -3,7 +3,9 @@ title: Mirabile Visu
 permalink: mirabile_visu.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Mirabile dictu
 examples:

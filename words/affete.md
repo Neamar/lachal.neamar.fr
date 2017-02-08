@@ -3,7 +3,7 @@ title: Affété
 permalink: affete.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - maniéré
 examples:

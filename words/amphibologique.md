@@ -3,7 +3,7 @@ title: Amphibologique
 permalink: amphibologique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Ambigu
   - Équivoque

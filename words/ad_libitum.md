@@ -3,7 +3,7 @@ title: Ad libitum
 permalink: ad_libitum.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - A volonté
   - As you want

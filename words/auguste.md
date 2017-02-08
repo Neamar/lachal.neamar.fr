@@ -3,7 +3,6 @@ title: Auguste
 permalink: auguste.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Digne
   - majestueux

@@ -3,7 +3,7 @@ title: Déréliction
 permalink: dereliction.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Délaissement
   - Abandon

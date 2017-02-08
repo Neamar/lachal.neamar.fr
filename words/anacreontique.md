@@ -3,7 +3,8 @@ title: Anacréontique
 permalink: anacreontique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Erotique
 examples:

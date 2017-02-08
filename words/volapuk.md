@@ -3,7 +3,6 @@ title: Volapuk
 permalink: volapuk.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Langue universelle
   - Esperanto

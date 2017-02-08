@@ -3,7 +3,6 @@ title: Oecuménique
 permalink: oecumenique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Unité
 examples:

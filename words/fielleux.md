@@ -3,7 +3,6 @@ title: Fielleux
 permalink: fielleux.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Acrimonieux
   - Aigre

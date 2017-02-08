@@ -3,7 +3,8 @@ title: Logorrhée
 permalink: logorrhee.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Bavardage
 examples:

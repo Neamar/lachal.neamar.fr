@@ -3,7 +3,7 @@ title: Bavasser
 permalink: bavasser.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Bavarder
   - piailler

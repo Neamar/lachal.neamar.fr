@@ -3,7 +3,6 @@ title: Corroboratif
 permalink: corroboratif.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Corroborant
   - Tonique

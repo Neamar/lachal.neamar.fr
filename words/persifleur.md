@@ -3,7 +3,6 @@ title: Persifleur
 permalink: persifleur.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Moqueur
 examples:

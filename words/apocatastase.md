@@ -3,7 +3,7 @@ title: Apocatastase
 permalink: apocatastase.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Nirvana
   - Néant

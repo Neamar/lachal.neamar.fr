@@ -3,7 +3,7 @@ title: Obsolescence
 permalink: obsolescence.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Obsolète
   - Désuet

@@ -3,7 +3,6 @@ title: Impénitent
 permalink: impenitent.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Incorrigible
   - Irrécupérrable

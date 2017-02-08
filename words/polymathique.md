@@ -3,7 +3,7 @@ title: Polymathique
 permalink: polymathique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Pluridisciplinaire
   - Dual Core

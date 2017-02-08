@@ -3,7 +3,6 @@ title: Méga
 permalink: mega__.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - 10^6
   - énorme

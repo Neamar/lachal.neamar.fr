@@ -3,7 +3,6 @@ title: Versatile
 permalink: versatile.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Instable
   - Irréfléchi

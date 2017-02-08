@@ -3,7 +3,7 @@ title: Componction
 permalink: componction.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Tartufferie
   - Deuil

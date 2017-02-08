@@ -3,7 +3,7 @@ title: Dyonisiaque
 permalink: dyonisiaque.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Bachique
 examples:

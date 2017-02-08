@@ -3,7 +3,7 @@ title: Pléthore
 permalink: plethore.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Abondance
   - Surabondance

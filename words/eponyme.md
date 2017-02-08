@@ -3,7 +3,7 @@ title: éponyme
 permalink: eponyme.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Du même nom
 examples:

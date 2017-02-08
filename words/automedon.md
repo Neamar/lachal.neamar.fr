@@ -3,7 +3,7 @@ title: Automédon
 permalink: automedon.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Chauffeur
   - Conducteur

@@ -3,7 +3,6 @@ title: Rimbou
 permalink: rimbou.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Brute
   - Philistin

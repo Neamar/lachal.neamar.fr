@@ -3,7 +3,6 @@ title: Chouïa
 permalink: chouia.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Chouya
   - Chouaye

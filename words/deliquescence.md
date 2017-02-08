@@ -3,7 +3,6 @@ title: Déliquescence
 permalink: deliquescence.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Décrépitude
   - Dégenerescence

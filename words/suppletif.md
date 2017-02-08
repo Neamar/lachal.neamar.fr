@@ -3,7 +3,7 @@ title: Supplétif
 permalink: suppletif.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Complémentaire
   - Additif

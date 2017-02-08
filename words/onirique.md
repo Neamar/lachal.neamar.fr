@@ -3,7 +3,7 @@ title: Onirique
 permalink: onirique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Rêve
   - Folie

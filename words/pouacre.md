@@ -3,7 +3,7 @@ title: Pouacre
 permalink: pouacre.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Sale
   - Laid

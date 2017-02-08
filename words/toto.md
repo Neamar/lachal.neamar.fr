@@ -3,7 +3,7 @@ title: Toto
 permalink: toto.html
 layout: words
 categories:
-  - Mot Complexe
+  - Néologisme Lachalien
 synonyms:
   - Robert
   - Toto bis

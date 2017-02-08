@@ -3,7 +3,7 @@ title: Polydipsie
 permalink: polydipsie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Soif
   - Pulsion

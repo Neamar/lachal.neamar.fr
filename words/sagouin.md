@@ -3,7 +3,6 @@ title: Sagouin
 permalink: sagouin.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Singe
 examples:

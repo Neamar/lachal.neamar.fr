@@ -3,7 +3,6 @@ title: Cabale
 permalink: cabale.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Complot
   - Conspiration

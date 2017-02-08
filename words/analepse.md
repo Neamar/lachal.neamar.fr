@@ -3,7 +3,7 @@ title: Analepse
 permalink: analepse.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Retour en arrière
 examples:

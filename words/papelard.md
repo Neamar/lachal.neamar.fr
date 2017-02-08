@@ -3,7 +3,7 @@ title: Papelard
 permalink: papelard.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Tartuffe
   - Oucereux

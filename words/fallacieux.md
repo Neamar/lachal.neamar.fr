@@ -3,7 +3,6 @@ title: Fallacieux
 permalink: fallacieux.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Faux
   - Insidieux

@@ -3,7 +3,6 @@ title: Assentiment
 permalink: assentiment.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - acceptation
   - accord

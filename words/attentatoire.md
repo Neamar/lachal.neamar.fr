@@ -3,7 +3,6 @@ title: Attentatoire
 permalink: attentatoire.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Dommageable
   - Préjudiciable

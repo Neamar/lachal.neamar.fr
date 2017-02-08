@@ -3,7 +3,7 @@ title: Pandémonium
 permalink: pandemonium.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Cloaque
   - Sénacle

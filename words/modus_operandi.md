@@ -3,7 +3,8 @@ title: Modus Operandi
 permalink: modus_operandi.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Mot complexe
 synonyms:
   - Manière de procéder
   - Signature

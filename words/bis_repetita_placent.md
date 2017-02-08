@@ -3,7 +3,7 @@ title: Bis repetita placent
 permalink: bis_repetita_placent.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Les choses répétées plaisent
   - haec decies repetita placebit

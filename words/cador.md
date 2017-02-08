@@ -3,7 +3,6 @@ title: Cador
 permalink: cador.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Champion
   - personne compétente

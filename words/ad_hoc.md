@@ -3,7 +3,7 @@ title: Ad hoc
 permalink: ad_hoc.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Convient
   - Adapté

@@ -3,7 +3,8 @@ title: Doxologie
 permalink: doxologie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Parole de gloire
   - Hypocrisie

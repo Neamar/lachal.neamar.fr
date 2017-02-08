@@ -3,7 +3,6 @@ title: Pantomime
 permalink: pantomime.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Attitude
   - Mime

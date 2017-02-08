@@ -3,7 +3,6 @@ title: Autarcie
 permalink: autarcie.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Autosuffisance
   - Autonomie

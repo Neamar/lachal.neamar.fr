@@ -3,7 +3,6 @@ title: Circonvolution
 permalink: circonvolution.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Révolution
   - Rond

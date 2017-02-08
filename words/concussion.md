@@ -3,7 +3,7 @@ title: Concussion
 permalink: concussion.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Chantage
   - Soudoiement

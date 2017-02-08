@@ -3,7 +3,7 @@ title: Inanité
 permalink: inanite.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Vanité
   - Futilité

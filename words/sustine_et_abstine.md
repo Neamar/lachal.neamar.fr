@@ -3,7 +3,7 @@ title: Sustine et abstine
 permalink: sustine_et_abstine.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Apathique
   - Ataraxique

@@ -3,7 +3,7 @@ title: Fiduciaire
 permalink: fiduciaire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Financière
   - Pécuniaire

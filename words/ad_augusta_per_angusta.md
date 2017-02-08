@@ -3,7 +3,8 @@ title: Ad augusta per angusta
 permalink: ad_augusta_per_angusta.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Mot complexe
 synonyms:
   - à de grands résultats par des voies étroites
   - La gloire ne s'acquiert pas facilement

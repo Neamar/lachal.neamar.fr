@@ -3,7 +3,7 @@ title: élégie
 permalink: elegie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Poème
 examples:

@@ -3,7 +3,7 @@ title: Factotum
 permalink: factotum.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Homme à tout faire
   - Fais-Tout

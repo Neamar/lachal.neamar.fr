@@ -3,7 +3,7 @@ title: Boutade
 permalink: boutade.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Mot
   - Trait

@@ -3,7 +3,7 @@ title: Anamnèse
 permalink: anamnese.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Histoire
   - Résumé

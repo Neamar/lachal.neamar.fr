@@ -3,7 +3,6 @@ title: Pétaudière
 permalink: petaudiere.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Foire
   - Bordel

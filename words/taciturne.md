@@ -3,7 +3,6 @@ title: Taciturne
 permalink: taciturne.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - atrabilaire
   - impénétrable

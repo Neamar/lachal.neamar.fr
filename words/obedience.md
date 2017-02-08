@@ -3,7 +3,7 @@ title: Obédience
 permalink: obedience.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Oblativité
   - Dévouement

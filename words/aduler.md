@@ -3,7 +3,6 @@ title: Aduler
 permalink: aduler.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Adorer
   - Louer

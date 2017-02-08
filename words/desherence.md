@@ -3,7 +3,7 @@ title: Déshérence
 permalink: desherence.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Succession
   - Héritage non réclamé

@@ -3,7 +3,7 @@ title: Cacostomie
 permalink: cacostomie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Halitose
 examples:

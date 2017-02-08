@@ -3,7 +3,6 @@ title: Moult
 permalink: moult.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Beaucoup
   - plusieurs

@@ -3,7 +3,7 @@ title: Dithyrambique
 permalink: dithyrambique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Élogieux
   - Laudatif

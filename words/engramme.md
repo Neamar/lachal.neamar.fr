@@ -3,7 +3,7 @@ title: Engramme
 permalink: engramme.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Trace
   - Empreinte

@@ -3,7 +3,6 @@ title: Marivauder
 permalink: marivauder.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Flirter
   - Courtiser

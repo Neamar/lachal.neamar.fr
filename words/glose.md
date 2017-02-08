@@ -3,7 +3,6 @@ title: Glose
 permalink: glose.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Commentaire
   - Annotation

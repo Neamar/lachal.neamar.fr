@@ -3,7 +3,6 @@ title: Paralogisme
 permalink: paralogisme.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Sophistiqué
   - Alambiqué

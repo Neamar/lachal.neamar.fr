@@ -3,7 +3,6 @@ title: Translittération
 permalink: translitteration.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Bijection
   - Traduction

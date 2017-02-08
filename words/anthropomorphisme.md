@@ -3,7 +3,6 @@ title: Anthropomorphisme
 permalink: anthropomorphisme.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Kénose
   - Allégorie

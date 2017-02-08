@@ -3,7 +3,6 @@ title: Tribulations
 permalink: tribulations.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Adversité
   - Aventure

@@ -3,7 +3,6 @@ title: égrillard
 permalink: egrillard.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Chansonnier
   - Gaillard

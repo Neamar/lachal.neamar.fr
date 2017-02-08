@@ -3,7 +3,6 @@ title: Zut
 permalink: zut.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Crotte
   - Flûte

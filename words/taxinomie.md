@@ -3,7 +3,7 @@ title: Taxinomie
 permalink: taxinomie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Classification
   - Arbre

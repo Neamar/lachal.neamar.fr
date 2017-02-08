@@ -3,7 +3,6 @@ title: Plénipotentiaire
 permalink: plenipotentiaire.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Puissant
   - Sans limite

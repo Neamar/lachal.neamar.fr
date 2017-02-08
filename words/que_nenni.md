@@ -3,7 +3,6 @@ title: Que nenni
 permalink: que_nenni.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Pas du tout
 examples:

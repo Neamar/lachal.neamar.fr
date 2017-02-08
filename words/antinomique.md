@@ -3,7 +3,6 @@ title: Antinomique
 permalink: antinomique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Contresens
 examples:

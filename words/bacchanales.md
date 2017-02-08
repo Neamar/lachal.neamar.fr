@@ -3,7 +3,6 @@ title: Bacchanales
 permalink: bacchanales.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Fête
   - Orgie

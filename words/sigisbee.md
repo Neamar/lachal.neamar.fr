@@ -3,7 +3,6 @@ title: Sigisbée
 permalink: sigisbee.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - cavalier
   - galant

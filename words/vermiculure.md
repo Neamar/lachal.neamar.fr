@@ -3,7 +3,7 @@ title: Vermiculure
 permalink: vermiculure.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Bossage
 examples:

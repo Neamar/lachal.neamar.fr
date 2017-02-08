@@ -3,7 +3,7 @@ title: Infatuation
 permalink: infatuation.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Arrogance
 examples:

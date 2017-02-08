@@ -3,7 +3,8 @@ title: Panégyriste
 permalink: panegyriste.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Apologiste
   - Flatteur

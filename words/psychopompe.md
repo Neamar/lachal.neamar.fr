@@ -3,7 +3,7 @@ title: Psychopompe
 permalink: psychopompe.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Charon
   - Guide

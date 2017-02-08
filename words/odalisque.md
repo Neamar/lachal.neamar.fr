@@ -3,7 +3,7 @@ title: Odalisque
 permalink: odalisque.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Esclave
   - Maitresse

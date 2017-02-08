@@ -3,7 +3,7 @@ title: Béjaune
 permalink: bejaune.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Sot
   - naïf

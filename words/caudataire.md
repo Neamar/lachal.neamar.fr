@@ -3,7 +3,7 @@ title: Caudataire
 permalink: caudataire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Thuriféraire
   - Fayot

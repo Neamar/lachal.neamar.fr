@@ -3,7 +3,7 @@ title: Quid novi
 permalink: quid_novi.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Quoi de neuf
 examples:

@@ -3,7 +3,7 @@ title: Nonobstant
 permalink: nonobstant.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Malgré
   - Cependant

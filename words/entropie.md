@@ -3,7 +3,6 @@ title: Entropie
 permalink: entropie.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Désordre
 examples:

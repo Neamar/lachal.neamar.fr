@@ -3,7 +3,6 @@ title: Galantin
 permalink: galantin.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Bélître
   - Galant

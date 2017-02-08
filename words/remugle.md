@@ -3,7 +3,6 @@ title: Remugle
 permalink: remugle.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Arôme
   - Émanation

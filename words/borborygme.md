@@ -3,7 +3,6 @@ title: Borborygme
 permalink: borborygme.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Gargouillement
   - Gargouillis

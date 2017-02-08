@@ -3,7 +3,7 @@ title: Privauté
 permalink: privaute.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Familiarité
   - Effronterie

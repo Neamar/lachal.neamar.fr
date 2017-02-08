@@ -3,7 +3,6 @@ title: Bonus track
 permalink: bonus_track.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Cadeau
   - Don

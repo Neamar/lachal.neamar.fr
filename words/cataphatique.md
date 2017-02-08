@@ -3,7 +3,8 @@ title: Cataphatique
 permalink: cataphatique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Affirmatoire
   - Ferme

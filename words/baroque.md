@@ -3,7 +3,6 @@ title: Baroque
 permalink: baroque.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - mouvementé
   - théâtral

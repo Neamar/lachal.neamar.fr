@@ -3,7 +3,7 @@ title: A posteriori
 permalink: a_posteriori.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Après
   - Donc

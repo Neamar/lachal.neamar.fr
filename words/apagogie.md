@@ -3,7 +3,8 @@ title: Apagogie
 permalink: apagogie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Aberrant
   - Absurdité

@@ -3,7 +3,6 @@ title: Ubuesque
 permalink: ubuesque.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Stupide
 examples:

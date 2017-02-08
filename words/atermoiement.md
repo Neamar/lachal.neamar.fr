@@ -3,7 +3,6 @@ title: Atermoiement
 permalink: atermoiement.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Atermoyer
   - délais

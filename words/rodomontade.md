@@ -3,7 +3,7 @@ title: Rodomontade
 permalink: rodomontade.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Fanfaronnerie
   - Vantardise

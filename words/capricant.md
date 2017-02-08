@@ -3,7 +3,7 @@ title: Capricant
 permalink: capricant.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Caprin
   - Ridicule

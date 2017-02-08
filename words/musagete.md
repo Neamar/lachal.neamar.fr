@@ -3,7 +3,7 @@ title: Musagète
 permalink: musagete.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Conducteur des muses
   - Guide

@@ -3,7 +3,7 @@ title: Thaumaturge
 permalink: thaumaturge.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Magicien
   - devin

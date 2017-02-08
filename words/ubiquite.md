@@ -3,7 +3,6 @@ title: Ubiquité
 permalink: ubiquite.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Omniprésence
   - Simultanéité.

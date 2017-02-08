@@ -3,7 +3,6 @@ title: Fastidieux
 permalink: fastidieux.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Ennuyeux
   - long

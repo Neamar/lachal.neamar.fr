@@ -3,7 +3,7 @@ title: Ex Voto
 permalink: ex_voto.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Remerciements
   - Cadeau

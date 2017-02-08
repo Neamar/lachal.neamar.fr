@@ -3,7 +3,7 @@ title: Imparidigité
 permalink: imparidigite.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Mésaxonien
 examples:

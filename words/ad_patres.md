@@ -3,7 +3,7 @@ title: Ad Patres
 permalink: ad_patres.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Mourir
   - Décéder

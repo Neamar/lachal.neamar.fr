@@ -3,7 +3,6 @@ title: Défalcation
 permalink: defalcation.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Déduction
   - Décompte

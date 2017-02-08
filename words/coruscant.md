@@ -3,7 +3,7 @@ title: Coruscant
 permalink: coruscant.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Etincelant
 examples:

@@ -3,7 +3,6 @@ title: Obsolète
 permalink: obsolete.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Caduc
   - Démodé

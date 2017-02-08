@@ -3,7 +3,7 @@ title: Misonéiste
 permalink: misoneiste.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Amish
   - Rétrograde

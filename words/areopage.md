@@ -3,7 +3,7 @@ title: Aréopage
 permalink: areopage.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Assemblée
   - Réunion

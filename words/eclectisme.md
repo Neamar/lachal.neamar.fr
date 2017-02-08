@@ -3,7 +3,6 @@ title: Eclectisme
 permalink: eclectisme.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Divers
   - Varié.

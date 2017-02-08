@@ -3,7 +3,6 @@ title: Bouge
 permalink: bouge.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Café
   - Cabaret

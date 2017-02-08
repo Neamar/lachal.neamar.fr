@@ -3,7 +3,7 @@ title: Géhenne
 permalink: gehenne.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Enfer
   - Torture

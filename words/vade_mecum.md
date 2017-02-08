@@ -3,7 +3,8 @@ title: Vade mecum
 permalink: vade_mecum.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Mot complexe
 synonyms:
   - Guide du routard
   - L'essentiel Lachalis à l'INSA pour benêt de premiére année

@@ -3,7 +3,7 @@ title: Hédoniste
 permalink: hedoniste.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Epicurien
   - Libertin.

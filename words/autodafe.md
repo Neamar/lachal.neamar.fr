@@ -3,7 +3,7 @@ title: Autodafé
 permalink: autodafe.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Expiation
   - Bûcher

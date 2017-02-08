@@ -3,7 +3,6 @@ title: Incartade
 permalink: incartade.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Synonyme
 examples:

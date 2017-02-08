@@ -3,7 +3,7 @@ title: Superfétatoire
 permalink: superfetatoire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Accessoire
   - Superflu

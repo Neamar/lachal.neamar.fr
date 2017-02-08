@@ -3,7 +3,6 @@ title: Pensum
 permalink: pensum.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Travail
   - Charge

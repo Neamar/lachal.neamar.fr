@@ -3,7 +3,6 @@ title: Esotérique
 permalink: esoterique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Abscons
   - difficile

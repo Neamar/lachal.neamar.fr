@@ -3,7 +3,7 @@ title: Psittacisme
 permalink: psittacisme.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Echolalie
 examples:

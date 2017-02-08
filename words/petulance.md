@@ -3,7 +3,6 @@ title: Pétulance
 permalink: petulance.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Extraverti
 examples:

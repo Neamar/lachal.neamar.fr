@@ -3,7 +3,6 @@ title: Ineffable
 permalink: ineffable.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Tabou
 examples:

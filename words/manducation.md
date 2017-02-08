@@ -3,7 +3,7 @@ title: Manducation
 permalink: manducation.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Manger
   - Digérer

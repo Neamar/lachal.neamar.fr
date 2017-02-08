@@ -3,7 +3,7 @@ title: Léonin
 permalink: leonin.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Royal
 examples:

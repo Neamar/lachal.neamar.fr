@@ -3,7 +3,7 @@ title: Camouflet
 permalink: camouflet.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - soufflet
   - injure

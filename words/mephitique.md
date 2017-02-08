@@ -3,7 +3,7 @@ title: Méphitique
 permalink: mephitique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Délétère
   - Toxique

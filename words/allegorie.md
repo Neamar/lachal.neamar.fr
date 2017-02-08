@@ -3,7 +3,7 @@ title: Allégorie
 permalink: allegorie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Métaphore
   - Métaphore filée

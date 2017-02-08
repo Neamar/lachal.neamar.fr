@@ -3,7 +3,6 @@ title: Exsuder
 permalink: exsuder.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Transpirer
 examples:

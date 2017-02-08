@@ -3,7 +3,8 @@ title: Cacographie
 permalink: cacographie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Charabia
 examples:

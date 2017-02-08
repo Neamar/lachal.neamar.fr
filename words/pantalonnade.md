@@ -3,7 +3,7 @@ title: Pantalonnade
 permalink: pantalonnade.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Bouffonnerie
   - Duperie

@@ -3,7 +3,6 @@ title: Baloche
 permalink: baloche.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Fête
   - Gouge

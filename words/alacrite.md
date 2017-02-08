@@ -3,7 +3,7 @@ title: Alacrité
 permalink: alacrite.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Joyeux
   - Vif

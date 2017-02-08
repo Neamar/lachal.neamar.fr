@@ -3,7 +3,7 @@ title: Alea jacta est
 permalink: alea_jacta_est.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Le sort en est jeté
   - Le vin est tiré

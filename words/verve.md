@@ -3,7 +3,7 @@ title: Verve
 permalink: verve.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Bavard
   - Orateur

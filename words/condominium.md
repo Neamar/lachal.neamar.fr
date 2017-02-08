@@ -3,7 +3,7 @@ title: Condominium
 permalink: condominium.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Domination croisée
 examples:

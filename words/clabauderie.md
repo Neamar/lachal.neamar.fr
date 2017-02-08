@@ -3,7 +3,7 @@ title: Clabauderie
 permalink: clabauderie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Médisance
   - Ragots

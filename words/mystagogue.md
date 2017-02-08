@@ -3,7 +3,7 @@ title: Mystagogue
 permalink: mystagogue.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Prêtre
   - Chamane

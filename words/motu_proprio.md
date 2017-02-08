@@ -3,7 +3,8 @@ title: Motu Proprio
 permalink: motu_proprio.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Mot complexe
 synonyms:
   - Tout seul
   - Sans aide

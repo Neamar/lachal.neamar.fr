@@ -3,7 +3,7 @@ title: Liminaire
 permalink: liminaire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Recadrement
   - Préparation

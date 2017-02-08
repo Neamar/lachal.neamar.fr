@@ -3,7 +3,6 @@ title: Méphistophélique
 permalink: mephistophelique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Satanique
 examples:

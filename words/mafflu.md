@@ -3,7 +3,7 @@ title: Mafflu
 permalink: mafflu.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Joufflu
 examples:

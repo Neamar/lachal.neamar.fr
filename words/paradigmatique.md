@@ -3,7 +3,7 @@ title: Paradigmatique
 permalink: paradigmatique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Représentatif
 examples:

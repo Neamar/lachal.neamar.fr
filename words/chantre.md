@@ -3,7 +3,6 @@ title: Chantre
 permalink: chantre.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Laudateur
   - Glorifieur

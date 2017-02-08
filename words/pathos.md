@@ -3,7 +3,7 @@ title: Pathos
 permalink: pathos.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Douleur
   - Souffrance

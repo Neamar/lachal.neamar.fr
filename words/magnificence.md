@@ -3,7 +3,6 @@ title: Magnificence
 permalink: magnificence.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Magnifique
   - Somptuosité

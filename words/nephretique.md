@@ -3,7 +3,6 @@ title: Néphrétique
 permalink: nephretique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Rénal
 examples:

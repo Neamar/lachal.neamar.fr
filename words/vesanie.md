@@ -3,7 +3,7 @@ title: Vésanie
 permalink: vesanie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Folie
   - Aliénation

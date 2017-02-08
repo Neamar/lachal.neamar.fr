@@ -3,7 +3,7 @@ title: Nycthémère
 permalink: nycthemere.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Cycle
   - Journée

@@ -3,7 +3,6 @@ title: Vaudou
 permalink: vaudou.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Sorcellerie
 examples:

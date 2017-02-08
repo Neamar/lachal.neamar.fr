@@ -3,7 +3,6 @@ title: Superfluité
 permalink: superfluite.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Superflu
   - superfétatoire

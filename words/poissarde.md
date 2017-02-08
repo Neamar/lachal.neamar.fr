@@ -3,7 +3,6 @@ title: Poissarde
 permalink: poissarde.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Grossière
   - Rhétorique Putassière

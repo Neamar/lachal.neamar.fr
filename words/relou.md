@@ -3,7 +3,6 @@ title: Relou
 permalink: relou.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Casse-couille (Familier)
   - Chiant (Familier)

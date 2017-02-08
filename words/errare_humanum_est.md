@@ -3,7 +3,7 @@ title: Errare humanum est
 permalink: errare_humanum_est.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - 
 examples:

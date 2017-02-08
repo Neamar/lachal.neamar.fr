@@ -3,7 +3,7 @@ title: Fluctuat nec mergitur
 permalink: fluctuat_nec_mergitur.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Résistant
   - Courageux

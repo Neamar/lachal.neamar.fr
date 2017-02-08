@@ -3,7 +3,7 @@ title: Litote
 permalink: litote.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Euphémisme.
 examples:

@@ -3,7 +3,7 @@ title: Psychotrope
 permalink: psychotrope.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Stupéfiant
 examples:

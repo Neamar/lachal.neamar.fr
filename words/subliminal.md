@@ -3,7 +3,6 @@ title: Subliminal
 permalink: subliminal.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Inconscient
   - Infraliminal

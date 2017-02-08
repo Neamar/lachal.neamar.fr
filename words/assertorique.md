@@ -3,7 +3,8 @@ title: Assertorique
 permalink: assertorique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Déclaratif
 examples:

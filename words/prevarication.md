@@ -3,7 +3,7 @@ title: Prévarication
 permalink: prevarication.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - trahison
   - duperie

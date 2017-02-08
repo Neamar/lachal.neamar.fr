@@ -3,7 +3,6 @@ title: Rédhibitoire
 permalink: redhibitoire.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Récusable
   - Refusable

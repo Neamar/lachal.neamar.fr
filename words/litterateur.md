@@ -3,7 +3,7 @@ title: Littérateur
 permalink: litterateur.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Écrivaillon
   - Scribouillard

@@ -3,7 +3,6 @@ title: Laudateur
 permalink: laudateur.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Flatteur
 examples:

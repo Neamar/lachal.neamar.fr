@@ -3,7 +3,6 @@ title: Assuétude
 permalink: assuetude.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - addiction
   - dépendance

@@ -3,7 +3,7 @@ title: Giga X
 permalink: giga_x.html
 layout: words
 categories:
-  - Mot Complexe
+  - Néologisme Lachalien
 synonyms:
   - Très très Grand X ;-)
 examples:

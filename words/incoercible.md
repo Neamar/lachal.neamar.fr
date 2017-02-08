@@ -3,7 +3,7 @@ title: Incoercible
 permalink: incoercible.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Irrépressible
   - Incontenable

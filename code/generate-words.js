@@ -20,7 +20,11 @@ words.forEach(function(data) {
   content += "permalink: " + data.Slug + ".html" + "\n";
   content += "layout: words" + "\n";
   content += "categories:" + "\n";
-  content += "  - Mot Complexe" + "\n";
+
+  categories.filter((c) => c.Parent === data.ID).forEach(function(categorie) {
+    content += "  - " + categorie.Categorie + "\n";
+  });
+
   content += "synonyms:" + "\n";
   data.Synonyme.split(",").forEach(function(synonyme) {
     content += "  - " + synonyme.trim() + "\n";

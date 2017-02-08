@@ -3,7 +3,6 @@ title: Inextinguible
 permalink: inextinguible.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Insatiable
   - Ardent

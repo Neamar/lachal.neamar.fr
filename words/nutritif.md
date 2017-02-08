@@ -3,7 +3,6 @@ title: Nutritif
 permalink: nutritif.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Nutritionnel
 examples:

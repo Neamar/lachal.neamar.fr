@@ -3,7 +3,6 @@ title: Colifichet
 permalink: colifichet.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Babiole
   - Bagatelle

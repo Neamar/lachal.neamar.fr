@@ -3,7 +3,6 @@ title: Vocifération
 permalink: vociferation.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Beuglement
   - braillement

@@ -3,7 +3,7 @@ title: Coryphée
 permalink: coryphee.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Chanteur
   - Chef

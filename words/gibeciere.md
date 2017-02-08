@@ -3,7 +3,6 @@ title: Gibecière
 permalink: gibeciere.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Sac à malice
 examples:

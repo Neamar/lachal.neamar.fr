@@ -3,7 +3,6 @@ title: Putatif
 permalink: putatif.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - présumé
   - prétendu

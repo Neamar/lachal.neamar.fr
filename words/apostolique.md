@@ -3,7 +3,6 @@ title: Apostolique
 permalink: apostolique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Qui annonce
   - Bénévolat

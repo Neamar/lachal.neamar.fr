@@ -3,7 +3,7 @@ title: Matamore
 permalink: matamore.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Fanfaron
   - Pleutre

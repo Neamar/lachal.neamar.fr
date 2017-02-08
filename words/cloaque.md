@@ -3,7 +3,6 @@ title: Cloaque
 permalink: cloaque.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Égout
   - Bas-fond

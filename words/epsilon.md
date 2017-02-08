@@ -3,7 +3,6 @@ title: Epsilon
 permalink: epsilon.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - La lettre E
 examples:

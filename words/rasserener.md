@@ -3,7 +3,6 @@ title: Rasséréner
 permalink: rasserener.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Rendre serein
   - Rassurer

@@ -3,7 +3,8 @@ title: Métromane
 permalink: metromane.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Poète
   - Versificateur

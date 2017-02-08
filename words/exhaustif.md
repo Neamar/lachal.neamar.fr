@@ -3,7 +3,6 @@ title: Exhaustif
 permalink: exhaustif.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Dénombrement
   - Inventaire

@@ -3,7 +3,6 @@ title: Marshmallow
 permalink: marshmallow.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Guimauve
   - Bonbon

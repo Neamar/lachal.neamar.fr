@@ -3,7 +3,8 @@ title: Ab irato
 permalink: ab_irato.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Mot complexe
 synonyms:
   - Colére
   - Irascibilité

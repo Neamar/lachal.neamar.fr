@@ -3,7 +3,7 @@ title: Acrimonie
 permalink: acrimonie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - aigreur
   - amertume

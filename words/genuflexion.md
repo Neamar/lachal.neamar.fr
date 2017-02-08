@@ -3,7 +3,6 @@ title: Génuflexion
 permalink: genuflexion.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Agenouillement
   - Prosternement.

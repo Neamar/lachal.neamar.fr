@@ -3,7 +3,7 @@ title: Hippobosque
 permalink: hippobosque.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Mouche.
 examples:

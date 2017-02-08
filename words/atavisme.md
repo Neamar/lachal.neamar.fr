@@ -3,7 +3,6 @@ title: Atavisme
 permalink: atavisme.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Résurgence
   - Prédisposition

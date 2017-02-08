@@ -3,7 +3,6 @@ title: Malversation
 permalink: malversation.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Malhonnêteté
 examples:

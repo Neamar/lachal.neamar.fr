@@ -3,7 +3,6 @@ title: Sibyllin
 permalink: sibyllin.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Abscons
   - abstrus

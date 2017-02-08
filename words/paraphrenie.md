@@ -3,7 +3,7 @@ title: Paraphrénie
 permalink: paraphrenie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Schizophrénie
 examples:

@@ -3,7 +3,7 @@ title: In extenso
 permalink: in_extenso.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Dans sa totalité
 examples:

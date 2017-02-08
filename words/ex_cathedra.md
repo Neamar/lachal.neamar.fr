@@ -3,7 +3,7 @@ title: Ex Cathedra
 permalink: ex_cathedra.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Morgue
   - Pédant

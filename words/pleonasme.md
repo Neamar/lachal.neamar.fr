@@ -3,7 +3,7 @@ title: Pléonasme
 permalink: pleonasme.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Tautologie
   - Redondance

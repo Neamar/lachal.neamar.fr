@@ -3,7 +3,7 @@ title: Surnuméraire
 permalink: surnumeraire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Surnombre
 examples:

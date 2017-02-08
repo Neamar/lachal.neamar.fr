@@ -3,7 +3,6 @@ title: Paroxystique
 permalink: paroxystique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Crise
   - le plus haut degré

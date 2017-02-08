@@ -3,7 +3,7 @@ title: Interlope
 permalink: interlope.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Louche
   - Suspect

@@ -3,7 +3,8 @@ title: Imprécatoire
 permalink: imprecatoire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Réquisitoire
 examples:

@@ -3,7 +3,6 @@ title: Concomitant
 permalink: concomitant.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Coïncident
   - Simultané.

@@ -3,7 +3,8 @@ title: Mercuriale
 permalink: mercuriale.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Engueulade
 examples:

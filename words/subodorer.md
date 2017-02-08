@@ -3,7 +3,6 @@ title: Subodorer
 permalink: subodorer.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Deviner
   - Flairer

@@ -3,7 +3,7 @@ title: Verba volant scripta manent
 permalink: verba_volant_scripta_manent.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Les paroles s'envolent tandis que les écrits restent
   - Nescit vox missa reverti

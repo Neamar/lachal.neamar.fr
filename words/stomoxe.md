@@ -3,7 +3,7 @@ title: Stomoxe
 permalink: stomoxe.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Mouche charbonneuse
   - mélophages

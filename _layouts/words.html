@@ -4,7 +4,7 @@
 	<title>{{ page.title }}</title>
 </head>
 <body>
-<em>Catégorie : {{ page.categories }}</em>
+<em>Catégorie : {{ page.categories | join: ', '}}</em>
 <dl>
 <dt><h1>{{ page.title }}</h1></dt>
 <h2>Définition</h2>

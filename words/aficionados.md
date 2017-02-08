@@ -3,7 +3,6 @@ title: Aficionados
 permalink: aficionados.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Fan
   - Passionné

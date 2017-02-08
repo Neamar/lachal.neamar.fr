@@ -3,7 +3,7 @@ title: Semnopithèque
 permalink: semnopitheque.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Simiesques
 examples:

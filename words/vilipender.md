@@ -3,7 +3,7 @@ title: Vilipender
 permalink: vilipender.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Dénigrer
   - Critiquer

@@ -3,7 +3,6 @@ title: Comparution
 permalink: comparution.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Présentation
 examples:

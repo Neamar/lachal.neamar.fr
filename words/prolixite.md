@@ -3,7 +3,7 @@ title: Prolixité
 permalink: prolixite.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Exubérance
   - Débordement

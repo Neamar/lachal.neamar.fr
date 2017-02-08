@@ -3,7 +3,7 @@ title: Alinéa
 permalink: alinea.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Intervalle
   - marge

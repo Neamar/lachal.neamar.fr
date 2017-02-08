@@ -3,7 +3,7 @@ title: Stipendié
 permalink: stipendie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Corrompu
   - Sbire

@@ -3,7 +3,7 @@ title: Byzantin
 permalink: byzantin.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Futile
   - Oiseux

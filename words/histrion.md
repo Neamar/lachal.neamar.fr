@@ -3,7 +3,7 @@ title: Histrion
 permalink: histrion.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Bouffon
   - Mauvais comédien.

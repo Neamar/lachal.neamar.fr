@@ -3,7 +3,7 @@ title: Ploutocrate
 permalink: ploutocrate.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Nabab
   - riche

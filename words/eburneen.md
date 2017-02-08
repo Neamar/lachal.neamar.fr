@@ -3,7 +3,7 @@ title: Eburnéen
 permalink: eburneen.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Ivoirin.
 examples:

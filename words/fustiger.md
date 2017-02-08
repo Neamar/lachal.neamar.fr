@@ -3,7 +3,6 @@ title: Fustiger
 permalink: fustiger.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Attaquer
   - Combattre

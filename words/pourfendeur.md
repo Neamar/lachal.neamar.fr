@@ -3,7 +3,6 @@ title: Pourfendeur
 permalink: pourfendeur.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Fanfaron
   - Faux brave

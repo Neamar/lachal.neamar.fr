@@ -3,7 +3,7 @@ title: Stentor
 permalink: stentor.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Voix Forte
   - Voix Portante

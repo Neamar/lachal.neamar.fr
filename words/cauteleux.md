@@ -3,7 +3,7 @@ title: Cauteleux
 permalink: cauteleux.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Rusé
   - habile

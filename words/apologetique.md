@@ -3,7 +3,7 @@ title: Apologétique
 permalink: apologetique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Plaidoyer
   - Défense

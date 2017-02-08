@@ -3,7 +3,7 @@ title: Qui scribit bis legit
 permalink: qui_scribit_bis_legit.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Les paroles s'envolent tandis que les écrits restent
   - l'écriture apprend

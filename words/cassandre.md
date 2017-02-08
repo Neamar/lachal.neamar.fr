@@ -3,7 +3,7 @@ title: Cassandre
 permalink: cassandre.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Incompris
   - victime.

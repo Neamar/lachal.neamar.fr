@@ -3,7 +3,7 @@ title: Ossianique
 permalink: ossianique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Poésie celtique
   - Envolée lyrique

@@ -3,7 +3,6 @@ title: Pie grièche
 permalink: pie_grieche.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Maritorne
   - Péronnelle

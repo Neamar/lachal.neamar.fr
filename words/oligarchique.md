@@ -3,7 +3,7 @@ title: Oligarchique
 permalink: oligarchique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Dictature
 examples:

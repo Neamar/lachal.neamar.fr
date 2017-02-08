@@ -3,7 +3,7 @@ title: Cacochyme
 permalink: cacochyme.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Bizarre
 examples:

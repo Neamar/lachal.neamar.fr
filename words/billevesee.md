@@ -3,7 +3,7 @@ title: Billevesée
 permalink: billevesee.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Baliverne
   - chimère

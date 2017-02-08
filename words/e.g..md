@@ -3,7 +3,8 @@ title: E.g.
 permalink: e.g..html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Acronyme
 synonyms:
   - Par exemple
 examples:

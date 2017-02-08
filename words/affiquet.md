@@ -3,7 +3,7 @@ title: Affiquet
 permalink: affiquet.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - accoutrement
   - affûtiau

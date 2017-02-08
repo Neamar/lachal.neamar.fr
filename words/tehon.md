@@ -3,7 +3,6 @@ title: Tehon
 permalink: tehon.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Déshonneur
   - opprobre

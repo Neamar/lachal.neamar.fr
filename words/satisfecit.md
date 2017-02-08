@@ -3,7 +3,7 @@ title: Satisfecit
 permalink: satisfecit.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - récompense
   - compliment

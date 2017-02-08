@@ -3,7 +3,6 @@ title: Irrévérencieux
 permalink: irreverencieux.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Impertinent
   - impoli

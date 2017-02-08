@@ -3,7 +3,6 @@ title: Concaténation
 permalink: concatenation.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Ajout
   - Rajout

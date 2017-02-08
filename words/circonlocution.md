@@ -3,7 +3,7 @@ title: Circonlocution
 permalink: circonlocution.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Périphrase
   - métonymie

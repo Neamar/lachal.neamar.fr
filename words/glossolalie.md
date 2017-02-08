@@ -3,7 +3,8 @@ title: Glossolalie
 permalink: glossolalie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Palilalie
   - glossolalie

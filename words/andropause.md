@@ -3,7 +3,6 @@ title: Andropause
 permalink: andropause.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Ménopause
   - fatigue

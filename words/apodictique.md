@@ -3,7 +3,7 @@ title: Apodictique
 permalink: apodictique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Nécessaire
   - Établi

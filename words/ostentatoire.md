@@ -3,7 +3,6 @@ title: Ostentatoire
 permalink: ostentatoire.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Apparent
   - Évident

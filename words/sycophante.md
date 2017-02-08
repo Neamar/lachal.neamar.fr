@@ -3,7 +3,7 @@ title: Sycophante
 permalink: sycophante.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Mouchard
   - Rapporteur

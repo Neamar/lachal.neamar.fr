@@ -3,7 +3,6 @@ title: Antépénultième
 permalink: antepenultieme.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Avant-avant-dernier
 examples:

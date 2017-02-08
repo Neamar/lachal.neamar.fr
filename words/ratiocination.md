@@ -3,7 +3,8 @@ title: Ratiocination
 permalink: ratiocination.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Raisonnement
   - Abstrusion

@@ -3,7 +3,6 @@ title: Bichette
 permalink: bichette.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Miss
   - mistinguette

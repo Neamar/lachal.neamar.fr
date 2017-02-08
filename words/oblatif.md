@@ -3,7 +3,7 @@ title: Oblatif
 permalink: oblatif.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Altruiste
   - Caritatif

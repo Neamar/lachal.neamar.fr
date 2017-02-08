@@ -3,7 +3,8 @@ title: Palilalie
 permalink: palilalie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Bégaiement
   - Glossolalie

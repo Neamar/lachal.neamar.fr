@@ -3,7 +3,7 @@ title: Méga X
 permalink: mega_x.html
 layout: words
 categories:
-  - Mot Complexe
+  - Néologisme Lachalien
 synonyms:
   - Très Grand X ;-)
 examples:

@@ -3,7 +3,7 @@ title: i.e.
 permalink: i.e..html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - C'est à dire
   - c-à-d

@@ -3,7 +3,8 @@ title: Sui Generis
 permalink: sui_generis.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Mot complexe
 synonyms:
   - Particulière
   - Singulière

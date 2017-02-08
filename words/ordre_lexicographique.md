@@ -3,7 +3,6 @@ title: Ordre Lexicographique
 permalink: ordre_lexicographique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Tri
 examples:

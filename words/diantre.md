@@ -3,7 +3,6 @@ title: Diantre
 permalink: diantre.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Diable
   - Fichtre

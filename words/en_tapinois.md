@@ -3,7 +3,6 @@ title: En tapinois
 permalink: en_tapinois.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - En cachette
 examples:

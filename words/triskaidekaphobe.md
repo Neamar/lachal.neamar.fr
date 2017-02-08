@@ -3,7 +3,7 @@ title: Triskaidékaphobe
 permalink: triskaidekaphobe.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - À mon avis un seul mot pour désigner cette phobie suffit largement ;)
   - Voir aussi : Apopathodiaphulatophobe

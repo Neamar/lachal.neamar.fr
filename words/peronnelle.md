@@ -3,7 +3,6 @@ title: Péronnelle
 permalink: peronnelle.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Idiote
   - Impertinente

@@ -3,7 +3,7 @@ title: Hiérodule
 permalink: hierodule.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Serviteur
   - Aide

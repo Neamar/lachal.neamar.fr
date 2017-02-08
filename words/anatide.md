@@ -3,7 +3,6 @@ title: Anatidé
 permalink: anatide.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Canard
   - Ansériforme

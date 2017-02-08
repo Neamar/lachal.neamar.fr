@@ -3,7 +3,7 @@ title: Rhétorique
 permalink: rhetorique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Art oratoire
 examples:

@@ -3,7 +3,7 @@ title: Satrape
 permalink: satrape.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Ploutocrate
   - Soudard

@@ -3,7 +3,7 @@ title: Catilinaire
 permalink: catilinaire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Diatribe
   - Philippique

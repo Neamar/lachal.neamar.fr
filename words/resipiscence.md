@@ -3,7 +3,7 @@ title: Résipiscence
 permalink: resipiscence.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Faire amende honorable
   - Amendement

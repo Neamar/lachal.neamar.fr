@@ -3,7 +3,7 @@ title: Pamphlétaire
 permalink: pamphletaire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Diffamation
   - Polémique

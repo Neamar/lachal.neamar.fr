@@ -3,7 +3,8 @@ title: Apophtegme
 permalink: apophtegme.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Adage
   - Proverbe

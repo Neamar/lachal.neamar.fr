@@ -3,7 +3,7 @@ title: Animadversion
 permalink: animadversion.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - blâme
   - censure

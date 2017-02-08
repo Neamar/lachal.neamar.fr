@@ -3,7 +3,6 @@ title: Cabotin
 permalink: cabotin.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Acteur
   - bouffon

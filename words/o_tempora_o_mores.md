@@ -3,7 +3,8 @@ title: O tempora o mores
 permalink: o_tempora_o_mores.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Rhétorique
 synonyms:
   - Quelle époque !
 examples:

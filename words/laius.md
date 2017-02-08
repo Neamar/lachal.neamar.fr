@@ -3,7 +3,7 @@ title: Laïus
 permalink: laius.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Diatribe
   - Dialogue

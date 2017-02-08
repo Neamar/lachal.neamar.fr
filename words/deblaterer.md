@@ -3,7 +3,7 @@ title: Déblatérer
 permalink: deblaterer.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Dénigrer
   - Fulminer

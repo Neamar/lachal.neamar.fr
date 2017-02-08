@@ -3,7 +3,7 @@ title: Cicérone
 permalink: cicerone.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Rhétorique
   - Faconde

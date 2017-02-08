@@ -3,7 +3,7 @@ title: Ex Abrupto
 permalink: ex_abrupto.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Brusquement
   - Abruptement

@@ -3,7 +3,7 @@ title: Fuligineux
 permalink: fuligineux.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Incompréhensible
   - Abscons

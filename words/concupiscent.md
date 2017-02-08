@@ -3,7 +3,6 @@ title: Concupiscent
 permalink: concupiscent.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Charnel
   - Lascif

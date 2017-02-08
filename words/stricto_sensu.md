@@ -3,7 +3,7 @@ title: Stricto Sensu
 permalink: stricto_sensu.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Au sens strict
   - strictement

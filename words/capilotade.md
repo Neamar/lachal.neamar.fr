@@ -3,7 +3,7 @@ title: Capilotade
 permalink: capilotade.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Déconfiture
   - Défaite

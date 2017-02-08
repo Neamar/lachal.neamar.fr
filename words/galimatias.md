@@ -3,7 +3,7 @@ title: Galimatias
 permalink: galimatias.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Discours confus
   - Baragouin

@@ -3,7 +3,7 @@ title: Abstrusion
 permalink: abstrusion.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Complexe
 examples:

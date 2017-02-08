@@ -3,7 +3,7 @@ title: Almée
 permalink: almee.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - danseuse
   - Odalisque

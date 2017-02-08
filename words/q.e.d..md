@@ -3,7 +3,9 @@ title: Q.E.D.
 permalink: q.e.d..html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Acronyme
+  - Rhétorique
 synonyms:
   - C.Q.F.D.
 examples:

@@ -3,7 +3,8 @@ title: Disert
 permalink: disert.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Éloquent
 examples:

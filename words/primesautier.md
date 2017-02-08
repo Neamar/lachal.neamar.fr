@@ -3,7 +3,7 @@ title: Primesautier
 permalink: primesautier.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Irréfléchi
   - mondain (par extension)

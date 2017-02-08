@@ -3,7 +3,7 @@ title: Bucolique
 permalink: bucolique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Train de vie
 examples:

@@ -3,7 +3,7 @@ title: In Fine
 permalink: in_fine.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Finalement
 examples:

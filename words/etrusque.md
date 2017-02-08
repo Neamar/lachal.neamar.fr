@@ -3,7 +3,6 @@ title: étrusque
 permalink: etrusque.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Hébreu
 examples:

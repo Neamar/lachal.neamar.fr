@@ -3,7 +3,7 @@ title: Atrabilaire
 permalink: atrabilaire.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Maussade
   - Irascible

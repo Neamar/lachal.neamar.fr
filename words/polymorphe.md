@@ -3,7 +3,6 @@ title: Polymorphe
 permalink: polymorphe.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Allotropique
   - Protéiforme

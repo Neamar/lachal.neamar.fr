@@ -3,7 +3,7 @@ title: Parangon
 permalink: parangon.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Modèle
   - Représentant typique. Archétype

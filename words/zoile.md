@@ -3,7 +3,7 @@ title: Zoïle
 permalink: zoile.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - baveux
   - censeur

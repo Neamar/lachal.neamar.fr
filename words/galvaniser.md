@@ -3,7 +3,6 @@ title: Galvaniser
 permalink: galvaniser.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Transcender
   - transporter

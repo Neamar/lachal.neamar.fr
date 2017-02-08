@@ -3,7 +3,7 @@ title: Péroraison
 permalink: peroraison.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Discours
   - Bavardages

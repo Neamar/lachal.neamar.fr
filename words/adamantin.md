@@ -3,7 +3,7 @@ title: Adamantin
 permalink: adamantin.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Diamant
   - Dur

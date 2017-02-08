@@ -3,7 +3,8 @@ title: Ab imo pectore
 permalink: ab_imo_pectore.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
+  - Mot complexe
 synonyms:
   - Aïe
   - Nooon !

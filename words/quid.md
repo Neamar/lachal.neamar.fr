@@ -3,7 +3,7 @@ title: Quid
 permalink: quid.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Que dire
   - Quoi

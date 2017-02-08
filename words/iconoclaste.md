@@ -3,7 +3,6 @@ title: Iconoclaste
 permalink: iconoclaste.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Aniconiste
 examples:

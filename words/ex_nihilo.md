@@ -3,7 +3,7 @@ title: Ex Nihilo
 permalink: ex_nihilo.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - À partir de rien
 examples:

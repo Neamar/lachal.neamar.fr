@@ -3,7 +3,7 @@ title: Lilial
 permalink: lilial.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Pur
   - Candide

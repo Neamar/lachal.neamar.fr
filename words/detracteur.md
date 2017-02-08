@@ -3,7 +3,6 @@ title: Détracteur
 permalink: detracteur.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Critique
   - Médisant.

@@ -3,7 +3,7 @@ title: Dipsomane
 permalink: dipsomane.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Méthilepsie
   - Méthomanie

@@ -3,7 +3,6 @@ title: Gourdiflot
 permalink: gourdiflot.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Niais
   - Simplet

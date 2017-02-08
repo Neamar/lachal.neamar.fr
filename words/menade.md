@@ -3,7 +3,7 @@ title: Ménade
 permalink: menade.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Bacchantes
 examples:

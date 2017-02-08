@@ -3,7 +3,8 @@ title: Coprolalie
 permalink: coprolalie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Vulgarité
   - Grossièreté

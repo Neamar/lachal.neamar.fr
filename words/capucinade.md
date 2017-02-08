@@ -3,7 +3,7 @@ title: Capucinade
 permalink: capucinade.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Ridicule
   - Figure de style mal tournée

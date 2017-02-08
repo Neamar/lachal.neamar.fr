@@ -3,7 +3,6 @@ title: Endémique
 permalink: endemique.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Récurrent
   - Communicatif (au figuré)

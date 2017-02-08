@@ -3,7 +3,7 @@ title: Rhéteur
 permalink: rheteur.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Rhétoricien
   - Orateur

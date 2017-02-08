@@ -3,7 +3,8 @@ title: Idiolecte
 permalink: idiolecte.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Langage
 examples:

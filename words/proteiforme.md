@@ -3,7 +3,7 @@ title: Protéiforme
 permalink: proteiforme.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - changeant
   - inconstant

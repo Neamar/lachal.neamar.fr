@@ -3,7 +3,6 @@ title: Callipyge
 permalink: callipyge.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Harmonieux
   - Courbes

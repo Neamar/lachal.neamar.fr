@@ -3,7 +3,7 @@ title: échanson
 permalink: echanson.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Serveur
   - Garçon

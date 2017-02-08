@@ -3,7 +3,6 @@ title: Sapajou
 permalink: sapajou.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Semnopithèques
   - Simiesque

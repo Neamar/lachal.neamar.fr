@@ -3,7 +3,6 @@ title: Chiche
 permalink: chiche.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Capable
   - Pourquoi pas

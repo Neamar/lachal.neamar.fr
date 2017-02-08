@@ -3,7 +3,6 @@ title: Lie
 permalink: lie_.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Déchets
 examples:

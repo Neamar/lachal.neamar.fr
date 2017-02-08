@@ -3,7 +3,8 @@ title: Pasquinade
 permalink: pasquinade.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Bouffonerie
   - farce

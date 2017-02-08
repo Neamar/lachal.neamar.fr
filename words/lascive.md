@@ -3,7 +3,6 @@ title: Lascive
 permalink: lascive.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Enjoué
   - folâtre

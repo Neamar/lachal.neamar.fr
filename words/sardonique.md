@@ -3,7 +3,7 @@ title: Sardonique
 permalink: sardonique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Sarcastique
   - caustique

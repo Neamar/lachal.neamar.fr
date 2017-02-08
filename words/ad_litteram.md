@@ -3,7 +3,7 @@ title: Ad litteram
 permalink: ad_litteram.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - Directement
 examples:

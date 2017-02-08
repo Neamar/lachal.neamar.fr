@@ -3,7 +3,7 @@ title: Prodromique
 permalink: prodromique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Nouveau
   - Original

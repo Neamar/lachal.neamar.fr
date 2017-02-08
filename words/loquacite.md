@@ -3,7 +3,7 @@ title: Loquacité
 permalink: loquacite.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Bavard
 examples:

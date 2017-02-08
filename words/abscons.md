@@ -3,7 +3,6 @@ title: Abscons
 permalink: abscons.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Obscur
   - Inintelligible

@@ -3,7 +3,6 @@ title: Catimini
 permalink: catimini.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - En cachette
   - discrètement

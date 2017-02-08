@@ -3,7 +3,7 @@ title: Prosélytisme
 permalink: proselytisme.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Militantisme
   - Apostolat

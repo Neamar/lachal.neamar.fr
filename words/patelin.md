@@ -3,7 +3,7 @@ title: Patelin
 permalink: patelin.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Patelard
   - Trompeur

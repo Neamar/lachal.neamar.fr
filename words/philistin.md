@@ -3,7 +3,6 @@ title: Philistin
 permalink: philistin.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Bélître
   - Ignorant

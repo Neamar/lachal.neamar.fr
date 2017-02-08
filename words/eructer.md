@@ -3,7 +3,6 @@ title: éructer
 permalink: eructer.html
 layout: words
 categories:
-  - Mot Complexe
 synonyms:
   - Roter
   - Hoqueter

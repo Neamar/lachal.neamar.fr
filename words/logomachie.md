@@ -3,7 +3,8 @@ title: Logomachie
 permalink: logomachie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Bavardage
   - Bavassements

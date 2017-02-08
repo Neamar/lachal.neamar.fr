@@ -3,7 +3,8 @@ title: Périssologie
 permalink: perissologie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Pléonasme
 examples:

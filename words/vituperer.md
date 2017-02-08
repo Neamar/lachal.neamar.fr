@@ -3,7 +3,7 @@ title: Vitupérer
 permalink: vituperer.html
 layout: words
 categories:
-  - Mot Complexe
+  - Rhétorique
 synonyms:
   - Déblatérer
   - Blâmer

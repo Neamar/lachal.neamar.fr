@@ -3,7 +3,8 @@ title: Captieux
 permalink: captieux.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
+  - Rhétorique
 synonyms:
   - Déloyal
   - trompeur

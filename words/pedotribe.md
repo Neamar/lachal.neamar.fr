@@ -3,7 +3,7 @@ title: Pédotribe
 permalink: pedotribe.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Enseignant
   - Coach

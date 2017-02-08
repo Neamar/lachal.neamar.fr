@@ -3,7 +3,7 @@ title: A Priori
 permalink: a_priori.html
 layout: words
 categories:
-  - Mot Complexe
+  - Citation latine
 synonyms:
   - À première vue
   - Sans réfléchir

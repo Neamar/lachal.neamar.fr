@@ -3,7 +3,7 @@ title: Idiosyncrasie
 permalink: idiosyncrasie.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Anaphylaxie
   - Mélange

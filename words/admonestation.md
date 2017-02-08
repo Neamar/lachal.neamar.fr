@@ -3,7 +3,7 @@ title: Admonestation
 permalink: admonestation.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - avertissement
   - blâme

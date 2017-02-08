@@ -3,7 +3,7 @@ title: Numismatique
 permalink: numismatique.html
 layout: words
 categories:
-  - Mot Complexe
+  - Mot complexe
 synonyms:
   - Collectionneur de pièces
 examples:
