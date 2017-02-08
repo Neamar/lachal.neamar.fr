@@ -1,7 +1,7 @@
 ---
 title: Motu Proprio
 permalink: motu_proprio.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

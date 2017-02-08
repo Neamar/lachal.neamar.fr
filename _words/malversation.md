@@ -1,7 +1,7 @@
 ---
 title: Malversation
 permalink: malversation.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Malhonnêteté

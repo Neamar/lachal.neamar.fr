@@ -1,7 +1,7 @@
 ---
 title: Zut
 permalink: zut.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Crotte

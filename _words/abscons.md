@@ -1,7 +1,7 @@
 ---
 title: Abscons
 permalink: abscons.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Obscur

@@ -1,7 +1,7 @@
 ---
 title: Marshmallow
 permalink: marshmallow.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Guimauve

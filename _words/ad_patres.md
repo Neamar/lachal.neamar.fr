@@ -1,7 +1,7 @@
 ---
 title: Ad Patres
 permalink: ad_patres.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Surnuméraire
 permalink: surnumeraire.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

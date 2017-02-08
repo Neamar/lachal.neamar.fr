@@ -1,7 +1,7 @@
 ---
 title: Tautologie
 permalink: tautologie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Lie 
 permalink: lie_.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Déchets

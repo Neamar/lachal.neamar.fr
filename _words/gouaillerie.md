@@ -1,7 +1,7 @@
 ---
 title: Gouaillerie
 permalink: gouaillerie.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

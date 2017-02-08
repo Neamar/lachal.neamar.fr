@@ -1,7 +1,7 @@
 ---
 title: Chouïa
 permalink: chouia.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Chouya

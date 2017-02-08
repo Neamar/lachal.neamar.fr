@@ -1,7 +1,7 @@
 ---
 title: Mafflu
 permalink: mafflu.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

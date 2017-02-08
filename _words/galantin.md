@@ -1,7 +1,7 @@
 ---
 title: Galantin
 permalink: galantin.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Bélître

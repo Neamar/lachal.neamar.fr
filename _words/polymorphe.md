@@ -1,7 +1,7 @@
 ---
 title: Polymorphe
 permalink: polymorphe.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Allotropique

@@ -1,7 +1,7 @@
 ---
 title: Chantre
 permalink: chantre.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Laudateur

@@ -1,7 +1,7 @@
 ---
 title: Alinéa
 permalink: alinea.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

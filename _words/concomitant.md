@@ -1,7 +1,7 @@
 ---
 title: Concomitant
 permalink: concomitant.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Coïncident

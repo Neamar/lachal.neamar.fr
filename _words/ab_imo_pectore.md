@@ -1,7 +1,7 @@
 ---
 title: Ab imo pectore
 permalink: ab_imo_pectore.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

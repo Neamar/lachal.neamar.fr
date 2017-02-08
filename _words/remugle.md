@@ -1,7 +1,7 @@
 ---
 title: Remugle
 permalink: remugle.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Arôme

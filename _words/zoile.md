@@ -1,7 +1,7 @@
 ---
 title: Zoïle
 permalink: zoile.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

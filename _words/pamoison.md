@@ -1,7 +1,7 @@
 ---
 title: Pâmoison
 permalink: pamoison.html
-layout: words
+layout: word
 categories:
 synonyms:
   - S'évanouir

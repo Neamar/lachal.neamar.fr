@@ -1,7 +1,7 @@
 ---
 title: Déliquescence
 permalink: deliquescence.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Décrépitude

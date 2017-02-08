@@ -1,7 +1,7 @@
 ---
 title: Stricto Sensu
 permalink: stricto_sensu.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

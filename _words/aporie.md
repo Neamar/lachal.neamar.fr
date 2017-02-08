@@ -1,7 +1,7 @@
 ---
 title: Aporie
 permalink: aporie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

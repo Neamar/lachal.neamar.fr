@@ -1,7 +1,7 @@
 ---
 title: Bavasser
 permalink: bavasser.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

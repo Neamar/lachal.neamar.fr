@@ -1,7 +1,7 @@
 ---
 title: Apagogie
 permalink: apagogie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

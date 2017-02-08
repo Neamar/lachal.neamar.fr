@@ -1,7 +1,7 @@
 ---
 title: Défalcation
 permalink: defalcation.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Déduction

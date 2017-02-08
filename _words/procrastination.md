@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 permalink: procrastination.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

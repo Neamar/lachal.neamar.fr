@@ -1,7 +1,7 @@
 ---
 title: Dilatoire
 permalink: dilatoire.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

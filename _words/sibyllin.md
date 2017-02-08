@@ -1,7 +1,7 @@
 ---
 title: Sibyllin
 permalink: sibyllin.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Abscons

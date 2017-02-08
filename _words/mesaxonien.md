@@ -1,7 +1,7 @@
 ---
 title: Mésaxonien
 permalink: mesaxonien.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

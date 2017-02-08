@@ -1,7 +1,7 @@
 ---
 title: Coquecigrue
 permalink: coquecigrue.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

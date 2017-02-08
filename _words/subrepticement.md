@@ -1,7 +1,7 @@
 ---
 title: Subrepticement
 permalink: subrepticement.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Discrètement

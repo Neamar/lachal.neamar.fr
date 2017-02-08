@@ -1,7 +1,7 @@
 ---
 title: Ad libitum
 permalink: ad_libitum.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

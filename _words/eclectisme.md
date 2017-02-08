@@ -1,7 +1,7 @@
 ---
 title: Eclectisme
 permalink: eclectisme.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Divers

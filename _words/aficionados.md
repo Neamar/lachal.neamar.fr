@@ -1,7 +1,7 @@
 ---
 title: Aficionados
 permalink: aficionados.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Fan

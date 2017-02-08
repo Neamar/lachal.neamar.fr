@@ -1,7 +1,7 @@
 ---
 title: Q.E.D.
 permalink: q.e.d..html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Acronyme

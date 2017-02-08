@@ -1,7 +1,7 @@
 ---
 title: Iconoclaste
 permalink: iconoclaste.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Aniconiste

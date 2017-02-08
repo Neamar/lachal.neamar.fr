@@ -1,7 +1,7 @@
 ---
 title: Vaudou
 permalink: vaudou.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Sorcellerie

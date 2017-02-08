@@ -1,7 +1,7 @@
 ---
 title: Colifichet
 permalink: colifichet.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Babiole

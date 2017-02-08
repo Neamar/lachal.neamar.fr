@@ -1,7 +1,7 @@
 ---
 title: Empyreumatique
 permalink: empyreumatique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

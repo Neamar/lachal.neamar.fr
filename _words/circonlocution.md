@@ -1,7 +1,7 @@
 ---
 title: Circonlocution
 permalink: circonlocution.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

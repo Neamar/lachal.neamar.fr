@@ -1,7 +1,7 @@
 ---
 title: Sigisbée
 permalink: sigisbee.html
-layout: words
+layout: word
 categories:
 synonyms:
   - cavalier

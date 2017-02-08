@@ -1,7 +1,7 @@
 ---
 title: Aduler
 permalink: aduler.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Adorer

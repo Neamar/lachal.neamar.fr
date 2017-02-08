@@ -1,7 +1,7 @@
 ---
 title: Anathème
 permalink: anatheme.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

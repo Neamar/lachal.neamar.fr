@@ -1,7 +1,7 @@
 ---
 title: Paroxystique
 permalink: paroxystique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Crise

@@ -1,7 +1,7 @@
 ---
 title: Paralogisme
 permalink: paralogisme.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Sophistiqué

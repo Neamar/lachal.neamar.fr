@@ -1,7 +1,7 @@
 ---
 title: Fallacieux
 permalink: fallacieux.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Faux

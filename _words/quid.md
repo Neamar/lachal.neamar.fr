@@ -1,7 +1,7 @@
 ---
 title: Quid
 permalink: quid.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

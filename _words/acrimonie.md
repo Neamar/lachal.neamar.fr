@@ -1,7 +1,7 @@
 ---
 title: Acrimonie
 permalink: acrimonie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

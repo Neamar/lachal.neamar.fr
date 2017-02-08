@@ -1,7 +1,7 @@
 ---
 title: Pamphlétaire
 permalink: pamphletaire.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

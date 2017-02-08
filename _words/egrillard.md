@@ -1,7 +1,7 @@
 ---
 title: égrillard
 permalink: egrillard.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Chansonnier

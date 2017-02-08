@@ -1,7 +1,7 @@
 ---
 title: Anatidé
 permalink: anatide.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Canard

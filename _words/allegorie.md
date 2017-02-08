@@ -1,7 +1,7 @@
 ---
 title: Allégorie
 permalink: allegorie.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

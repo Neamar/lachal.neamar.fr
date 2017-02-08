@@ -1,7 +1,7 @@
 ---
 title: Moult
 permalink: moult.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Beaucoup

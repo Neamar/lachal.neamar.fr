@@ -1,7 +1,7 @@
 ---
 title: Onirique
 permalink: onirique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

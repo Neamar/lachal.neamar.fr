@@ -1,7 +1,7 @@
 ---
 title: Anagogique
 permalink: anagogique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

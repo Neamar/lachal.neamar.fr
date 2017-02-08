@@ -1,7 +1,7 @@
 ---
 title: En tapinois
 permalink: en_tapinois.html
-layout: words
+layout: word
 categories:
 synonyms:
   - En cachette

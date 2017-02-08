@@ -1,7 +1,7 @@
 ---
 title: Ex Abrupto
 permalink: ex_abrupto.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

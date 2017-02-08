@@ -1,7 +1,7 @@
 ---
 title: Bucolique
 permalink: bucolique.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

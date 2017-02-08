@@ -1,7 +1,7 @@
 ---
 title: Mercuriale
 permalink: mercuriale.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

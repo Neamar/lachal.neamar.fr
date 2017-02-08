@@ -1,7 +1,7 @@
 ---
 title: Galvaniser
 permalink: galvaniser.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Transcender

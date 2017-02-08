@@ -1,7 +1,7 @@
 ---
 title: Endémique
 permalink: endemique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Récurrent

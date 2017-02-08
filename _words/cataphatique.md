@@ -1,7 +1,7 @@
 ---
 title: Cataphatique
 permalink: cataphatique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

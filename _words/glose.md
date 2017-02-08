@@ -1,7 +1,7 @@
 ---
 title: Glose
 permalink: glose.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Commentaire

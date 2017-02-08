@@ -1,7 +1,7 @@
 ---
 title: Dipsomane
 permalink: dipsomane.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

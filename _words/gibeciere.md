@@ -1,7 +1,7 @@
 ---
 title: Gibecière
 permalink: gibeciere.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Sac à malice

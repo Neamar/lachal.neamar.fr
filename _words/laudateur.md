@@ -1,7 +1,7 @@
 ---
 title: Laudateur
 permalink: laudateur.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Flatteur

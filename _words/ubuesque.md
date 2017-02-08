@@ -1,7 +1,7 @@
 ---
 title: Ubuesque
 permalink: ubuesque.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Stupide

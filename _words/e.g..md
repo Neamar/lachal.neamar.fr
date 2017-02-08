@@ -1,7 +1,7 @@
 ---
 title: E.g.
 permalink: e.g..html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Acronyme

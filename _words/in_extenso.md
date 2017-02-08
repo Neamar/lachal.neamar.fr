@@ -1,7 +1,7 @@
 ---
 title: In extenso
 permalink: in_extenso.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

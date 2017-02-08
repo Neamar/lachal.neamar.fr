@@ -1,7 +1,7 @@
 ---
 title: Corroboratif
 permalink: corroboratif.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Corroborant

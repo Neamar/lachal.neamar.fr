@@ -1,7 +1,7 @@
 ---
 title: Laconique
 permalink: laconique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Bref

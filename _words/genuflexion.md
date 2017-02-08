@@ -1,7 +1,7 @@
 ---
 title: Génuflexion
 permalink: genuflexion.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Agenouillement

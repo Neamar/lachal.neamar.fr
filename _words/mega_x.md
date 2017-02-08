@@ -1,7 +1,7 @@
 ---
 title: Méga X
 permalink: mega_x.html
-layout: words
+layout: word
 categories:
   - Néologisme Lachalien
 synonyms:

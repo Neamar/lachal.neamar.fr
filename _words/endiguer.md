@@ -1,7 +1,7 @@
 ---
 title: Endiguer
 permalink: endiguer.html
-layout: words
+layout: word
 categories:
 synonyms:
   - barrer

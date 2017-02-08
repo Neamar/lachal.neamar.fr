@@ -1,7 +1,7 @@
 ---
 title: Alacrité
 permalink: alacrite.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

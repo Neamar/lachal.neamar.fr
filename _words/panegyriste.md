@@ -1,7 +1,7 @@
 ---
 title: Panégyriste
 permalink: panegyriste.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

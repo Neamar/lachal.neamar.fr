@@ -1,7 +1,7 @@
 ---
 title: Circonvolution
 permalink: circonvolution.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Révolution

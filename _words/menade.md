@@ -1,7 +1,7 @@
 ---
 title: Ménade
 permalink: menade.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

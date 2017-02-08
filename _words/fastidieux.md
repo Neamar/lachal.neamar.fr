@@ -1,7 +1,7 @@
 ---
 title: Fastidieux
 permalink: fastidieux.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Ennuyeux

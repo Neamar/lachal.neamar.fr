@@ -1,7 +1,7 @@
 ---
 title: Fluctuat nec mergitur
 permalink: fluctuat_nec_mergitur.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

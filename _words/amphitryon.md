@@ -1,7 +1,7 @@
 ---
 title: Amphitryon
 permalink: amphitryon.html
-layout: words
+layout: word
 categories:
 synonyms:
   - convive

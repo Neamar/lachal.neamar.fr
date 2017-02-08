@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>{{ page.categorie }} : {{ site.words | size }} mots</h1>
+
+La définition jointe est incomplète.
+Cliquez sur le mot pour ouvrir une nouvelle page affichant plus d'informations et des exemples.
+
+<dl>
+{% for word in site.words %}
+	{% if word.categories contains page.categorie %}
+		{% include word_excerpt.html %}
+	{% endif %}
+{% endfor %}
+</dl>

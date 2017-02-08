@@ -1,7 +1,7 @@
 ---
 title: Cacostomie
 permalink: cacostomie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

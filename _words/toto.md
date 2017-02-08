@@ -1,7 +1,7 @@
 ---
 title: Toto
 permalink: toto.html
-layout: words
+layout: word
 categories:
   - Néologisme Lachalien
 synonyms:

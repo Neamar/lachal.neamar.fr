@@ -1,7 +1,7 @@
 ---
 title: Cabotin
 permalink: cabotin.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Acteur

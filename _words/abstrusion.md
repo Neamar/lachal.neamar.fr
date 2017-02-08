@@ -1,7 +1,7 @@
 ---
 title: Abstrusion
 permalink: abstrusion.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

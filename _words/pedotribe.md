@@ -1,7 +1,7 @@
 ---
 title: Pédotribe
 permalink: pedotribe.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

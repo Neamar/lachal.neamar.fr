@@ -1,7 +1,7 @@
 ---
 title: Autarcie
 permalink: autarcie.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Autosuffisance

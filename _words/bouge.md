@@ -1,7 +1,7 @@
 ---
 title: Bouge
 permalink: bouge.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Café

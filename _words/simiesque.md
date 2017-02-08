@@ -1,7 +1,7 @@
 ---
 title: Simiesque
 permalink: simiesque.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Singe

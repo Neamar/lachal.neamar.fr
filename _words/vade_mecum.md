@@ -1,7 +1,7 @@
 ---
 title: Vade mecum
 permalink: vade_mecum.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

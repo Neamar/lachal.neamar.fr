@@ -1,7 +1,7 @@
 ---
 title: Récapépèter
 permalink: recapepeter.html
-layout: words
+layout: word
 categories:
   - Néologisme Lachalien
 synonyms:

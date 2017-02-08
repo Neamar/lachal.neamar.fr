@@ -1,7 +1,7 @@
 ---
 title: Ploutocrate
 permalink: ploutocrate.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Concaténation
 permalink: concatenation.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Ajout

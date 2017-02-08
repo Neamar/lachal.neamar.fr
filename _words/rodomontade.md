@@ -1,7 +1,7 @@
 ---
 title: Rodomontade
 permalink: rodomontade.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

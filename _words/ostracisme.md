@@ -1,7 +1,7 @@
 ---
 title: Ostracisme
 permalink: ostracisme.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

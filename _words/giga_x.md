@@ -1,7 +1,7 @@
 ---
 title: Giga X
 permalink: giga_x.html
-layout: words
+layout: word
 categories:
   - Néologisme Lachalien
 synonyms:

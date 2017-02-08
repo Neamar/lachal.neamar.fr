@@ -1,7 +1,7 @@
 ---
 title: Taciturne
 permalink: taciturne.html
-layout: words
+layout: word
 categories:
 synonyms:
   - atrabilaire

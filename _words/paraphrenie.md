@@ -1,7 +1,7 @@
 ---
 title: Paraphrénie
 permalink: paraphrenie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

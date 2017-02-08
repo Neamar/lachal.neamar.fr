@@ -1,7 +1,7 @@
 ---
 title: Bichette
 permalink: bichette.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Miss

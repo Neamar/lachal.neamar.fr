@@ -1,7 +1,7 @@
 ---
 title: Versatile
 permalink: versatile.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Instable

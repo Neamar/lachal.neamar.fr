@@ -1,7 +1,7 @@
 ---
 title: Cacographie
 permalink: cacographie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

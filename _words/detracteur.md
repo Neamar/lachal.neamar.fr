@@ -1,7 +1,7 @@
 ---
 title: Détracteur
 permalink: detracteur.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Critique

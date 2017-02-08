@@ -1,7 +1,7 @@
 ---
 title: Mirabile Visu
 permalink: mirabile_visu.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

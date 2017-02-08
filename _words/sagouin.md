@@ -1,7 +1,7 @@
 ---
 title: Sagouin
 permalink: sagouin.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Singe

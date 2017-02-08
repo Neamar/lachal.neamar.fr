@@ -1,7 +1,7 @@
 ---
 title: Sustine et abstine
 permalink: sustine_et_abstine.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Escarcelle
 permalink: escarcelle.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Bourse

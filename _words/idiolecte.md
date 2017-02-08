@@ -1,7 +1,7 @@
 ---
 title: Idiolecte
 permalink: idiolecte.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

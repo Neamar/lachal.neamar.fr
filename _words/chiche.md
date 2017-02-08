@@ -1,7 +1,7 @@
 ---
 title: Chiche
 permalink: chiche.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Capable

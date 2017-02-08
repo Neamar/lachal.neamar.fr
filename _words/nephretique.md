@@ -1,7 +1,7 @@
 ---
 title: Néphrétique
 permalink: nephretique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Rénal

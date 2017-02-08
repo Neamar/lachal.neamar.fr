@@ -1,7 +1,7 @@
 ---
 title: Deus ex machina
 permalink: deus_ex_machina.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

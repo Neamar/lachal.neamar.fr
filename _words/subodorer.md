@@ -1,7 +1,7 @@
 ---
 title: Subodorer
 permalink: subodorer.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Deviner

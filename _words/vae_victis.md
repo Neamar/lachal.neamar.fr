@@ -1,7 +1,7 @@
 ---
 title: Vae victis
 permalink: vae_victis.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

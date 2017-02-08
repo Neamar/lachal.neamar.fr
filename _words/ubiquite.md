@@ -1,7 +1,7 @@
 ---
 title: Ubiquité
 permalink: ubiquite.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Omniprésence

@@ -1,7 +1,7 @@
 ---
 title: Cloaque
 permalink: cloaque.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Égout

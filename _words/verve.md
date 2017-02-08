@@ -1,7 +1,7 @@
 ---
 title: Verve
 permalink: verve.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

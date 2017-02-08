@@ -1,7 +1,7 @@
 ---
 title: Cador
 permalink: cador.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Champion

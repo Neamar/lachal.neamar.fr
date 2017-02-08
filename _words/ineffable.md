@@ -1,7 +1,7 @@
 ---
 title: Ineffable
 permalink: ineffable.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Tabou

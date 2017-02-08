@@ -1,7 +1,7 @@
 ---
 title: Callipyge
 permalink: callipyge.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Harmonieux

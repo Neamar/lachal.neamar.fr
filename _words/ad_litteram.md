@@ -1,7 +1,7 @@
 ---
 title: Ad litteram
 permalink: ad_litteram.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

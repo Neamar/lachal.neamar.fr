@@ -1,7 +1,7 @@
 ---
 title: Trivialité
 permalink: trivialite.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Grossièreté

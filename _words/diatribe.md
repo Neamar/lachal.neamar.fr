@@ -1,7 +1,7 @@
 ---
 title: Diatribe
 permalink: diatribe.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

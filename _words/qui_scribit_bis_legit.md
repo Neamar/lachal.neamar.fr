@@ -1,7 +1,7 @@
 ---
 title: Qui scribit bis legit
 permalink: qui_scribit_bis_legit.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

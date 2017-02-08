@@ -1,7 +1,7 @@
 ---
 title: Primesautier
 permalink: primesautier.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

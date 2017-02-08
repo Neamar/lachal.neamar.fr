@@ -1,7 +1,7 @@
 ---
 title: Péronnelle
 permalink: peronnelle.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Idiote

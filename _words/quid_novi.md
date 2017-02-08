@@ -1,7 +1,7 @@
 ---
 title: Quid novi
 permalink: quid_novi.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

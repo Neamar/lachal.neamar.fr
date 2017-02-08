@@ -1,7 +1,7 @@
 ---
 title: Relou
 permalink: relou.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Casse-couille (Familier)

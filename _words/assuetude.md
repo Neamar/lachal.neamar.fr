@@ -1,7 +1,7 @@
 ---
 title: Assuétude
 permalink: assuetude.html
-layout: words
+layout: word
 categories:
 synonyms:
   - addiction

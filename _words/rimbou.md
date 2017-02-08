@@ -1,7 +1,7 @@
 ---
 title: Rimbou
 permalink: rimbou.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Brute

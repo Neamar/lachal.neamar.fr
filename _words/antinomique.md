@@ -1,7 +1,7 @@
 ---
 title: Antinomique
 permalink: antinomique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Contresens

@@ -1,7 +1,7 @@
 ---
 title: Ab irato
 permalink: ab_irato.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

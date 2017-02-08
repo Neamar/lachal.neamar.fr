@@ -1,7 +1,7 @@
 ---
 title: Lascive
 permalink: lascive.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Enjoué

@@ -1,7 +1,7 @@
 ---
 title: Rasséréner
 permalink: rasserener.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Rendre serein

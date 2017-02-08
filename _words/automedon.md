@@ -1,7 +1,7 @@
 ---
 title: Automédon
 permalink: automedon.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

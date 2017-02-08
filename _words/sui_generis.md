@@ -1,7 +1,7 @@
 ---
 title: Sui Generis
 permalink: sui_generis.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

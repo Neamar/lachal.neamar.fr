@@ -1,7 +1,7 @@
 ---
 title: Andropause
 permalink: andropause.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Ménopause

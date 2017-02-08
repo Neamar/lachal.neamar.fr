@@ -1,7 +1,7 @@
 ---
 title: Pétaudière
 permalink: petaudiere.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Foire

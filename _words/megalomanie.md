@@ -1,7 +1,7 @@
 ---
 title: Mégalomanie
 permalink: megalomanie.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Egocentrique

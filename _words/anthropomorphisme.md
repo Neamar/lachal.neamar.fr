@@ -1,7 +1,7 @@
 ---
 title: Anthropomorphisme
 permalink: anthropomorphisme.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Kénose

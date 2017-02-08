@@ -1,7 +1,7 @@
 ---
 title: Sarcasme
 permalink: sarcasme.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

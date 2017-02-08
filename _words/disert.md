@@ -1,7 +1,7 @@
 ---
 title: Disert
 permalink: disert.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

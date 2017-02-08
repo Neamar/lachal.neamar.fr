@@ -1,7 +1,7 @@
 ---
 title: Thaumaturge
 permalink: thaumaturge.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

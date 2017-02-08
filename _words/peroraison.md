@@ -1,7 +1,7 @@
 ---
 title: Péroraison
 permalink: peroraison.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Marivauder
 permalink: marivauder.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Flirter

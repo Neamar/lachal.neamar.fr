@@ -1,7 +1,7 @@
 ---
 title: Anacréontique
 permalink: anacreontique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

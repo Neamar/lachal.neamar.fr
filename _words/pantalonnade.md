@@ -1,7 +1,7 @@
 ---
 title: Pantalonnade
 permalink: pantalonnade.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Bonus track
 permalink: bonus_track.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Cadeau

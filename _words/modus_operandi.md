@@ -1,7 +1,7 @@
 ---
 title: Modus Operandi
 permalink: modus_operandi.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

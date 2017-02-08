@@ -1,7 +1,7 @@
 ---
 title: Diantre
 permalink: diantre.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Diable

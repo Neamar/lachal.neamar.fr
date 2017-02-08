@@ -1,7 +1,7 @@
 ---
 title: Gourdiflot
 permalink: gourdiflot.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Niais

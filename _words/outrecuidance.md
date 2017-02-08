@@ -1,7 +1,7 @@
 ---
 title: Outrecuidance
 permalink: outrecuidance.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Présomption

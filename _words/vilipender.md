@@ -1,7 +1,7 @@
 ---
 title: Vilipender
 permalink: vilipender.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

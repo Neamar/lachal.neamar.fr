@@ -1,7 +1,7 @@
 ---
 title: Apodictique
 permalink: apodictique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

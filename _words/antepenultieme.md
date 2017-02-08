@@ -1,7 +1,7 @@
 ---
 title: Antépénultième
 permalink: antepenultieme.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Avant-avant-dernier

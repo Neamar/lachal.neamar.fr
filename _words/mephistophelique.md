@@ -1,7 +1,7 @@
 ---
 title: Méphistophélique
 permalink: mephistophelique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Satanique

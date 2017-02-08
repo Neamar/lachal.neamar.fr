@@ -1,7 +1,7 @@
 ---
 title: Ex Cathedra
 permalink: ex_cathedra.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

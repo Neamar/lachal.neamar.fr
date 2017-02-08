@@ -1,7 +1,7 @@
 ---
 title: Concupiscent
 permalink: concupiscent.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Charnel

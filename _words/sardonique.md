@@ -1,7 +1,7 @@
 ---
 title: Sardonique
 permalink: sardonique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

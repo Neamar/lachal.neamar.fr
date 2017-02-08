@@ -1,7 +1,7 @@
 ---
 title: Métromane
 permalink: metromane.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

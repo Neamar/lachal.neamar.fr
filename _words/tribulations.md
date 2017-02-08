@@ -1,7 +1,7 @@
 ---
 title: Tribulations
 permalink: tribulations.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Adversité

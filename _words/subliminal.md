@@ -1,7 +1,7 @@
 ---
 title: Subliminal
 permalink: subliminal.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Inconscient

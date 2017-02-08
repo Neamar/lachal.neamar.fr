@@ -1,7 +1,7 @@
 ---
 title: i.e.
 permalink: i.e..html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

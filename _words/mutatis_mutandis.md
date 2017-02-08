@@ -1,7 +1,7 @@
 ---
 title: Mutatis Mutandis
 permalink: mutatis_mutandis.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

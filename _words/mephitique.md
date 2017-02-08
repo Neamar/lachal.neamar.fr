@@ -1,7 +1,7 @@
 ---
 title: Méphitique
 permalink: mephitique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

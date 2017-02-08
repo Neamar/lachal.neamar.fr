@@ -1,7 +1,7 @@
 ---
 title: Affidé
 permalink: affide.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

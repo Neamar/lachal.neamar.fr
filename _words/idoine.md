@@ -1,7 +1,7 @@
 ---
 title: Idoine
 permalink: idoine.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Pourfendeur
 permalink: pourfendeur.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Fanfaron

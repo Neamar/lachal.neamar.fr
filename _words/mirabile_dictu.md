@@ -1,7 +1,7 @@
 ---
 title: Mirabile Dictu
 permalink: mirabile_dictu.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

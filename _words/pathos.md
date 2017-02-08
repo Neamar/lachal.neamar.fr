@@ -1,7 +1,7 @@
 ---
 title: Pathos
 permalink: pathos.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

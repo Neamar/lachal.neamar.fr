@@ -1,7 +1,7 @@
 ---
 title: Mystagogie
 permalink: mystagogie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

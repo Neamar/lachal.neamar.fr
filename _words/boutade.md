@@ -1,7 +1,7 @@
 ---
 title: Boutade
 permalink: boutade.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

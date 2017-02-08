@@ -1,7 +1,7 @@
 ---
 title: Stentor
 permalink: stentor.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

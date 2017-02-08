@@ -1,7 +1,7 @@
 ---
 title: étrusque
 permalink: etrusque.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Hébreu

@@ -1,7 +1,7 @@
 ---
 title: Exsuder
 permalink: exsuder.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Transpirer

@@ -1,7 +1,7 @@
 ---
 title: Putatif
 permalink: putatif.html
-layout: words
+layout: word
 categories:
 synonyms:
   - présumé

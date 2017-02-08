@@ -1,7 +1,7 @@
 ---
 title: Compulsif
 permalink: compulsif.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Irréfléchi

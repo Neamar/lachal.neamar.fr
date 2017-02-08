@@ -1,7 +1,7 @@
 ---
 title: éponyme
 permalink: eponyme.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

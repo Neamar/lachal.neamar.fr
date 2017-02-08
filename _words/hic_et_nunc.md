@@ -1,7 +1,7 @@
 ---
 title: Hic et nunc
 permalink: hic_et_nunc.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

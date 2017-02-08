@@ -1,7 +1,7 @@
 ---
 title: Fustiger
 permalink: fustiger.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Attaquer

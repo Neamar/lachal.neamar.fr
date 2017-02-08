@@ -1,7 +1,7 @@
 ---
 title: Attentatoire
 permalink: attentatoire.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Dommageable

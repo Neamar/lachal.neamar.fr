@@ -1,7 +1,7 @@
 ---
 title: A Priori
 permalink: a_priori.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

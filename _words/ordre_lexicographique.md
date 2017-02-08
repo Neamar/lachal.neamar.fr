@@ -1,7 +1,7 @@
 ---
 title: Ordre Lexicographique
 permalink: ordre_lexicographique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Tri

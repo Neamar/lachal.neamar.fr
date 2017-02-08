@@ -1,7 +1,7 @@
 ---
 title: Pensum
 permalink: pensum.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Travail

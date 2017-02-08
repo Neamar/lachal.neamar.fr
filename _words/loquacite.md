@@ -1,7 +1,7 @@
 ---
 title: Loquacité
 permalink: loquacite.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

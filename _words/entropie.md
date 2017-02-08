@@ -1,7 +1,7 @@
 ---
 title: Entropie
 permalink: entropie.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Désordre

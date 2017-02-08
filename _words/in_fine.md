@@ -1,7 +1,7 @@
 ---
 title: In Fine
 permalink: in_fine.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

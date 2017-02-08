@@ -1,7 +1,7 @@
 ---
 title: Obsolète
 permalink: obsolete.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Caduc

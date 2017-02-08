@@ -1,7 +1,7 @@
 ---
 title: Alea jacta est
 permalink: alea_jacta_est.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

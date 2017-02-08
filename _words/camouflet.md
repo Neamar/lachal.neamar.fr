@@ -1,7 +1,7 @@
 ---
 title: Camouflet
 permalink: camouflet.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

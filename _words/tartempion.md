@@ -1,7 +1,7 @@
 ---
 title: Tartempion
 permalink: tartempion.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Anonyme

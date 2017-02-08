@@ -1,7 +1,7 @@
 ---
 title: Déblatérer
 permalink: deblaterer.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

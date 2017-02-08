@@ -1,7 +1,7 @@
 ---
 title: Philistin
 permalink: philistin.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Bélître

@@ -1,7 +1,7 @@
 ---
 title: Exhaustif
 permalink: exhaustif.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Dénombrement

@@ -1,7 +1,7 @@
 ---
 title: Géhenne
 permalink: gehenne.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Clabauderie
 permalink: clabauderie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

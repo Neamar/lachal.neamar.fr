@@ -1,7 +1,7 @@
 ---
 title: Rhétorique
 permalink: rhetorique.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

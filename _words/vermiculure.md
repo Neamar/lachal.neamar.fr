@@ -1,7 +1,7 @@
 ---
 title: Vermiculure
 permalink: vermiculure.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

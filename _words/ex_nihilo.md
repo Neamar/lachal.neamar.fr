@@ -1,7 +1,7 @@
 ---
 title: Ex Nihilo
 permalink: ex_nihilo.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

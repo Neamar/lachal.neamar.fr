@@ -1,7 +1,7 @@
 ---
 title: Nutritif
 permalink: nutritif.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Nutritionnel

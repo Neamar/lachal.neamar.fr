@@ -1,7 +1,7 @@
 ---
 title: Bis repetita placent
 permalink: bis_repetita_placent.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Magnificence
 permalink: magnificence.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Magnifique

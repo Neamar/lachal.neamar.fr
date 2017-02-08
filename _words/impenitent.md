@@ -1,7 +1,7 @@
 ---
 title: Impénitent
 permalink: impenitent.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Incorrigible

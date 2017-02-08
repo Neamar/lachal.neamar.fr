@@ -1,7 +1,7 @@
 ---
 title: Oblatif
 permalink: oblatif.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: Mansuétude
 permalink: mansuetude.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

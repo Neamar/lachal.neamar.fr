@@ -1,7 +1,7 @@
 ---
 title: Qui tacet consentire videtur
 permalink: qui_tacet_consentire_videtur.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

@@ -1,7 +1,7 @@
 ---
 title: élucubration
 permalink: elucubration.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

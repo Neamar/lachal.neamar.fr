@@ -1,7 +1,7 @@
 ---
 title: A posteriori
 permalink: a_posteriori.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

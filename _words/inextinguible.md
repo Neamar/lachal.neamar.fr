@@ -1,7 +1,7 @@
 ---
 title: Inextinguible
 permalink: inextinguible.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Insatiable

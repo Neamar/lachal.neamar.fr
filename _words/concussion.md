@@ -1,7 +1,7 @@
 ---
 title: Concussion
 permalink: concussion.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

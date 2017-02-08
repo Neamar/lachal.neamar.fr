@@ -1,7 +1,7 @@
 ---
 title: Componction
 permalink: componction.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

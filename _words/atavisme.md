@@ -1,7 +1,7 @@
 ---
 title: Atavisme
 permalink: atavisme.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Résurgence

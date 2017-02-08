@@ -1,7 +1,7 @@
 ---
 title: Méga  
 permalink: mega__.html
-layout: words
+layout: word
 categories:
 synonyms:
   - 10^6

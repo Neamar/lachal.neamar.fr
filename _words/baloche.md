@@ -1,7 +1,7 @@
 ---
 title: Baloche
 permalink: baloche.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Fête

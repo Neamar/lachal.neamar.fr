@@ -1,7 +1,7 @@
 ---
 title: Assentiment
 permalink: assentiment.html
-layout: words
+layout: word
 categories:
 synonyms:
   - acceptation

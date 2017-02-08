@@ -1,7 +1,7 @@
 ---
 title: Parangon
 permalink: parangon.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

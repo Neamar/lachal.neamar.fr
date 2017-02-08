@@ -1,7 +1,7 @@
 ---
 title: Sapajou
 permalink: sapajou.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Semnopithèques

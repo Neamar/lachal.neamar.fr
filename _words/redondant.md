@@ -1,7 +1,7 @@
 ---
 title: Redondant
 permalink: redondant.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Abondant

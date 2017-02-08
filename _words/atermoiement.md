@@ -1,7 +1,7 @@
 ---
 title: Atermoiement
 permalink: atermoiement.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Atermoyer

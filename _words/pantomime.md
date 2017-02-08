@@ -1,7 +1,7 @@
 ---
 title: Pantomime
 permalink: pantomime.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Attitude

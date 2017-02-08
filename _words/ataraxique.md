@@ -1,7 +1,7 @@
 ---
 title: Ataraxique
 permalink: ataraxique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

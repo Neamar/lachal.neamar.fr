@@ -1,7 +1,7 @@
 ---
 title: Comparution
 permalink: comparution.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Présentation

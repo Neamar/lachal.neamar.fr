@@ -1,7 +1,7 @@
 ---
 title: Rhéteur
 permalink: rheteur.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

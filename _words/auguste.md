@@ -1,7 +1,7 @@
 ---
 title: Auguste
 permalink: auguste.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Digne

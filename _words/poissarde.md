@@ -1,7 +1,7 @@
 ---
 title: Poissarde
 permalink: poissarde.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Grossière

@@ -1,7 +1,7 @@
 ---
 title: Tehon
 permalink: tehon.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Déshonneur

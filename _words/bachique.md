@@ -1,7 +1,7 @@
 ---
 title: Bachique
 permalink: bachique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Dyonisiaque.

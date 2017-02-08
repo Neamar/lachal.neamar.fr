@@ -1,7 +1,7 @@
 ---
 title: Anacoluthe
 permalink: anacoluthe.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

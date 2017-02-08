@@ -1,7 +1,7 @@
 ---
 title: Incartade
 permalink: incartade.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Synonyme

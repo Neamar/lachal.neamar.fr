@@ -1,7 +1,7 @@
 ---
 title: Apostolique
 permalink: apostolique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Qui annonce

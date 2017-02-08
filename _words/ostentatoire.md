@@ -1,7 +1,7 @@
 ---
 title: Ostentatoire
 permalink: ostentatoire.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Apparent

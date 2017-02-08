@@ -1,7 +1,7 @@
 ---
 title: Que nenni
 permalink: que_nenni.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Pas du tout

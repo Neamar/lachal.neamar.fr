@@ -1,7 +1,7 @@
 ---
 title: Fielleux
 permalink: fielleux.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Acrimonieux

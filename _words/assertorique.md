@@ -1,7 +1,7 @@
 ---
 title: Assertorique
 permalink: assertorique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

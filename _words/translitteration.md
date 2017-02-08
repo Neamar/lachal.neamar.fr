@@ -1,7 +1,7 @@
 ---
 title: Translittération
 permalink: translitteration.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Bijection

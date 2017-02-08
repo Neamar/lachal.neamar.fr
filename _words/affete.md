@@ -1,7 +1,7 @@
 ---
 title: Affété
 permalink: affete.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

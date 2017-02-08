@@ -1,7 +1,7 @@
 ---
 title: Volapuk
 permalink: volapuk.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Langue universelle

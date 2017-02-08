@@ -1,7 +1,7 @@
 ---
 title: Oblativité
 permalink: oblativite.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

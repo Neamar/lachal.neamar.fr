@@ -1,7 +1,7 @@
 ---
 title: Epsilon
 permalink: epsilon.html
-layout: words
+layout: word
 categories:
 synonyms:
   - La lettre E

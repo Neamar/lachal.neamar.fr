@@ -1,7 +1,7 @@
 ---
 title: Cabale
 permalink: cabale.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Complot

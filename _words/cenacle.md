@@ -1,7 +1,7 @@
 ---
 title: Cénacle
 permalink: cenacle.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

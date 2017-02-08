@@ -1,7 +1,7 @@
 ---
 title: Plénipotentiaire
 permalink: plenipotentiaire.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Puissant

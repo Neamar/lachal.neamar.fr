@@ -1,7 +1,7 @@
 ---
 title: Oecuménique
 permalink: oecumenique.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Unité

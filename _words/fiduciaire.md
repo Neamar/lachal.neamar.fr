@@ -1,7 +1,7 @@
 ---
 title: Fiduciaire
 permalink: fiduciaire.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

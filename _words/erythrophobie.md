@@ -1,7 +1,7 @@
 ---
 title: Erythrophobie
 permalink: erythrophobie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

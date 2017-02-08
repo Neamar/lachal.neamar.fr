@@ -1,7 +1,7 @@
 ---
 title: Alambiqué
 permalink: alambique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

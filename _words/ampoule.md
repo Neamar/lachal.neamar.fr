@@ -1,7 +1,7 @@
 ---
 title: Ampoulé
 permalink: ampoule.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

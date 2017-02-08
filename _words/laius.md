@@ -1,7 +1,7 @@
 ---
 title: Laïus
 permalink: laius.html
-layout: words
+layout: word
 categories:
   - Rhétorique
 synonyms:

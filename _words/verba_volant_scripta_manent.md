@@ -1,7 +1,7 @@
 ---
 title: Verba volant scripta manent
 permalink: verba_volant_scripta_manent.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

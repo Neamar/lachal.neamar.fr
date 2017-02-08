@@ -1,7 +1,7 @@
 ---
 title: Parèdre
 permalink: paredre.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

@@ -1,7 +1,7 @@
 ---
 title: O tempora o mores
 permalink: o_tempora_o_mores.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Rhétorique

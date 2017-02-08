@@ -1,7 +1,7 @@
 ---
 title: Périssologie
 permalink: perissologie.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

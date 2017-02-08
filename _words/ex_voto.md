@@ -1,7 +1,7 @@
 ---
 title: Ex Voto
 permalink: ex_voto.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:

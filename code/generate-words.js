@@ -18,7 +18,7 @@ words.forEach(function(data) {
   content += "title: " + data.Mot + "\n";
   // TODO: slugify
   content += "permalink: " + data.Slug + ".html" + "\n";
-  content += "layout: words" + "\n";
+  content += "layout: word" + "\n";
   content += "categories:" + "\n";
 
   categories.filter((c) => c.Parent === data.ID).forEach(function(categorie) {

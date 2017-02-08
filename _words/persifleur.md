@@ -1,7 +1,7 @@
 ---
 title: Persifleur
 permalink: persifleur.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Moqueur

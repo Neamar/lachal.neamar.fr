@@ -1,7 +1,7 @@
 ---
 title: Ad augusta per angusta
 permalink: ad_augusta_per_angusta.html
-layout: words
+layout: word
 categories:
   - Citation latine
   - Mot complexe

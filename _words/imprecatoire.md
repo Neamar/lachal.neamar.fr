@@ -1,7 +1,7 @@
 ---
 title: Imprécatoire
 permalink: imprecatoire.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

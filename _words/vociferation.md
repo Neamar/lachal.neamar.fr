@@ -1,7 +1,7 @@
 ---
 title: Vocifération
 permalink: vociferation.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Beuglement

@@ -1,7 +1,7 @@
 ---
 title: Superfluité
 permalink: superfluite.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Superflu

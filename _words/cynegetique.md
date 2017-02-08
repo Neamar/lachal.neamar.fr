@@ -1,7 +1,7 @@
 ---
 title: Cynégétique
 permalink: cynegetique.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

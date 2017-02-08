@@ -1,7 +1,7 @@
 ---
 title: Pétulance
 permalink: petulance.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Extraverti

@@ -1,7 +1,7 @@
 ---
 title: Psychopompe
 permalink: psychopompe.html
-layout: words
+layout: word
 categories:
   - Mot complexe
 synonyms:

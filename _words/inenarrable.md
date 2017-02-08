@@ -1,7 +1,7 @@
 ---
 title: Inénarrable
 permalink: inenarrable.html
-layout: words
+layout: word
 categories:
 synonyms:
   - Inexprimable

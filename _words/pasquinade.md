@@ -1,7 +1,7 @@
 ---
 title: Pasquinade
 permalink: pasquinade.html
-layout: words
+layout: word
 categories:
   - Mot complexe
   - Rhétorique

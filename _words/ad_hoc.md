@@ -1,7 +1,7 @@
 ---
 title: Ad hoc
 permalink: ad_hoc.html
-layout: words
+layout: word
 categories:
   - Citation latine
 synonyms:
