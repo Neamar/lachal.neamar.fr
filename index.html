@@ -2,8 +2,16 @@
 layout: default
 ---
 
-Traduction Lachal/Français :
+<h1>Traduction Lachal/Français : {{ site.words | size }} mots</h1>
 
-{% for words in site.words %}
-<li>{{ words.title }}
+La définition jointe est incomplète.
+Cliquez sur le mot pour ouvrir une nouvelle page affichant plus d'informations et des exemples.
+
+<dl>
+{% for word in site.words %}
+	<dt><a href="{{ word.permalink }}">{{ word.title }}</a><em>Catégorie : {{ word.categories | join:", " }}</em></dt>
+		<dd><p>{{ word.excerpt }}</p>
+
+</dd>
 {% endfor %}
+</dl>
