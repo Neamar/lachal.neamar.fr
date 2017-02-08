@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/vad%C3%A9m%C3%A9cum
 ---
 
 Du latin vade mecum (« viens avec moi »), désigne un petit livre de voyage que l'on porte toujours sur soi pour se renseigner.
+

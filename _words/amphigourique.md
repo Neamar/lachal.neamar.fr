@@ -35,3 +35,4 @@ link: http://fr.wiktionary.org/wiki/amphigouri
 ---
 
 Figure de rhétorique qui consiste à écrire un discours ou un texte de manière volontairement burlesque, obscure ou inintelligible. Par extension, écrit ou discours dont les phrases, contre l’intention de l’auteur, ne présentent que des idées sans suite et n’ont aucun sens raisonnable.
+

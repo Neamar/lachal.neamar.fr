@@ -17,3 +17,4 @@ link: http://fr.wiktionary.org/wiki/affid%C3%A9
 ---
 
 Personne à qui l'on se fie pour commettre une action répréhensible ; membre d'une société secrète, d'un complot.
+

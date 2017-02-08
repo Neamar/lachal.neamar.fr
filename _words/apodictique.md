@@ -18,3 +18,4 @@ link: http://fr.wikipedia.org/wiki/Apodictique
 ---
 
 Un jugement apodictique présente un caractère d'universalité et de nécessité absolue. Une proposition apodictique est nécessairement vraie et irréfutable, où que vous soyez (par opposition à assertorique).
+

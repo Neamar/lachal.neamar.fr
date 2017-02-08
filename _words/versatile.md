@@ -14,3 +14,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/versatile/
 ---
 
 Qui change facilement d'opinion.
+

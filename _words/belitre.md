@@ -15,3 +15,4 @@ link: http://www.absurditis.com/index.php?page=dico&amp;lettre=B&amp;mot=B%E9l%E
 ---
 
 Homme coquin, sot, importun.
+

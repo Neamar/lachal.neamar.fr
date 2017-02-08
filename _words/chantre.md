@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/chantre
 ---
 
 Personne qui glorifie, loue quelqu'un ou quelque chose.
+

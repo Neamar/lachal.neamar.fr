@@ -15,3 +15,4 @@ link: http://definition.ptidico.com/automédon.html
 ---
 
 Par allusion à un personnage de la mythologie grecque, celui qui conduit une voiture. Le mot ne s'emploie qu'en plaisanterie.
+

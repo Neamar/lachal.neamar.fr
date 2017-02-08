@@ -23,3 +23,4 @@ De nombreux malades ont peur des chiffres constituant 666, plutôt que du nombre
 
 \i{À remarquer : ce mot est bien le plus long de la langue française, 
 devant anticonstitutionnellement !}
+

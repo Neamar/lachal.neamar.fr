@@ -15,3 +15,4 @@ link: http://www-fac-pharma.u-strasbg.fr/Officine/Upload/These_Moreno_Insectes/d
 ---
 
 Mouche piqueuse mesurant de 6 à 8mm susceptible de transmettre notamment le bacille du charbon
+

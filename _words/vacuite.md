@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/vacuit%C3%A9
 ---
 
 État d'une chose vide.
+

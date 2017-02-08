@@ -28,3 +28,4 @@ Il n'apparaît pourtant qu'une seule fois dans la littérature grecque et de man
 Il partage avec Achille sa « voix de bronze ».
 
 Les scholiastes d'Homère précisent que Stentor est d'origine thrace, qu'il est le premier à se servir d'une conque comme trompette de guerre et qu'il est mis à mort après avoir été vaincu par le dieu Hermès dans une joute vocale.
+

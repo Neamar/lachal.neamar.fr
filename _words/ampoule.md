@@ -16,3 +16,4 @@ link: http://fr.wiktionary.org/wiki/ampoul%C3%A9e
 ---
 
 Qui est enflé. Il ne se dit qu’au figuré et seulement en parlant des paroles ou des écrits qui sont prétentieux, emphatiques, sans profondeur ou creux.
+

@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/suppl%C3%A9tif
 ---
 
 Qui complète, qui sert de supplément.
+

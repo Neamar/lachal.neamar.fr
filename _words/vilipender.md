@@ -13,3 +13,4 @@ link: http://www.absurditis.com/index.php?page=dico&amp;lettre=V&amp;mot=Vilipen
 ---
 
 Traiter avec beaucoup de mépris, dénigrer.
+

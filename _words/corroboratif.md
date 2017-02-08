@@ -14,3 +14,4 @@ link: http://dico.reverso.net/dictionnaire-francais-littre/dic/definition/corrob
 ---
 
 En général,qui donne appui, force.
+

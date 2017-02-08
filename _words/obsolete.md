@@ -18,3 +18,4 @@ link: http://fr.wiktionary.org/wiki/obsol%C3%A8te
 ---
 
 Qui est hors d'usage, en parlant d'un mot, d'une locution.
+

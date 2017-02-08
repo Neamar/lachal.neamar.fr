@@ -17,3 +17,4 @@ link: http://fr.answers.com/topic/pan-gyriste
 ---
 
 Personne qui fait l'éloge, souvent de façon excessive, de quelqu'un, de quelque chose.
+

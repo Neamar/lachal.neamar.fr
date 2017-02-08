@@ -14,3 +14,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/putatif/
 ---
 
 Qui est supposé avoir une existence légale, qui est réputé être ce qu’il n’est pas.
+

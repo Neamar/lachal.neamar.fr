@@ -15,3 +15,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/cenacle/
 ---
 
 Réunion d'un petit nombre de personnes ayant les mêmes idées, les mêmes goûts, professant surtout les mêmes théories artistiques, littéraires, philosophiques.
+

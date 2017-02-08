@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/%C3%A9lucubration
 ---
 
 Réflexion laborieuse. S'emploie surtout de manière ironique pour souligner un résultat peu convaincant. 
+

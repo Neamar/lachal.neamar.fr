@@ -14,3 +14,4 @@ link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/l
 ---
 
 Qui tient du lis, qui en a la pureté et la blancheur.
+

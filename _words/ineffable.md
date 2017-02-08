@@ -12,3 +12,4 @@ link: http://fr.wiktionary.org/wiki/ineffable
 ---
 
 Qui ne peut être exprimé par des paroles.
+

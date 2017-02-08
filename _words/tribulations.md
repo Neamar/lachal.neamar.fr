@@ -15,3 +15,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/tribulations/
 ---
 
 Aventures, mésaventures, épreuves.
+

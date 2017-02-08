@@ -12,3 +12,4 @@ link: http://fr.wiktionary.org/wiki/gibeci%C3%A8re
 
 Grand sac de cuir ou de toile qui sert aux chasseurs et qui se porte généralement en bandoulière.
 Mais aussi sac des escamoteurs, des personnages fallacieux et des mystagogues.
+

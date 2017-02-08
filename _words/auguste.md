@@ -17,3 +17,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/auguste/
 ---
 
 Vénérable, majestueux.
+

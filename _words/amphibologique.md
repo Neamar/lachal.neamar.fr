@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/amphibologique
 ---
 
 Double sens présenté par une phrase en raison de sa construction ou du choix de certains mots. On peut citer par exemple : «ce pain n'est pas coupable, donc il est innocent», «elle est sortie en pleurant du café ...» (des larmes au café)
+

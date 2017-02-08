@@ -15,3 +15,4 @@ link: http://www.absurditis.com/index.php?page=dico&lettre=D&mot=Dithyrambique
 ---
 
 Qui est (volontiers) excessif ou pompeux dans ses éloges. Qui loue avec enthousiasme, souvent avec pompe, excès, emphase
+

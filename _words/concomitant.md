@@ -13,3 +13,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/concomitant/
 ---
 
 Qui accompagne, se produit en même temps, simultanéité de deux ou plusieurs faits.
+

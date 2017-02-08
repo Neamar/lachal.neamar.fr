@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/incoercible
 ---
 
 Que l’on ne peut contenir ni réprimer.
+

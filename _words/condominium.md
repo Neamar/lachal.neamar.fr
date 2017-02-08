@@ -13,3 +13,4 @@ link: http://fr.wikipedia.org/wiki/Condominium
 ---
 
 En droit international, un condominium est un territoire sur lequel plusieurs puissances exercent conjointement leurs autorités, leurs souverainetés. 
+

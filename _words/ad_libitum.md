@@ -14,3 +14,4 @@ link: http://www.dicoperso.com/term/adaeaea4acaba85761,,xhtml
 ---
 
 Locution latine qui exprime l'indifférence quant à une décision, liberté laissée à un musicien lorsqu'il exécute une œuvre.
+

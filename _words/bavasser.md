@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/bavasser
 ---
 
 Parler pour ne rien dire.
+

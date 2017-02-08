@@ -15,3 +15,4 @@ link: http://definition.ptidico.com/b%C3%A9jaune.html
 
 Se dit figurément d'un jeune homme sot et niais. 
 
+

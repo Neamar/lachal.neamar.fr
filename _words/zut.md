@@ -14,3 +14,4 @@ link: http://fr.wikipedia.org/wiki/Zut
 ---
 
 Zut est une interjection marquant le mécontentement. 
+

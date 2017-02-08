@@ -15,3 +15,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/beotien/
 
 Désigne une personne ignorante ou grossière.
 Le sens de "rustre" vient de la réputation que les Grecs donnaient aux habitants de la Béotie.
+

@@ -39,3 +39,4 @@ link: http://fr.wiktionary.org/wiki/captieux
 ---
 
 Qui tend à induire en erreur et à surprendre par quelque finesse, en parlant des raisonnements, des discours, etc.
+

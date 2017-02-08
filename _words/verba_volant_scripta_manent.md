@@ -15,3 +15,4 @@ link: http://fr.wikipedia.org/wiki/Liste_des_locutions_latines
 
 "Les paroles s'envolent, les écrits restent" : on retient mieux ce qui est écrit.
 Les choses écrites restent fiables et fidèles.
+

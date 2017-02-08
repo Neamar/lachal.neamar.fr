@@ -14,3 +14,4 @@ link: http://fr.wikipedia.org/wiki/Subliminal
 ---
 
 Une perception subliminale est une perception inconsciente, ou encore non visible consciemment.
+

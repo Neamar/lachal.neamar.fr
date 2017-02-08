@@ -16,3 +16,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/corroborer/
 ---
 
 Appuyer, confirmer quelque chose.
+

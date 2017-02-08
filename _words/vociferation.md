@@ -16,3 +16,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/vociferation/
 ---
 
 Cri de colère poussé par quelqu'un ou par un groupe de personnes.
+

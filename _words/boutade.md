@@ -15,3 +15,4 @@ link: http://atheisme.free.fr/Citations/Style_b.htm
 ---
 
 Mot d'esprit, saillie vive imprévue et originale, faisant souvent appel au paradoxe.
+

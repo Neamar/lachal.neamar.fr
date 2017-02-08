@@ -39,7 +39,7 @@ words.forEach(function(data) {
   content += "link: " + data.Lien + "\n";
   content += "---" + "\n";
   content += "\n";
-  content += data.Definition + "\n";
+  content += data.Definition + "\n\n";
 
   fs.writeFileSync(__dirname + "/../_words/" + data.Slug + ".md", content);
 });

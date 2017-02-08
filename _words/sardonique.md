@@ -14,3 +14,4 @@ link: http://www.linternaute.com/dictionnaire/fr/sens/sardonique/
 ---
 
 Sarcastique, qui exprime une moquerie méchante.
+

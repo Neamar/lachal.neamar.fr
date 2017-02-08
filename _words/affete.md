@@ -13,3 +13,4 @@ link: http://definition.ptidico.com/affété.html
 
 Qui est plein de manière précieuse de parler ou d'agir.
 Il se dit aussi des Choses qui marquent de l'affectation.
+

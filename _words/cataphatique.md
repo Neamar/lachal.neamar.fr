@@ -19,3 +19,4 @@ link: http://blog.legardemots.fr/post/2007/07/05/Catastrophe
 ---
 
 Qui exprime une affirmation.
+

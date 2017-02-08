@@ -11,3 +11,4 @@ link: http://fr.wiktionary.org/wiki/p%C3%A9tulance
 ---
 
 Action d'être extraverti.
+

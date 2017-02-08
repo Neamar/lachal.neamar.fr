@@ -17,3 +17,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/idoine/
 ---
 
 Désigne ce qui est convenable.
+

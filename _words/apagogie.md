@@ -15,3 +15,4 @@ link: http://dico.reverso.net/dictionnaire-francais-littre/dic/definition/apagog
 ---
 
 Terme de rhétorique. Sorte de démonstration par laquelle on fait voir la vérité d'une chose en prouvant l'impossibilité ou l'absurdité du contraire.
+

@@ -14,3 +14,4 @@ link: http://en.wikipedia.org/wiki/Defalcation
 ---
 
 Déduire, retrancher d'une somme, d'une quantité.
+

@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/abscons
 ---
 
 Tellement complexe qu'il n'en a plus aucun sens.
+

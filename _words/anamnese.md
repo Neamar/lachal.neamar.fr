@@ -17,3 +17,4 @@ Histoire des antécédents, résumé.
 Dans l'église catholique, l'anamnèse relate la vie de Jésus-Christ en quelques phrases.
 
 Désigne aussi et plus couramment une évocation volontaire du passé.
+

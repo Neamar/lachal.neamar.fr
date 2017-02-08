@@ -21,3 +21,4 @@ link: http://fr.wiktionary.org/wiki/capilotade
 
 Sorte de ragoût fait de plusieurs morceaux de viandes déjà cuites. 
 Très mauvaise situation, suite à une série de coups, d’attaques médisantes. 
+

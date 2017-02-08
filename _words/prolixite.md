@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/prolixit%C3%A9
 ---
 
 Ce qui est en trop, inutile, lorsque l'on parle longtemps ou écrit trop.
+

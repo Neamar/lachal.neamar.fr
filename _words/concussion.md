@@ -14,3 +14,4 @@ link: http://www.absurditis.com/index.php?page=dico&amp;lettre=C&amp;mot=Concuss
 ---
 
 Malversation d'un fonctionnaire qui ordonne de percevoir ou perçoit sciemment des fonds par abus de l'autorité que lui donne sa charge.
+

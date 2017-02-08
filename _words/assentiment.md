@@ -18,3 +18,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/assentiment/
 ---
 
 Consentement, accord à une proposition, une opinion.
+

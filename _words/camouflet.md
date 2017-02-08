@@ -28,3 +28,4 @@ link: http://fr.wiktionary.org/wiki/camouflet
 ---
 
 Vexation humiliante, affront, offense.
+

@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/atrabilaire
 ---
 
 Qui caractérise une personne facilement inquiète ou irascible.
+

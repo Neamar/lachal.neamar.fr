@@ -16,3 +16,4 @@ link: http://fr.wiktionary.org/wiki/mansu%C3%A9tude
 
 Douceur d’âme qui porte à être indulgent, patient et clément.
 Disposition morale qui incline à la bonté, au pardon.
+

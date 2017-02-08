@@ -15,3 +15,4 @@ link: http://www.dicopsy.com/coprolalie.htm
 ---
 
 La coprolalie est une tendance pathologique de langage qui consiste à dire de façon inusuelle des mots grossiers, vulgaires et orduriers.
+

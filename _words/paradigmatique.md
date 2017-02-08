@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/paradigmatique
 
 De \i{paradigme} : exemple parfait.
 Ensemble de problèmes à étudier et des techniques propres à leur étude.
+

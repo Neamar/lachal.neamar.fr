@@ -17,3 +17,4 @@ link: http://jc.bellamy.free.fr/fr/logomachie.html
 
 Assemblage de mots creux dans un discours, dans un raisonnement.
 Discussion sur les mots, où dans laquelle les interlocuteurs emploient les mêmes mots dans des sens différents.
+

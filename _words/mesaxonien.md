@@ -12,3 +12,4 @@ link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/m
 ---
 
 Se dit des animaux pourvus de sabots et qui ont un nombre impair de doigts.
+

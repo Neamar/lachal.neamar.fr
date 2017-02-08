@@ -12,3 +12,4 @@ link: http://www.funmeninges.com/dicoplus-consulter-mot-ERYTHROPHOBIE.html
 ---
 
 Crainte excessive, à caractère pathologique, de rougir en public.
+

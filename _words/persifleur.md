@@ -11,3 +11,4 @@ link: http://fr.wiktionary.org/wiki/persifler
 ---
 
 Celui qui persifle, i.e. qui parle avec ironie, avec moquerie.
+

@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/capucinade
 ---
 
 Discours plat ou acte de dévotion qui parait ridicule et peu sincère, tirade ennuyeuse et moralisante.
+

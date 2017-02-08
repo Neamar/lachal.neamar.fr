@@ -14,3 +14,4 @@ link: http://fr.wikipedia.org/wiki/Sycophante
 ---
 
 Dans les cités grecques antiques, désignait un délateur professionnel qui dénoncait dans un but lucratif.
+

@@ -25,3 +25,4 @@ link: http://fr.wiktionary.org/wiki/fastidieux
 ---
 
 Qui cause de l’ennui, qui est sans intérêt.
+

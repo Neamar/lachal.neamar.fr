@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/taxinomie
 ---
 
 Désigne un arbre hiérarchique de catégorisation thématique. Science des lois de la classification.
+

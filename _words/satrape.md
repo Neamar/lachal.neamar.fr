@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/satrape
 ---
 
 Personne immensément riche qui mène une vie luxueuse et opulente et qui exerce une autorité despotique.
+

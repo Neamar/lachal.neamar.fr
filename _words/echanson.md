@@ -20,3 +20,4 @@ Un échanson était un officier chargé de servir à boire à un roi, un prince 
 Dans la mythologie et les religions, les divinités ont parfois un échanson elles aussi.
 
 De plus, dans la Bible (Genèse, chapitre 40), on parle de l'échanson du pharaon.
+

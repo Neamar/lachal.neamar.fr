@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/paroxystique
 
 (Identique à paroxysmique.)
 Qui a atteint son maximum, son point culminant, son apogée, bref : son paroxysme.
+

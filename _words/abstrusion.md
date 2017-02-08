@@ -13,3 +13,4 @@ link: http://books.google.fr/books?id=lfcFAAAAQAAJ&amp;pg=PA4&amp;lpg=PA4&amp;dq
 
 Action d'abstruser, état abstrus (cacher profondément).
 Qui est difficile à comprendre, à saisir par l’esprit.
+

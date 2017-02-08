@@ -21,3 +21,4 @@ link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/P
 ---
 
 En droit, manquement (par intérêt) d'un responsable aux devoirs induits par sa fonction.
+

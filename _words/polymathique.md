@@ -13,3 +13,4 @@ link: http://dictionnaire.la-connaissance.net/dictionnaire-definition_mot-polyma
 ---
 
 Qui a rapport à la polymathie, i.e. qui est multiple et varié.
+

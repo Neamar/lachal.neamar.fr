@@ -17,3 +17,4 @@ link: http://fr.wiktionary.org/wiki/Apophtegme
 ---
 
 Parole mémorable de quelque personne illustre ayant valeur de maxime.
+

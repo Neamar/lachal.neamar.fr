@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/fallacieux
 ---
 
 Qui est basé sur un mensonge ou un faux. Qui vise à tromper.
+

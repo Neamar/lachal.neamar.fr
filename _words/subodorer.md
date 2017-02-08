@@ -14,3 +14,4 @@ link: http://www.absurditis.com/index.php?page=dico&mot=Subodorer
 ---
 
 Émettre une hypothèse, pressentir, se douter de.
+

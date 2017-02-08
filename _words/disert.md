@@ -13,3 +13,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/disert/
 ---
 
 Qui s'exprime avec facilité et aisance
+

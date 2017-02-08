@@ -24,3 +24,4 @@ link: http://www.mediadico.com/dictionnaire/synonymes/satisfecit/1
 ---
 
 Mot emprunté du latin, le satisfecit est une attestation donnée en témoignage de satisfaction, originellement par un professeur à son élève pour son travail. 
+

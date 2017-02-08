@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/ratiocination
 ---
 
 Raisonnement trop subtil. (Faux ami avec l'anglais, où il signifie "raisonnement bien pensé".)
+

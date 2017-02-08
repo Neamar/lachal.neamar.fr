@@ -22,3 +22,4 @@ La triskaidékaphobie a peut-être également affecté les Vikings, le dieu Loki
 On rencontre au Japon une phobie similaire concernant le nombre 4, dont une des lectures (shi) est une homonymie de la mort.
 
 Le mot triskaidékaphobie est une composition étymologiquement correcte mais assez arbitraire : dans les pays anglophones, le mot est plutôt employé comme virelangue que pour réellement désigner la phobie.
+

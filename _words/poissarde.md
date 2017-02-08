@@ -12,3 +12,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/poissarde/
 ---
 
 Femme qui emploie un langage grossier.
+

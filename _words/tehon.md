@@ -13,3 +13,4 @@ link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/h
 ---
 
 Verlan du mot &quot;Honte&quot;. Se dit d'une chose déshonorante.
+

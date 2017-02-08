@@ -17,3 +17,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/deblaterer/
 ---
 
 Parler avec virulence contre quelque chose ou quelqu'un.
+

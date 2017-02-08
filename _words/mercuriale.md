@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/mercuriale
 ---
 
 Réprimande sévère que l'on fait à quelqu'un.
+

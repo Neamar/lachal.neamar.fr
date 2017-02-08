@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/philippique
 
 De Philippe : terme emprunté aux harangues de Démosthène contre Philippe de Macédoine. 
 Discours violent et satirique.
+

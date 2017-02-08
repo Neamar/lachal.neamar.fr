@@ -14,3 +14,4 @@ link: http://fr.answers.com/topic/a-posteriori-3
 ---
 
 Se déduit de l'expérience.
+

@@ -19,3 +19,4 @@ Si vous dites de quelqu'un qu'il fait quelque chose avec componction, vous signi
 Ironiquement, désigne une fausse repentance.
 
 À l'origine, désigne le regret d'avoir offensé Dieu.
+

@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/dilatoire
 
 Du latin dilatorius, de differre qui veut dire « différer, retarder ».
 Qui tend à prolonger une échéance, un délai.
+

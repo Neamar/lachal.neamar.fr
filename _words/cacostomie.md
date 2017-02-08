@@ -14,3 +14,4 @@ link: http://www.absurditis.com/index.php?page=dico&amp;lettre=C&amp;mot=Cacosto
 Mauvaise odeur de la bouche.
 
 A ne pas confondre avec la cacosmie, qui est un terme qui désigne la modification du sens olfactif (perception des odeurs) conduisant les patients à aimer certaines odeurs désagréables ou fétides.
+

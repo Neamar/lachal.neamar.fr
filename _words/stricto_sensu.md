@@ -13,3 +13,4 @@ link: http://fr.wikipedia.org/wiki/Stricto_sensu
 ---
 
 Stricto sensu (ou sensu stricto) est une locution latine qui signifie au sens strict. Par opposition, lato sensu veut dire au sens large.
+

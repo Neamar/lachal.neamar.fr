@@ -13,3 +13,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/litote/
 ---
 
 Procédé d'expression qui consiste à dire moins pour faire entendre plus.
+

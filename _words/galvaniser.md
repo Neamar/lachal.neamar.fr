@@ -12,3 +12,4 @@ link: http://fr.wiktionary.org/wiki/galvaniser
 ---
 
 Donner un encouragement, stimuler.
+

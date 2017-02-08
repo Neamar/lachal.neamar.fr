@@ -12,3 +12,4 @@ link: http://www.linternaute.com/dictionnaire/fr/cgi/recherche/recherche.php
 ---
 
 Désigne ce qui est brillant, éclatant, étincelant.
+

@@ -16,3 +16,4 @@ link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/b
 ---
 
 Qui présente un caractère d'une excessive et oiseuse subtilité, le terme évoquant les débats des théologiens byzantins.
+

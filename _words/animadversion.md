@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/animadversion
 ---
 
 Censure, blâme ; désigne une haine persévérante.
+

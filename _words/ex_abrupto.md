@@ -14,3 +14,4 @@ link: http://www.dicoperso.com/list/8/6,A,,xhtml
 ---
 
 Locution empruntée du latin, qu'on emploie quelquefois pour indiquer la rapidité et l'absence de préparation à un acte ou une action.
+

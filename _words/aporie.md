@@ -13,3 +13,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/aporie/
 
 Contradiction irréductible.
 Terme grec signifiant embarras.
+

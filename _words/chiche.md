@@ -16,3 +16,4 @@ Chiche est un mot français ayant trois sens :
 \item \b{Avare} (du latin \i{ciccum}, chose de peu de valeur) ;
 \item \b{Pois} (du latin \i{cicer}, pois), maintenant utilisé dans le nom d'un légume, le pois chiche ;
 \item Une interjection (chiche !) exprimant le défi.
+

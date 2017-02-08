@@ -24,3 +24,4 @@ Leurs cités ont dominé la région jusqu'à la conquête assyrienne de Teglath-
 La langue des Philistins reste inconnue, dans la mesure où on ne leur connaît aucune production textuelle. Il est possible que ce soit à l'origine une langue Indo-Européenne, mais les preuves en sont ténues.
 
 Désigne une personne à l'esprit vulgaire, fermée aux lettres, aux arts, aux nouveautés.
+

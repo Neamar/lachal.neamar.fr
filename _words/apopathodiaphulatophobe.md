@@ -14,3 +14,4 @@ link: http://fr.wikipedia.org/wiki/Apopathodiaphulatophobie
 ---
 
 L'apopathodiaphulatophobie est la peur de la constipation. Elle peut entraîner chez certains individus une surconsommation de produits laxatifs amenant à des mélanoses rectocoliques et autres colites réactionnelles sanguines.
+

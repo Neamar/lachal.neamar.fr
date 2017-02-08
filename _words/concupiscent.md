@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/concupiscence
 ---
 
 Adjectif de concupiscence : envie, inclination violente aux plaisirs qui sont interdits par les moralistes, surtout aux plaisirs sexuels.
+

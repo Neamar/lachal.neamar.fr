@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/oblatif
 ---
 
 Qui s’offre à l’autre, qui donne la priorité à la satisfaction des besoins de l’autre.
+

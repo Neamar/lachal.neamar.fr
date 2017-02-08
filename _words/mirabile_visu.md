@@ -14,3 +14,4 @@ link: http://www.locutio.net/modules.php?name=Encyclopedia&amp;op=content&amp;ti
 ---
 
 Ironiquement, chose admirable à voir.
+

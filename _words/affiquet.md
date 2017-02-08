@@ -21,3 +21,4 @@ link: http://definition.ptidico.com/affiquet.html
 
 Parure, ajustement.
 S'utilise au pluriel et par raillerie, sur l'accoutrement d'une femme.
+

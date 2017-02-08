@@ -12,3 +12,4 @@ link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/i
 ---
 
 Qui ne se repent pas, qui persiste dans une habitude.
+

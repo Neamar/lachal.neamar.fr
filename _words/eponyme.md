@@ -16,3 +16,4 @@ Le terme s'emploie surtout en littérature, histoire, cinéma économie :
 \item pour une personne/chose donnant son nom à l'œuvre ;
 \item pour un personnage (Dieu, héros, saint) ayant donné son nom à un lieu ou à un peuple ;
 \item pour le créateur d'une entreprise qui la baptise de son nom.
+

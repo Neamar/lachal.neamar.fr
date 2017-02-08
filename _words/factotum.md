@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/factotum
 ---
 
 Emprunté au latin de la Renaissance fac totum (« fais tout ») : celui qui s’occupe de tout dans une maison où il est employé. 
+

@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/assuétude
 ---
 
 Etat de fébrilité et d'addiction.
+

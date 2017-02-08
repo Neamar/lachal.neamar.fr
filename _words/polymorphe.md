@@ -12,3 +12,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/polymorphe/
 ---
 
 Qui peut prendre des formes diverses.
+

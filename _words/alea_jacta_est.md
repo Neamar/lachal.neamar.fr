@@ -19,3 +19,4 @@ Sommé par le Sénat de lui remettre ses légions et de rentrer en Italie comme 
 Plutarque, Suétone et Appien dépeignent César réfléchissant longuement face à l'importance de son entreprise qui allait bouleverser la République. De plus, selon Suétone, César prit sa décision à la suite d'un signe miraculeux qui entraîna ses troupes à franchir le pont du Rubicon. Toujours selon ces trois historiens, il prononça alors la célèbre phrase « Alea iacta est », « le sort en est jeté ».
 
 La rivière du Rubicon marquait la limite entre la Gaule cisalpine, province sous l'autorité du proconsul Jules César, et l'Italie. Un tel acte, contraire à la décision du Sénat, fut considéré comme un acte d'agression. Il déclencha, du même coup, la guerre civile.
+

@@ -13,3 +13,4 @@ link: http://fr.wikipedia.org/wiki/%C3%89ructation
 ---
 
 Remontée de gaz provenant de l'estomac. Par extension, proférer des propos virulents.
+

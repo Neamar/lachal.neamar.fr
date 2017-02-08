@@ -14,3 +14,4 @@ link: http://www.terroirexperience.com/vin/empyreumatique-344-e.html
 ---
 
 Arôme qui rappelle la fumée, le brulé et le caoutchouc (famille des odeurs brulées, chauffées ou séchées).
+

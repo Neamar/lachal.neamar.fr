@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/ataraxie
 
 État du sage affranchi de toute émotion, de toute passion.
 Quiétude absolue de l'âme
+

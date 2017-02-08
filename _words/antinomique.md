@@ -12,3 +12,4 @@ link: http://fr.wiktionary.org/wiki/antinomique
 ---
 
 Qui entraîne une opposition ou une contradiction.
+

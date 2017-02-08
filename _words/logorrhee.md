@@ -14,3 +14,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/logorrhee/
 ---
 
 Diarrhée verbale, flot de paroles désordonnées, incoercible et rapide, que l'on rencontre dans certains états d'excitation psychique.
+

@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/attentatoire
 ---
 
 Qui porte atteinte à.
+

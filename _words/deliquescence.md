@@ -12,3 +12,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/deliquescence/
 ---
 
 Affaiblissement des capacités intellectuelles ; décrépitude voire décadence complète
+

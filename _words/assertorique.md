@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/assertorique
 ---
 
 Un jugement assertorique énonce une vérité de fait, sans la poser comme nécessaire.
+

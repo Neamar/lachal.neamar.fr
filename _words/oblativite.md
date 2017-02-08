@@ -13,3 +13,4 @@ link: http://www.dicopsy.com/oblativite.htm
 ---
 
 Conduite altruiste dans laquelle le sujet cherche à satisfaire son prochain sans demande de contrepartie.
+

@@ -11,3 +11,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/comparution/
 ---
 
 Action de comparaître (de se présenter) devant un juge, un notaire.
+

@@ -16,3 +16,4 @@ link: http://lemotdujour.over-blog.com/article-13656982.html
 ---
 
 Du latin \i{ad patres} « chez les ancêtres » : désigne une personne décédée. Aller \i{ad patres}, c'est mourir...
+

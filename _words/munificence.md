@@ -15,3 +15,4 @@ link: http://www.absurditis.com/index.php?page=dico&lettre=M&mot=Munificence
 
 Disposition qui porte à donner largement ; grandeur dans la générosité.
 \i{Attention : s'écrit munificence, à ne pas confondre avec magnificence, qui caractérise ce qui est magnifique.}
+

@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/verve
 ---
 
 Chaleur d’imagination qui anime l’orateur, le poète, l’artiste dans la composition de leurs ouvrages.
+

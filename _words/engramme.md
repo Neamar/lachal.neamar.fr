@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/engramme
 ---
 
 Empreinte laissée dans le cerveau ou le système nerveux par un événement douloureux et susceptible d’être réactivé par une stimulation appropriée.
+

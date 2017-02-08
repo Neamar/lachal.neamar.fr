@@ -12,3 +12,4 @@ link: http://fr.wiktionary.org/wiki/in%C3%A9narrable
 ---
 
 Qui ne peut être ni narré, ni raconté.
+

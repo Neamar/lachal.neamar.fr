@@ -12,3 +12,4 @@ link: http://dictionnaire.reverso.net
 ---
 
 Qui a la blancheur, l'apparence de l'ivoire.
+

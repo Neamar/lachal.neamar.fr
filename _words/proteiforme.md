@@ -19,3 +19,4 @@ link: http://dictionnaire.sensagent.com/prot%C3%A9iforme/fr-fr/
 ---
 
 Vient de Protée, dieu grec marin qui pouvait changer de forme. Désigne quelque chose (ou quelqu'un) susceptible de prendre plusieurs formes, et/ou d'en changer fréquemment.
+

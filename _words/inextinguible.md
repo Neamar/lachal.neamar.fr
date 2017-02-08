@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/inextinguible
 ---
 
 Qui ne peut s'éteindre, qu'on ne peut apaiser, arrêter.
+

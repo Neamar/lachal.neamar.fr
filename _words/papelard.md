@@ -15,3 +15,4 @@ link: http://fr.wiktionary.org/wiki/papelard
 ---
 
 Hypocrite, faussement dévot. 
+

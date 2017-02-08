@@ -12,3 +12,4 @@ link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp?action=1&amp
 ---
 
 À l'origine, passionné de courses de taureaux. Désigne maintenant dans le langage courant quelqu'un qui aime quelque chose avec ferveur.
+

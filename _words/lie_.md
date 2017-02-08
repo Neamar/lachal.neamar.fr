@@ -15,3 +15,4 @@ Au cours de la fermentation alcoolique, puis de la fermentation malolactique, de
 C'est aussi de ce terme que vient le nom de la couleur lie  de vin ou lie-de-vin (rouge violacé).
 
 Enfin, on parle de manière imagée de la lie  quand on veut désigner péjorativement les résidus, les déchets ou les couches sociales considérées comme inférieures.
+

@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/circonvolution
 ---
 
 Course circulaire ou elliptique autour d'un centre plus ou moins fixe.
+

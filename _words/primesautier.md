@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/primesautier
 ---
 
 Qui se détermine spontanément, qui agit, qui parle ou qui écrit sans délibération, sans réflexion préalable.
+

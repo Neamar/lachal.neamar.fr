@@ -15,3 +15,4 @@ link: http://fr.wikipedia.org/wiki/Errare_humanum_est,_perseverare_diabolicum
 La locution latine complète est la suivante:
 Errare humanum est, perseverare diabolicum
 = "Il est humain de se tromper, persévérer [dans l’erreur] est diabolique".
+

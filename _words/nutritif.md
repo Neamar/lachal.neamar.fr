@@ -11,3 +11,4 @@ link: http://fr.encarta.msn.com/dictionary_/nutritif.html
 ---
 
 Lié à l'assimilation par l'organisme des substances nécessaires à sa survie.
+

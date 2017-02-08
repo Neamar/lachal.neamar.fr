@@ -13,3 +13,4 @@ link: http://www.absurditis.com/index.php?page=dico&amp;lettre=M&amp;mot=Mison%E
 ---
 
 Tendance d'esprit ou attitude systématique d'hostilité à l'innovation, au changement (dans les habitudes et les préjugés établis).
+

@@ -14,3 +14,4 @@ link: http://www.locutio.net/modules.php?name=Encyclopedia&op=content&tid=5059
 
 Locution latine signifiant :
 "qui se tait semble consentir" ou "qui ne dit mot consent".
+

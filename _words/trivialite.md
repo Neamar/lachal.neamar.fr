@@ -18,3 +18,4 @@ link: http://fr.wiktionary.org/wiki/trivialit%C3%A9
 ---
 
 Non important, à caractère banal. Désigne aussi quelque chose de vulgaire ou de grossier.
+

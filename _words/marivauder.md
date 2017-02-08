@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/marivauder
 ---
 
 Tenir des propos, particulièrement en matière d’amour, qui rappellent les raffinements et la subtilité des personnages de Marivaux (autrement dit, parler pour ne rien dire d'une façon amoureuse...).
+

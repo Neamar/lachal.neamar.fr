@@ -13,3 +13,4 @@ link:
 ---
 
 Terme familier et suranné désignant une personne un peu niaise.
+

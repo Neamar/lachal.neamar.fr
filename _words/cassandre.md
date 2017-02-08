@@ -16,3 +16,4 @@ Personne qui prédit une issue défavorable aux évènements, au risque de dépl
 À l'origine, Cassandre était la fille du Roi Priam. Elle voyait l'avenir mais n'était jamais écoutée.
 
 
+

@@ -14,3 +14,4 @@ link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/m
 ---
 
 Caractère de ce qui est magnifique. (à ne pas confondre avec munificence !)
+

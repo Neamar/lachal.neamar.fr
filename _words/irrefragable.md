@@ -13,3 +13,4 @@ link: http://fr.wiktionary.org/wiki/irr%C3%A9fragable
 ---
 
 Qu'on ne peut récuser ni contredire.
+

@@ -14,3 +14,4 @@ link: http://fr.wikipedia.org/wiki/Ob%C3%A9dience
 ---
 
 Une obédience (du latin oboedientia, obéissance) désigne l'obéissance due à un supérieur, et par extension l'appartenance à un groupe.
+

@@ -15,3 +15,4 @@ link: http://www.absurditis.com/index.php?page=dico&lettre=N&mot=Nonobstant
 ---
 
 Tout simplement une façon évoluée de dire « Malgré, en faisant fi de ».
+

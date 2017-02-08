@@ -14,3 +14,4 @@ link: http://fr.wikipedia.org/wiki/Syst%C3%A8me_exhaustif
 ---
 
 Qui épuise une matière, une question, qui traite un sujet d'étude à fond et sans rien omettre. 
+

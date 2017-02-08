@@ -14,3 +14,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/acrimonie/
 ---
 
 Mauvaise humeur exprimée par des propos acerbes ou hargneux.
+

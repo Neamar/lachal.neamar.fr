@@ -14,3 +14,4 @@ link: http://fr.wiktionary.org/wiki/inanit%C3%A9
 ---
 
 Caractère d'inutilité, de futilité, de vanité.
+

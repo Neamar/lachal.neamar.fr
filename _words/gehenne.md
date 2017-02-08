@@ -18,3 +18,4 @@ Vient du latin, gehenna, et de l'hébreu ge-hinnom, qui désigne la vallée de H
 
 Le premier sens de géhenne est Biblique : il désigne le séjour des réprouvés. La vallée de Géhinnon fut ainsi pour les Juifs l'emblème de l'enfer. C'est pour cela que le terme de géhenne est souvent employé pour désigner le lieu auquel les méchants seront condamnés après leur mort.
 Son second sens, figuré et vieilli, désigne une torture appliquée aux criminels, et donc par extension une souffrance intense et intolérable. 
+

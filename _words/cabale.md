@@ -14,3 +14,4 @@ link: http://www.linternaute.com/dictionnaire/fr/definition/cabale/
 ---
 
 Intrigues secrètes, intrigues contre quelqu'un ou quelque chose.
+
