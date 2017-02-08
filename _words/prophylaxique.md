@@ -24,8 +24,10 @@ Une prophylaxie désigne le processus actif ou passif ayant pour but de préveni
 
 Types de prophylaxie :
 
-<li> la prophylaxie primaire doit empêcher l'apparition d'une maladie chez une personne ;
-<li> la prophylaxie secondaire doit empêcher une rechute chez une personne.
+
+* la prophylaxie primaire doit empêcher l'apparition d'une maladie chez une personne ;
+
+* la prophylaxie secondaire doit empêcher une rechute chez une personne.
 
 La prophylaxie concerne aussi bien les maladies infectieuses que les accidents du travail, les parasitoses ou le développement psychomoteur.
 

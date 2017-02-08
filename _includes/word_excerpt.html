@@ -1,6 +1,6 @@
 <dt>
 	<a href="{{ site.github.url }}/{{ word.permalink }}">{{ word.title }}</a>
-	<em>Catégorie : {{ word.categories | join:", " }}</em>
+	{% if word.categories != empty %}<em>Catégorie : {{ word.categories | join:", " }}</em>{% endif %}
 </dt>
 <dd>
 	<p>{{ word.excerpt }}</p>

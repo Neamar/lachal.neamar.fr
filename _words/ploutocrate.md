@@ -12,5 +12,5 @@ examples:
 link: http://fr.wiktionary.org/wiki/ploutocrate
 ---
 
-Désigne ceux, celles qui exercent le pouvoir par l'argent et pour l'argent. \small{(mais... c'est encore le portrait de Yannish !)}
+Désigne ceux, celles qui exercent le pouvoir par l'argent et pour l'argent. <small>(mais... c'est encore le portrait de Yannish !)</small>
 

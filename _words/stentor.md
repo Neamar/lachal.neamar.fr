@@ -19,11 +19,11 @@ Il reste dans l'expression populaire « avoir une voix de Stentor » qui, dès l
 
 Il n'apparaît pourtant qu'une seule fois dans la littérature grecque et de manière indirecte, lorsque, au chant V de l'Iliade, Héra revêt son apparence pour encourager les Achéens :
 
-\begin{verse}
+>
     «  Héra, la déesse aux bras blancs, s'arrêta et, prenant
     Les traits du valeureux Stentor, qui, de sa voix de bronze,
     Faisait autant de bruit que cinquante hommes, s'écria (...)  »
-\end{verse}
+
 
 Il partage avec Achille sa « voix de bronze ».
 

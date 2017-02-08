@@ -27,7 +27,12 @@ words.forEach(function(data) {
 
   content += "synonyms:" + "\n";
   data.Synonyme.split(",").forEach(function(synonyme) {
-    content += "  - " + synonyme.trim() + "\n";
+    if(synonyme.indexOf(":") !== -1) {
+      content += "  - \"" + synonyme.trim().replace(/"/g, '\\"') + "\"\n";
+    }
+    else {
+      content += "  - " + synonyme.trim() + "\n";
+    }
   });
   content += "examples:" + "\n";
   if(data.Exemple1) {
@@ -39,7 +44,21 @@ words.forEach(function(data) {
   content += "link: " + data.Lien + "\n";
   content += "---" + "\n";
   content += "\n";
-  content += data.Definition.replace(/\\i{(.+?)}/g, "*$1*").replace(/\\b{(.+?)}/g, "**$1**").replace(/\\item/g, "<li>") + "\n\n";
+  var definition = data.Definition;
+  definition = definition.replace(/\\i{([\s\S]+?)}/g, "*$1*");
+  definition = definition.replace(/\\b{([\s\S]+?)}/g, "**$1**");
+  definition = definition.replace(/\\item/g, "\n*");
+  definition = definition.replace(/\\begin\{verse\}/g, ">");
+  definition = definition.replace(/\\end\{verse\}/g, "");
+  definition = definition.replace(/\\up\{(.+?)\}/g, "<sup>$1</sup>");
+  definition = definition.replace(/\\date\{(.+?)\}/g, "$1");
+  definition = definition.replace(/\\c\{(.+?)\}/g, "$1");
+  definition = definition.replace(/\\small\{(.+?)\}/g, "<small>$1</small>");
+
+  content += definition + "\n\n";
+
+  // Windows linefeed: yerk
+  content = content.replace(/\r/g, "");
 
   fs.writeFileSync(__dirname + "/../_words/" + data.Slug + ".md", content);
 });

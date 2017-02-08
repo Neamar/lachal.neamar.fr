@@ -6,8 +6,8 @@ categories:
   - Mot complexe
 synonyms:
   - À mon avis un seul mot pour désigner cette phobie suffit largement ;)
-  - Voir aussi : Apopathodiaphulatophobe
-  - Voir aussi : Hexakosioihexekontahexaphobe (nombre 666)
+  - "Voir aussi : Apopathodiaphulatophobe"
+  - "Voir aussi : Hexakosioihexekontahexaphobe (nombre 666)"
 examples:
   - "Tiens, il n'y a pas d'exo n°13 ! Cette fiche à due être réalisée par un triskaiddékaphobe..."
 link: http://fr.wikipedia.org/wiki/Phobie_du_nombre_treize
