@@ -1,6 +1,7 @@
 ---
 title: Autarcie
 permalink: autarcie.html
+canonical: http://lachal.neamar.fr/Autarcie
 layout: word
 categories:
 synonyms:

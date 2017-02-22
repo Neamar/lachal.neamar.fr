@@ -1,6 +1,7 @@
 ---
 title: Irréfragable
 permalink: irrefragable.html
+canonical: http://lachal.neamar.fr/Irrefragable
 layout: word
 categories:
   - Mot complexe

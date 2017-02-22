@@ -1,6 +1,7 @@
 ---
 title: Qui tacet consentire videtur
 permalink: qui_tacet_consentire_videtur.html
+canonical: http://lachal.neamar.fr/Qui_tacet_consentire_videtur
 layout: word
 categories:
   - Citation latine

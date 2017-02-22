@@ -1,6 +1,7 @@
 ---
 title: Epsilon
 permalink: epsilon.html
+canonical: http://lachal.neamar.fr/Epsilon
 layout: word
 categories:
 synonyms:

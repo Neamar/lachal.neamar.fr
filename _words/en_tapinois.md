@@ -1,6 +1,7 @@
 ---
 title: En tapinois
 permalink: en_tapinois.html
+canonical: http://lachal.neamar.fr/En_tapinois
 layout: word
 categories:
 synonyms:

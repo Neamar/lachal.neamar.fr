@@ -1,6 +1,7 @@
 ---
 title: Sagouin
 permalink: sagouin.html
+canonical: http://lachal.neamar.fr/Sagouin
 layout: word
 categories:
 synonyms:

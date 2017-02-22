@@ -1,6 +1,7 @@
 ---
 title: Psychopompe
 permalink: psychopompe.html
+canonical: http://lachal.neamar.fr/Psychopompe
 layout: word
 categories:
   - Mot complexe

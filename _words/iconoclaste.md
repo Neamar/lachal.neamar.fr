@@ -1,6 +1,7 @@
 ---
 title: Iconoclaste
 permalink: iconoclaste.html
+canonical: http://lachal.neamar.fr/Iconoclaste
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Subrepticement
 permalink: subrepticement.html
+canonical: http://lachal.neamar.fr/Subrepticement
 layout: word
 categories:
 synonyms:

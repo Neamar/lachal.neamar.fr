@@ -1,6 +1,7 @@
 ---
 title: Paralogisme
 permalink: paralogisme.html
+canonical: http://lachal.neamar.fr/Paralogisme
 layout: word
 categories:
 synonyms:

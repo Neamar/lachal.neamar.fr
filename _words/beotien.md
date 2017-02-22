@@ -1,6 +1,7 @@
 ---
 title: Béotien
 permalink: beotien.html
+canonical: http://lachal.neamar.fr/Beotien
 layout: word
 categories:
 synonyms:

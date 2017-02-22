@@ -1,6 +1,7 @@
 ---
 title: Modus Operandi
 permalink: modus_operandi.html
+canonical: http://lachal.neamar.fr/Modus_operandi
 layout: word
 categories:
   - Citation latine

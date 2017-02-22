@@ -1,6 +1,7 @@
 ---
 title: Persifleur
 permalink: persifleur.html
+canonical: http://lachal.neamar.fr/Persifleur
 layout: word
 categories:
 synonyms:

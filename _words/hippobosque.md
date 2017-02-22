@@ -1,6 +1,7 @@
 ---
 title: Hippobosque
 permalink: hippobosque.html
+canonical: http://lachal.neamar.fr/Hippobosque
 layout: word
 categories:
   - Mot complexe

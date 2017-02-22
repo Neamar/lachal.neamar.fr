@@ -1,6 +1,7 @@
 ---
 title: Idiolecte
 permalink: idiolecte.html
+canonical: http://lachal.neamar.fr/Idiolecte
 layout: word
 categories:
   - Mot complexe

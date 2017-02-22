@@ -7,6 +7,10 @@
 	  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
 	});
 	</script>
+
+	{% if page.canonical != blank %}
+	<link rel="canonical" href="{{ page.canonical }}" />
+	{% endif %}
 	<title>{{ page.title }}</title>
 </head>
 <body>

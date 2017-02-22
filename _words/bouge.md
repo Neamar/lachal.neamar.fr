@@ -1,6 +1,7 @@
 ---
 title: Bouge
 permalink: bouge.html
+canonical: http://lachal.neamar.fr/Bouge
 layout: word
 categories:
 synonyms:

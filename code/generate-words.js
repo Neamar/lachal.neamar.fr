@@ -18,6 +18,7 @@ words.forEach(function(data) {
   content += "title: " + data.Mot + "\n";
   // TODO: slugify
   content += "permalink: " + data.Slug + ".html" + "\n";
+  content += "canonical: http://lachal.neamar.fr/" + data.Slug[0].toUpperCase() + data.Slug.substr(1) + "\n";
   content += "layout: word" + "\n";
   content += "categories:" + "\n";
 

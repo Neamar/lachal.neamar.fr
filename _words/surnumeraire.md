@@ -1,6 +1,7 @@
 ---
 title: Surnuméraire
 permalink: surnumeraire.html
+canonical: http://lachal.neamar.fr/Surnumeraire
 layout: word
 categories:
   - Mot complexe

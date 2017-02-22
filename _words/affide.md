@@ -1,6 +1,7 @@
 ---
 title: Affidé
 permalink: affide.html
+canonical: http://lachal.neamar.fr/Affide
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Baloche
 permalink: baloche.html
+canonical: http://lachal.neamar.fr/Baloche
 layout: word
 categories:
 synonyms:

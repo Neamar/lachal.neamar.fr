@@ -1,6 +1,7 @@
 ---
 title: Rédhibitoire
 permalink: redhibitoire.html
+canonical: http://lachal.neamar.fr/Redhibitoire
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Paraphrénie
 permalink: paraphrenie.html
+canonical: http://lachal.neamar.fr/Paraphrenie
 layout: word
 categories:
   - Mot complexe

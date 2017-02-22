@@ -1,6 +1,7 @@
 ---
 title: Ex Nihilo
 permalink: ex_nihilo.html
+canonical: http://lachal.neamar.fr/Ex_nihilo
 layout: word
 categories:
   - Citation latine

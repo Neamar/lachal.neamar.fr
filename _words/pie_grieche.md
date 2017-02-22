@@ -1,6 +1,7 @@
 ---
 title: Pie grièche
 permalink: pie_grieche.html
+canonical: http://lachal.neamar.fr/Pie_grieche
 layout: word
 categories:
 synonyms:

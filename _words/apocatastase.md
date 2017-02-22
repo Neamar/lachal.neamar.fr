@@ -1,6 +1,7 @@
 ---
 title: Apocatastase
 permalink: apocatastase.html
+canonical: http://lachal.neamar.fr/Apocatastase
 layout: word
 categories:
   - Mot complexe

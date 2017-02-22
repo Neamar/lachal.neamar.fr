@@ -1,6 +1,7 @@
 ---
 title: Inénarrable
 permalink: inenarrable.html
+canonical: http://lachal.neamar.fr/Inenarrable
 layout: word
 categories:
 synonyms:

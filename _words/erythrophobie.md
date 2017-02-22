@@ -1,6 +1,7 @@
 ---
 title: Erythrophobie
 permalink: erythrophobie.html
+canonical: http://lachal.neamar.fr/Erythrophobie
 layout: word
 categories:
   - Mot complexe

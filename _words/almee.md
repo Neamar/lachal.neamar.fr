@@ -1,6 +1,7 @@
 ---
 title: Almée
 permalink: almee.html
+canonical: http://lachal.neamar.fr/Almee
 layout: word
 categories:
   - Mot complexe

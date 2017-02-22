@@ -1,6 +1,7 @@
 ---
 title: Apophatique
 permalink: apophatique.html
+canonical: http://lachal.neamar.fr/Apophatique
 layout: word
 categories:
   - Mot complexe

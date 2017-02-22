@@ -1,6 +1,7 @@
 ---
 title: Logorrhée
 permalink: logorrhee.html
+canonical: http://lachal.neamar.fr/Logorrhee
 layout: word
 categories:
   - Mot complexe

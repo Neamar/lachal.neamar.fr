@@ -1,6 +1,7 @@
 ---
 title: Volapuk
 permalink: volapuk.html
+canonical: http://lachal.neamar.fr/Volapuk
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Alinéa
 permalink: alinea.html
+canonical: http://lachal.neamar.fr/Alinea
 layout: word
 categories:
   - Rhétorique

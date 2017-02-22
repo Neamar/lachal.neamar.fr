@@ -1,6 +1,7 @@
 ---
 title: Oblatif
 permalink: oblatif.html
+canonical: http://lachal.neamar.fr/Oblatif
 layout: word
 categories:
   - Mot complexe

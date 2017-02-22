@@ -1,6 +1,7 @@
 ---
 title: Ubuesque
 permalink: ubuesque.html
+canonical: http://lachal.neamar.fr/Ubuesque
 layout: word
 categories:
 synonyms:

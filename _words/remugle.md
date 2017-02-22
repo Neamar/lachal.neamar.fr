@@ -1,6 +1,7 @@
 ---
 title: Remugle
 permalink: remugle.html
+canonical: http://lachal.neamar.fr/Remugle
 layout: word
 categories:
 synonyms:

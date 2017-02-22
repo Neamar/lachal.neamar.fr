@@ -1,6 +1,7 @@
 ---
 title: Coprolalie
 permalink: coprolalie.html
+canonical: http://lachal.neamar.fr/Coprolalie
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Galimatias
 permalink: galimatias.html
+canonical: http://lachal.neamar.fr/Galimatias
 layout: word
 categories:
   - Mot complexe

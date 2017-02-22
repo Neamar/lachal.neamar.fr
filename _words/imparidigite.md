@@ -1,6 +1,7 @@
 ---
 title: Imparidigité
 permalink: imparidigite.html
+canonical: http://lachal.neamar.fr/Imparidigite
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Laconique
 permalink: laconique.html
+canonical: http://lachal.neamar.fr/Laconique
 layout: word
 categories:
 synonyms:

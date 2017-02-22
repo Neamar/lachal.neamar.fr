@@ -1,6 +1,7 @@
 ---
 title: Bucolique
 permalink: bucolique.html
+canonical: http://lachal.neamar.fr/Bucolique
 layout: word
 categories:
   - Rhétorique

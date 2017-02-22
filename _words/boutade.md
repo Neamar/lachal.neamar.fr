@@ -1,6 +1,7 @@
 ---
 title: Boutade
 permalink: boutade.html
+canonical: http://lachal.neamar.fr/Boutade
 layout: word
 categories:
   - Rhétorique

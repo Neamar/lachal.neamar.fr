@@ -1,6 +1,7 @@
 ---
 title: Errare humanum est
 permalink: errare_humanum_est.html
+canonical: http://lachal.neamar.fr/Errare_humanum_est
 layout: word
 categories:
   - Citation latine

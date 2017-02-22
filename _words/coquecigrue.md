@@ -1,6 +1,7 @@
 ---
 title: Coquecigrue
 permalink: coquecigrue.html
+canonical: http://lachal.neamar.fr/Coquecigrue
 layout: word
 categories:
   - Mot complexe

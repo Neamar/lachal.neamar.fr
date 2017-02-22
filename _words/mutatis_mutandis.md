@@ -1,6 +1,7 @@
 ---
 title: Mutatis Mutandis
 permalink: mutatis_mutandis.html
+canonical: http://lachal.neamar.fr/Mutatis_mutandis
 layout: word
 categories:
   - Citation latine

@@ -1,6 +1,7 @@
 ---
 title: Antinomique
 permalink: antinomique.html
+canonical: http://lachal.neamar.fr/Antinomique
 layout: word
 categories:
 synonyms:

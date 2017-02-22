@@ -1,6 +1,7 @@
 ---
 title: Clabauderie
 permalink: clabauderie.html
+canonical: http://lachal.neamar.fr/Clabauderie
 layout: word
 categories:
   - Mot complexe

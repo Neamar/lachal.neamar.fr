@@ -1,6 +1,7 @@
 ---
 title: Panégyriste
 permalink: panegyriste.html
+canonical: http://lachal.neamar.fr/Panegyriste
 layout: word
 categories:
   - Mot complexe

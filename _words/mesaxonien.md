@@ -1,6 +1,7 @@
 ---
 title: Mésaxonien
 permalink: mesaxonien.html
+canonical: http://lachal.neamar.fr/Mesaxonien
 layout: word
 categories:
   - Mot complexe

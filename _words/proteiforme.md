@@ -1,6 +1,7 @@
 ---
 title: Protéiforme
 permalink: proteiforme.html
+canonical: http://lachal.neamar.fr/Proteiforme
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Obsolescence
 permalink: obsolescence.html
+canonical: http://lachal.neamar.fr/Obsolescence
 layout: word
 categories:
   - Mot complexe

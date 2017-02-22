@@ -1,6 +1,7 @@
 ---
 title: Sycophante
 permalink: sycophante.html
+canonical: http://lachal.neamar.fr/Sycophante
 layout: word
 categories:
   - Mot complexe

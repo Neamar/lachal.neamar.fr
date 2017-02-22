@@ -1,6 +1,7 @@
 ---
 title: Périssologie
 permalink: perissologie.html
+canonical: http://lachal.neamar.fr/Perissologie
 layout: word
 categories:
   - Mot complexe

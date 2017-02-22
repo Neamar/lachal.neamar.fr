@@ -1,6 +1,7 @@
 ---
 title: Irrévérencieux
 permalink: irreverencieux.html
+canonical: http://lachal.neamar.fr/Irreverencieux
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Sigisbée
 permalink: sigisbee.html
+canonical: http://lachal.neamar.fr/Sigisbee
 layout: word
 categories:
 synonyms:

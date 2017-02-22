@@ -1,6 +1,7 @@
 ---
 title: Allégorie
 permalink: allegorie.html
+canonical: http://lachal.neamar.fr/Allegorie
 layout: word
 categories:
   - Rhétorique

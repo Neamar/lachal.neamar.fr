@@ -1,6 +1,7 @@
 ---
 title: Vilipender
 permalink: vilipender.html
+canonical: http://lachal.neamar.fr/Vilipender
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: élégie
 permalink: elegie.html
+canonical: http://lachal.neamar.fr/Elegie
 layout: word
 categories:
   - Rhétorique

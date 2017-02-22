@@ -1,6 +1,7 @@
 ---
 title: Incoercible
 permalink: incoercible.html
+canonical: http://lachal.neamar.fr/Incoercible
 layout: word
 categories:
   - Mot complexe

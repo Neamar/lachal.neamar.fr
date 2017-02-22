@@ -1,6 +1,7 @@
 ---
 title: Ex Abrupto
 permalink: ex_abrupto.html
+canonical: http://lachal.neamar.fr/Ex_abrupto
 layout: word
 categories:
   - Citation latine

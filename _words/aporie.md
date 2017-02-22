@@ -1,6 +1,7 @@
 ---
 title: Aporie
 permalink: aporie.html
+canonical: http://lachal.neamar.fr/Aporie
 layout: word
 categories:
   - Mot complexe

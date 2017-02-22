@@ -1,6 +1,7 @@
 ---
 title: Pléonasme
 permalink: pleonasme.html
+canonical: http://lachal.neamar.fr/Pleonasme
 layout: word
 categories:
   - Rhétorique

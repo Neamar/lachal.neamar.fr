@@ -1,6 +1,7 @@
 ---
 title: Paradigmatique
 permalink: paradigmatique.html
+canonical: http://lachal.neamar.fr/Paradigmatique
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Diatribe
 permalink: diatribe.html
+canonical: http://lachal.neamar.fr/Diatribe
 layout: word
 categories:
   - Mot complexe

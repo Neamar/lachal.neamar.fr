@@ -1,6 +1,7 @@
 ---
 title: Fuligineux
 permalink: fuligineux.html
+canonical: http://lachal.neamar.fr/Fuligineux
 layout: word
 categories:
   - Mot complexe

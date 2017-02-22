@@ -1,6 +1,7 @@
 ---
 title: Zut
 permalink: zut.html
+canonical: http://lachal.neamar.fr/Zut
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Concomitant
 permalink: concomitant.html
+canonical: http://lachal.neamar.fr/Concomitant
 layout: word
 categories:
 synonyms:

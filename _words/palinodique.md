@@ -1,6 +1,7 @@
 ---
 title: Palinodique
 permalink: palinodique.html
+canonical: http://lachal.neamar.fr/Palinodique
 layout: word
 categories:
   - Mot complexe

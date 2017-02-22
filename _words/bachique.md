@@ -1,6 +1,7 @@
 ---
 title: Bachique
 permalink: bachique.html
+canonical: http://lachal.neamar.fr/Bachique
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Eburnéen
 permalink: eburneen.html
+canonical: http://lachal.neamar.fr/Eburneen
 layout: word
 categories:
   - Mot complexe

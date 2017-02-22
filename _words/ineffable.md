@@ -1,6 +1,7 @@
 ---
 title: Ineffable
 permalink: ineffable.html
+canonical: http://lachal.neamar.fr/Ineffable
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Aficionados
 permalink: aficionados.html
+canonical: http://lachal.neamar.fr/Aficionados
 layout: word
 categories:
 synonyms:

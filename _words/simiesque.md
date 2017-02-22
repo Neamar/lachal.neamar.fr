@@ -1,6 +1,7 @@
 ---
 title: Simiesque
 permalink: simiesque.html
+canonical: http://lachal.neamar.fr/Simiesque
 layout: word
 categories:
 synonyms:

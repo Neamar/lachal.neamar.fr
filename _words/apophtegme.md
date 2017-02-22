@@ -1,6 +1,7 @@
 ---
 title: Apophtegme
 permalink: apophtegme.html
+canonical: http://lachal.neamar.fr/Apophtegme
 layout: word
 categories:
   - Mot complexe

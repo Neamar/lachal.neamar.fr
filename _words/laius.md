@@ -1,6 +1,7 @@
 ---
 title: Laïus
 permalink: laius.html
+canonical: http://lachal.neamar.fr/Laius
 layout: word
 categories:
   - Rhétorique

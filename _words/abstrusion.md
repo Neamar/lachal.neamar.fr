@@ -1,6 +1,7 @@
 ---
 title: Abstrusion
 permalink: abstrusion.html
+canonical: http://lachal.neamar.fr/Abstrusion
 layout: word
 categories:
   - Mot complexe

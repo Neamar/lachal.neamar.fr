@@ -1,6 +1,7 @@
 ---
 title: Inextinguible
 permalink: inextinguible.html
+canonical: http://lachal.neamar.fr/Inextinguible
 layout: word
 categories:
 synonyms:

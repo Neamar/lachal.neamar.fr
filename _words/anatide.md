@@ -1,6 +1,7 @@
 ---
 title: Anatidé
 permalink: anatide.html
+canonical: http://lachal.neamar.fr/Anatide
 layout: word
 categories:
 synonyms:

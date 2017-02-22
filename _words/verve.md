@@ -1,6 +1,7 @@
 ---
 title: Verve
 permalink: verve.html
+canonical: http://lachal.neamar.fr/Verve
 layout: word
 categories:
   - Rhétorique

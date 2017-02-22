@@ -1,6 +1,7 @@
 ---
 title: Epigramme
 permalink: epigramme.html
+canonical: http://lachal.neamar.fr/Epigramme
 layout: word
 categories:
   - Mot complexe

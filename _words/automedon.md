@@ -1,6 +1,7 @@
 ---
 title: Automédon
 permalink: automedon.html
+canonical: http://lachal.neamar.fr/Automedon
 layout: word
 categories:
   - Mot complexe

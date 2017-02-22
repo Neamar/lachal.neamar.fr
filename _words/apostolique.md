@@ -1,6 +1,7 @@
 ---
 title: Apostolique
 permalink: apostolique.html
+canonical: http://lachal.neamar.fr/Apostolique
 layout: word
 categories:
 synonyms:

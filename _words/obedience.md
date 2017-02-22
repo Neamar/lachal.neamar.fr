@@ -1,6 +1,7 @@
 ---
 title: Obédience
 permalink: obedience.html
+canonical: http://lachal.neamar.fr/Obedience
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: O tempora o mores
 permalink: o_tempora_o_mores.html
+canonical: http://lachal.neamar.fr/O_tempora_o_mores
 layout: word
 categories:
   - Citation latine

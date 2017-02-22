@@ -1,6 +1,7 @@
 ---
 title: Pamphlétaire
 permalink: pamphletaire.html
+canonical: http://lachal.neamar.fr/Pamphletaire
 layout: word
 categories:
   - Rhétorique

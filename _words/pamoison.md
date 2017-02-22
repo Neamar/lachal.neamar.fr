@@ -1,6 +1,7 @@
 ---
 title: Pâmoison
 permalink: pamoison.html
+canonical: http://lachal.neamar.fr/Pamoison
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Empyreumatique
 permalink: empyreumatique.html
+canonical: http://lachal.neamar.fr/Empyreumatique
 layout: word
 categories:
   - Mot complexe

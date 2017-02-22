@@ -1,6 +1,7 @@
 ---
 title: Versatile
 permalink: versatile.html
+canonical: http://lachal.neamar.fr/Versatile
 layout: word
 categories:
 synonyms:

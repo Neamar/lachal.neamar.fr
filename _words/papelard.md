@@ -1,6 +1,7 @@
 ---
 title: Papelard
 permalink: papelard.html
+canonical: http://lachal.neamar.fr/Papelard
 layout: word
 categories:
   - Mot complexe

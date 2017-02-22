@@ -1,6 +1,7 @@
 ---
 title: Méga  
 permalink: mega__.html
+canonical: http://lachal.neamar.fr/Mega__
 layout: word
 categories:
 synonyms:

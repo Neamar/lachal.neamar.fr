@@ -1,6 +1,7 @@
 ---
 title: Alea jacta est
 permalink: alea_jacta_est.html
+canonical: http://lachal.neamar.fr/Alea_jacta_est
 layout: word
 categories:
   - Citation latine

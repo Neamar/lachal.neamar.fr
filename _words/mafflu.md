@@ -1,6 +1,7 @@
 ---
 title: Mafflu
 permalink: mafflu.html
+canonical: http://lachal.neamar.fr/Mafflu
 layout: word
 categories:
   - Mot complexe

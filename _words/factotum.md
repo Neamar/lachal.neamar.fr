@@ -1,6 +1,7 @@
 ---
 title: Factotum
 permalink: factotum.html
+canonical: http://lachal.neamar.fr/Factotum
 layout: word
 categories:
   - Mot complexe

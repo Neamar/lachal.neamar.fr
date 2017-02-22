@@ -1,6 +1,7 @@
 ---
 title: Disert
 permalink: disert.html
+canonical: http://lachal.neamar.fr/Disert
 layout: word
 categories:
   - Mot complexe

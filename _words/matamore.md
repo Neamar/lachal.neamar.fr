@@ -1,6 +1,7 @@
 ---
 title: Matamore
 permalink: matamore.html
+canonical: http://lachal.neamar.fr/Matamore
 layout: word
 categories:
   - Mot complexe

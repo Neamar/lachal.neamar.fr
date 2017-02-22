@@ -1,6 +1,7 @@
 ---
 title: Ménade
 permalink: menade.html
+canonical: http://lachal.neamar.fr/Menade
 layout: word
 categories:
   - Mot complexe

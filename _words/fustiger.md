@@ -1,6 +1,7 @@
 ---
 title: Fustiger
 permalink: fustiger.html
+canonical: http://lachal.neamar.fr/Fustiger
 layout: word
 categories:
 synonyms:

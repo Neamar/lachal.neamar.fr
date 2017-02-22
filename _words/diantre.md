@@ -1,6 +1,7 @@
 ---
 title: Diantre
 permalink: diantre.html
+canonical: http://lachal.neamar.fr/Diantre
 layout: word
 categories:
 synonyms:

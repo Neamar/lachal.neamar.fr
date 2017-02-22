@@ -1,6 +1,7 @@
 ---
 title: Concaténation
 permalink: concatenation.html
+canonical: http://lachal.neamar.fr/Concatenation
 layout: word
 categories:
 synonyms:

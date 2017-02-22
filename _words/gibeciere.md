@@ -1,6 +1,7 @@
 ---
 title: Gibecière
 permalink: gibeciere.html
+canonical: http://lachal.neamar.fr/Gibeciere
 layout: word
 categories:
 synonyms:

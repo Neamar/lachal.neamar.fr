@@ -1,6 +1,7 @@
 ---
 title: Triskaidékaphobe
 permalink: triskaidekaphobe.html
+canonical: http://lachal.neamar.fr/Triskaidekaphobe
 layout: word
 categories:
   - Mot complexe

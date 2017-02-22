@@ -1,6 +1,7 @@
 ---
 title: Hic et nunc
 permalink: hic_et_nunc.html
+canonical: http://lachal.neamar.fr/Hic_et_nunc
 layout: word
 categories:
   - Citation latine

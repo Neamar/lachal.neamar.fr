@@ -1,6 +1,7 @@
 ---
 title: Dithyrambique
 permalink: dithyrambique.html
+canonical: http://lachal.neamar.fr/Dithyrambique
 layout: word
 categories:
   - Mot complexe

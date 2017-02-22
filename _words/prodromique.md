@@ -1,6 +1,7 @@
 ---
 title: Prodromique
 permalink: prodromique.html
+canonical: http://lachal.neamar.fr/Prodromique
 layout: word
 categories:
   - Mot complexe

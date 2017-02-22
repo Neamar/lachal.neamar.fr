@@ -1,6 +1,7 @@
 ---
 title: Anthropomorphisme
 permalink: anthropomorphisme.html
+canonical: http://lachal.neamar.fr/Anthropomorphisme
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Immarcescible
 permalink: immarcescible.html
+canonical: http://lachal.neamar.fr/Immarcescible
 layout: word
 categories:
   - Mot complexe

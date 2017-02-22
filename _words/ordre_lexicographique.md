@@ -1,6 +1,7 @@
 ---
 title: Ordre Lexicographique
 permalink: ordre_lexicographique.html
+canonical: http://lachal.neamar.fr/Ordre_lexicographique
 layout: word
 categories:
 synonyms:

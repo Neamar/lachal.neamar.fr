@@ -1,6 +1,7 @@
 ---
 title: Impénitent
 permalink: impenitent.html
+canonical: http://lachal.neamar.fr/Impenitent
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Musagète
 permalink: musagete.html
+canonical: http://lachal.neamar.fr/Musagete
 layout: word
 categories:
   - Mot complexe

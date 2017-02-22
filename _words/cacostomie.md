@@ -1,6 +1,7 @@
 ---
 title: Cacostomie
 permalink: cacostomie.html
+canonical: http://lachal.neamar.fr/Cacostomie
 layout: word
 categories:
   - Mot complexe

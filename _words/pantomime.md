@@ -1,6 +1,7 @@
 ---
 title: Pantomime
 permalink: pantomime.html
+canonical: http://lachal.neamar.fr/Pantomime
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Zélateur
 permalink: zelateur.html
+canonical: http://lachal.neamar.fr/Zelateur
 layout: word
 categories:
   - Mot complexe

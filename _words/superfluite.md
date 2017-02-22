@@ -1,6 +1,7 @@
 ---
 title: Superfluité
 permalink: superfluite.html
+canonical: http://lachal.neamar.fr/Superfluite
 layout: word
 categories:
 synonyms:

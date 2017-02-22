@@ -1,6 +1,7 @@
 ---
 title: Corroboratif
 permalink: corroboratif.html
+canonical: http://lachal.neamar.fr/Corroboratif
 layout: word
 categories:
 synonyms:

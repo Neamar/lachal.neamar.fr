@@ -1,6 +1,7 @@
 ---
 title: Méphitique
 permalink: mephitique.html
+canonical: http://lachal.neamar.fr/Mephitique
 layout: word
 categories:
   - Mot complexe

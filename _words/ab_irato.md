@@ -1,6 +1,7 @@
 ---
 title: Ab irato
 permalink: ab_irato.html
+canonical: http://lachal.neamar.fr/Ab_irato
 layout: word
 categories:
   - Citation latine

@@ -1,6 +1,7 @@
 ---
 title: Capricant
 permalink: capricant.html
+canonical: http://lachal.neamar.fr/Capricant
 layout: word
 categories:
   - Mot complexe

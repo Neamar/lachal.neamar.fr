@@ -1,6 +1,7 @@
 ---
 title: Atrabilaire
 permalink: atrabilaire.html
+canonical: http://lachal.neamar.fr/Atrabilaire
 layout: word
 categories:
   - Mot complexe

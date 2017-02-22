@@ -1,6 +1,7 @@
 ---
 title: Bavasser
 permalink: bavasser.html
+canonical: http://lachal.neamar.fr/Bavasser
 layout: word
 categories:
   - Rhétorique

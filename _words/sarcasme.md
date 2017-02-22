@@ -1,6 +1,7 @@
 ---
 title: Sarcasme
 permalink: sarcasme.html
+canonical: http://lachal.neamar.fr/Sarcasme
 layout: word
 categories:
   - Rhétorique

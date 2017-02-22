@@ -1,6 +1,7 @@
 ---
 title: Rhétorique
 permalink: rhetorique.html
+canonical: http://lachal.neamar.fr/Rhetorique
 layout: word
 categories:
   - Rhétorique

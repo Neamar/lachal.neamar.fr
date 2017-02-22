@@ -1,6 +1,7 @@
 ---
 title: Histrion
 permalink: histrion.html
+canonical: http://lachal.neamar.fr/Histrion
 layout: word
 categories:
   - Mot complexe

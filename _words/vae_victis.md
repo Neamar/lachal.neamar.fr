@@ -1,6 +1,7 @@
 ---
 title: Vae victis
 permalink: vae_victis.html
+canonical: http://lachal.neamar.fr/Vae_victis
 layout: word
 categories:
   - Citation latine

@@ -1,6 +1,7 @@
 ---
 title: Tribulations
 permalink: tribulations.html
+canonical: http://lachal.neamar.fr/Tribulations
 layout: word
 categories:
 synonyms:

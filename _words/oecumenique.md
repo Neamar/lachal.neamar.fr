@@ -1,6 +1,7 @@
 ---
 title: Oecuménique
 permalink: oecumenique.html
+canonical: http://lachal.neamar.fr/Oecumenique
 layout: word
 categories:
 synonyms:

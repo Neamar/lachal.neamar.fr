@@ -1,6 +1,7 @@
 ---
 title: Anagogique
 permalink: anagogique.html
+canonical: http://lachal.neamar.fr/Anagogique
 layout: word
 categories:
   - Mot complexe

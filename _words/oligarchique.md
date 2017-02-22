@@ -1,6 +1,7 @@
 ---
 title: Oligarchique
 permalink: oligarchique.html
+canonical: http://lachal.neamar.fr/Oligarchique
 layout: word
 categories:
   - Mot complexe

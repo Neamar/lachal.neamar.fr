@@ -1,6 +1,7 @@
 ---
 title: Déblatérer
 permalink: deblaterer.html
+canonical: http://lachal.neamar.fr/Deblaterer
 layout: word
 categories:
   - Rhétorique

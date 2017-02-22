@@ -1,6 +1,7 @@
 ---
 title: Alacrité
 permalink: alacrite.html
+canonical: http://lachal.neamar.fr/Alacrite
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: éructer
 permalink: eructer.html
+canonical: http://lachal.neamar.fr/Eructer
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Ex Voto
 permalink: ex_voto.html
+canonical: http://lachal.neamar.fr/Ex_voto
 layout: word
 categories:
   - Citation latine

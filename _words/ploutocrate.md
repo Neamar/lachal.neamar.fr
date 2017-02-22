@@ -1,6 +1,7 @@
 ---
 title: Ploutocrate
 permalink: ploutocrate.html
+canonical: http://lachal.neamar.fr/Ploutocrate
 layout: word
 categories:
   - Mot complexe

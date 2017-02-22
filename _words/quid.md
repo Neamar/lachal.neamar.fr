@@ -1,6 +1,7 @@
 ---
 title: Quid
 permalink: quid.html
+canonical: http://lachal.neamar.fr/Quid
 layout: word
 categories:
   - Citation latine

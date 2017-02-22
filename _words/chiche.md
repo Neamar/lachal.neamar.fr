@@ -1,6 +1,7 @@
 ---
 title: Chiche
 permalink: chiche.html
+canonical: http://lachal.neamar.fr/Chiche
 layout: word
 categories:
 synonyms:

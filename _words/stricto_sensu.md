@@ -1,6 +1,7 @@
 ---
 title: Stricto Sensu
 permalink: stricto_sensu.html
+canonical: http://lachal.neamar.fr/Stricto_sensu
 layout: word
 categories:
   - Citation latine

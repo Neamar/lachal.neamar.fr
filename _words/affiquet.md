@@ -1,6 +1,7 @@
 ---
 title: Affiquet
 permalink: affiquet.html
+canonical: http://lachal.neamar.fr/Affiquet
 layout: word
 categories:
   - Mot complexe

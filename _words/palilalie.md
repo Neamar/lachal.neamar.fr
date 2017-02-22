@@ -1,6 +1,7 @@
 ---
 title: Palilalie
 permalink: palilalie.html
+canonical: http://lachal.neamar.fr/Palilalie
 layout: word
 categories:
   - Mot complexe

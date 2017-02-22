@@ -1,6 +1,7 @@
 ---
 title: Pétaudière
 permalink: petaudiere.html
+canonical: http://lachal.neamar.fr/Petaudiere
 layout: word
 categories:
 synonyms:

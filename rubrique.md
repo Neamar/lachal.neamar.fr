@@ -1,6 +1,7 @@
 ---
 title: Petite liste exhaustive (ou pas) des expressions de M Lachal
 layout: default
+canonical: http://lachal.neamar.fr/Rubrique.php
 ---
 
 # Les expressions idiolectes !

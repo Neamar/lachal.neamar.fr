@@ -1,6 +1,7 @@
 ---
 title: Hédoniste
 permalink: hedoniste.html
+canonical: http://lachal.neamar.fr/Hedoniste
 layout: word
 categories:
   - Mot complexe

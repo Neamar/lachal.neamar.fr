@@ -1,6 +1,7 @@
 ---
 title: Atavisme
 permalink: atavisme.html
+canonical: http://lachal.neamar.fr/Atavisme
 layout: word
 categories:
 synonyms:

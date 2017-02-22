@@ -1,6 +1,7 @@
 ---
 title: Autodafé
 permalink: autodafe.html
+canonical: http://lachal.neamar.fr/Autodafe
 layout: word
 categories:
   - Mot complexe

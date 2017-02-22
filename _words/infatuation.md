@@ -1,6 +1,7 @@
 ---
 title: Infatuation
 permalink: infatuation.html
+canonical: http://lachal.neamar.fr/Infatuation
 layout: word
 categories:
   - Mot complexe

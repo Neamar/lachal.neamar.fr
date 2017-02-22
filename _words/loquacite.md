@@ -1,6 +1,7 @@
 ---
 title: Loquacité
 permalink: loquacite.html
+canonical: http://lachal.neamar.fr/Loquacite
 layout: word
 categories:
   - Rhétorique

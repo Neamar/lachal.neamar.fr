@@ -1,6 +1,7 @@
 ---
 title: Motu Proprio
 permalink: motu_proprio.html
+canonical: http://lachal.neamar.fr/Motu_proprio
 layout: word
 categories:
   - Citation latine

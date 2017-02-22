@@ -1,6 +1,7 @@
 ---
 title: Cénacle
 permalink: cenacle.html
+canonical: http://lachal.neamar.fr/Cenacle
 layout: word
 categories:
   - Mot complexe

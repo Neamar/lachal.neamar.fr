@@ -1,6 +1,7 @@
 ---
 title: Prophylaxique
 permalink: prophylaxique.html
+canonical: http://lachal.neamar.fr/Prophylaxique
 layout: word
 categories:
   - Mot complexe

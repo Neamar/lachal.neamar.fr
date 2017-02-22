@@ -1,6 +1,7 @@
 ---
 title: Galantin
 permalink: galantin.html
+canonical: http://lachal.neamar.fr/Galantin
 layout: word
 categories:
 synonyms:

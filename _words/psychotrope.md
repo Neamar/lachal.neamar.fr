@@ -1,6 +1,7 @@
 ---
 title: Psychotrope
 permalink: psychotrope.html
+canonical: http://lachal.neamar.fr/Psychotrope
 layout: word
 categories:
   - Mot complexe

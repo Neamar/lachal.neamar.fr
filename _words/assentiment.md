@@ -1,6 +1,7 @@
 ---
 title: Assentiment
 permalink: assentiment.html
+canonical: http://lachal.neamar.fr/Assentiment
 layout: word
 categories:
 synonyms:

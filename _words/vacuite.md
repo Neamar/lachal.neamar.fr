@@ -1,6 +1,7 @@
 ---
 title: Vacuité
 permalink: vacuite.html
+canonical: http://lachal.neamar.fr/Vacuite
 layout: word
 categories:
   - Mot complexe

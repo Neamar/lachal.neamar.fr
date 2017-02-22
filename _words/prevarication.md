@@ -1,6 +1,7 @@
 ---
 title: Prévarication
 permalink: prevarication.html
+canonical: http://lachal.neamar.fr/Prevarication
 layout: word
 categories:
   - Mot complexe

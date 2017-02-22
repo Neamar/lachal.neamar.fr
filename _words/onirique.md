@@ -1,6 +1,7 @@
 ---
 title: Onirique
 permalink: onirique.html
+canonical: http://lachal.neamar.fr/Onirique
 layout: word
 categories:
   - Mot complexe

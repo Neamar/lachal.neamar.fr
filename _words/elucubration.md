@@ -1,6 +1,7 @@
 ---
 title: élucubration
 permalink: elucubration.html
+canonical: http://lachal.neamar.fr/Elucubration
 layout: word
 categories:
   - Rhétorique

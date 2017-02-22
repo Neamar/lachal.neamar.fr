@@ -1,6 +1,7 @@
 ---
 title: Stomoxe
 permalink: stomoxe.html
+canonical: http://lachal.neamar.fr/Stomoxe
 layout: word
 categories:
   - Mot complexe

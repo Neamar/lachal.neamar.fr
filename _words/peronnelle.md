@@ -1,6 +1,7 @@
 ---
 title: Péronnelle
 permalink: peronnelle.html
+canonical: http://lachal.neamar.fr/Peronnelle
 layout: word
 categories:
 synonyms:

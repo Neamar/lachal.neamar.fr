@@ -1,6 +1,7 @@
 ---
 title: Philistin
 permalink: philistin.html
+canonical: http://lachal.neamar.fr/Philistin
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Bichette
 permalink: bichette.html
+canonical: http://lachal.neamar.fr/Bichette
 layout: word
 categories:
 synonyms:

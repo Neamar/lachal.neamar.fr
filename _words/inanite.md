@@ -1,6 +1,7 @@
 ---
 title: Inanité
 permalink: inanite.html
+canonical: http://lachal.neamar.fr/Inanite
 layout: word
 categories:
   - Mot complexe

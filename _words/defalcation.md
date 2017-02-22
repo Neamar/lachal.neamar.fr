@@ -1,6 +1,7 @@
 ---
 title: Défalcation
 permalink: defalcation.html
+canonical: http://lachal.neamar.fr/Defalcation
 layout: word
 categories:
 synonyms:

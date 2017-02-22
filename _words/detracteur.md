@@ -1,6 +1,7 @@
 ---
 title: Détracteur
 permalink: detracteur.html
+canonical: http://lachal.neamar.fr/Detracteur
 layout: word
 categories:
 synonyms:

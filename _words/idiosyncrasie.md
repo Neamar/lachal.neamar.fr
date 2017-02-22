@@ -1,6 +1,7 @@
 ---
 title: Idiosyncrasie
 permalink: idiosyncrasie.html
+canonical: http://lachal.neamar.fr/Idiosyncrasie
 layout: word
 categories:
   - Mot complexe

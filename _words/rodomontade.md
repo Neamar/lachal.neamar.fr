@@ -1,6 +1,7 @@
 ---
 title: Rodomontade
 permalink: rodomontade.html
+canonical: http://lachal.neamar.fr/Rodomontade
 layout: word
 categories:
   - Mot complexe

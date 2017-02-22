@@ -1,6 +1,7 @@
 ---
 title: Subodorer
 permalink: subodorer.html
+canonical: http://lachal.neamar.fr/Subodorer
 layout: word
 categories:
 synonyms:

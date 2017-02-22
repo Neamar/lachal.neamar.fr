@@ -1,6 +1,7 @@
 ---
 title: Auguste
 permalink: auguste.html
+canonical: http://lachal.neamar.fr/Auguste
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Déshérence
 permalink: desherence.html
+canonical: http://lachal.neamar.fr/Desherence
 layout: word
 categories:
   - Mot complexe

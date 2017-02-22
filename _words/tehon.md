@@ -1,6 +1,7 @@
 ---
 title: Tehon
 permalink: tehon.html
+canonical: http://lachal.neamar.fr/Tehon
 layout: word
 categories:
 synonyms:

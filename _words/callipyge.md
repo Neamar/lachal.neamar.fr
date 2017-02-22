@@ -1,6 +1,7 @@
 ---
 title: Callipyge
 permalink: callipyge.html
+canonical: http://lachal.neamar.fr/Callipyge
 layout: word
 categories:
 synonyms:

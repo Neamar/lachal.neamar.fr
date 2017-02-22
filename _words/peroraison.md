@@ -1,6 +1,7 @@
 ---
 title: Péroraison
 permalink: peroraison.html
+canonical: http://lachal.neamar.fr/Peroraison
 layout: word
 categories:
   - Rhétorique

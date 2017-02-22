@@ -1,6 +1,7 @@
 ---
 title: Anathème
 permalink: anatheme.html
+canonical: http://lachal.neamar.fr/Anatheme
 layout: word
 categories:
   - Mot complexe

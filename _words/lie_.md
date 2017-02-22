@@ -1,6 +1,7 @@
 ---
 title: Lie 
 permalink: lie_.html
+canonical: http://lachal.neamar.fr/Lie_
 layout: word
 categories:
 synonyms:

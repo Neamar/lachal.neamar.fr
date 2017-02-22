@@ -1,6 +1,7 @@
 ---
 title: Patelin
 permalink: patelin.html
+canonical: http://lachal.neamar.fr/Patelin
 layout: word
 categories:
   - Mot complexe

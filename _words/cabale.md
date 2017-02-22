@@ -1,6 +1,7 @@
 ---
 title: Cabale
 permalink: cabale.html
+canonical: http://lachal.neamar.fr/Cabale
 layout: word
 categories:
 synonyms:

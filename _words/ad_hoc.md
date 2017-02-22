@@ -1,6 +1,7 @@
 ---
 title: Ad hoc
 permalink: ad_hoc.html
+canonical: http://lachal.neamar.fr/Ad_hoc
 layout: word
 categories:
   - Citation latine

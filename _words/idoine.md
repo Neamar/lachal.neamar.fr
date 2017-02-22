@@ -1,6 +1,7 @@
 ---
 title: Idoine
 permalink: idoine.html
+canonical: http://lachal.neamar.fr/Idoine
 layout: word
 categories:
   - Mot complexe

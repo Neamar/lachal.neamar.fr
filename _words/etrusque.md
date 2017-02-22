@@ -1,6 +1,7 @@
 ---
 title: étrusque
 permalink: etrusque.html
+canonical: http://lachal.neamar.fr/Etrusque
 layout: word
 categories:
 synonyms:

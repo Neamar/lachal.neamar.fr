@@ -1,6 +1,7 @@
 ---
 title: Turpitude
 permalink: turpitude.html
+canonical: http://lachal.neamar.fr/Turpitude
 layout: word
 categories:
   - Mot complexe

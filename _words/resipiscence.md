@@ -1,6 +1,7 @@
 ---
 title: Résipiscence
 permalink: resipiscence.html
+canonical: http://lachal.neamar.fr/Resipiscence
 layout: word
 categories:
   - Mot complexe

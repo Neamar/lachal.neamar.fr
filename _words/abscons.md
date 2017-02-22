@@ -1,6 +1,7 @@
 ---
 title: Abscons
 permalink: abscons.html
+canonical: http://lachal.neamar.fr/Abscons
 layout: word
 categories:
 synonyms:

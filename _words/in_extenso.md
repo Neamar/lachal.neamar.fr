@@ -1,6 +1,7 @@
 ---
 title: In extenso
 permalink: in_extenso.html
+canonical: http://lachal.neamar.fr/In_extenso
 layout: word
 categories:
   - Citation latine

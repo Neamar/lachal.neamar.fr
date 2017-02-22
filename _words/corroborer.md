@@ -1,6 +1,7 @@
 ---
 title: Corroborer
 permalink: corroborer.html
+canonical: http://lachal.neamar.fr/Corroborer
 layout: word
 categories:
   - Rhétorique

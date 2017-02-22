@@ -1,6 +1,7 @@
 ---
 title: Catilinaire
 permalink: catilinaire.html
+canonical: http://lachal.neamar.fr/Catilinaire
 layout: word
 categories:
   - Mot complexe

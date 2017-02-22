@@ -1,6 +1,7 @@
 ---
 title: Sapajou
 permalink: sapajou.html
+canonical: http://lachal.neamar.fr/Sapajou
 layout: word
 categories:
 synonyms:

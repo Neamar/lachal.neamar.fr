@@ -1,6 +1,7 @@
 ---
 title: Procrastination
 permalink: procrastination.html
+canonical: http://lachal.neamar.fr/Procrastination
 layout: word
 categories:
   - Mot complexe

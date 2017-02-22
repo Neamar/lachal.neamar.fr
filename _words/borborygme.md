@@ -1,6 +1,7 @@
 ---
 title: Borborygme
 permalink: borborygme.html
+canonical: http://lachal.neamar.fr/Borborygme
 layout: word
 categories:
 synonyms:

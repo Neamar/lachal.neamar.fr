@@ -1,6 +1,7 @@
 ---
 title: Comminatoire
 permalink: comminatoire.html
+canonical: http://lachal.neamar.fr/Comminatoire
 layout: word
 categories:
   - Mot complexe

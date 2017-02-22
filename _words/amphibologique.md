@@ -1,6 +1,7 @@
 ---
 title: Amphibologique
 permalink: amphibologique.html
+canonical: http://lachal.neamar.fr/Amphibologique
 layout: word
 categories:
   - Mot complexe

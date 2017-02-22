@@ -1,6 +1,7 @@
 ---
 title: Cataphatique
 permalink: cataphatique.html
+canonical: http://lachal.neamar.fr/Cataphatique
 layout: word
 categories:
   - Mot complexe

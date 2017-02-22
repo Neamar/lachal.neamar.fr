@@ -1,6 +1,7 @@
 ---
 title: Caudataire
 permalink: caudataire.html
+canonical: http://lachal.neamar.fr/Caudataire
 layout: word
 categories:
   - Mot complexe

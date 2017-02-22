@@ -1,6 +1,7 @@
 ---
 title: Pédotribe
 permalink: pedotribe.html
+canonical: http://lachal.neamar.fr/Pedotribe
 layout: word
 categories:
   - Mot complexe

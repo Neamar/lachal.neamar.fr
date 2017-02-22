@@ -1,6 +1,7 @@
 ---
 title: Génuflexion
 permalink: genuflexion.html
+canonical: http://lachal.neamar.fr/Genuflexion
 layout: word
 categories:
 synonyms:

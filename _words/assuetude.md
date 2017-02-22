@@ -1,6 +1,7 @@
 ---
 title: Assuétude
 permalink: assuetude.html
+canonical: http://lachal.neamar.fr/Assuetude
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Componction
 permalink: componction.html
+canonical: http://lachal.neamar.fr/Componction
 layout: word
 categories:
   - Mot complexe

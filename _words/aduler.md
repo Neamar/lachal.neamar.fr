@@ -1,6 +1,7 @@
 ---
 title: Aduler
 permalink: aduler.html
+canonical: http://lachal.neamar.fr/Aduler
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Sardonique
 permalink: sardonique.html
+canonical: http://lachal.neamar.fr/Sardonique
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Cynégétique
 permalink: cynegetique.html
+canonical: http://lachal.neamar.fr/Cynegetique
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Viatique
 permalink: viatique.html
+canonical: http://lachal.neamar.fr/Viatique
 layout: word
 categories:
   - Mot complexe

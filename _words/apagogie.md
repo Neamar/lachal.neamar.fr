@@ -1,6 +1,7 @@
 ---
 title: Apagogie
 permalink: apagogie.html
+canonical: http://lachal.neamar.fr/Apagogie
 layout: word
 categories:
   - Mot complexe

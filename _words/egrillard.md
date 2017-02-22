@@ -1,6 +1,7 @@
 ---
 title: égrillard
 permalink: egrillard.html
+canonical: http://lachal.neamar.fr/Egrillard
 layout: word
 categories:
 synonyms:

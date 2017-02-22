@@ -1,6 +1,7 @@
 ---
 title: Littérateur
 permalink: litterateur.html
+canonical: http://lachal.neamar.fr/Litterateur
 layout: word
 categories:
   - Rhétorique

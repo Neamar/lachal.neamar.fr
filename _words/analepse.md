@@ -1,6 +1,7 @@
 ---
 title: Analepse
 permalink: analepse.html
+canonical: http://lachal.neamar.fr/Analepse
 layout: word
 categories:
   - Mot complexe

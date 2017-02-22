@@ -1,6 +1,7 @@
 ---
 title: Apologétique
 permalink: apologetique.html
+canonical: http://lachal.neamar.fr/Apologetique
 layout: word
 categories:
   - Rhétorique

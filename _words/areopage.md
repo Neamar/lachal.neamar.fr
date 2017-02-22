@@ -1,6 +1,7 @@
 ---
 title: Aréopage
 permalink: areopage.html
+canonical: http://lachal.neamar.fr/Areopage
 layout: word
 categories:
   - Mot complexe

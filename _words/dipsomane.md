@@ -1,6 +1,7 @@
 ---
 title: Dipsomane
 permalink: dipsomane.html
+canonical: http://lachal.neamar.fr/Dipsomane
 layout: word
 categories:
   - Mot complexe

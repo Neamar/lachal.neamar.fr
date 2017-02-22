@@ -1,6 +1,7 @@
 ---
 title: Sternutation
 permalink: sternutation.html
+canonical: http://lachal.neamar.fr/Sternutation
 layout: word
 categories:
   - Mot complexe

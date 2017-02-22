@@ -1,6 +1,7 @@
 ---
 title: Putatif
 permalink: putatif.html
+canonical: http://lachal.neamar.fr/Putatif
 layout: word
 categories:
 synonyms:

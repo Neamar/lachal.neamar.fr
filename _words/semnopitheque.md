@@ -1,6 +1,7 @@
 ---
 title: Semnopithèque
 permalink: semnopitheque.html
+canonical: http://lachal.neamar.fr/Semnopitheque
 layout: word
 categories:
   - Mot complexe

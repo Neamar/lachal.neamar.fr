@@ -1,6 +1,7 @@
 ---
 title: Laudateur
 permalink: laudateur.html
+canonical: http://lachal.neamar.fr/Laudateur
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Ratiocination
 permalink: ratiocination.html
+canonical: http://lachal.neamar.fr/Ratiocination
 layout: word
 categories:
   - Mot complexe

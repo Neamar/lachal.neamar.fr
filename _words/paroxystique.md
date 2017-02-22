@@ -1,6 +1,7 @@
 ---
 title: Paroxystique
 permalink: paroxystique.html
+canonical: http://lachal.neamar.fr/Paroxystique
 layout: word
 categories:
 synonyms:

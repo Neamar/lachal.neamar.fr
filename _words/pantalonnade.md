@@ -1,6 +1,7 @@
 ---
 title: Pantalonnade
 permalink: pantalonnade.html
+canonical: http://lachal.neamar.fr/Pantalonnade
 layout: word
 categories:
   - Rhétorique

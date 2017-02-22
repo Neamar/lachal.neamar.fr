@@ -1,6 +1,7 @@
 ---
 title: Coryphée
 permalink: coryphee.html
+canonical: http://lachal.neamar.fr/Coryphee
 layout: word
 categories:
   - Mot complexe

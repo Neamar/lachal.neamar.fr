@@ -1,6 +1,7 @@
 ---
 title: Munificence
 permalink: munificence.html
+canonical: http://lachal.neamar.fr/Munificence
 layout: word
 categories:
   - Mot complexe

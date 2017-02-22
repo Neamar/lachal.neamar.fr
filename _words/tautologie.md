@@ -1,6 +1,7 @@
 ---
 title: Tautologie
 permalink: tautologie.html
+canonical: http://lachal.neamar.fr/Tautologie
 layout: word
 categories:
   - Mot complexe

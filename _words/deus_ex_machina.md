@@ -1,6 +1,7 @@
 ---
 title: Deus ex machina
 permalink: deus_ex_machina.html
+canonical: http://lachal.neamar.fr/Deus_ex_machina
 layout: word
 categories:
   - Citation latine

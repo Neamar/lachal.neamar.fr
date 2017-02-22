@@ -1,6 +1,7 @@
 ---
 title: Capilotade
 permalink: capilotade.html
+canonical: http://lachal.neamar.fr/Capilotade
 layout: word
 categories:
   - Mot complexe

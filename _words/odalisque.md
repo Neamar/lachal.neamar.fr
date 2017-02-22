@@ -1,6 +1,7 @@
 ---
 title: Odalisque
 permalink: odalisque.html
+canonical: http://lachal.neamar.fr/Odalisque
 layout: word
 categories:
   - Mot complexe

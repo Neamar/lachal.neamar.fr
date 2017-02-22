@@ -1,6 +1,7 @@
 ---
 title: Thuriféraire
 permalink: thuriferaire.html
+canonical: http://lachal.neamar.fr/Thuriferaire
 layout: word
 categories:
   - Mot complexe

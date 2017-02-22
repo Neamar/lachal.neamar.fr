@@ -1,6 +1,7 @@
 ---
 title: Manducation
 permalink: manducation.html
+canonical: http://lachal.neamar.fr/Manducation
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Apodictique
 permalink: apodictique.html
+canonical: http://lachal.neamar.fr/Apodictique
 layout: word
 categories:
   - Mot complexe

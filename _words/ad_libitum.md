@@ -1,6 +1,7 @@
 ---
 title: Ad libitum
 permalink: ad_libitum.html
+canonical: http://lachal.neamar.fr/Ad_libitum
 layout: word
 categories:
   - Citation latine

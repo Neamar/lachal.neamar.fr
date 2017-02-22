@@ -1,6 +1,7 @@
 ---
 title: Catabatique
 permalink: catabatique.html
+canonical: http://lachal.neamar.fr/Catabatique
 layout: word
 categories:
   - Mot complexe

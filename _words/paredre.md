@@ -1,6 +1,7 @@
 ---
 title: Parèdre
 permalink: paredre.html
+canonical: http://lachal.neamar.fr/Paredre
 layout: word
 categories:
   - Mot complexe

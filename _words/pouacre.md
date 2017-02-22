@@ -1,6 +1,7 @@
 ---
 title: Pouacre
 permalink: pouacre.html
+canonical: http://lachal.neamar.fr/Pouacre
 layout: word
 categories:
   - Mot complexe

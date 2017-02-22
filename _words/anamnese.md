@@ -1,6 +1,7 @@
 ---
 title: Anamnèse
 permalink: anamnese.html
+canonical: http://lachal.neamar.fr/Anamnese
 layout: word
 categories:
   - Mot complexe

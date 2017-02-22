@@ -1,6 +1,7 @@
 ---
 title: Captieux
 permalink: captieux.html
+canonical: http://lachal.neamar.fr/Captieux
 layout: word
 categories:
   - Mot complexe

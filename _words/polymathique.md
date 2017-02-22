@@ -1,6 +1,7 @@
 ---
 title: Polymathique
 permalink: polymathique.html
+canonical: http://lachal.neamar.fr/Polymathique
 layout: word
 categories:
   - Mot complexe

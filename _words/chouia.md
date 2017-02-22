@@ -1,6 +1,7 @@
 ---
 title: Chouïa
 permalink: chouia.html
+canonical: http://lachal.neamar.fr/Chouia
 layout: word
 categories:
 synonyms:

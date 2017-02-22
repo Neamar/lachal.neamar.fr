@@ -1,6 +1,7 @@
 ---
 title: Satisfecit
 permalink: satisfecit.html
+canonical: http://lachal.neamar.fr/Satisfecit
 layout: word
 categories:
   - Mot complexe

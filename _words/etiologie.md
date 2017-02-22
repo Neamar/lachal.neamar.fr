@@ -1,6 +1,7 @@
 ---
 title: étiologie
 permalink: etiologie.html
+canonical: http://lachal.neamar.fr/Etiologie
 layout: word
 categories:
   - Mot complexe

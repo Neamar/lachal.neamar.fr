@@ -1,6 +1,7 @@
 ---
 title: éponyme
 permalink: eponyme.html
+canonical: http://lachal.neamar.fr/Eponyme
 layout: word
 categories:
   - Mot complexe

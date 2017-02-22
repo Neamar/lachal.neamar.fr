@@ -1,6 +1,7 @@
 ---
 title: Amphigourique
 permalink: amphigourique.html
+canonical: http://lachal.neamar.fr/Amphigourique
 layout: word
 categories:
   - Mot complexe

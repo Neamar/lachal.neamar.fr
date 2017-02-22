@@ -1,6 +1,7 @@
 ---
 title: Malversation
 permalink: malversation.html
+canonical: http://lachal.neamar.fr/Malversation
 layout: word
 categories:
 synonyms:

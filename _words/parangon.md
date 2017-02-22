@@ -1,6 +1,7 @@
 ---
 title: Parangon
 permalink: parangon.html
+canonical: http://lachal.neamar.fr/Parangon
 layout: word
 categories:
   - Mot complexe

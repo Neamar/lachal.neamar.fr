@@ -1,6 +1,7 @@
 ---
 title: Néphrétique
 permalink: nephretique.html
+canonical: http://lachal.neamar.fr/Nephretique
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Mansuétude
 permalink: mansuetude.html
+canonical: http://lachal.neamar.fr/Mansuetude
 layout: word
 categories:
   - Mot complexe

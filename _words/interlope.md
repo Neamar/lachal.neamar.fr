@@ -1,6 +1,7 @@
 ---
 title: Interlope
 permalink: interlope.html
+canonical: http://lachal.neamar.fr/Interlope
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Sybarite
 permalink: sybarite.html
+canonical: http://lachal.neamar.fr/Sybarite
 layout: word
 categories:
   - Mot complexe

@@ -1,6 +1,7 @@
 ---
 title: Bélître
 permalink: belitre.html
+canonical: http://lachal.neamar.fr/Belitre
 layout: word
 categories:
   - Mot complexe

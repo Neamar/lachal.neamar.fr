@@ -1,6 +1,7 @@
 ---
 title: Pasquinade
 permalink: pasquinade.html
+canonical: http://lachal.neamar.fr/Pasquinade
 layout: word
 categories:
   - Mot complexe

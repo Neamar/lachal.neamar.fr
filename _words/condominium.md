@@ -1,6 +1,7 @@
 ---
 title: Condominium
 permalink: condominium.html
+canonical: http://lachal.neamar.fr/Condominium
 layout: word
 categories:
   - Mot complexe

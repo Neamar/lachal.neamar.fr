@@ -1,6 +1,7 @@
 ---
 title: Taciturne
 permalink: taciturne.html
+canonical: http://lachal.neamar.fr/Taciturne
 layout: word
 categories:
 synonyms:

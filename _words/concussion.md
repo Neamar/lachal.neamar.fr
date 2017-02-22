@@ -1,6 +1,7 @@
 ---
 title: Concussion
 permalink: concussion.html
+canonical: http://lachal.neamar.fr/Concussion
 layout: word
 categories:
   - Mot complexe

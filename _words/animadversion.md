@@ -1,6 +1,7 @@
 ---
 title: Animadversion
 permalink: animadversion.html
+canonical: http://lachal.neamar.fr/Animadversion
 layout: word
 categories:
   - Mot complexe

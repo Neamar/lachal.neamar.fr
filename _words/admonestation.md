@@ -1,6 +1,7 @@
 ---
 title: Admonestation
 permalink: admonestation.html
+canonical: http://lachal.neamar.fr/Admonestation
 layout: word
 categories:
   - Mot complexe

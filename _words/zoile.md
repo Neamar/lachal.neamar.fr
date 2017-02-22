@@ -1,6 +1,7 @@
 ---
 title: Zoïle
 permalink: zoile.html
+canonical: http://lachal.neamar.fr/Zoile
 layout: word
 categories:
   - Mot complexe

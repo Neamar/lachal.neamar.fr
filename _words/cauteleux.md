@@ -1,6 +1,7 @@
 ---
 title: Cauteleux
 permalink: cauteleux.html
+canonical: http://lachal.neamar.fr/Cauteleux
 layout: word
 categories:
   - Mot complexe

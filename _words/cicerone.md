@@ -1,6 +1,7 @@
 ---
 title: Cicérone
 permalink: cicerone.html
+canonical: http://lachal.neamar.fr/Cicerone
 layout: word
 categories:
   - Rhétorique

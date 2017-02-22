@@ -1,6 +1,7 @@
 ---
 title: Hiérodule
 permalink: hierodule.html
+canonical: http://lachal.neamar.fr/Hierodule
 layout: word
 categories:
   - Mot complexe

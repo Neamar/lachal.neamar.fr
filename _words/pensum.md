@@ -1,6 +1,7 @@
 ---
 title: Pensum
 permalink: pensum.html
+canonical: http://lachal.neamar.fr/Pensum
 layout: word
 categories:
 synonyms:

@@ -1,6 +1,7 @@
 ---
 title: Léonin
 permalink: leonin.html
+canonical: http://lachal.neamar.fr/Leonin
 layout: word
 categories:
   - Mot complexe

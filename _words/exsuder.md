@@ -1,6 +1,7 @@
 ---
 title: Exsuder
 permalink: exsuder.html
+canonical: http://lachal.neamar.fr/Exsuder
 layout: word
 categories:
 synonyms:

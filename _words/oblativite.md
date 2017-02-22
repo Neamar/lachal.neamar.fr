@@ -1,6 +1,7 @@
 ---
 title: Oblativité
 permalink: oblativite.html
+canonical: http://lachal.neamar.fr/Oblativite
 layout: word
 categories:
   - Mot complexe

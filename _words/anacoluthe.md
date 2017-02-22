@@ -1,6 +1,7 @@
 ---
 title: Anacoluthe
 permalink: anacoluthe.html
+canonical: http://lachal.neamar.fr/Anacoluthe
 layout: word
 categories:
   - Mot complexe

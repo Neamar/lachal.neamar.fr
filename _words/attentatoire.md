@@ -1,6 +1,7 @@
 ---
 title: Attentatoire
 permalink: attentatoire.html
+canonical: http://lachal.neamar.fr/Attentatoire
 layout: word
 categories:
 synonyms:

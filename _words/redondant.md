@@ -1,6 +1,7 @@
 ---
 title: Redondant
 permalink: redondant.html
+canonical: http://lachal.neamar.fr/Redondant
 layout: word
 categories:
 synonyms:

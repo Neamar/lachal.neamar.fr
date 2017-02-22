@@ -1,6 +1,7 @@
 ---
 title: Litote
 permalink: litote.html
+canonical: http://lachal.neamar.fr/Litote
 layout: word
 categories:
   - Rhétorique

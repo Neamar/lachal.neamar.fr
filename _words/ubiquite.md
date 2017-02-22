@@ -1,6 +1,7 @@
 ---
 title: Ubiquité
 permalink: ubiquite.html
+canonical: http://lachal.neamar.fr/Ubiquite
 layout: word
 categories:
 synonyms:

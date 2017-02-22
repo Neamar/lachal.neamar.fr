@@ -1,6 +1,7 @@
 ---
 title: échanson
 permalink: echanson.html
+canonical: http://lachal.neamar.fr/Echanson
 layout: word
 categories:
   - Mot complexe

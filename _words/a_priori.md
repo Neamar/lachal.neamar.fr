@@ -1,6 +1,7 @@
 ---
 title: A Priori
 permalink: a_priori.html
+canonical: http://lachal.neamar.fr/A_priori
 layout: word
 categories:
   - Citation latine

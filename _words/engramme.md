@@ -1,6 +1,7 @@
 ---
 title: Engramme
 permalink: engramme.html
+canonical: http://lachal.neamar.fr/Engramme
 layout: word
 categories:
   - Mot complexe

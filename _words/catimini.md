@@ -1,6 +1,7 @@
 ---
 title: Catimini
 permalink: catimini.html
+canonical: http://lachal.neamar.fr/Catimini
 layout: word
 categories:
 synonyms:

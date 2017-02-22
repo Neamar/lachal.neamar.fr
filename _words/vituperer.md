@@ -1,6 +1,7 @@
 ---
 title: Vitupérer
 permalink: vituperer.html
+canonical: http://lachal.neamar.fr/Vituperer
 layout: word
 categories:
   - Rhétorique

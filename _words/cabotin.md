@@ -1,6 +1,7 @@
 ---
 title: Cabotin
 permalink: cabotin.html
+canonical: http://lachal.neamar.fr/Cabotin
 layout: word
 categories:
 synonyms:
