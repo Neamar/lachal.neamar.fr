@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+
+html, body, form, fieldset, table, tr, td, img {
+    margin: 0;
+    padding: 0;
+    font: 'Source Serif Pro','cambria',serif;
+}
+
+body{
+	width: 80%;
+	margin:0 auto;
+}
+
+h1 {
+	color: red;
+	font-family:'Source Serif Pro';
+}
+
+#menu, #menu ul{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+#menu{
+	text-align: center;
+}
+
+#menu ul{
+	display:none;
+	position: absolute;
+	list-style-position: inside;
+}
+
+#menu li:hover ul{
+	display: inherit;
+}
+
+#menu li{
+	display: inline-block;
+	/*padding: 0 2em 0 2em;*/
+}
+
+#ssmenu li{
+	display: block;
+}
