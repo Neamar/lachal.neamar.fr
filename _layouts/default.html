@@ -13,21 +13,20 @@
 	{% endif %}
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="/design/design.css" />
+	<link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700|Tinos:400,400i,700,700i" rel="stylesheet">
 	<title>{{ page.title }}</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="/">Lachal</a>
+<nav class="navbar navbar-expand-lg navbar-light">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-			<li class="nav-item active"><a href="{{ site.github.url }}/presentation" class="nav-link">Présentation</a></li>
+  <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+    <ul class="navbar-nav">
 			<li class="nav-item"><a href="{{ site.github.url }}/" class="nav-link">Tous les mots</a></li>
 			<li class="nav-item dropdown">
-				<a href="#" role="button" class="nav-link dropdown-toggle" id="menu-categories" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Catégories</a>
+				<a href="#" role="button" class="nav-link" id="menu-categories" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Catégories</a>
 				<div class="dropdown-menu" aria-labelledby="menu-categories">
 					<a class="dropdown-item" href="{{ site.github.url }}/categorie/rhetorique">Rhétorique</a>
 					<a class="dropdown-item" href="{{ site.github.url }}/categorie/acronyme">Acronymes</a>
@@ -37,13 +36,17 @@
 				</div>
 			</li>
 			<li class="nav-item"><a class="nav-link" href="{{ site.github.url }}/rubrique">Toutes les expressions</a></li>
-			<li class="nav-item"><a class="nav-link" href="{{ site.github.url }}/contributeurs">Contributeurs</a></li>
+			<li class="nav-item"><a class="nav-link" href="{{ site.github.url }}/contributeurs">Présentation</a></li>
 		</ul>
 	</div>
 </nav>
 
 <div class="container-fluid">
-	{{ content }}
+	<div class="row-content">
+		<div class="col-lg-8 offset-lg-2">
+			{{ content }}
+		</div>
+	</div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

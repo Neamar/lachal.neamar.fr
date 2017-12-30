@@ -4,10 +4,7 @@ layout: default
 
 <dl>
 <dt><h1>{{ page.title }}</h1></dt>
-
-{% if page.categories != empty %}
-<em>Catégorie : {{ page.categories | join: ', '}}</em>
-{% endif %}
+{% include display_category.html categories=page.categories %}
 
 <h2>Définition</h2>
 {{ content }}

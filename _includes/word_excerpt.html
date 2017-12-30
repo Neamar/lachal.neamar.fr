@@ -1,6 +1,6 @@
 <dt>
-	<a href="{{ site.github.url }}/{{ word.permalink }}">{{ word.title }}</a>
-	{% if word.categories != empty %}<em>Catégorie : {{ word.categories | join:", " }}</em>{% endif %}
+	<a class="word" href="{{ site.github.url }}/{{ word.permalink }}">{{ word.title }}</a>
+	{% include display_category.html categories=word.categories %}
 </dt>
 <dd>
 	<p>{{ word.excerpt }}</p>

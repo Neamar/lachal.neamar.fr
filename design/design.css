@@ -1,4 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+/*Bootstrap Change*/
+
+.navbar-default .navbar-nav > li.dropdown:hover > a, 
+.navbar-default .navbar-nav > li.dropdown:hover > a:hover,
+.navbar-default .navbar-nav > li.dropdown:hover > a:focus {
+    background-color: rgb(231, 231, 231);
+    color: rgb(85, 85, 85);
+}
+li.dropdown:hover > .dropdown-menu {
+    display: block;
+    border: none;
+}
+
+/*End Bootstrap Change*/
+
 
 html, body, form, fieldset, table, tr, td, img {
     margin: 0;
@@ -6,41 +20,52 @@ html, body, form, fieldset, table, tr, td, img {
     font: 'Source Serif Pro','cambria',serif;
 }
 
-body{
-	width: 80%;
-	margin:0 auto;
+/*NAV*/
+/*.navbar-collapse{
+	height: 7em;
+}*/
+
+.navbar-light .navbar-nav .nav-link, .dropdown-item{
+	font-family:'Tinos';
+	color: #E5451F;
+	font-weight: 700;
+	font-style: italic;
 }
 
-h1 {
-	color: red;
-	font-family:'Source Serif Pro';
+.navbar li{
+	margin: 0 2em 0 2em;
+	list-style-type: square;
+	color: #E5451F;
 }
 
-#menu, #menu ul{
-	padding: 0;
-	margin: 0;
-	list-style: none;
+.dropdown-menu{
+	margin-left: -1.2em;
 }
 
-#menu{
-	text-align: center;
+/*END NAV*/
+
+
+h1, .word {
+	color: #E5451F;
+	font-weight: 700;
+	font-style: italic;
+	font-family:'Tinos';
 }
 
-#menu ul{
-	display:none;
-	position: absolute;
-	list-style-position: inside;
+.word{
+	
 }
 
-#menu li:hover ul{
-	display: inherit;
+a.word:hover{
+	text-decoration: none;
+	color:#ED8267;
 }
 
-#menu li{
-	display: inline-block;
-	/*padding: 0 2em 0 2em;*/
-}
-
-#ssmenu li{
+em.cat{
 	display: block;
+	font-weight: 400;
+	font-size: 0.8em;
+	font-style: italic;
 }
+
+dt{font-family: "Tinos"; font-size: 1.2em;}
