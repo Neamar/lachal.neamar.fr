@@ -3,19 +3,19 @@ layout: default
 ---
 
 <dl>
-<dt><h1>{{ page.title }}</h1></dt>
+<dt><h2>{{ page.title }}</h2></dt>
 {% include display_category.html categories=page.categories %}
 
-<h2>Définition</h2>
+<h3>Définition</h3>
 {{ content }}
 
-<h2>Synonymes :</h2>
+<h3>Synonymes :</h3>
 <ul>
 {% for synonym in page.synonyms %}
 	<li>{{ synonym }}</li>
 {% endfor %}
 </ul>
-<h2>Exemples d'utilisation</h2>
+<h3>Exemples d'utilisation</h3>
 <ul>
 {% for example in page.examples %}
 	<li>{{ example }}</li>

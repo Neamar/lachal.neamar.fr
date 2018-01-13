@@ -21,15 +21,24 @@ html, body, form, fieldset, table, tr, td, img {
 }
 
 /*NAV*/
-/*.navbar-collapse{
-	height: 7em;
-}*/
+.bg{
+	background-image: url('/design/header.png');
+	background-size: cover;
+	height: auto;
+	max-height: 50em;
+	min-height: 40em;
+	background-repeat: no-repeat;
+}
 
 .navbar-light .navbar-nav .nav-link, .dropdown-item{
 	font-family:'Tinos';
 	color: #E5451F;
 	font-weight: 700;
 	font-style: italic;
+}
+
+.navbar-nav{
+	margin: 2em 0 2em 0;
 }
 
 .navbar li{
@@ -45,11 +54,33 @@ html, body, form, fieldset, table, tr, td, img {
 /*END NAV*/
 
 
-h1, .word {
+h1,h2, .word {
 	color: #E5451F;
 	font-weight: 700;
 	font-style: italic;
 	font-family:'Tinos';
+}
+
+h1{
+	margin-top: 1em;
+}
+
+.sub{
+	font-family: 'Tinos';
+	font-weight: 700;
+	font-style: italic;
+	color: #868695;
+	margin: 0;
+	padding: 0;
+}
+
+.index{
+	list-style: none;
+	display: block;
+}
+
+ul .index li{
+	display: inline-block;
 }
 
 .word{
