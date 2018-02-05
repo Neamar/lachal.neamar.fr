@@ -2,3 +2,6 @@ exlude: [code]
 collections:
   words:
     output: true
+url: "https://lachal.neamar.fr"
+plugins:
+  - jekyll-sitemap
