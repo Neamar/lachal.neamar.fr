@@ -1,7 +1,7 @@
 ---
-title: e.g.
-permalink: e.g.html
-canonical: http://lachal.neamar.fr/e.g.
+title: E.g.
+permalink: e.g..html
+canonical: http://lachal.neamar.fr/E.g.
 layout: word
 categories:
   - Citation latine

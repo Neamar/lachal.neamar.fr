@@ -6,13 +6,13 @@ var words = require("./words.json");
 var categories = require("./categories.json");
 
 words.forEach(function(data) {
-  data.Slug = data.Mot.replace(/ô/g, 'o');
+  data.Slug = data.Mot.toLowerCase();
+  data.Slug = data.Slug.replace(/ô/g, 'o');
   data.Slug = data.Slug.replace(/ü/g, 'u');
   data.Slug = data.Slug.replace(/ï|î/g, 'i');
   data.Slug = data.Slug.replace(/é|è|ê/g, 'e');
   data.Slug = data.Slug.replace(/à|â/g, 'a');
   data.Slug = data.Slug.replace(/ /g, '_');
-  data.Slug = data.Slug.toLowerCase();
 
   var content = "---\n";
   content += "title: " + data.Mot + "\n";
