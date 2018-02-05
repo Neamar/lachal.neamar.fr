@@ -21,6 +21,7 @@
 <body>
 <header>
 	<div class="bg"></div>
+	{% if page.display_header %}
 	<div class="container-fluid">
 		<div class="row-content">
 			<div class="col-lg-8 offset-lg-2 sub text-center">
@@ -30,6 +31,7 @@
 			</div>
 		</div>
 	</div>
+	{% endif %}
 </header>
 <nav class="navbar navbar-expand-lg navbar-light">
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

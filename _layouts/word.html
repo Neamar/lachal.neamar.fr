@@ -3,7 +3,7 @@ layout: default
 ---
 
 <dl>
-<dt><h2>{{ page.title }}</h2></dt>
+<dt><h1>{{ page.title }}</h1></dt>
 {% include display_category.html categories=page.categories %}
 
 <h5>Définition</h5>
@@ -25,6 +25,4 @@ layout: default
 <p>Pour plus d'informations&nbsp;: <a href="{{ page.link }}">{{ page.title }}</a>
 </dd>
 </dl>
-<button type="button" class="text-center" onClick="history.go(-1);return true;">Précédent</button>
-</body>
-</html>
+<a class="btn" href="/">Retour à l'accueil</a>
