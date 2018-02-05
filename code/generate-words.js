@@ -45,10 +45,10 @@ words.forEach(function(data) {
     }
   });
   if(data.Exemple1) {
-    addExample(data.Slug, data.Exemple1);
+    addExample(data.Mot, data.Exemple1);
   }
   if(data.Exemple2) {
-    addExample(data.Slug, data.Exemple2);
+    addExample(data.Mot, data.Exemple2);
   }
 
   content += "link: " + data.Lien + "\n";
