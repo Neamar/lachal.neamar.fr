@@ -6,16 +6,16 @@ layout: default
 <dt><h2>{{ page.title }}</h2></dt>
 {% include display_category.html categories=page.categories %}
 
-<h3>Définition</h3>
+<h5>Définition</h5>
 {{ content }}
 
-<h3>Synonymes :</h3>
+<h5>Synonymes :</h5>
 <ul>
 {% for synonym in page.synonyms %}
 	<li>{{ synonym }}</li>
 {% endfor %}
 </ul>
-<h3>Exemples d'utilisation</h3>
+<h5>Exemples d'utilisation</h5>
 <ul>
 {% for example in page.examples %}
 	<li>{{ example }}</li>
@@ -25,5 +25,6 @@ layout: default
 <p>Pour plus d'informations: <a href="{{ page.link }}">{{ page.title }}</a>
 </dd>
 </dl>
+<button type="button" class="text-center" onClick="history.go(-1);return true;">Précédent</button>
 </body>
 </html>
