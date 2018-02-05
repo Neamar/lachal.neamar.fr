@@ -7,8 +7,6 @@ categories:
 synonyms:
   - Maritorne
   - Péronnelle
-examples:
-  - "A ces mots, Mickey prit un ton comminatoire et lui adresse quelques privautés : il la traite &quot;espèce de&quot;<br /><br />réponse a : péronnelle !<br />réponse b : pie grièche !<br />réponse c : poissarde !<br />réponse d : pôv' cloche !<br />(cf. Histoires)"
 link: http://champagne-ardenne.lpo.fr/agenda_des_oiseaux/mai/oiseau_mois.htm
 ---
 

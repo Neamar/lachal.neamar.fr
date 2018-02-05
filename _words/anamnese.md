@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Histoire
   - Résumé
-examples:
-  - "Vite ! Une petite anamnèse cathartique : les mondes concomitants, ce que j'écris, ce que je pense…"
-  - "Cet énoncé pourrait vous rappeler dans une anamnèse collective, le théorème d'Hospital (Guillou de son prénom)"
 link: http://fr.wikipedia.org/wiki/Anamn%C3%A8se
 ---
 

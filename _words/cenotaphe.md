@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Tombeau
   - Mausolée
-examples:
-  - "Je pense qu'un jour, on vous érigera un cénotaphe…"
 link: http://fr.wikipedia.org/wiki/C%C3%A9notaphe
 ---
 

@@ -11,8 +11,6 @@ synonyms:
   - Breloque
   - Brimborion
   - Broutille.
-examples:
-  - "Posez donc tous ces colifichets et venez au tableau faire des mathématiques, des vraies !"
 link: http://fr.wiktionary.org/wiki/colifichet
 ---
 

@@ -8,8 +8,6 @@ synonyms:
   - Bijection
   - Traduction
   - Transcription
-examples:
-  - "Tau s'écrit Tau et non To, c'est juste une translittération…"
 link: http://fr.wikipedia.org/wiki/Translitt%C3%A9ration
 ---
 

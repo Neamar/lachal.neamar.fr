@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - Nutritionnel
-examples:
-  - "Allez un petit exemple.. Enfin quelque chose de nutritif"
 link: http://fr.encarta.msn.com/dictionary_/nutritif.html
 ---
 

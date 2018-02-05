@@ -9,8 +9,6 @@ categories:
 synonyms:
   - Manière de procéder
   - Signature
-examples:
-  - "Pour le cas général, il faudra peut-être procéder ad augusta per angusta et adopter un modus operandi suivant un vent catabatique…"
 link: http://fr.wikipedia.org/wiki/Modus_operandi
 ---
 

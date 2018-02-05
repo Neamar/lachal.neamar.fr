@@ -33,9 +33,6 @@ synonyms:
   - factice
   - nartificiel
   - fabriqué
-examples:
-  - "Bien que ce ne soit qu'un paralogique assertorique à tendance captieuse."
-  - "D'où la petite imprécision captieuse, à ce niveau-là."
 link: http://fr.wiktionary.org/wiki/captieux
 ---
 

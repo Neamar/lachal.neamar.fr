@@ -13,8 +13,6 @@ synonyms:
   - remontrance
   - semonce
   - sermon
-examples:
-  - "Encore des admonestations imprécatoires ?"
 link: http://definition.ptidico.com/admonester.html
 ---
 

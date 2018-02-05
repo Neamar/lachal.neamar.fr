@@ -9,8 +9,6 @@ synonyms:
   - Discours
   - Bavardages
   - Bavassages
-examples:
-  - "Après moult péroraisons, fadaises, billevesées, rodomontades et autres coquecigrues, nous pouvons reprendre le cours de la vie normale…"
 link: 
 ---
 

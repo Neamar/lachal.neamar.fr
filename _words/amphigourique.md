@@ -29,9 +29,6 @@ synonyms:
   - ennuyeux
   - compliqué
   - difficile
-examples:
-  - "…Byzantinisme amphigourique."
-  - "Non dit par le prof, mais ajouté pour comprendre : Un amphigouri composé sur un air d’opéra."
 link: http://fr.wiktionary.org/wiki/amphigouri
 ---
 

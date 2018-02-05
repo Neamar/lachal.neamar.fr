@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Apathique
   - Ataraxique
-examples:
-  - "Souffre et abstiens-toi !"
 link: http://www.abc-lettres.com/proverbe-latin/sustine-et-abstine.html
 ---
 

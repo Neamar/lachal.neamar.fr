@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Imparidigité
-examples:
-  - "Un petit exo pour périssodactyles, mésaxoniens et autres imparidigités…"
 link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/mesaxonien/2007
 ---
 

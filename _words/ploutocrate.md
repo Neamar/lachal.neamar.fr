@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Nabab
   - riche
-examples:
-  - "Le samedi soir, au lieu d'aller dans les Pandémoniums de ploutocrates concupiscents, faites donc cette démonstration…"
 link: http://fr.wiktionary.org/wiki/ploutocrate
 ---
 

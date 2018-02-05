@@ -9,8 +9,6 @@ synonyms:
   - ignorant
   - rustaud
   - philistin
-examples:
-  - "Vous êtes un misonéiste, un béotien, un philistin iconoclaste. [À quelqu'un qui ne veut pas retenir une méthode pratique du prof.]"
 link: http://www.linternaute.com/dictionnaire/fr/definition/beotien/
 ---
 

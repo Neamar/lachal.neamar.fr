@@ -8,8 +8,6 @@ synonyms:
   - Bref
   - Concis
   - Lapidaire
-examples:
-  - "Votre prolixité tendance inextinguible serait-elle subitement devenue laconique ?"
 link: 
 ---
 

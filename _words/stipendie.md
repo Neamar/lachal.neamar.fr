@@ -9,8 +9,6 @@ synonyms:
   - Corrompu
   - Sbire
   - Affidé
-examples:
-  - "Signé : Votre affidé stipendié."
 link: http://www.linternaute.com/dictionnaire/fr/definition/stipendier/
 ---
 

@@ -8,8 +8,6 @@ categories:
 synonyms:
   - danseuse
   - Odalisque
-examples:
-  - "Il pose alors la devinette suivante aux schtroumpfettes schtroumpfeuses qui n'avaient cessé de schtroumpfer (traduction de l'auteur : aux almées lascives qui n'avaient cessé de se trémousser) (cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Alm%C3%A9e
 ---
 

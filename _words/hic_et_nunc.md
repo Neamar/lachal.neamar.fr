@@ -7,8 +7,6 @@ categories:
   - Citation latine
 synonyms:
   - Maintenant
-examples:
-  - "Venez Hic Et Nunc !"
 link: http://www.abnihilo.com/
 ---
 

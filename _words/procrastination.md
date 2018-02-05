@@ -9,8 +9,6 @@ synonyms:
   - Ajournement
   - atermoiement
   - temporisation
-examples:
-  - "Vous, vous êtes enclin à la procrastination?"
 link: http://fr.wiktionary.org/wiki/procrastination
 ---
 

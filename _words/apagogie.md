@@ -10,8 +10,6 @@ synonyms:
   - Aberrant
   - Absurdité
   - Incohérent
-examples:
-  - "On tombe sur une apagogie irréfragable."
 link: http://dico.reverso.net/dictionnaire-francais-littre/dic/definition/apagogie/3042
 ---
 

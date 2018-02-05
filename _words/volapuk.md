@@ -7,8 +7,6 @@ categories:
 synonyms:
   - Langue universelle
   - Esperanto
-examples:
-  - "Ouaouh ! Ça, ce n'est pas du volapuk!!"
 link: http://fr.wikipedia.org/wiki/Volapuk
 ---
 

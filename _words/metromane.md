@@ -9,8 +9,6 @@ categories:
 synonyms:
   - Poète
   - Versificateur
-examples:
-  - "Notre littérateur dithyrambique, métromane, matamore, histrion !"
 link: 
 ---
 

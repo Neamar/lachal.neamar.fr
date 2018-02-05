@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Charon
   - Guide
-examples:
-  - "Que dit le psychopompe ?"
 link: http://fr.wiktionary.org/wiki/psychopompe
 ---
 

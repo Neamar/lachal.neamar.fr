@@ -7,9 +7,6 @@ categories:
 synonyms:
   - Fête
   - Orgie
-examples:
-  - "Ce retour de bacchanales vous plonge dans une liesse absolument inénarrable."
-  - "Un petit roboratif pour dimanche matin pour purger la lie engrangée au cours de quelque bacchanale dionysiaque !"
 link: http://fr.wikipedia.org/wiki/Bacchanales
 ---
 

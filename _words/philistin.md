@@ -8,9 +8,6 @@ synonyms:
   - Bélître
   - Ignorant
   - Rustaud
-examples:
-  - "Oui, tapez donc ce calcul sur votre machine de philistins…(comprendre : calculatrice)"
-  - "Vous êtes un misonéiste, un béotien, un philistin iconoclaste. [À quelqu'un qui ne veut pas retenir une méthode pratique du prof.]"
 link: http://fr.wikipedia.org/wiki/Philistin
 ---
 

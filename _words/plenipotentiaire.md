@@ -10,9 +10,6 @@ synonyms:
   - Pleins pouvoirs
   - Dictateur
   - Oligarchique
-examples:
-  - "Rappelons que Picsou est l'illustre ploutocrate plénipotentiaire de la mégalopole Picsouville, expert en numismatique, orfèvre des valeurs fiduciaires. (cf. Histoires)"
-  - "Chers affidés réunis en condominium plénipotentiaire, bonjour ! (cf. Correspondance)"
 link: http://fr.wiktionary.org/wiki/pl%C3%A9nipotentiaire
 ---
 

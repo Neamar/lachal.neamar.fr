@@ -9,8 +9,6 @@ categories:
   - Rhétorique
 synonyms:
   - Mirabile dictu
-examples:
-  - "Just look it ! (mirabile visu) [Devant une épicycloïde, cf. oreilles de Mickey]"
 link: http://www.locutio.net/modules.php?name=Encyclopedia&amp;op=content&amp;tid=6773
 ---
 

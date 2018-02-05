@@ -10,8 +10,6 @@ synonyms:
   - Arrondi
   - Fesses
   - Postérieur
-examples:
-  - "Maintenant il veut frimer avec sa décapotable rouge devant les midinettes callipyges en pâmoison extatique. (cf. Histoires)"
 link: http://www.cnrtl.fr/definition/Callipyge
 ---
 

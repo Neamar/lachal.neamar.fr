@@ -7,9 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Bizarre
-examples:
-  - "Cessez ces guerres cacochymes !"
-  - "Diantre ! Cacochyme le pédotribe !!! Les années ne rendent pas la plume immarcescible…"
 link: http://www.dicoperso.com/term/adb0aea4acaba65e52ae,,xhtml
 ---
 

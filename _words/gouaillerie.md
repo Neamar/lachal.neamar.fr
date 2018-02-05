@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Moquerie
   - Ironie
-examples:
-  - "Vous êtes d'une gouaillerie exacerbée aujourd'hui !"
-  - "Ce n'est point là qu'une vulgaire gouaillerie."
 link: http://www.info-definition.com/gouailleries
 ---
 

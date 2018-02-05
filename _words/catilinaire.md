@@ -12,7 +12,6 @@ synonyms:
   - Reproche
   - Attaque
   - Agression verbale.
-examples:
 link: http://dictionnaire.sensagent.com/catilinaire/fr-fr/
 ---
 

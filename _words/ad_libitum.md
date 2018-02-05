@@ -8,9 +8,6 @@ categories:
 synonyms:
   - A volonté
   - As you want
-examples:
-  - "On ne va pas tergiverser là-dessus ad libitum."
-  - "Et puis on continue de développer ad libitum."
 link: http://www.dicoperso.com/term/adaeaea4acaba85761,,xhtml
 ---
 

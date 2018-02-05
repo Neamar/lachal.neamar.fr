@@ -18,9 +18,6 @@ synonyms:
   - bon point
   - citation
   - mention.
-examples:
-  - "Je compte donc sur votre satisfecit puis sur votre viatique pour éviter toute imprécation inique ! (cf. Correspondance)"
-  - "J'ai oublié de vous transmettre un satisfecit narcissique de la 52e promo."
 link: http://www.mediadico.com/dictionnaire/synonymes/satisfecit/1
 ---
 

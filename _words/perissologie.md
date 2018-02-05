@@ -8,8 +8,6 @@ categories:
   - Rhétorique
 synonyms:
   - Pléonasme
-examples:
-  - "Epsilon, c'est une périssologie?"
 link: http://fr.wikipedia.org/wiki/P%C3%A9rissologie
 ---
 

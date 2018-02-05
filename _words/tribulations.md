@@ -10,8 +10,6 @@ synonyms:
   - Difficulté
   - épreuve
   - Mésaventure.
-examples:
-  - "Après moult tribulations  méphistophéliques."
 link: http://www.linternaute.com/dictionnaire/fr/definition/tribulations/
 ---
 

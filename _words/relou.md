@@ -9,9 +9,6 @@ synonyms:
   - Chiant (Familier)
   - Casse-pied
   - Lourd
-examples:
-  - "Que nenni, c'est relou et rimbou !"
-  - "Non dit par le prof, mais ajouté pour comprendre : &quot;Tin relou le contrôle d'OMSI, j'ai tout foiré.&quot;"
 link: http://fr.wiktionary.org/wiki/relou
 ---
 

@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Mentir
   - Dahu
-examples:
-  - "Quelles fadaises de coquecigrue!"
 link: http://fr.wikipedia.org/wiki/Coquecigure
 ---
 

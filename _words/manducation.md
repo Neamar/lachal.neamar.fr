@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Manger
   - Digérer
-examples:
-  - "C'est l'heure d'aller activer la manducation."
 link: http://projetbabel.org/forum/viewtopic.php?t=1638
 ---
 

@@ -7,9 +7,6 @@ categories:
 synonyms:
   - Ajout
   - Rajout
-examples:
-  - "Lorsque vous additionnez, vous faites une simple concaténation en base 10."
-  - "C'est une figure de style consistant dans l'enchaînement d'anadiploses sucessives."
 link: http://fr.wikipedia.org/wiki/Concat%C3%A9nation
 ---
 

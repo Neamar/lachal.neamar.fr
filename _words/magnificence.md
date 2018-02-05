@@ -9,8 +9,6 @@ synonyms:
   - Somptuosité
   - Faste
   - Luxe
-examples:
-  - "L'enchainement sémantique de cette démonstration atteint une magnificence paroxystique…"
 link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/magnificence/2006
 ---
 

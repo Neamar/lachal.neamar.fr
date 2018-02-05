@@ -23,8 +23,6 @@ synonyms:
   - humiliation
   - vexation
   - attentat.
-examples:
-  - "M.Millon, un petit camouflet tendance pamphlétaire ?"
 link: http://fr.wiktionary.org/wiki/camouflet
 ---
 

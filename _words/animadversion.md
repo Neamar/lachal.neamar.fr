@@ -9,9 +9,6 @@ synonyms:
   - blâme
   - censure
   - réprobation
-examples:
-  - "Pourquoi une telle animadversion envers Clarabelle ?"
-  - "Encore des animadversions intempestives ?"
 link: http://fr.wiktionary.org/wiki/animadversion
 ---
 

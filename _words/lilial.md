@@ -9,8 +9,6 @@ synonyms:
   - Pur
   - Candide
   - Blanc
-examples:
-  - "La copine de Titeuf, jeune odalisque au sourire lilial et séraphique et à la dentition adamantine, coruscante, voire éburnéenne…(cf. Histoires)"
 link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/lilial/2007
 ---
 

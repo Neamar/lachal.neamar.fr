@@ -22,9 +22,6 @@ synonyms:
   - grivois
   - familier
   - impudent.
-examples:
-  - "Qui à éructé ce borborygme irrévérencieux ?"
-  - "C'est une boutade, irréverentieuse de surcroît !"
 link: http://fr.wiktionary.org/wiki/irr%C3%A9v%C3%A9rencieux
 ---
 

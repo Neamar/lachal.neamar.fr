@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - maniéré
-examples:
-  - "Notre caudataire toujours enclin à quelque capucinade affétée !"
 link: http://definition.ptidico.com/affété.html
 ---
 

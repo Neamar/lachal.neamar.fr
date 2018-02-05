@@ -20,8 +20,6 @@ synonyms:
   - aride
   - ingrat
   - rebutant.
-examples:
-  - "C'est un peu fallacieux, voire fastidieux."
 link: http://fr.wiktionary.org/wiki/fastidieux
 ---
 

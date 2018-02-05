@@ -9,8 +9,6 @@ synonyms:
   - Refusable
   - Intolérable
   - Révoltant
-examples:
-  - "On tombe à présent sur une apagogie (resp. aporie) rédhibitoire."
 link: http://fr.wiktionary.org/wiki/r%C3%A9dhibitoire
 ---
 

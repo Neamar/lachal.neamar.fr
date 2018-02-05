@@ -9,8 +9,6 @@ categories:
 synonyms:
   - Homonymie approximative
   - A-peu-près
-examples:
-  - "On assemble ce qui se ressemble (ça, c'est une paronomase)…"
 link: http://fr.wikipedia.org/wiki/Paronomase
 ---
 

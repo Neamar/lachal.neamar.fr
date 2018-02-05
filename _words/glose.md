@@ -8,9 +8,6 @@ synonyms:
   - Commentaire
   - Annotation
   - Note
-examples:
-  - "Si je puis me permettre une petite glose personnelle…"
-  - "Mr Moulin, quelques gloses supplétives?"
 link: http://fr.wikipedia.org/wiki/Glose
 ---
 

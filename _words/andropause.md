@@ -8,8 +8,6 @@ synonyms:
   - Ménopause
   - fatigue
   - maladie
-examples:
-  - "Lorenzaccio – caïd local – est continuellement en proie à des bouffées de chaleur, prémisses d'une andropause prodromique… (cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Andropause
 ---
 

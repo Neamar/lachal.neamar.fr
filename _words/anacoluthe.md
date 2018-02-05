@@ -10,9 +10,6 @@ synonyms:
   - Rupture
   - Séparation
   - Dissension
-examples:
-  - "C'est un anacoluthe !"
-  - "bic fait, bien fait"
 link: http://fr.wiktionary.org/wiki/anacoluthe
 ---
 

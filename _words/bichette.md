@@ -7,8 +7,6 @@ categories:
 synonyms:
   - Miss
   - mistinguette
-examples:
-  - "Ça te plait, bichette?"
 link: http://fr.wiktionary.org/wiki/bichette
 ---
 

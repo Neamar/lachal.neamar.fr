@@ -9,8 +9,6 @@ synonyms:
   - Rhétoricien
   - Orateur
   - Argumentateur
-examples:
-  - "Notre rhéteur, réthoricien, laudateur, zélateur, persifleur, pourfendeur, cabotin à la rhétorique, au ramage alambiqué et ampoulé…"
 link: http://fr.wiktionary.org/wiki/rh%C3%A9teur
 ---
 

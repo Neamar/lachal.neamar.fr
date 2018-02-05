@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Modèle
   - Représentant typique. Archétype
-examples:
-  - "Cher parangon ostentatoire (cf. Correspondance)"
 link: http://fr.wikipedia.org/wiki/Parangon
 ---
 

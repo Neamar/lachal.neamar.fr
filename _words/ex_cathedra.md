@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Morgue
   - Pédant
-examples:
-  - "Il s'agit d'une définition ex cathedra !"
 link: http://www.linternaute.com/dictionnaire/fr/definition/ex-cathedra/
 ---
 

@@ -8,8 +8,6 @@ synonyms:
   - Bélître
   - Galant
   - Marivaudeur
-examples:
-  - "Mais ce n'est pas vraiment le genre de notre pauvre galantin. (cf. Histoires)"
 link: http://fr.wiktionary.org/wiki/galantin
 ---
 

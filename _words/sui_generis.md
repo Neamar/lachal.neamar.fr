@@ -9,8 +9,6 @@ categories:
 synonyms:
   - Particulière
   - Singulière
-examples:
-  - "Cette définition sui generis est importante."
 link: http://fr.wikipedia.org/wiki/Sui_generis
 ---
 

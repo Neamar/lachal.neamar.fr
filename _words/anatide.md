@@ -7,8 +7,6 @@ categories:
 synonyms:
   - Canard
   - Ansériforme
-examples:
-  - "Heureusement, il nous laisse ses potes les anatidés : Donald et Picsou. (cf. histoires)"
 link: 
 ---
 

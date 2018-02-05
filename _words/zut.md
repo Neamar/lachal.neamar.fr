@@ -8,9 +8,6 @@ synonyms:
   - Crotte
   - Flûte
   - Merde (Familier)
-examples:
-  - "Zut crotte flute, c'est vraiment la méga-foire ! C'est la tehon !"
-  - "Votre Exemple ?"
 link: http://fr.wikipedia.org/wiki/Zut
 ---
 

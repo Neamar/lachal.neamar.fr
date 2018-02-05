@@ -10,9 +10,6 @@ synonyms:
   - Coach
   - Entraineur
   - Initiateur
-examples:
-  - "Votre pédotribe musagète…(cf. Correspondance)"
-  - "Diantre ! Cacochyme le pédotribe !!! Les années ne rendent pas la plume immarcescible…"
 link: http://littre.reverso.net/dictionnaire-francais/definition/p%C3%A9dotribe/55059
 ---
 

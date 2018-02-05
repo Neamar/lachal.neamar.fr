@@ -9,8 +9,6 @@ synonyms:
   - À mon avis un seul mot pour désigner cette phobie suffit largement ;)
   - "Voir aussi : Triskaiddékaphobe (nombre 13)"
   - "Voir aussi : Apopathodiaphulatophobe (beaucoup moins mathématiques !)"
-examples:
-  - "Au risque de croiser quelque ribaud hédoniste et dévoyé, un petit exo pour samedi soir… attention, il n'est pas recommandé aux hexakosioihexekontahexaphobes !"
 link: http://fr.wikipedia.org/wiki/Hexakosioihexekontahexaphobie
 ---
 

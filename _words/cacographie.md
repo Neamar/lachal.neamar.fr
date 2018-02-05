@@ -8,9 +8,6 @@ categories:
   - Rhétorique
 synonyms:
   - Charabia
-examples:
-  - "Pardonnez cet instant de cacographie passagère."
-  - "Quelle cacographie incoercible et exacerbée !"
 link: http://fr.wikipedia.org/wiki/Cacographie
 ---
 

@@ -9,8 +9,6 @@ synonyms:
   - Obsolète
   - Désuet
   - Dépassé
-examples:
-  - "Toto sentant naître une pointe d'obsolescence insidieuse décide de prendre sa retraite. (cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Obsolescence
 ---
 

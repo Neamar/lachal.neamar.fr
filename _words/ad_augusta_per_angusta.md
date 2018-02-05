@@ -10,8 +10,6 @@ synonyms:
   - à de grands résultats par des voies étroites
   - La gloire ne s'acquiert pas facilement
   - Par l'échec vers la réussite
-examples:
-  - "Pour le cas général, il faudra peut-être procéder ad augusta per angustaet adopter un modus opérandi suivant un vent catabatique…"
 link: 
 ---
 

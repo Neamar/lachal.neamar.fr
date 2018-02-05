@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Voix Forte
   - Voix Portante
-examples:
-  - "M. Millon nous informe de sa belle voix de stentor qu'une erreur s'est insidieusement glissée dans cet énoncé…"
 link: http://fr.wikipedia.org/wiki/Stentor
 ---
 

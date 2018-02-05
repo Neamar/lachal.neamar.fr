@@ -9,8 +9,6 @@ synonyms:
   - Remerciements
   - Cadeau
   - Don
-examples:
-  - "Eh bien dites donc…je vous conseille sincèrement d'aller poser un ex-voto, vu votre chance aujourd'hui…"
 link: http://fr.wikipedia.org/wiki/Ex_voto
 ---
 

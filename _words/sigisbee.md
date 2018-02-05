@@ -10,9 +10,6 @@ synonyms:
   - gigolo
   - soupirant
   - amant
-examples:
-  - "Mickey, notre sigisbée patelin, papelard, voire cauteleux, donc, invite une copine à la campagne. (cf. Histoires)"
-  - "Toto, cancre occupant indéfectiblement le dernier rang de l'école communale, se prend aujourd'hui pour un sigisbée et se met en quête de taquiner une copine avoisinante : Titine… (cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Sigisb%C3%A9e
 ---
 

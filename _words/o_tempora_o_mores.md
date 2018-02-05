@@ -8,8 +8,6 @@ categories:
   - Rhétorique
 synonyms:
   - Quelle époque !
-examples:
-  - "Il s'agit du matériel de l'INSA, est-il utile de le rappeler ? o tempora o mores !"
 link: http://www.abnihilo.com/o/ot_b.htm
 ---
 

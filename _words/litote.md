@@ -7,9 +7,6 @@ categories:
   - Rhétorique
 synonyms:
   - Euphémisme.
-examples:
-  - "C'est une litote ?"
-  - "Elle a une tête de litote"
 link: http://www.linternaute.com/dictionnaire/fr/definition/litote/
 ---
 

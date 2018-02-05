@@ -7,9 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Arrogance
-examples:
-  - "Quelle infatuation exacerbée! C'est à la hauteur de la situation."
-  - "Voudriez-vous faire preuve d'infatuation ? Restons sobres entre nous !"
 link: http://fr.wiktionary.org/wiki/infatuation
 ---
 

@@ -6,9 +6,6 @@ layout: word
 categories:
 synonyms:
   - Unité
-examples:
-  - "Mickey notre sigisbée patelin international voire oecuménique, ayant bien joué avec les stomoxes, mélophages et autres hippobosques, considère qu'après une telle gloire il préfère se retirer sous les vivats et satisfecits d'une foule en liesse. (cf. Histoires)"
-  - "Notre mystagogue oecuménique ! [qui se livre à quelque magie vaudoue ]"
 link: http://fr.wikipedia.org/wiki/Oecum%C3%A9nique
 ---
 

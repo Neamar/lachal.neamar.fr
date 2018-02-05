@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - Tri
-examples:
-  - "On va mettre un peu d'ordre lexicographique dans ces réponses."
 link: http://fr.wikipedia.org/wiki/Ordre_lexicographique
 ---
 

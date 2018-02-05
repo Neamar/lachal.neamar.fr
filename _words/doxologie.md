@@ -9,9 +9,6 @@ categories:
 synonyms:
   - Parole de gloire
   - Hypocrisie
-examples:
-  - "Ça sent encore la doxologie irréfragable"
-  - "C'est une doxologie irréfragable tendance captieuse."
 link: http://fr.wikipedia.org/wiki/Doxologie
 ---
 

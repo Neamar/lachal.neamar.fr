@@ -13,7 +13,6 @@ synonyms:
   - Ardeur
   - Ferveur
   - Fanatisme.
-examples:
 link: http://www.techno-science.net/?onglet=glossaire&definition=4225
 ---
 

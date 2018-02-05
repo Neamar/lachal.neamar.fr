@@ -9,8 +9,6 @@ synonyms:
   - Homme à tout faire
   - Fais-Tout
   - Esclave
-examples:
-  - "Votre humble factotum qui ne souhaite pas sentir le remugle… (cf. Correspondance)"
 link: http://fr.wiktionary.org/wiki/factotum
 ---
 

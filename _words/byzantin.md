@@ -11,8 +11,6 @@ synonyms:
   - Pédant
   - Raffiné
   - Subtil
-examples:
-  - "C'est votre côté byzantin qui ressort"
 link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/byzantin/2007
 ---
 

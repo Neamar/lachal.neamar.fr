@@ -9,8 +9,6 @@ synonyms:
   - Honte
   - Déshonneur
   - Ignominie
-examples:
-  - "M Millon, déjà en train de s'adonner à quelques turpitudes regrettables ?"
 link: http://lemotdujour.over-blog.com/article-2323400.html
 ---
 

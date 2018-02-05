@@ -9,8 +9,6 @@ categories:
   - Rhétorique
 synonyms:
   - Sans autre forme de procès
-examples:
-  - "On rapproche ces deux expressions mutatis mutandis, de façon triviale et bestiale."
 link: http://fr.wikipedia.org/wiki/Mutatis_mutandis
 ---
 

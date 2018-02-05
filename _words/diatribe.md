@@ -10,8 +10,6 @@ synonyms:
   - Accusation
   - Réquisitoire
   - Délation
-examples:
-  - "C'est une diatribe pamphlétaire indigne de vous…"
 link: http://fr.wikipedia.org/wiki/Diatribe
 ---
 

@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Schizophrénie
-examples:
-  - "Diantre, seriez-vous paraphréniques ?"
 link: http://fr.wikipedia.org/wiki/Paraphr%C3%A9nie
 ---
 

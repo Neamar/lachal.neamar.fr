@@ -6,9 +6,6 @@ layout: word
 categories:
 synonyms:
   - Contresens
-examples:
-  - "Bien qu'un sycophante bestial ne soit pas antinomique"
-  - "Je regardais vers l'infini"
 link: http://fr.wiktionary.org/wiki/antinomique
 ---
 

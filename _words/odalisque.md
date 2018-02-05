@@ -9,8 +9,6 @@ synonyms:
   - Esclave
   - Maitresse
   - Concubine
-examples:
-  - "A la plage, des schtroumpfettes se schtroumpfent avec schtroumpferie (traduction de l'auteur : des odalisques se pavanent avec ostentation). (cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Odalisque
 ---
 

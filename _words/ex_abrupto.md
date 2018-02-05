@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Brusquement
   - Abruptement
-examples:
-  - "M Tschirhard, allez donc me faire ce DL ex abrupto dans un coin de votre feuille…"
-  - "J'en sais rien comme ça, ex abrupto…z'auriez pas un petit papier par hasard ?"
 link: http://www.dicoperso.com/list/8/6,A,,xhtml
 ---
 

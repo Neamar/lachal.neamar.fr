@@ -11,8 +11,6 @@ synonyms:
   - Sempiternel
   - Superflu
   - Surabondant.
-examples:
-  - "Votre raisonnement est d'une redondance fuligineuse…"
 link: http://www.linternaute.com/dictionnaire/fr/definition/redondant/
 ---
 

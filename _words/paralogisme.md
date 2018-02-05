@@ -9,9 +9,6 @@ synonyms:
   - Alambiqué
   - Affecté
   - Sophisme
-examples:
-  - "Bien que ce ne soit qu'un paralogisme assertorique à tendance captieuse."
-  - "C'est un paralogisme assertorique à vocation captieuse"
 link: http://fr.wikipedia.org/wiki/Paralogisme
 ---
 

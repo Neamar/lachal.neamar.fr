@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - Déchets
-examples:
-  - "Quelques minutes de pause pour évacuer la lie engrangée lors d'une crise de polydipsie."
 link: http://fr.wikipedia.org/wiki/Lie_%28%C5%93nologie%29
 ---
 

@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Sudations fétides
   - Exhalaisons
-examples:
-  - "Fermons la fenêtre pour évacuer les odeurs empyreumatiques qui pourraient se dégager d'ici 5 minutes."
-  - "Vite, ouvrons la fenêtre afin d'évacuer ces exhalaisons méphitiques et empyreumatiques !"
 link: http://www.terroirexperience.com/vin/empyreumatique-344-e.html
 ---
 

@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - Aniconiste
-examples:
-  - "Il affiche une dentition adamantine et coruscante iconoclaste."
 link: http://www.linternaute.com/dictionnaire/fr/definition/iconoclaste/
 ---
 

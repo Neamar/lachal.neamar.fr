@@ -11,8 +11,6 @@ synonyms:
   - mystérieux
   - obscur
   - occulte.
-examples:
-  - "Ne vous inquiétez pas; ceci n'est qu'une cabale ésotérique. "
 link: http://www.linternaute.com/dictionnaire/fr/definition/esoterique/
 ---
 

@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - Hébreu
-examples:
-  - "Je parle l'Étrusque ancien, M. Bacconnier?"
 link: http://fr.wikipedia.org/wiki/Etrusque
 ---
 

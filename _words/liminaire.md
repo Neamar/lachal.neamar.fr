@@ -9,8 +9,6 @@ synonyms:
   - Recadrement
   - Préparation
   - Au préalable
-examples:
-  - "Quel liminaire…percutant !"
 link: http://fr.answers.yahoo.com/question/index?qid=20061109235948AACQhGS
 ---
 

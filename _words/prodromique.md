@@ -9,9 +9,6 @@ synonyms:
   - Nouveau
   - Original
   - Précurseur
-examples:
-  - "Ici, on ne fait pas de mathématiques prodromiques."
-  - "Quand à celui qui nous quitte, ses résultats du premier semestresemblaient prodromiques et je vois qu'ils ne sont malheureusement pas remontés au deuxième semestre…"
 link: http://fr.wikipedia.org/wiki/Phase_prodromique
 ---
 

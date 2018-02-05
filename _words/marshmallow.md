@@ -7,8 +7,6 @@ categories:
 synonyms:
   - Guimauve
   - Bonbon
-examples:
-  - "Toto échange 13 billes contre 72 marshmallows…"
 link: http://fr.wikipedia.org/wiki/Marshmallow
 ---
 

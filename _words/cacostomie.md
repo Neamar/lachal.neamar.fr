@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Halitose
-examples:
-  - "Mais Vomito, qui est toujours en proie à quelques problèmes de cacostomie… (cf. Histoires)"
 link: http://www.absurditis.com/index.php?page=dico&amp;lettre=C&amp;mot=Cacostomie
 ---
 

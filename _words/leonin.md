@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Royal
-examples:
-  - "Ah, mais notre M. Millon entend bien s'arroger subrepticement une part léonine, et pour lui, une forfaiture ou félonie n'est jamais de trop !"
 link: http://fr.wikipedia.org/wiki/L%C3%A9onin
 ---
 

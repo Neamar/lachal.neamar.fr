@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Cloaque
   - Sénacle
-examples:
-  - "Le samedi soir, au lieu d'aller dans les pandémoniums de ploutocrates concupiscents, vous feriez mieux de réviser vos maths…"
 link: http://fr.wikipedia.org/wiki/Pand%C3%A9monium
 ---
 

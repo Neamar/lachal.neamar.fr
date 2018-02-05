@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Bossage
-examples:
-  - "Pas de fameuses vermiculures empruntées à l'art baroque…Je ne suis pas sûr que tout le monde soit sensible à cet art prodromique !"
 link: http://fr.wikipedia.org/wiki/P%C3%A9rissologie
 ---
 

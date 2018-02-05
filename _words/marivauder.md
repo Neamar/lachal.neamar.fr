@@ -8,9 +8,6 @@ synonyms:
   - Flirter
   - Courtiser
   - Fréquenter
-examples:
-  - "Ca y est ? On a fini de marivauder ? On peut y aller ?"
-  - "Petite pause marivaudage…"
 link: http://fr.wiktionary.org/wiki/marivauder
 ---
 

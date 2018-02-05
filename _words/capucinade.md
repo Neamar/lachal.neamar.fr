@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Ridicule
   - Figure de style mal tournée
-examples:
-  - "M Tschirhard, notre chantre apologique toujours enclin à la capucinade rhétorique !"
 link: http://fr.wiktionary.org/wiki/capucinade
 ---
 

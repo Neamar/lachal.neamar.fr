@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Dictature
-examples:
-  - "Diantre ! Aurais-je affaire à un cénacle exerçant son condominium oligarchique ?"
 link: http://fr.wikipedia.org/wiki/Oligarchie
 ---
 

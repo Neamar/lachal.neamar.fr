@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - Satanique
-examples:
-  - "Quel sarcasme méphistophélique !"
 link: http://www.linternaute.com/dictionnaire/fr/definition/mephistophelique/
 ---
 

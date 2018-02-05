@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Répéter
   - Radoter
-examples:
-  - "Donc on récapépète!"
 link: http://nimportequoi.com
 ---
 

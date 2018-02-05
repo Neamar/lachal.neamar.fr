@@ -9,9 +9,6 @@ synonyms:
   - Élogieux
   - Laudatif
   - Apologétique
-examples:
-  - "Notre littérateur dithyrambique, métromane, matamore, histrion !"
-  - "Une diatribe dithyrambique proche de la cacostomie, déconseillée aux apopathodiaphulatophobes !"
 link: http://www.absurditis.com/index.php?page=dico&lettre=D&mot=Dithyrambique
 ---
 

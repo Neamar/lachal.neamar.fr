@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Fanfaron
   - Pleutre
-examples:
-  - "Notre littérateur dithyrambique, métromane, matamore, histrion !"
 link: http://www.universalis.fr/encyclopedie/T300909/MATAMORE.htm
 ---
 

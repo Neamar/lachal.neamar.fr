@@ -9,8 +9,6 @@ synonyms:
   - Fanfaronnerie
   - Vantardise
   - Cranerie
-examples:
-  - "On a pris du retard, à force de déblatérer toutes formes de rodomontades…"
 link: http://www.absurditis.com/index.php?page=dico&amp;lettre=R&amp;mot=Rodomontade
 ---
 

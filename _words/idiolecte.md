@@ -8,8 +8,6 @@ categories:
   - Rhétorique
 synonyms:
   - Langage
-examples:
-  - "Vous avez une rhétorique idiolecte coprolalique !"
 link: http://fr.wikipedia.org/wiki/Idiolecte
 ---
 

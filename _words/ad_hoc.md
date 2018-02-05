@@ -9,9 +9,6 @@ synonyms:
   - Convient
   - Adapté
   - Cador
-examples:
-  - "Je vais choisir un N(0) ad hoc."
-  - "Je reconnais ne plus être original mais ce sont les mots ad hoc qui me viennent hic et nunc à l'esprit !"
 link: http://fr.wikipedia.org/wiki/Ad_hoc
 ---
 

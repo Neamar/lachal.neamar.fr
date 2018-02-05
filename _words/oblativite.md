@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Don de soi
   - sacrifice
-examples:
-  - "Je vois que vous œuvrez dur pour les mathématiques et vous remercie de votre totale obédience (et oblativité) pour la chose."
 link: http://www.dicopsy.com/oblativite.htm
 ---
 

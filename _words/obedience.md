@@ -9,8 +9,6 @@ synonyms:
   - Oblativité
   - Dévouement
   - Altruisme
-examples:
-  - "Je vois que vous œuvrez dur pour les mathématiques et vous remercie de votre totale obédience (et oblativité) pour la chose."
 link: http://fr.wikipedia.org/wiki/Ob%C3%A9dience
 ---
 

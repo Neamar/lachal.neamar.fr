@@ -9,9 +9,6 @@ synonyms:
   - Exubérance
   - Débordement
   - Bavardage
-examples:
-  - "Mr Duret, vous qui semblez enclin à une prolixité inextinguible."
-  - "Vous bavassez tellement, bref vous êtes d'une telle prolixité inextinguible que je me vois forcé d'avancer dans le programme."
 link: http://fr.wiktionary.org/wiki/prolixit%C3%A9
 ---
 

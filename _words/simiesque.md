@@ -11,8 +11,6 @@ synonyms:
   - Sémnopithèque
   - Sapajou
   - Sagouin
-examples:
-  - "Quelle pantomime simiesque !"
 link: http://fr.wikipedia.org/wiki/Singe
 ---
 

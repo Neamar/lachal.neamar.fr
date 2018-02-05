@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Assemblée
   - Réunion
-examples:
-  - "Ventre-saint-gris ! Encore une comparution devant l'aréopage de zoïlescoercitifs à tendance acrimonieuse ?"
-  - "Un grand merci à l'aréopage des thuriféraires associés et panégyristes associés !!!"
 link: http://fr.wikipedia.org/wiki/Ar%C3%A9opage
 ---
 

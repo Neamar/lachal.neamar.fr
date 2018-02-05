@@ -10,9 +10,6 @@ synonyms:
   - Garçon
   - Gouteur
   - Bras droit
-examples:
-  - "Notre échanson égrillard, M Tschirhard !"
-  - "Le samedi soir, au lieu d'aller dans des baloches bucoliques à la rencontre d'échansons égrillards."
 link: http://fr.wikipedia.org/wiki/%C3%89chanson
 ---
 

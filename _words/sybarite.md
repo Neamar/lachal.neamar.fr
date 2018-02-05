@@ -9,9 +9,6 @@ synonyms:
   - Concupiscent
   - Dionysien
   - Profiteur
-examples:
-  - "Le samedi soir, au lieu d'aller dans les pandémoniums de ploutocrates concupiscents, où plutôt devrais je dire ces cloaques sybarites dyonisiaques, vous feriez mieux de redémontrer la formule d'interpolation de Lagrange, où les processus de Markov à temps continu et diffusions."
-  - "Je ne reste pas à Lyon, ce qui m'évite de fréquenter une pétaudière de sybarites dévoyés… bonnes libations bachiques !Évitez nonobstant les échansons égrillards…"
 link: http://fr.wikipedia.org/wiki/Sybarite
 ---
 

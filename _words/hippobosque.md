@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Mouche.
-examples:
-  - "Mickey notre sigisbée patelin international voire œcuménique, ayant bien joué avec les stomoxes, mélophages et autres hippobosques, considère qu'après une telle gloire il préfère se retirer sous les vivats et satisfecits d'une foule en liesse. (cf. Histoires)"
 link: http://http://fr.wiktionary.org/wiki/hippobosque
 ---
 

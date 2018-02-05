@@ -11,8 +11,6 @@ synonyms:
   - hôtesse
   - logeur
   - maître
-examples:
-  - "Pour parler sans ambiguïté, ce dîner à Sainte-Adresse, près du Havre, malgré les effluves embaumés de la mer, malgré les vins de très bons crus, les cuisseaux de veau et les cuissots de chevreuil prodigués par l'amphitryon, fut un vrai guêpier."
 link: http://fr.wikipedia.org/wiki/Amphitryon_%28Moli%C3%A8re%29
 ---
 

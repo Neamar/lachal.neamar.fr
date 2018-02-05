@@ -7,8 +7,6 @@ categories:
   - Rhétorique
 synonyms:
   - Poème
-examples:
-  - "Votre démonstration élégiaque est fuligineuse, vous savez ?"
 link: http://fr.wikipedia.org/wiki/%C3%89l%C3%A9gie
 ---
 

@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Succession
   - Héritage non réclamé
-examples:
-  - "Ce théorème est en déshérence !"
-  - "Mais Tonton (pas Toto) avait tout prévu car il avait pris soin de rédiger dans son testament un codicille suspensif stipulant in extenso que tout héritier surnuméraire, disons Toto 2nd, qui oserait prétendre à quelque part que ce soit devrait résoudre une énigme posée par Toto (disons Toto 1er) s'il veut acquérir sa part et éviter la déshérence. (cf les Histoires)"
 link: http://fr.wikipedia.org/wiki/D%C3%A9sh%C3%A9rence
 ---
 

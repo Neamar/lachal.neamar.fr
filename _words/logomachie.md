@@ -11,8 +11,6 @@ synonyms:
   - Bavassements
   - Palabre
   - Colloque
-examples:
-  - "Bon, alors après cette logomachie incoercible…"
 link: http://jc.bellamy.free.fr/fr/logomachie.html
 ---
 

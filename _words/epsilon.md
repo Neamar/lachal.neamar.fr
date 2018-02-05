@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - La lettre E
-examples:
-  - "Epsilon fois Epsilon, ça fait un Mega Epsilon !"
 link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/epsilon/2007
 ---
 

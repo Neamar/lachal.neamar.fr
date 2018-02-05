@@ -7,9 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Représentatif
-examples:
-  - "Les fonctions paradigmatiques de la théorie…"
-  - "Alors évidemment, ce sont des exemples paradigmatiques pour le chapitre…"
 link: http://fr.wiktionary.org/wiki/paradigmatique
 ---
 

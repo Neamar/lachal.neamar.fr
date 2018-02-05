@@ -7,7 +7,6 @@ categories:
 synonyms:
   - Omniprésence
   - Simultanéité.
-examples:
 link: http://fr.wikipedia.org/wiki/Omnipr%C3%A9sent
 ---
 

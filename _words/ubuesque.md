@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - Stupide
-examples:
-  - "C'est tout simplement ubuesque…"
 link: http://fr.encarta.msn.com/dictionary_2016036399/ubuesque.html
 ---
 

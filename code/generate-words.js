@@ -4,6 +4,15 @@ var fs = require("fs");
 
 var words = require("./words.json");
 var categories = require("./categories.json");
+var examples = {};
+
+function addExample(s, e) {
+  var cleanedExample = e.trim().replace(/\n/g, " ").replace(/\r/g, "").replace(/\.\.\./g, "…").replace(/"/g, '""');
+  if(!examples[cleanedExample]) {
+    examples[cleanedExample] = [];
+  }
+  examples[cleanedExample].push(s);
+}
 
 words.forEach(function(data) {
   data.Slug = data.Mot.toLowerCase();
@@ -35,13 +44,13 @@ words.forEach(function(data) {
       content += "  - " + synonyme.trim() + "\n";
     }
   });
-  content += "examples:" + "\n";
   if(data.Exemple1) {
-    content += "  - \"" + data.Exemple1.replace(/\r?\n/g, "").replace(/"/g, '\\"') + "\"\n";
+    addExample(data.Slug, data.Exemple1);
   }
   if(data.Exemple2) {
-    content += "  - \"" + data.Exemple2.replace(/\r?\n/g, "").replace(/"/g, '\\"') + "\"\n";
+    addExample(data.Slug, data.Exemple2);
   }
+
   content += "link: " + data.Lien + "\n";
   content += "---" + "\n";
   content += "\n";
@@ -67,6 +76,4 @@ words.forEach(function(data) {
   fs.writeFileSync(__dirname + "/../_words/" + data.Slug + ".md", content);
 });
 
-
-
-// [{ "ID": "2", "Complique": "0", "Mot": "Diantre", "Lien": "http:\/\/blog.legardemots.fr\/post\/2006\/04\/10\/584-diantre", "Definition": "Mot exprimant l'\u00e9tonnement ou la consternation.", "Synonyme": "Diable, Fichtre", "Exemple1": "<strong>El\u00e8ve :<\/strong> Et l\u00e0 je d\u00e9rive...<br \/><strong>Prof<\/strong> : Diantre ! Pas encore !", "Exemple2": "Diantre ! Une pointe d'ostracisme envers un agent de la fonction publique\r\nhors de l'exercice de ses fonctions ? Cela risque de ne pas vous\r\nco\u00fbter grand-chose, si ce n'est quelque anath\u00e8me impr\u00e9catoire ab imo pectore !", "Date": "0000-00-00" }
+fs.writeFileSync(__dirname + "/../_data/examples.csv", Object.keys(examples).map((e) => `${examples[e].join("|")},"${e}"`).sort().join("\n"));

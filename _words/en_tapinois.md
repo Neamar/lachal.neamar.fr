@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - En cachette
-examples:
-  - "Vous me fustigez en tapinois!"
 link: http://www.linternaute.com/dictionnaire/fr/definition/en-tapinois/
 ---
 

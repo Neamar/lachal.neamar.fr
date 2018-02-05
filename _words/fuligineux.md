@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Incompréhensible
   - Abscons
-examples:
-  - "Vous avez un raisonnement fuligineux"
 link: http://lemotdujour.over-blog.com/article-1108437.html
 ---
 

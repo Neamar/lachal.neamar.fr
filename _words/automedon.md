@@ -9,9 +9,6 @@ synonyms:
   - Chauffeur
   - Conducteur
   - Psychopompe
-examples:
-  - "Notre Toto automédon (i.e. le chauffeur de car) dit : \"nous pouvons loger tout le monde !\" (cf. histoires)."
-  - "Mais l'histoire ne s'arrête pas là : notre Toto automédon a d'autres potes automédons et ils rappliquent tous avec une infinité de cars contenant une infinité de Totos ! (cf. histoires)"
 link: http://definition.ptidico.com/automédon.html
 ---
 

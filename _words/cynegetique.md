@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Chasse
-examples:
-  - "Elmer spécialiste de cygénétique (Elmer le chasseur) à une vieille dette envers Bugs Bunny qu'il n'arrive jamais à attraper… (cf Histoires)"
 link: 
 ---
 

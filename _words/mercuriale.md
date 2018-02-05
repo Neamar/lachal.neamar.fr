@@ -8,8 +8,6 @@ categories:
   - Rhétorique
 synonyms:
   - Engueulade
-examples:
-  - "M Poulain, une petite mercuriale intempestive?"
 link: http://fr.wiktionary.org/wiki/mercuriale
 ---
 

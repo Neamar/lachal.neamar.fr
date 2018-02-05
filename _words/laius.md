@@ -9,8 +9,6 @@ synonyms:
   - Diatribe
   - Dialogue
   - Discours
-examples:
-  - "Encore une diatribe pamphlétaire ?"
 link: http://fr.wikipedia.org/wiki/La%C3%AFus
 ---
 

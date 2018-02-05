@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Irrépressible
   - Incontenable
-examples:
-  - "Mlle Doteau, je vous sens en proie à une alacrité inénarrable et incoercible."
-  - "Quelle frénésie incoercible!"
 link: http://fr.wiktionary.org/wiki/incoercible
 ---
 

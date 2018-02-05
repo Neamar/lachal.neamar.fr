@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Compagnon
   - Serviteur
-examples:
-  - "Toto sentant naître une pointe d'obsolescence insidieuse décide de prendre sa retraite. Il choisit donc comme parèdre… Mickey. (cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Par%C3%A8dre
 ---
 

@@ -8,8 +8,6 @@ categories:
   - Acronyme
 synonyms:
   - Par exemple
-examples:
-  - "Il faut M>10, e.g 11."
 link: http://fr.wikipedia.org/wiki/E.g.
 ---
 

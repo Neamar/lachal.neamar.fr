@@ -10,8 +10,6 @@ synonyms:
   - Bouffonerie
   - farce
   - plaisanterie
-examples:
-  - "M. Poulain, une petite pasquinade là?"
 link: http://fr.wiktionary.org/wiki/pasquinade
 ---
 

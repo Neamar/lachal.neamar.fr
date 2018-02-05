@@ -9,8 +9,6 @@ synonyms:
   - Rhétorique
   - Faconde
   - Éloquence
-examples:
-  - "Votre humble cicérone (cf. Correspondance)"
 link: http://fr.wiktionary.org/wiki/cicerone
 ---
 

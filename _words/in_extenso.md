@@ -7,8 +7,6 @@ categories:
   - Citation latine
 synonyms:
   - Dans sa totalité
-examples:
-  - "On va peut être le réécrire in extenso"
 link: http://www.dictionnaire-juridique.com/definition/in-extenso.php
 ---
 

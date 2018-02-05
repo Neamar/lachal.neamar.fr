@@ -7,9 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Irréfutable
-examples:
-  - "Ça sent encore la doxologie irréfragable"
-  - "C'est une doxologie irréfragable tendance captieuse."
 link: http://fr.wiktionary.org/wiki/irr%C3%A9fragable
 ---
 

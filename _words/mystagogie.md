@@ -7,9 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Hiérophante
-examples:
-  - "M Tschirhard, vous êtes un bon thaumaturge, mais vous êtes vraiment meilleur en mystagogie qu'en maths…"
-  - "Notre mystagogue œcuménique ! [qui se livre à quelque magie vaudoue ]"
 link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/mystagogie/2007
 ---
 

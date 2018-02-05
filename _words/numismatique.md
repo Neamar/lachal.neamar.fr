@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Collectionneur de pièces
-examples:
-  - "Rappelons que Picsou est l'illustre ploutocrate plénipotentiaire de la mégalopole Picsouville, expert en numismatique, orfèvre des valeurs fiduciaires. (cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Numismatique
 ---
 

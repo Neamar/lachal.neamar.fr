@@ -7,8 +7,6 @@ categories:
 synonyms:
   - Brute
   - Philistin
-examples:
-  - "que nenni, c'est relou et rimbou !"
 link: http://www.sospc-en-ligne.com/lexique-definition-1101.html
 ---
 

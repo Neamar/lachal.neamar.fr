@@ -7,9 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Rétractation
-examples:
-  - "Attention : flèche capricante, claudicante, palinodique, protéiforme [interrupteur ON/OFF simulant le goître du prof. en cas de débordement dans l'assistance]"
-  - "Mais en faisant ça, nous aboutirions à une palinodie !"
 link: http://fr.wikipedia.org/wiki/Palinodie
 ---
 

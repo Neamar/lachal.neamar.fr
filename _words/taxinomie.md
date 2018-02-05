@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Classification
   - Arbre
-examples:
-  - "Après, vous faites votre taxinomie de cas."
 link: http://fr.wiktionary.org/wiki/taxinomie
 ---
 

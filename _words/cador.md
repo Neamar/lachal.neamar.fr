@@ -10,8 +10,6 @@ synonyms:
   - dominant
   - expert
   - performant
-examples:
-  - "Car, tant au niveau tè-ke-nik qu'au niveau ta-ke-tik, notre Toto godelureau n'est pas un cador de la littérature : l'art ossianique, les versets élégiaques, les sonnets rimbaldiens, ce n'est pas pour lui. (cf. Histoires)"
 link: http://fr.wiktionary.org/wiki/cador
 ---
 

@@ -7,9 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - délai
-examples:
-  - "Après moult conversations dilatoires"
-  - "Après ces quelques atermoiements dilatoires"
 link: http://fr.wiktionary.org/wiki/dilatoire
 ---
 

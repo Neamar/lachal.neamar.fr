@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - Transpirer
-examples:
-  - "Soudain jaillit une idée de sa plume qui commence à exsuder ! (cf. Histoires)"
 link: 
 ---
 

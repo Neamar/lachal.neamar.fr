@@ -9,8 +9,6 @@ synonyms:
   - Financière
   - Pécuniaire
   - Mandataire.
-examples:
-  - "Rappelons que Picsou est l'illustre ploutocrate plénipotentiaire de la mégalopole Picsouville, expert en numismatique, orfèvre des valeurs fiduciaires. (cf. Histoires)"
 link: http://www.linternaute.com/dictionnaire/fr/definition/fiduciaire/
 ---
 

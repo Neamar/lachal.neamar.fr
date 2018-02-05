@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Bacchantes
-examples:
-  - "Un petit exo pour dimanche matin pour purger la lie engrangée après avoir croisé quelque ménade bachique !"
 link: http://fr.wiktionary.org/wiki/ménade
 ---
 

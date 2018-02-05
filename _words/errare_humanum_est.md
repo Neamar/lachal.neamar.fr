@@ -7,7 +7,6 @@ categories:
   - Citation latine
 synonyms:
   - 
-examples:
 link: http://fr.wikipedia.org/wiki/Errare_humanum_est,_perseverare_diabolicum
 ---
 

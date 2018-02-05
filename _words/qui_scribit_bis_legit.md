@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Les paroles s'envolent tandis que les écrits restent
   - l'écriture apprend
-examples:
-  - "On va tout de même l'écrire, car qui scribit bis legit"
 link: http://fr.wikipedia.org/wiki/Liste_des_locutions_latines
 ---
 

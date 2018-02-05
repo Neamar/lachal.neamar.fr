@@ -16,8 +16,6 @@ synonyms:
   - malversation
   - concussion
   - corruption
-examples:
-  - "Picsou accepte très (trop ?) volontiers de faire crédit, mais ayant toujours cette propension compulsive et incoercible à quelque malversation, prévarication et autre concussion, la prudence est de mise. (cf. Histoires)"
 link: http://dictionnaire.mediadico.com/traduction/dictionnaire.asp/definition/Prevarication/2007
 ---
 

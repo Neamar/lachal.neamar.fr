@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Nirvana
   - Néant
-examples:
-  - "C'est à la limite de l'apocatastase."
-  - "Dans tous les cas, vous connaissez mon éternelle recherche de l'apocatastase ataraxique !"
 link: http://fr.wikipedia.org/wiki/Apocatastase
 ---
 

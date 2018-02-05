@@ -14,8 +14,6 @@ synonyms:
   - précaution
   - prévention
   - protection.
-examples:
-  - "Un petit exo prophylaxique après une crise de polydipsie…"
 link: http://fr.wikipedia.org/wiki/Prophylaxie
 ---
 

@@ -14,9 +14,6 @@ synonyms:
   - Banqueroute
   - Mettre en défaite
   - Écraser
-examples:
-  - "L'exercice est mis en capilotade !"
-  - "Si l'hypothèse n'est pas bonne le théorème peut être mis en capilotade."
 link: http://fr.wiktionary.org/wiki/capilotade
 ---
 

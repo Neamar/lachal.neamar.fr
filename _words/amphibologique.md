@@ -9,9 +9,6 @@ synonyms:
   - Ambigu
   - Équivoque
   - Double
-examples:
-  - "Paralogique assertorique à tendance amphibologique"
-  - "Je pense que cette remarque interlope avait effectivement échappé de ma bouche devant une assistance en liesse,toujours en proie à quelque boutade amphibologique. Mais, ce n'est pas à vous que je vais l'apprendre, \"verba volant, scripta manent\"… Étant donné le contexte socio-politique de cette méga-pantalonnade, il me semble fort raisonnable de s'en tenir aux écrits actuels…"
 link: http://fr.wiktionary.org/wiki/amphibologique
 ---
 

@@ -8,9 +8,6 @@ categories:
 synonyms:
   - À première vue
   - Sans réfléchir
-examples:
-  - "A priori, il y a 6 solutions,A posteriori, il y en a 6."
-  - "A priori, je donne un critère non exhaustif, puis j'élague."
 link: http://fr.wikipedia.org/wiki/A_priori
 ---
 

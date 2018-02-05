@@ -10,9 +10,6 @@ synonyms:
   - Flatteur
   - Laudateur
   - Caudataire
-examples:
-  - "Ne faites pas votre thuriféraire !"
-  - "Un grand merci à l'aréopage des thuriféraires associés et panégyristes associés !!!"
 link: http://www.absurditis.com/index.php?page=dico&lettre=T&mot=Thurif%E9raire
 ---
 

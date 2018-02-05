@@ -7,8 +7,6 @@ categories:
 synonyms:
   - Résurgence
   - Prédisposition
-examples:
-  - "Toto ayant résolu la petite énigme édictée dans le testament du Tonton d'Armorique parti ad patres vient d'accéder à la ploutocratie : il est devenu richissime. Aujourd'hui, nous avons affaire à un grand expert de numismatique et brasse les valeurs fiduciaires à tour de bras. À son tour de jouer le tonton \"pawnbroker\" (dur l'atavisme !). (cf. histoires)"
 link: http://fr.wikipedia.org/wiki/Atavisme
 ---
 

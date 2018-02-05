@@ -7,8 +7,6 @@ categories:
 synonyms:
   - Superflu
   - superfétatoire
-examples:
-  - "Iriez vous soupçonner la superfluité, voire même la vacuité de mon cours ?"
 link: http://fr.wiktionary.org/wiki/superfluit%C3%A9
 ---
 

@@ -9,9 +9,6 @@ synonyms:
   - Délaissement
   - Abandon
   - Cession
-examples:
-  - "Vous avez atteint un stade de déréliction endémique et paroxystique…"
-  - "Ca me plonge dans une déreliction endémique…"
 link: http://lemotdujour.over-blog.com/article-5318.html
 ---
 

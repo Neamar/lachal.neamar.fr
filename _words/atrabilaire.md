@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Maussade
   - Irascible
-examples:
-  - "M. Duret, qu'est-ce qui suscite une telle réaction atrabilaire ?"
-  - "M. Millon, notre atrabilaire de service à la verve exacerbée !"
 link: http://fr.wiktionary.org/wiki/atrabilaire
 ---
 

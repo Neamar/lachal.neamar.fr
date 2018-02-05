@@ -8,8 +8,6 @@ synonyms:
   - Fête
   - Gouge
   - Orgie
-examples:
-  - "Le samedi soir, au lieu d'aller dans des baloches bucoliques à la rencontre d'échansons égrillards."
 link: http://neamar.fr
 ---
 

@@ -9,8 +9,6 @@ categories:
 synonyms:
   - Satire
   - Pamphlet
-examples:
-  - "Mr X, encore une phillipique sardonique?"
 link: http://fr.wiktionary.org/wiki/philippique 
 ---
 

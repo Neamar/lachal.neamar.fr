@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Facile
   - Truché
-examples:
-  - "Deus ex machina !"
-  - "Votre Exemple ?"
 link: http://www.abnihilo.com/
 ---
 

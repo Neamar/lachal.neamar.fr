@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Que dire
   - Quoi
-examples:
-  - "Mais alors, quid de l'infimum ?"
-  - "Quid ?"
 link: http://www.linternaute.com/dictionnaire/fr/definition/quid/
 ---
 

@@ -11,8 +11,6 @@ synonyms:
   - Bras Droit
   - Esclave
   - Parèdre
-examples:
-  - "Cher hiérodule informaticien (cf. Correspondance)"
 link: http://fr.wiktionary.org/wiki/hi%C3%A9rodule
 ---
 

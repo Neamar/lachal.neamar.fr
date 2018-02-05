@@ -9,9 +9,6 @@ synonyms:
   - Apôtre
   - Fanatique
   - Partisan.
-examples:
-  - "Z'êtes un véritable zélateur."
-  - "Très chers zélateurs stipendiés, je vous souhaite le bonjour !"
 link: http://fr.wiktionary.org/wiki/z%C3%A8le
 ---
 

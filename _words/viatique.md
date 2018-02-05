@@ -9,9 +9,6 @@ synonyms:
   - Êxtrême-onction
   - Dernier acte
   - Soutien moral
-examples:
-  - "Je compte donc sur votre satisfecit puis sur votre viatique pour éviter toute imprécation inique ! (cf. Correspondance)"
-  - "Je compte sur votre viatique oblatif… Avec mes remerciements anticipés, (cf. Correspondance)"
 link: http://fr.wikipedia.org/wiki/Extr%C3%AAme-onction
 ---
 

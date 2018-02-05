@@ -9,8 +9,6 @@ categories:
 synonyms:
   - Bégaiement
   - Glossolalie
-examples:
-  - "Une petite crise de palilalie, de glossolalie, de psittacisme ? [À quelqu'un qui bafouille]"
 link: http://fr.wikipedia.org/wiki/Palilalie
 ---
 

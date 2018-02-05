@@ -9,9 +9,6 @@ synonyms:
   - Plaidoyer
   - Défense
   - Éloge
-examples:
-  - "Aurions-nous affaire à une apologie inendiguable ?"
-  - "Mr Tschirardt, notre chantre apologétique toujours enclin à la capucinade rhétorique !"
 link: http://fr.wikipedia.org/wiki/Apolog%C3%A9tique
 ---
 

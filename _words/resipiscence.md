@@ -15,9 +15,6 @@ synonyms:
   - Pénitance
   - Remords
   - Repentir
-examples:
-  - "Un petit exo cathartique pour amener à résipiscence ceux qui auraient fréquenté un cénacle de soudards dévoyés…"
-  - "A ces mots, la plume de Titeuf commence à chavirer, Nadia entre dans une pâmoison absolument transcendantale, et Vomito, face à cette réaction, se dit : \"Bon, il faut que je vienne à résipiscence en proposant une autre solution\". (cf. Histoires)"
 link: http://blog.legardemots.fr/post/2005/11/18/438-resipiscence
 ---
 

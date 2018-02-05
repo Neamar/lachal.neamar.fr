@@ -9,9 +9,6 @@ synonyms:
   - Injure
   - Offense
   - Affront
-examples:
-  - "Quel sarcasme méphistophélique !"
-  - "M Millon, je sens une pointe de sarcasme sardonique dans votre propos!"
 link: http://fr.wikipedia.org/wiki/Sarcasme
 ---
 

@@ -6,9 +6,6 @@ layout: word
 categories:
 synonyms:
   - Pas du tout
-examples:
-  - "Que nenni, c'est relou et rimbou !"
-  - "Vous pensez faire sortir M. Millon de son ataraxie ? Que nenni, M. Millon dans un état d'alacrité serait une contre-tautologie !"
 link: http://chonchon.blog.elle.fr/tag/lexique/
 ---
 

@@ -11,7 +11,6 @@ synonyms:
   - Souveraineté
   - Autogestion
   - Nationalisme.
-examples:
 link: http://fr.wikipedia.org/wiki/Autarcie
 ---
 

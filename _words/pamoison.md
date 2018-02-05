@@ -9,8 +9,6 @@ synonyms:
   - Défaillir
   - Jouir
   - Admirer
-examples:
-  - "Maintenant il veut frimer avec sa décapotable rouge devant les midinettes callipyges en pâmoison extatique. (cf. Histoires)"
 link: http://fr.wiktionary.org/wiki/p%C3%A2mer
 ---
 

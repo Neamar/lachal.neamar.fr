@@ -6,7 +6,6 @@ layout: word
 categories:
 synonyms:
   - Désordre
-examples:
 link: http://fr.wikipedia.org/wiki/Entropie
 ---
 

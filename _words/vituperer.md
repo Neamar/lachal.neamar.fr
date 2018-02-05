@@ -9,9 +9,6 @@ synonyms:
   - Déblatérer
   - Blâmer
   - Fustiger
-examples:
-  - "Cessez de vitupérer !"
-  - "Vos vitupérations me laissent de marbre."
 link: http://fr.wiktionary.org/wiki/vitup%C3%A9rer
 ---
 

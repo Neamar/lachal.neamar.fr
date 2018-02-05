@@ -9,8 +9,6 @@ categories:
 synonyms:
   - Tout seul
   - Sans aide
-examples:
-  - "J'aurais pas trouvé comme ça, ex abrupto, motu proprio."
 link: http://www.abnihilo.com/
 ---
 

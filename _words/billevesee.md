@@ -11,8 +11,6 @@ synonyms:
   - fantaisie
   - faribole
   - sornette.
-examples:
-  - "Merci pour votre participation à cette mégapantalonnade ubuesque! Billevesées, rodomontades, fadaises, coquecigrues, et tutti quanti…"
 link: http://www.linternaute.com/dictionnaire/fr/definition/billevesee/
 ---
 

@@ -9,8 +9,6 @@ synonyms:
   - Douleur
   - Souffrance
   - Enflure verbale
-examples:
-  - "C'est un pathos fuligineux !"
 link: http://www.cnrtl.fr/lexicographie/pathos
 ---
 

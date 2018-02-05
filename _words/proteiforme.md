@@ -14,8 +14,6 @@ synonyms:
   - protéique
   - Allotropique
   - Protéiforme
-examples:
-  - "Attention : flèche capricante, claudicante, palinodique, protéiforme [interrupteur ON/OFF simulant le goître du prof. en cas de débordement dans l'assistance]"
 link: http://dictionnaire.sensagent.com/prot%C3%A9iforme/fr-fr/
 ---
 

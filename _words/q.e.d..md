@@ -9,8 +9,6 @@ categories:
   - Rhétorique
 synonyms:
   - C.Q.F.D.
-examples:
-  - "Donc ch(x) &gt;= 1 sur l'intervalle demandé. Q.E.D. "
 link: http://en.wikipedia.org/wiki/Q.E.D.
 ---
 

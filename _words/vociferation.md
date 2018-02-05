@@ -11,8 +11,6 @@ synonyms:
   - cri
   - hurlement
   - rugissement
-examples:
-  - "Diantre, cessez vos vociférations vésaniques inextinguibles ! Vous aurez le temps d'exercer vos talents de thaumaturge plus tard."
 link: http://www.linternaute.com/dictionnaire/fr/definition/vociferation/
 ---
 

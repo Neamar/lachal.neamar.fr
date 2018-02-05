@@ -8,8 +8,6 @@ synonyms:
   - Niais
   - Simplet
   - Bêta
-examples:
-  - "Gourdiflot erratique !"
 link: 
 ---
 

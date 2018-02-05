@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Mouchard
   - Rapporteur
-examples:
-  - "Vous n'êtes qu'un sycophante"
-  - "Diantre, nous avons un sycophante dans la salle…"
 link: http://fr.wikipedia.org/wiki/Sycophante
 ---
 

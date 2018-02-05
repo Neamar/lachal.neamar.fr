@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Rêve
   - Folie
-examples:
-  - "Notre apprenti godelureau, dans son délire onirique, prend idée de jouer… (cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Onirique
 ---
 

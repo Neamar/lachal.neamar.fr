@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Incompris
   - victime.
-examples:
-  - "Tous ces protagonistes ubuesques ne seraient-ils pas les cassandres d'une descente insidieuse vers la géhenne apocalyptique ? (Cf. Histoires)"
 link: http://omnilogie.fr/O/Cassandre_l%27incomprise
 ---
 

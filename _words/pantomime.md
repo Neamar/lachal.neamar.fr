@@ -8,9 +8,6 @@ synonyms:
   - Attitude
   - Mime
   - Mouvement
-examples:
-  - "Quelle pantomime simiesque.."
-  - "Quelle pantomime de semnopithèques !"
 link: http://fr.wikipedia.org/wiki/Pantomime
 ---
 

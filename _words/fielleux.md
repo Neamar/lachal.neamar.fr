@@ -11,8 +11,6 @@ synonyms:
   - Haineux
   - Mauvais
   - Méchant.
-examples:
-  - "Une petite acrimonie fielleuse ?"
 link: http://www.linternaute.com/dictionnaire/fr/definition/fielleux/
 ---
 

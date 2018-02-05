@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Thuriféraire
   - Fayot
-examples:
-  - "Diantre! Vous êtes un caudataire d'une outrecuidance paroxystique!"
-  - "Notre caudataire toujours enclin à quelque capucinade affétée !"
 link: http://fr.wiktionary.org/wiki/caudataire
 ---
 

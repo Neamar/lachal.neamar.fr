@@ -9,8 +9,6 @@ categories:
 synonyms:
   - Colére
   - Irascibilité
-examples:
-  - "On vitupère ab irato ?"
 link: http://www.lexagone.com/dico/dico.php?ref_dico=Ab%20irato&amp;lettre=A
 ---
 

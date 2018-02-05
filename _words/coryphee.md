@@ -11,9 +11,6 @@ synonyms:
   - Guide
   - Musicien
   - Maestro
-examples:
-  - "Votre automédon, coryphée et autre psychopompe (cf. Correspondance)"
-  - "Votre humble coryphée (qui n'a pas la prétention de se prendre pour un automédon psychopompe) (cf. Correspondance)"
 link: http://fr.wikipedia.org/wiki/Coryph%C3%A9e
 ---
 

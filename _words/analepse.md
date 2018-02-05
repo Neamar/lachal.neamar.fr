@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Retour en arrière
-examples:
-  - "Sans analepse superflue, je reprends le cours !"
 link: http://fr.wikipedia.org/wiki/Analepse
 ---
 

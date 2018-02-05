@@ -9,8 +9,6 @@ synonyms:
   - prétendu
   - supposé
   - Apocryphe
-examples:
-  - "Toto se découvre tout d'un coup un autre héritier (putatif ?) totalement méconnu qui vient réclamer sa part. (cf. Histoires)"
 link: http://www.linternaute.com/dictionnaire/fr/definition/putatif/
 ---
 

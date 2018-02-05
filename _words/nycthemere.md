@@ -9,8 +9,6 @@ synonyms:
   - Cycle
   - Journée
   - Révolution
-examples:
-  - "Je te garantis que personne ne touchera ta voiture et peux t'assurer qu'elle passera au moins un nycthémère chez nous ! (cf. Histoires)"
 link: http://fr.wikipedia.org/wiki/Nycth%C3%A9m%C3%A8re
 ---
 

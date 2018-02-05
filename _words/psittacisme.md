@@ -7,9 +7,6 @@ categories:
   - Rhétorique
 synonyms:
   - Echolalie
-examples:
-  - "Seriez-vous atteint de psittacisme aigüe ?"
-  - "C'est une forme de psittacisme gestuel…"
 link: http://www.dicopsy.com/psittacisme.htm
 ---
 

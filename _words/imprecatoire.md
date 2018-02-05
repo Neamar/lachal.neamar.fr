@@ -8,9 +8,6 @@ categories:
   - Rhétorique
 synonyms:
   - Réquisitoire
-examples:
-  - "Encore des admonestations imprécatoires ?"
-  - "diantre ! Une pointe d'ostracisme envers un agent de la fonction publique hors de l'exercice de ses fonctions ? Cela risque de ne pas vous coûter grand-chose, si ce n'est quelque anathème imprécatoire ab imo pectore !"
 link: http://fr.wiktionary.org/wiki/impr%C3%A9catoire
 ---
 

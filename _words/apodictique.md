@@ -12,9 +12,6 @@ synonyms:
   - Avéré
   - Irréfutable
   - Absolu
-examples:
-  - "Et ça, ce n'était pas une pure trivialité apodictique"
-  - "Un cercle est une courbe fermée dont tous les points sont équidistants du centre."
 link: http://fr.wikipedia.org/wiki/Apodictique
 ---
 

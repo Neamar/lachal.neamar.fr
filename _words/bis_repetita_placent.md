@@ -9,9 +9,6 @@ synonyms:
   - Les choses répétées plaisent
   - haec decies repetita placebit
   - la répétition n'est point lassante
-examples:
-  - "Bis repetita placent. Fallait bien que je sorte une phrase latine quand même."
-  - "Vous la connaissez pourtant cette formule…mais bon, bis repetita placent !"
 link: http://www.mage.fst.uha.fr/asterix/citation/latines.html
 ---
 

@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Animalier
   - Métaphore
-examples:
-  - "Un petit exemple étiologique ?"
 link: http://fr.wikipedia.org/wiki/%C3%89tiologie
 ---
 

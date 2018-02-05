@@ -7,8 +7,6 @@ categories:
 synonyms:
   - Décrépitude
   - Dégenerescence
-examples:
-  - "C'est la déliquescence à l'état pur!"
 link: http://www.linternaute.com/dictionnaire/fr/definition/deliquescence/
 ---
 

@@ -9,8 +9,6 @@ synonyms:
   - Intervalle
   - marge
   - interligne.
-examples:
-  - "J'anticipe sur le deuxième alinéa."
 link: http://fr.wikipedia.org/wiki/Alin%C3%A9a
 ---
 

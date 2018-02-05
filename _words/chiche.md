@@ -7,9 +7,6 @@ categories:
 synonyms:
   - Capable
   - Pourquoi pas
-examples:
-  - "Allez chiche !"
-  - "Ne soyons pas chiche…"
 link: http://fr.wikipedia.org/wiki/Chiche
 ---
 

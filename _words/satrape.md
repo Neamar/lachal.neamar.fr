@@ -10,8 +10,6 @@ synonyms:
   - Soudard
   - Oligarche
   - Omnipotent
-examples:
-  - "Un petit exercice pour le samedi soir, au lieu d’aller dans les pétaudières de satrapes extravertis."
 link: http://fr.wiktionary.org/wiki/satrape
 ---
 

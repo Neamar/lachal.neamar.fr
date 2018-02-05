@@ -7,7 +7,6 @@ categories:
 synonyms:
   - Divers
   - Varié.
-examples:
 link: http://fr.wikipedia.org/wiki/%C3%89clectisme
 ---
 

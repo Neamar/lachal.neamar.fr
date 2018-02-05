@@ -7,9 +7,6 @@ categories:
   - Rhétorique
 synonyms:
   - Art oratoire
-examples:
-  - "Vous avez une rhétorique idiolecte coprolalique !"
-  - "Mr Tschirardt, notre chantre apologique toujours enclin à la capucinade rhétorique !"
 link: http://fr.wikipedia.org/wiki/R%C3%A9thorique
 ---
 

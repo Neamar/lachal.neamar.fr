@@ -7,8 +7,6 @@ categories:
   - Mot complexe
 synonyms:
   - Du même nom
-examples:
-  - "Seriez-vous un Schtroumpf éponyme ?"
 link: http://fr.wikipedia.org/wiki/%C3%89ponyme
 ---
 

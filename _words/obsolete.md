@@ -12,9 +12,6 @@ synonyms:
   - Périmé
   - Vétuste
   - Vieilli.
-examples:
-  - "Cher affidé non obsolète (cf. Correspondance)"
-  - "Votre ex-pédotribe obsolète (cf. Correspondance)"
 link: http://fr.wiktionary.org/wiki/obsol%C3%A8te
 ---
 

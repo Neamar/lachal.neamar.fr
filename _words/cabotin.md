@@ -12,8 +12,6 @@ synonyms:
   - comédien
   - histrion
   - snob.
-examples:
-  - "Notre rhéteur, réthoricien, laudateur, zélateur, persifleur, pourfendeur, cabotin à la rhétorique, au ramage alambiqué et ampoulé…"
 link: http://fr.wikipedia.org/wiki/Cabotin
 ---
 

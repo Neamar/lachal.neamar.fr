@@ -8,8 +8,6 @@ synonyms:
   - Travail
   - Charge
   - Corvée
-examples:
-  - "Toujours avec mon allégeance pour ce long pensum !(cf. Correspondance)"
 link: http://www.absurditis.com/index.php?page=dico&amp;lettre=P&amp;mot=Pensum
 ---
 

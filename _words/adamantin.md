@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Diamant
   - Dur
-examples:
-  - "Il affiche une dentition adamantine et coruscante iconoclaste."
 link: http://en.wikipedia.org/wiki/Adamantine
 ---
 

@@ -6,8 +6,6 @@ layout: word
 categories:
 synonyms:
   - Sac à malice
-examples:
-  - "On le sort de notre gibecière."
 link: http://fr.wiktionary.org/wiki/gibeci%C3%A8re
 ---
 

@@ -8,9 +8,6 @@ categories:
 synonyms:
   - Bouffon
   - Mauvais comédien.
-examples:
-  - "Notre littérateur dithyrambique, métromane, matamore, histrion !"
-  - "Fais rire le parterre, histrion qui ânonne, avalant la voyelle et toussant la consonne !"
 link: http://www.ac-strasbourg.fr/pedago/lettres/fleurs/histrion.htm
 ---
 

@@ -8,8 +8,6 @@ synonyms:
   - Fanfaron
   - Faux brave
   - Moqueur
-examples:
-  - "Notre rhéteur, réthoricien, laudateur, zélateur, persifleur, pourfendeur, cabotin à la rhétorique, au ramage alambiqué et ampoulé…"
 link: http://fr.wiktionary.org/wiki/pourfendre
 ---
 

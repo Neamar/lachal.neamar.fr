@@ -8,8 +8,6 @@ synonyms:
   - Révolution
   - Rond
   - Indirectement
-examples:
-  - "Après moult circonvolutions et paraphrases"
 link: http://fr.wiktionary.org/wiki/circonvolution
 ---
 

@@ -11,9 +11,6 @@ synonyms:
   - Ensorceleur
   - Alchimiste
   - Nécroman…
-examples:
-  - "Diantre, cessez vos vociférations vésaniques inextinguibles ? Vous aurez le temps d'exercer vos talents de thaumaturge plus tard!"
-  - "M Tschirardt, vous êtes un bon thaumaturge, mais vous êtes vraiment meilleur en mystagogie qu'en maths…"
 link: http://fr.wikipedia.org/wiki/Thaumaturge
 ---
 

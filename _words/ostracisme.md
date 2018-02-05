@@ -10,8 +10,6 @@ synonyms:
   - Éviction
   - Exclusion
   - Expulsion
-examples:
-  - "Diantre ! Une pointe d'ostracisme envers un agent de la fonction publiquehors de l'exercice de ses fonctions ? Cela risque de ne pas vouscoûter grand-chose, si ce n'est quelque anathème imprécatoire ab imo pectore !"
 link: http://www.absurditis.com/index.php?page=dico&amp;lettre=O&amp;mot=Ostracisme
 ---
 

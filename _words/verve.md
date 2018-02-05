@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Bavard
   - Orateur
-examples:
-  - "M. Tschirhard, notre persifleur national, toujours en proie à une verve désopilante."
 link: http://fr.wiktionary.org/wiki/verve
 ---
 

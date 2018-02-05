@@ -9,9 +9,6 @@ categories:
 synonyms:
   - Aïe
   - Nooon !
-examples:
-  - "Je vous remercie ab imo pectore pour cette prestation fort convaincante !"
-  - "Juste un petit message pour vous notifier une pointe de déréliction ab imo pectore ressentie face à la moyenne de cette classe…"
 link: http://www.abnihilo.com/
 ---
 

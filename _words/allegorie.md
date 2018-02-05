@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Métaphore
   - Métaphore filée
-examples:
-  - "Quant à la chainette, que nous avions illustrée de manière allégorique la semaine dernière, nous y reviendrons plus loin dans le cours."
 link: http://fr.wikipedia.org/wiki/All%C3%A9gorie
 ---
 

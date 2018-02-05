@@ -9,8 +9,6 @@ categories:
   - Rhétorique
 synonyms:
   - Mirabile visu
-examples:
-  - "Just say it ! (mirabile dictu)"
 link: http://www.abc-lettres.com/proverbe-latin/mirabile-dictu.html
 ---
 

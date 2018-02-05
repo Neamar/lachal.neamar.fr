@@ -8,8 +8,6 @@ categories:
 synonyms:
   - Redondance
   - Pléonasme
-examples:
-  - "C'est une tautologie apodictique !"
 link: http://fr.wikipedia.org/wiki/Tautologie
 ---
 

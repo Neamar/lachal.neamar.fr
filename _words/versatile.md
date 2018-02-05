@@ -8,9 +8,6 @@ synonyms:
   - Instable
   - Irréfléchi
   - Labile
-examples:
-  - "Toto est un peu versatile, et dans un élan bestialement compulsif, il simplifie ce méga-polynôme comme ça, pfuitt !"
-  - "Votre opinion me semble bien versatile…"
 link: http://www.linternaute.com/dictionnaire/fr/definition/versatile/
 ---
 
