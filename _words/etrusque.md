@@ -1,5 +1,5 @@
 ---
-title: étrusque
+title: Étrusque
 permalink: etrusque.html
 canonical: http://lachal.neamar.fr/Etrusque
 layout: word
@@ -7,7 +7,7 @@ categories:
 synonyms:
   - Hébreu
 examples:
-  - "Je parle l'Etrusque ancien, Mr Bacconnier?"
+  - "Je parle l'Étrusque ancien, Mr Bacconnier?"
 link: http://fr.wikipedia.org/wiki/Etrusque
 ---
 

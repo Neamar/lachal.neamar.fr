@@ -1,5 +1,5 @@
 ---
-title: échanson
+title: Échanson
 permalink: echanson.html
 canonical: http://lachal.neamar.fr/Echanson
 layout: word

@@ -1,5 +1,5 @@
 ---
-title: élégie
+title: Élégie
 permalink: elegie.html
 canonical: http://lachal.neamar.fr/Elegie
 layout: word

@@ -1,5 +1,5 @@
 ---
-title: éructer
+title: Éructer
 permalink: eructer.html
 canonical: http://lachal.neamar.fr/Eructer
 layout: word

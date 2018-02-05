@@ -1,6 +1,6 @@
 ---
 title: i.e.
-permalink: i.e..html
+permalink: i.e.html
 canonical: http://lachal.neamar.fr/I.e.
 layout: word
 categories:

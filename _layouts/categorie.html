@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-
-<h1>{{ page.categorie }}</h1>
+<h1>Traduction Lachal / Français&nbsp;: {{ site.words | size }} mots</h2>
+{% if page.categorie != "" %}
+<h2>Catégorie&nbsp;: {{ page.categorie }}</h2>
+{% endif %}
 
 La définition jointe est incomplète.
 Cliquez sur le mot pour ouvrir une nouvelle page affichant plus d'informations et des exemples.
@@ -10,12 +12,12 @@ Cliquez sur le mot pour ouvrir une nouvelle page affichant plus d'informations e
 <dl>
 {% assign current_section = "" %}
 {% for word in site.words %}
-	{% if word.categories contains page.categorie %}
-    {% assign word_section =  word.title | slice: 0,1 | upper %}
-    {% if word_section != current_section %}
-      <h2>{{ word_section }}</h2>
-      {% assign current_section = word_section %}
-    {% endif %}
+	{% if page.categorie == "" or word.categories contains page.categorie %}
+		{% include get_first_letter.html %}
+		{% if first_letter != current_section %}
+			<h2>{{ first_letter }}</h2>
+			{% assign current_section = first_letter %}
+		{% endif %}
 
 		{% include word_excerpt.html %}
 	{% endif %}

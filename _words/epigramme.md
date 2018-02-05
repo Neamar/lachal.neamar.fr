@@ -1,5 +1,5 @@
 ---
-title: Epigramme
+title: Épigramme
 permalink: epigramme.html
 canonical: http://lachal.neamar.fr/Epigramme
 layout: word

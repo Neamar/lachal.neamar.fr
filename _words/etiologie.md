@@ -1,5 +1,5 @@
 ---
-title: étiologie
+title: Étiologie
 permalink: etiologie.html
 canonical: http://lachal.neamar.fr/Etiologie
 layout: word
