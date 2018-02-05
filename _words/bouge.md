@@ -1,5 +1,6 @@
 ---
 title: Bouge
+word: Bouge
 permalink: bouge.html
 canonical: http://lachal.neamar.fr/Bouge
 layout: word

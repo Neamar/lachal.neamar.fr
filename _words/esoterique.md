@@ -1,5 +1,6 @@
 ---
 title: Esotérique
+word: Esotérique
 permalink: esoterique.html
 canonical: http://lachal.neamar.fr/Esoterique
 layout: word

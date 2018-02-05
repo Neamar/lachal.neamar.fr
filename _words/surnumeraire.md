@@ -1,5 +1,6 @@
 ---
 title: Surnuméraire
+word: Surnuméraire
 permalink: surnumeraire.html
 canonical: http://lachal.neamar.fr/Surnumeraire
 layout: word

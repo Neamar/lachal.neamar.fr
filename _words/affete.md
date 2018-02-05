@@ -1,5 +1,6 @@
 ---
 title: Affété
+word: Affété
 permalink: affete.html
 canonical: http://lachal.neamar.fr/Affete
 layout: word

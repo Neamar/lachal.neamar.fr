@@ -1,5 +1,6 @@
 ---
 title: Psychopompe
+word: Psychopompe
 permalink: psychopompe.html
 canonical: http://lachal.neamar.fr/Psychopompe
 layout: word

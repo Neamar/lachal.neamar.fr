@@ -1,5 +1,6 @@
 ---
 title: Vocifération
+word: Vocifération
 permalink: vociferation.html
 canonical: http://lachal.neamar.fr/Vociferation
 layout: word

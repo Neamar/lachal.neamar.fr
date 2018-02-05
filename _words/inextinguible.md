@@ -1,5 +1,6 @@
 ---
 title: Inextinguible
+word: Inextinguible
 permalink: inextinguible.html
 canonical: http://lachal.neamar.fr/Inextinguible
 layout: word

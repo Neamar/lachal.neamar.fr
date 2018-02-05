@@ -1,5 +1,6 @@
 ---
 title: Cador
+word: Cador
 permalink: cador.html
 canonical: http://lachal.neamar.fr/Cador
 layout: word

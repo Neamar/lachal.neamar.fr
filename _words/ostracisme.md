@@ -1,5 +1,6 @@
 ---
 title: Ostracisme
+word: Ostracisme
 permalink: ostracisme.html
 canonical: http://lachal.neamar.fr/Ostracisme
 layout: word

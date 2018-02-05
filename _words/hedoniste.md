@@ -1,5 +1,6 @@
 ---
 title: Hédoniste
+word: Hédoniste
 permalink: hedoniste.html
 canonical: http://lachal.neamar.fr/Hedoniste
 layout: word

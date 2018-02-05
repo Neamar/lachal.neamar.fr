@@ -1,5 +1,6 @@
 ---
 title: Ex Cathedra
+word: Ex Cathedra
 permalink: ex_cathedra.html
 canonical: http://lachal.neamar.fr/Ex_cathedra
 layout: word

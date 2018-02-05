@@ -1,5 +1,6 @@
 ---
 title: Volapuk
+word: Volapuk
 permalink: volapuk.html
 canonical: http://lachal.neamar.fr/Volapuk
 layout: word

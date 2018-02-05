@@ -1,5 +1,6 @@
 ---
 title: Odalisque
+word: Odalisque
 permalink: odalisque.html
 canonical: http://lachal.neamar.fr/Odalisque
 layout: word

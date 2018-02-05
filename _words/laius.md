@@ -1,5 +1,6 @@
 ---
 title: Laïus
+word: Laïus
 permalink: laius.html
 canonical: http://lachal.neamar.fr/Laius
 layout: word

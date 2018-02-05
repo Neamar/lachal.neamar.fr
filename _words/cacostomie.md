@@ -1,5 +1,6 @@
 ---
 title: Cacostomie
+word: Cacostomie
 permalink: cacostomie.html
 canonical: http://lachal.neamar.fr/Cacostomie
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Matamore
+word: Matamore
 permalink: matamore.html
 canonical: http://lachal.neamar.fr/Matamore
 layout: word

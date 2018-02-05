@@ -1,5 +1,6 @@
 ---
 title: Gibecière
+word: Gibecière
 permalink: gibeciere.html
 canonical: http://lachal.neamar.fr/Gibeciere
 layout: word

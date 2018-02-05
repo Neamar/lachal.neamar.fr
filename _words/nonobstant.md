@@ -1,5 +1,6 @@
 ---
 title: Nonobstant
+word: Nonobstant
 permalink: nonobstant.html
 canonical: http://lachal.neamar.fr/Nonobstant
 layout: word

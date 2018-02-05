@@ -1,5 +1,6 @@
 ---
 title: Prolixité
+word: Prolixité
 permalink: prolixite.html
 canonical: http://lachal.neamar.fr/Prolixite
 layout: word

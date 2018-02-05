@@ -1,5 +1,6 @@
 ---
 title: Histrion
+word: Histrion
 permalink: histrion.html
 canonical: http://lachal.neamar.fr/Histrion
 layout: word

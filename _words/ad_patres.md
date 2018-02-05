@@ -1,5 +1,6 @@
 ---
 title: Ad Patres
+word: Ad Patres
 permalink: ad_patres.html
 canonical: http://lachal.neamar.fr/Ad_patres
 layout: word

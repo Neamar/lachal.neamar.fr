@@ -1,5 +1,6 @@
 ---
 title: Béjaune
+word: Béjaune
 permalink: bejaune.html
 canonical: http://lachal.neamar.fr/Bejaune
 layout: word

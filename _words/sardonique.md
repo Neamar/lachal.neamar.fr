@@ -1,5 +1,6 @@
 ---
 title: Sardonique
+word: Sardonique
 permalink: sardonique.html
 canonical: http://lachal.neamar.fr/Sardonique
 layout: word

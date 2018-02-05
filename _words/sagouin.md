@@ -1,5 +1,6 @@
 ---
 title: Sagouin
+word: Sagouin
 permalink: sagouin.html
 canonical: http://lachal.neamar.fr/Sagouin
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Sybarite
+word: Sybarite
 permalink: sybarite.html
 canonical: http://lachal.neamar.fr/Sybarite
 layout: word

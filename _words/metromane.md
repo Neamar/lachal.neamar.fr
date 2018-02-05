@@ -1,5 +1,6 @@
 ---
 title: Métromane
+word: Métromane
 permalink: metromane.html
 canonical: http://lachal.neamar.fr/Metromane
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Imprécatoire
+word: Imprécatoire
 permalink: imprecatoire.html
 canonical: http://lachal.neamar.fr/Imprecatoire
 layout: word

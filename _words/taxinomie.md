@@ -1,5 +1,6 @@
 ---
 title: Taxinomie
+word: Taxinomie
 permalink: taxinomie.html
 canonical: http://lachal.neamar.fr/Taxinomie
 layout: word

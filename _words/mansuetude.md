@@ -1,5 +1,6 @@
 ---
 title: Mansuétude
+word: Mansuétude
 permalink: mansuetude.html
 canonical: http://lachal.neamar.fr/Mansuetude
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Subodorer
+word: Subodorer
 permalink: subodorer.html
 canonical: http://lachal.neamar.fr/Subodorer
 layout: word

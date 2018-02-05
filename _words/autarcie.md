@@ -1,5 +1,6 @@
 ---
 title: Autarcie
+word: Autarcie
 permalink: autarcie.html
 canonical: http://lachal.neamar.fr/Autarcie
 layout: word

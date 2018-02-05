@@ -1,5 +1,6 @@
 ---
 title: Pathos
+word: Pathos
 permalink: pathos.html
 canonical: http://lachal.neamar.fr/Pathos
 layout: word

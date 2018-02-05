@@ -1,5 +1,6 @@
 ---
 title: Périssodactyle
+word: Périssodactyle
 permalink: perissodactyle.html
 canonical: http://lachal.neamar.fr/Perissodactyle
 layout: word

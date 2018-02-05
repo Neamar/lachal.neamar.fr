@@ -1,5 +1,6 @@
 ---
 title: Sibyllin
+word: Sibyllin
 permalink: sibyllin.html
 canonical: http://lachal.neamar.fr/Sibyllin
 layout: word

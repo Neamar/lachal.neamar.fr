@@ -1,5 +1,6 @@
 ---
 title: Glossolalie
+word: Glossolalie
 permalink: glossolalie.html
 canonical: http://lachal.neamar.fr/Glossolalie
 layout: word

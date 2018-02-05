@@ -1,5 +1,6 @@
 ---
 title: Ubuesque
+word: Ubuesque
 permalink: ubuesque.html
 canonical: http://lachal.neamar.fr/Ubuesque
 layout: word

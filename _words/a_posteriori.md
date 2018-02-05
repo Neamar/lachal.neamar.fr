@@ -1,5 +1,6 @@
 ---
 title: A posteriori
+word: A posteriori
 permalink: a_posteriori.html
 canonical: http://lachal.neamar.fr/A_posteriori
 layout: word

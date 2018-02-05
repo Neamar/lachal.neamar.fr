@@ -1,5 +1,6 @@
 ---
 title: Gourdiflot
+word: Gourdiflot
 permalink: gourdiflot.html
 canonical: http://lachal.neamar.fr/Gourdiflot
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Oligarchique
+word: Oligarchique
 permalink: oligarchique.html
 canonical: http://lachal.neamar.fr/Oligarchique
 layout: word

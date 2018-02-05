@@ -1,5 +1,6 @@
 ---
 title: Fluctuat nec mergitur
+word: Fluctuat nec mergitur
 permalink: fluctuat_nec_mergitur.html
 canonical: http://lachal.neamar.fr/Fluctuat_nec_mergitur
 layout: word

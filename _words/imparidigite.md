@@ -1,5 +1,6 @@
 ---
 title: Imparidigité
+word: Imparidigité
 permalink: imparidigite.html
 canonical: http://lachal.neamar.fr/Imparidigite
 layout: word

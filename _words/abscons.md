@@ -1,5 +1,6 @@
 ---
 title: Abscons
+word: Abscons
 permalink: abscons.html
 canonical: http://lachal.neamar.fr/Abscons
 layout: word

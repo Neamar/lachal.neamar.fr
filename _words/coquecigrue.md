@@ -1,5 +1,6 @@
 ---
 title: Coquecigrue
+word: Coquecigrue
 permalink: coquecigrue.html
 canonical: http://lachal.neamar.fr/Coquecigrue
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Chantre
+word: Chantre
 permalink: chantre.html
 canonical: http://lachal.neamar.fr/Chantre
 layout: word

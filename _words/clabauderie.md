@@ -1,5 +1,6 @@
 ---
 title: Clabauderie
+word: Clabauderie
 permalink: clabauderie.html
 canonical: http://lachal.neamar.fr/Clabauderie
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Atermoiement
+word: Atermoiement
 permalink: atermoiement.html
 canonical: http://lachal.neamar.fr/Atermoiement
 layout: word

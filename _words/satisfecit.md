@@ -1,5 +1,6 @@
 ---
 title: Satisfecit
+word: Satisfecit
 permalink: satisfecit.html
 canonical: http://lachal.neamar.fr/Satisfecit
 layout: word

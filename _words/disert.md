@@ -1,5 +1,6 @@
 ---
 title: Disert
+word: Disert
 permalink: disert.html
 canonical: http://lachal.neamar.fr/Disert
 layout: word

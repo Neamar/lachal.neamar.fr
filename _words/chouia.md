@@ -1,5 +1,6 @@
 ---
 title: Chouïa
+word: Chouïa
 permalink: chouia.html
 canonical: http://lachal.neamar.fr/Chouia
 layout: word

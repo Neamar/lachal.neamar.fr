@@ -1,5 +1,6 @@
 ---
 title: Baroque
+word: Baroque
 permalink: baroque.html
 canonical: http://lachal.neamar.fr/Baroque
 layout: word

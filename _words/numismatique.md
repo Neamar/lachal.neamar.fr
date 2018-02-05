@@ -1,5 +1,6 @@
 ---
 title: Numismatique
+word: Numismatique
 permalink: numismatique.html
 canonical: http://lachal.neamar.fr/Numismatique
 layout: word

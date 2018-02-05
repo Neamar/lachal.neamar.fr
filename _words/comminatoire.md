@@ -1,5 +1,6 @@
 ---
 title: Comminatoire
+word: Comminatoire
 permalink: comminatoire.html
 canonical: http://lachal.neamar.fr/Comminatoire
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Acrimonie
+word: Acrimonie
 permalink: acrimonie.html
 canonical: http://lachal.neamar.fr/Acrimonie
 layout: word

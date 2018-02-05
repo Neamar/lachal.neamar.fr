@@ -1,5 +1,6 @@
 ---
 title: Méphistophélique
+word: Méphistophélique
 permalink: mephistophelique.html
 canonical: http://lachal.neamar.fr/Mephistophelique
 layout: word

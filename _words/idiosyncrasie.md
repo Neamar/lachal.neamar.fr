@@ -1,5 +1,6 @@
 ---
 title: Idiosyncrasie
+word: Idiosyncrasie
 permalink: idiosyncrasie.html
 canonical: http://lachal.neamar.fr/Idiosyncrasie
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Égrillard
+word: Égrillard
 permalink: egrillard.html
 canonical: http://lachal.neamar.fr/Egrillard
 layout: word

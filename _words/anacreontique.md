@@ -1,5 +1,6 @@
 ---
 title: Anacréontique
+word: Anacréontique
 permalink: anacreontique.html
 canonical: http://lachal.neamar.fr/Anacreontique
 layout: word

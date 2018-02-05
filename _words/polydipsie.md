@@ -1,5 +1,6 @@
 ---
 title: Polydipsie
+word: Polydipsie
 permalink: polydipsie.html
 canonical: http://lachal.neamar.fr/Polydipsie
 layout: word

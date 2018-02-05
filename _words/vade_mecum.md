@@ -1,5 +1,6 @@
 ---
 title: Vade mecum
+word: Vade mecum
 permalink: vade_mecum.html
 canonical: http://lachal.neamar.fr/Vade_mecum
 layout: word

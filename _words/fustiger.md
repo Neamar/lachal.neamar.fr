@@ -1,5 +1,6 @@
 ---
 title: Fustiger
+word: Fustiger
 permalink: fustiger.html
 canonical: http://lachal.neamar.fr/Fustiger
 layout: word

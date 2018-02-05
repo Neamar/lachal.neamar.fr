@@ -25,6 +25,7 @@ words.forEach(function(data) {
 
   var content = "---\n";
   content += "title: " + data.Mot + "\n";
+  content += "word: " + data.Mot + "\n";
   // TODO: slugify
   content += "permalink: " + data.Slug + ".html" + "\n";
   content += "canonical: http://lachal.neamar.fr/" + data.Slug[0].toUpperCase() + data.Slug.substr(1) + "\n";
@@ -76,4 +77,4 @@ words.forEach(function(data) {
   fs.writeFileSync(__dirname + "/../_words/" + data.Slug + ".md", content);
 });
 
-fs.writeFileSync(__dirname + "/../_data/examples.csv", "words,example\n" + Object.keys(examples).map((e) => `${examples[e].join("|").toLowerCase()},"${e}"`).sort().join("\n"));
+fs.writeFileSync(__dirname + "/../_data/examples.csv", "words,example\n" + Object.keys(examples).map((e) => `${examples[e].join("|")},"${e}"`).sort().join("\n"));

@@ -1,5 +1,6 @@
 ---
 title: Poissarde
+word: Poissarde
 permalink: poissarde.html
 canonical: http://lachal.neamar.fr/Poissarde
 layout: word

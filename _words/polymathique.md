@@ -1,5 +1,6 @@
 ---
 title: Polymathique
+word: Polymathique
 permalink: polymathique.html
 canonical: http://lachal.neamar.fr/Polymathique
 layout: word

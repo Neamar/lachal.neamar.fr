@@ -1,5 +1,6 @@
 ---
 title: Capilotade
+word: Capilotade
 permalink: capilotade.html
 canonical: http://lachal.neamar.fr/Capilotade
 layout: word

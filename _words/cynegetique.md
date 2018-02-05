@@ -1,5 +1,6 @@
 ---
 title: Cynégétique
+word: Cynégétique
 permalink: cynegetique.html
 canonical: http://lachal.neamar.fr/Cynegetique
 layout: word

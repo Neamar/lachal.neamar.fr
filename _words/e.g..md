@@ -1,5 +1,6 @@
 ---
 title: E.g.
+word: E.g.
 permalink: e.g..html
 canonical: http://lachal.neamar.fr/E.g.
 layout: word

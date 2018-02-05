@@ -1,5 +1,6 @@
 ---
 title: Mésaxonien
+word: Mésaxonien
 permalink: mesaxonien.html
 canonical: http://lachal.neamar.fr/Mesaxonien
 layout: word

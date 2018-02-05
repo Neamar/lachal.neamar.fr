@@ -1,5 +1,6 @@
 ---
 title: Engramme
+word: Engramme
 permalink: engramme.html
 canonical: http://lachal.neamar.fr/Engramme
 layout: word

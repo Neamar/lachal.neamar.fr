@@ -1,5 +1,6 @@
 ---
 title: Inanité
+word: Inanité
 permalink: inanite.html
 canonical: http://lachal.neamar.fr/Inanite
 layout: word

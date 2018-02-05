@@ -1,5 +1,6 @@
 ---
 title: Antépénultième
+word: Antépénultième
 permalink: antepenultieme.html
 canonical: http://lachal.neamar.fr/Antepenultieme
 layout: word

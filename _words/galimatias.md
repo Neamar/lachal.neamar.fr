@@ -1,5 +1,6 @@
 ---
 title: Galimatias
+word: Galimatias
 permalink: galimatias.html
 canonical: http://lachal.neamar.fr/Galimatias
 layout: word

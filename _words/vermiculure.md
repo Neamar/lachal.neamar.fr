@@ -1,5 +1,6 @@
 ---
 title: Vermiculure
+word: Vermiculure
 permalink: vermiculure.html
 canonical: http://lachal.neamar.fr/Vermiculure
 layout: word

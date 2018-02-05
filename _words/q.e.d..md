@@ -1,5 +1,6 @@
 ---
 title: Q.E.D.
+word: Q.E.D.
 permalink: q.e.d..html
 canonical: http://lachal.neamar.fr/Q.e.d.
 layout: word

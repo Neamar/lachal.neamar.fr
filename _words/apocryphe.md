@@ -1,5 +1,6 @@
 ---
 title: Apocryphe
+word: Apocryphe
 permalink: apocryphe.html
 canonical: http://lachal.neamar.fr/Apocryphe
 layout: word

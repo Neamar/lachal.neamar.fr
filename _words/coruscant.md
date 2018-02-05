@@ -1,5 +1,6 @@
 ---
 title: Coruscant
+word: Coruscant
 permalink: coruscant.html
 canonical: http://lachal.neamar.fr/Coruscant
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Turpitude
+word: Turpitude
 permalink: turpitude.html
 canonical: http://lachal.neamar.fr/Turpitude
 layout: word

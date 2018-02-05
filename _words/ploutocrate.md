@@ -1,5 +1,6 @@
 ---
 title: Ploutocrate
+word: Ploutocrate
 permalink: ploutocrate.html
 canonical: http://lachal.neamar.fr/Ploutocrate
 layout: word

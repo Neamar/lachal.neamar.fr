@@ -1,5 +1,6 @@
 ---
 title: Superfétatoire
+word: Superfétatoire
 permalink: superfetatoire.html
 canonical: http://lachal.neamar.fr/Superfetatoire
 layout: word

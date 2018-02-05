@@ -1,5 +1,6 @@
 ---
 title: Semnopithèque
+word: Semnopithèque
 permalink: semnopitheque.html
 canonical: http://lachal.neamar.fr/Semnopitheque
 layout: word

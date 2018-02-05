@@ -1,5 +1,6 @@
 ---
 title: Exhaustif
+word: Exhaustif
 permalink: exhaustif.html
 canonical: http://lachal.neamar.fr/Exhaustif
 layout: word

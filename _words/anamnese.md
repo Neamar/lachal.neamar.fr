@@ -1,5 +1,6 @@
 ---
 title: Anamnèse
+word: Anamnèse
 permalink: anamnese.html
 canonical: http://lachal.neamar.fr/Anamnese
 layout: word

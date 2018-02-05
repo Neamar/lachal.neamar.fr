@@ -1,5 +1,6 @@
 ---
 title: Capucinade
+word: Capucinade
 permalink: capucinade.html
 canonical: http://lachal.neamar.fr/Capucinade
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Apopathodiaphulatophobe
+word: Apopathodiaphulatophobe
 permalink: apopathodiaphulatophobe.html
 canonical: http://lachal.neamar.fr/Apopathodiaphulatophobe
 layout: word

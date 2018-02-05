@@ -1,5 +1,6 @@
 ---
 title: Endiguer
+word: Endiguer
 permalink: endiguer.html
 canonical: http://lachal.neamar.fr/Endiguer
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Manducation
+word: Manducation
 permalink: manducation.html
 canonical: http://lachal.neamar.fr/Manducation
 layout: word

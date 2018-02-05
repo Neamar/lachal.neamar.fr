@@ -1,5 +1,6 @@
 ---
 title: Amphigourique
+word: Amphigourique
 permalink: amphigourique.html
 canonical: http://lachal.neamar.fr/Amphigourique
 layout: word

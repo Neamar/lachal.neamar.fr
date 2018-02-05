@@ -1,5 +1,6 @@
 ---
 title: Translittération
+word: Translittération
 permalink: translitteration.html
 canonical: http://lachal.neamar.fr/Translitteration
 layout: word

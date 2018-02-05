@@ -1,5 +1,6 @@
 ---
 title: Cauteleux
+word: Cauteleux
 permalink: cauteleux.html
 canonical: http://lachal.neamar.fr/Cauteleux
 layout: word

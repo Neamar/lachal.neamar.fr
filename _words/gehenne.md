@@ -1,5 +1,6 @@
 ---
 title: Géhenne
+word: Géhenne
 permalink: gehenne.html
 canonical: http://lachal.neamar.fr/Gehenne
 layout: word

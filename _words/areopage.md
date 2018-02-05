@@ -1,5 +1,6 @@
 ---
 title: Aréopage
+word: Aréopage
 permalink: areopage.html
 canonical: http://lachal.neamar.fr/Areopage
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Bacchanales
+word: Bacchanales
 permalink: bacchanales.html
 canonical: http://lachal.neamar.fr/Bacchanales
 layout: word

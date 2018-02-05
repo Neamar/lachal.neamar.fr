@@ -1,5 +1,6 @@
 ---
 title: Philistin
+word: Philistin
 permalink: philistin.html
 canonical: http://lachal.neamar.fr/Philistin
 layout: word

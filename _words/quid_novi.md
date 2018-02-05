@@ -1,5 +1,6 @@
 ---
 title: Quid novi
+word: Quid novi
 permalink: quid_novi.html
 canonical: http://lachal.neamar.fr/Quid_novi
 layout: word

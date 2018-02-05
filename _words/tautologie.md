@@ -1,5 +1,6 @@
 ---
 title: Tautologie
+word: Tautologie
 permalink: tautologie.html
 canonical: http://lachal.neamar.fr/Tautologie
 layout: word

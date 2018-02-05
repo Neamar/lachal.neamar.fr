@@ -1,5 +1,6 @@
 ---
 title: Diantre
+word: Diantre
 permalink: diantre.html
 canonical: http://lachal.neamar.fr/Diantre
 layout: word

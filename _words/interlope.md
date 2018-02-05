@@ -1,5 +1,6 @@
 ---
 title: Interlope
+word: Interlope
 permalink: interlope.html
 canonical: http://lachal.neamar.fr/Interlope
 layout: word

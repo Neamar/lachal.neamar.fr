@@ -1,5 +1,6 @@
 ---
 title: Patelin
+word: Patelin
 permalink: patelin.html
 canonical: http://lachal.neamar.fr/Patelin
 layout: word

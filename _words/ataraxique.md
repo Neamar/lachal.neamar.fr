@@ -1,5 +1,6 @@
 ---
 title: Ataraxique
+word: Ataraxique
 permalink: ataraxique.html
 canonical: http://lachal.neamar.fr/Ataraxique
 layout: word

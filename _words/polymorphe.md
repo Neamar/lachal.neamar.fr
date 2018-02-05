@@ -1,5 +1,6 @@
 ---
 title: Polymorphe
+word: Polymorphe
 permalink: polymorphe.html
 canonical: http://lachal.neamar.fr/Polymorphe
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Trivialité
+word: Trivialité
 permalink: trivialite.html
 canonical: http://lachal.neamar.fr/Trivialite
 layout: word

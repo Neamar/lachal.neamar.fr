@@ -1,5 +1,6 @@
 ---
 title: Psittacisme
+word: Psittacisme
 permalink: psittacisme.html
 canonical: http://lachal.neamar.fr/Psittacisme
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Supplétif
+word: Supplétif
 permalink: suppletif.html
 canonical: http://lachal.neamar.fr/Suppletif
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Sternutation
+word: Sternutation
 permalink: sternutation.html
 canonical: http://lachal.neamar.fr/Sternutation
 layout: word

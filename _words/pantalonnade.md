@@ -1,5 +1,6 @@
 ---
 title: Pantalonnade
+word: Pantalonnade
 permalink: pantalonnade.html
 canonical: http://lachal.neamar.fr/Pantalonnade
 layout: word

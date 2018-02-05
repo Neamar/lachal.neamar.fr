@@ -1,5 +1,6 @@
 ---
 title: Liminaire
+word: Liminaire
 permalink: liminaire.html
 canonical: http://lachal.neamar.fr/Liminaire
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Que nenni
+word: Que nenni
 permalink: que_nenni.html
 canonical: http://lachal.neamar.fr/Que_nenni
 layout: word

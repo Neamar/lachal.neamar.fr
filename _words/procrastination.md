@@ -1,5 +1,6 @@
 ---
 title: Procrastination
+word: Procrastination
 permalink: procrastination.html
 canonical: http://lachal.neamar.fr/Procrastination
 layout: word

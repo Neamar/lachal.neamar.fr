@@ -1,5 +1,6 @@
 ---
 title: Doxologie
+word: Doxologie
 permalink: doxologie.html
 canonical: http://lachal.neamar.fr/Doxologie
 layout: word

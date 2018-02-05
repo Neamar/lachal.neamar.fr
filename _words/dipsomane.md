@@ -1,5 +1,6 @@
 ---
 title: Dipsomane
+word: Dipsomane
 permalink: dipsomane.html
 canonical: http://lachal.neamar.fr/Dipsomane
 layout: word

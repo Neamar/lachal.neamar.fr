@@ -1,5 +1,6 @@
 ---
 title: In Fine
+word: In Fine
 permalink: in_fine.html
 canonical: http://lachal.neamar.fr/In_fine
 layout: word

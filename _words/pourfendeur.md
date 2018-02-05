@@ -1,5 +1,6 @@
 ---
 title: Pourfendeur
+word: Pourfendeur
 permalink: pourfendeur.html
 canonical: http://lachal.neamar.fr/Pourfendeur
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Pouacre
+word: Pouacre
 permalink: pouacre.html
 canonical: http://lachal.neamar.fr/Pouacre
 layout: word

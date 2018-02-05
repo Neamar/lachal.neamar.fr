@@ -1,5 +1,6 @@
 ---
 title: Impénitent
+word: Impénitent
 permalink: impenitent.html
 canonical: http://lachal.neamar.fr/Impenitent
 layout: word

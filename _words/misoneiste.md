@@ -1,5 +1,6 @@
 ---
 title: Misonéiste
+word: Misonéiste
 permalink: misoneiste.html
 canonical: http://lachal.neamar.fr/Misoneiste
 layout: word

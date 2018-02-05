@@ -1,5 +1,6 @@
 ---
 title: Qui scribit bis legit
+word: Qui scribit bis legit
 permalink: qui_scribit_bis_legit.html
 canonical: http://lachal.neamar.fr/Qui_scribit_bis_legit
 layout: word

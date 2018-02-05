@@ -1,5 +1,6 @@
 ---
 title: Paraphrénie
+word: Paraphrénie
 permalink: paraphrenie.html
 canonical: http://lachal.neamar.fr/Paraphrenie
 layout: word

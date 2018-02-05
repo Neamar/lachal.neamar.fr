@@ -1,5 +1,6 @@
 ---
 title: Ab irato
+word: Ab irato
 permalink: ab_irato.html
 canonical: http://lachal.neamar.fr/Ab_irato
 layout: word

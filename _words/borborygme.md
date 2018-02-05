@@ -1,5 +1,6 @@
 ---
 title: Borborygme
+word: Borborygme
 permalink: borborygme.html
 canonical: http://lachal.neamar.fr/Borborygme
 layout: word

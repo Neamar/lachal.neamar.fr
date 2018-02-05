@@ -1,5 +1,6 @@
 ---
 title: Mercuriale
+word: Mercuriale
 permalink: mercuriale.html
 canonical: http://lachal.neamar.fr/Mercuriale
 layout: word

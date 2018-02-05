@@ -1,5 +1,6 @@
 ---
 title: Protéiforme
+word: Protéiforme
 permalink: proteiforme.html
 canonical: http://lachal.neamar.fr/Proteiforme
 layout: word

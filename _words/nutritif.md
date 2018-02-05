@@ -1,5 +1,6 @@
 ---
 title: Nutritif
+word: Nutritif
 permalink: nutritif.html
 canonical: http://lachal.neamar.fr/Nutritif
 layout: word

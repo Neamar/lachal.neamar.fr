@@ -1,5 +1,6 @@
 ---
 title: Triskaidékaphobe
+word: Triskaidékaphobe
 permalink: triskaidekaphobe.html
 canonical: http://lachal.neamar.fr/Triskaidekaphobe
 layout: word

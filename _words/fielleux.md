@@ -1,5 +1,6 @@
 ---
 title: Fielleux
+word: Fielleux
 permalink: fielleux.html
 canonical: http://lachal.neamar.fr/Fielleux
 layout: word

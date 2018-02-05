@@ -1,5 +1,6 @@
 ---
 title: Pléthore
+word: Pléthore
 permalink: plethore.html
 canonical: http://lachal.neamar.fr/Plethore
 layout: word

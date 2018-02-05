@@ -1,5 +1,6 @@
 ---
 title: Bachique
+word: Bachique
 permalink: bachique.html
 canonical: http://lachal.neamar.fr/Bachique
 layout: word

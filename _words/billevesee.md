@@ -1,5 +1,6 @@
 ---
 title: Billevesée
+word: Billevesée
 permalink: billevesee.html
 canonical: http://lachal.neamar.fr/Billevesee
 layout: word

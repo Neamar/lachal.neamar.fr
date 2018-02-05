@@ -1,5 +1,6 @@
 ---
 title: Bélître
+word: Bélître
 permalink: belitre.html
 canonical: http://lachal.neamar.fr/Belitre
 layout: word

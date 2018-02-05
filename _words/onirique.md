@@ -1,5 +1,6 @@
 ---
 title: Onirique
+word: Onirique
 permalink: onirique.html
 canonical: http://lachal.neamar.fr/Onirique
 layout: word

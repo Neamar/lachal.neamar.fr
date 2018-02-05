@@ -1,5 +1,6 @@
 ---
 title: Endémique
+word: Endémique
 permalink: endemique.html
 canonical: http://lachal.neamar.fr/Endemique
 layout: word

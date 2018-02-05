@@ -1,5 +1,6 @@
 ---
 title: Analepse
+word: Analepse
 permalink: analepse.html
 canonical: http://lachal.neamar.fr/Analepse
 layout: word

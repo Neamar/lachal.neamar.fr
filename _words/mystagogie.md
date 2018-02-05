@@ -1,5 +1,6 @@
 ---
 title: Mystagogie
+word: Mystagogie
 permalink: mystagogie.html
 canonical: http://lachal.neamar.fr/Mystagogie
 layout: word

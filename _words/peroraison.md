@@ -1,5 +1,6 @@
 ---
 title: Péroraison
+word: Péroraison
 permalink: peroraison.html
 canonical: http://lachal.neamar.fr/Peroraison
 layout: word

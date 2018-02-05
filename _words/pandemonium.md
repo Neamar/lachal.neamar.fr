@@ -1,5 +1,6 @@
 ---
 title: Pandémonium
+word: Pandémonium
 permalink: pandemonium.html
 canonical: http://lachal.neamar.fr/Pandemonium
 layout: word

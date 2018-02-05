@@ -1,5 +1,6 @@
 ---
 title: Allégorie
+word: Allégorie
 permalink: allegorie.html
 canonical: http://lachal.neamar.fr/Allegorie
 layout: word

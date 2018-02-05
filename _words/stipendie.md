@@ -1,5 +1,6 @@
 ---
 title: Stipendié
+word: Stipendié
 permalink: stipendie.html
 canonical: http://lachal.neamar.fr/Stipendie
 layout: word

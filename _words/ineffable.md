@@ -1,5 +1,6 @@
 ---
 title: Ineffable
+word: Ineffable
 permalink: ineffable.html
 canonical: http://lachal.neamar.fr/Ineffable
 layout: word

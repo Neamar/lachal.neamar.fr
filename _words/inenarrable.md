@@ -1,5 +1,6 @@
 ---
 title: Inénarrable
+word: Inénarrable
 permalink: inenarrable.html
 canonical: http://lachal.neamar.fr/Inenarrable
 layout: word

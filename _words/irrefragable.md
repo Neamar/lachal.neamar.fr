@@ -1,5 +1,6 @@
 ---
 title: Irréfragable
+word: Irréfragable
 permalink: irrefragable.html
 canonical: http://lachal.neamar.fr/Irrefragable
 layout: word

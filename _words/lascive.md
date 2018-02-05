@@ -1,5 +1,6 @@
 ---
 title: Lascive
+word: Lascive
 permalink: lascive.html
 canonical: http://lachal.neamar.fr/Lascive
 layout: word

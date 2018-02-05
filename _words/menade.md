@@ -1,5 +1,6 @@
 ---
 title: Ménade
+word: Ménade
 permalink: menade.html
 canonical: http://lachal.neamar.fr/Menade
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Escarcelle
+word: Escarcelle
 permalink: escarcelle.html
 canonical: http://lachal.neamar.fr/Escarcelle
 layout: word

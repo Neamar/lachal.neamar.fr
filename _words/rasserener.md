@@ -1,5 +1,6 @@
 ---
 title: Rasséréner
+word: Rasséréner
 permalink: rasserener.html
 canonical: http://lachal.neamar.fr/Rasserener
 layout: word

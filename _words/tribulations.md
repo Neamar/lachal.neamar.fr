@@ -1,5 +1,6 @@
 ---
 title: Tribulations
+word: Tribulations
 permalink: tribulations.html
 canonical: http://lachal.neamar.fr/Tribulations
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Cénotaphe
+word: Cénotaphe
 permalink: cenotaphe.html
 canonical: http://lachal.neamar.fr/Cenotaphe
 layout: word

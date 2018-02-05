@@ -1,5 +1,6 @@
 ---
 title: Dyonisiaque
+word: Dyonisiaque
 permalink: dyonisiaque.html
 canonical: http://lachal.neamar.fr/Dyonisiaque
 layout: word

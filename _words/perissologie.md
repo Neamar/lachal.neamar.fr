@@ -1,5 +1,6 @@
 ---
 title: Périssologie
+word: Périssologie
 permalink: perissologie.html
 canonical: http://lachal.neamar.fr/Perissologie
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Automédon
+word: Automédon
 permalink: automedon.html
 canonical: http://lachal.neamar.fr/Automedon
 layout: word

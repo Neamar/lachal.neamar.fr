@@ -1,5 +1,6 @@
 ---
 title: Ex Voto
+word: Ex Voto
 permalink: ex_voto.html
 canonical: http://lachal.neamar.fr/Ex_voto
 layout: word

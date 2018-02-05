@@ -1,5 +1,6 @@
 ---
 title: Bis repetita placent
+word: Bis repetita placent
 permalink: bis_repetita_placent.html
 canonical: http://lachal.neamar.fr/Bis_repetita_placent
 layout: word

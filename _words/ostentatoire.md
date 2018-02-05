@@ -1,5 +1,6 @@
 ---
 title: Ostentatoire
+word: Ostentatoire
 permalink: ostentatoire.html
 canonical: http://lachal.neamar.fr/Ostentatoire
 layout: word

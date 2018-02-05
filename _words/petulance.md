@@ -1,5 +1,6 @@
 ---
 title: Pétulance
+word: Pétulance
 permalink: petulance.html
 canonical: http://lachal.neamar.fr/Petulance
 layout: word

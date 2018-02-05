@@ -1,5 +1,6 @@
 ---
 title: Circonlocution
+word: Circonlocution
 permalink: circonlocution.html
 canonical: http://lachal.neamar.fr/Circonlocution
 layout: word

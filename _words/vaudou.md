@@ -1,5 +1,6 @@
 ---
 title: Vaudou
+word: Vaudou
 permalink: vaudou.html
 canonical: http://lachal.neamar.fr/Vaudou
 layout: word

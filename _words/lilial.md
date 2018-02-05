@@ -1,5 +1,6 @@
 ---
 title: Lilial
+word: Lilial
 permalink: lilial.html
 canonical: http://lachal.neamar.fr/Lilial
 layout: word

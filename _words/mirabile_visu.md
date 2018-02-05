@@ -1,5 +1,6 @@
 ---
 title: Mirabile Visu
+word: Mirabile Visu
 permalink: mirabile_visu.html
 canonical: http://lachal.neamar.fr/Mirabile_visu
 layout: word

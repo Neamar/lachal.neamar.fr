@@ -1,5 +1,6 @@
 ---
 title: Remugle
+word: Remugle
 permalink: remugle.html
 canonical: http://lachal.neamar.fr/Remugle
 layout: word

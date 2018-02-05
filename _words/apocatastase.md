@@ -1,5 +1,6 @@
 ---
 title: Apocatastase
+word: Apocatastase
 permalink: apocatastase.html
 canonical: http://lachal.neamar.fr/Apocatastase
 layout: word

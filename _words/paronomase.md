@@ -1,5 +1,6 @@
 ---
 title: Paronomase
+word: Paronomase
 permalink: paronomase.html
 canonical: http://lachal.neamar.fr/Paronomase
 layout: word

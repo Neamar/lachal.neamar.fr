@@ -1,5 +1,6 @@
 ---
 title: Prosélytisme
+word: Prosélytisme
 permalink: proselytisme.html
 canonical: http://lachal.neamar.fr/Proselytisme
 layout: word

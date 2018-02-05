@@ -1,5 +1,6 @@
 ---
 title: Camouflet
+word: Camouflet
 permalink: camouflet.html
 canonical: http://lachal.neamar.fr/Camouflet
 layout: word

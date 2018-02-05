@@ -1,5 +1,6 @@
 ---
 title: Affiquet
+word: Affiquet
 permalink: affiquet.html
 canonical: http://lachal.neamar.fr/Affiquet
 layout: word

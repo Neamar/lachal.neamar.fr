@@ -1,5 +1,6 @@
 ---
 title: Factotum
+word: Factotum
 permalink: factotum.html
 canonical: http://lachal.neamar.fr/Factotum
 layout: word

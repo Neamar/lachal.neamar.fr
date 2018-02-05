@@ -1,5 +1,6 @@
 ---
 title: Élucubration
+word: Élucubration
 permalink: elucubration.html
 canonical: http://lachal.neamar.fr/Elucubration
 layout: word

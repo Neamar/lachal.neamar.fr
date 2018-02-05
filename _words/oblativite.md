@@ -1,5 +1,6 @@
 ---
 title: Oblativité
+word: Oblativité
 permalink: oblativite.html
 canonical: http://lachal.neamar.fr/Oblativite
 layout: word

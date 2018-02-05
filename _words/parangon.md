@@ -1,5 +1,6 @@
 ---
 title: Parangon
+word: Parangon
 permalink: parangon.html
 canonical: http://lachal.neamar.fr/Parangon
 layout: word

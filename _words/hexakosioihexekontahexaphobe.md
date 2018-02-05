@@ -1,5 +1,6 @@
 ---
 title: Hexakosioihexekontahexaphobe
+word: Hexakosioihexekontahexaphobe
 permalink: hexakosioihexekontahexaphobe.html
 canonical: http://lachal.neamar.fr/Hexakosioihexekontahexaphobe
 layout: word

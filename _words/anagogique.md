@@ -1,5 +1,6 @@
 ---
 title: Anagogique
+word: Anagogique
 permalink: anagogique.html
 canonical: http://lachal.neamar.fr/Anagogique
 layout: word

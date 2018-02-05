@@ -1,5 +1,6 @@
 ---
 title: Dilatoire
+word: Dilatoire
 permalink: dilatoire.html
 canonical: http://lachal.neamar.fr/Dilatoire
 layout: word

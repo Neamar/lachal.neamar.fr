@@ -1,5 +1,6 @@
 ---
 title: Zoïle
+word: Zoïle
 permalink: zoile.html
 canonical: http://lachal.neamar.fr/Zoile
 layout: word

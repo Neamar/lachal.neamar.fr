@@ -1,5 +1,6 @@
 ---
 title: Verve
+word: Verve
 permalink: verve.html
 canonical: http://lachal.neamar.fr/Verve
 layout: word

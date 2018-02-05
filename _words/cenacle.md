@@ -1,5 +1,6 @@
 ---
 title: Cénacle
+word: Cénacle
 permalink: cenacle.html
 canonical: http://lachal.neamar.fr/Cenacle
 layout: word

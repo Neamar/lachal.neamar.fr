@@ -1,5 +1,6 @@
 ---
 title: Autodafé
+word: Autodafé
 permalink: autodafe.html
 canonical: http://lachal.neamar.fr/Autodafe
 layout: word

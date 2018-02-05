@@ -1,5 +1,6 @@
 ---
 title: Bucolique
+word: Bucolique
 permalink: bucolique.html
 canonical: http://lachal.neamar.fr/Bucolique
 layout: word

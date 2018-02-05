@@ -1,5 +1,6 @@
 ---
 title: Pensum
+word: Pensum
 permalink: pensum.html
 canonical: http://lachal.neamar.fr/Pensum
 layout: word

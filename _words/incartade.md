@@ -1,5 +1,6 @@
 ---
 title: Incartade
+word: Incartade
 permalink: incartade.html
 canonical: http://lachal.neamar.fr/Incartade
 layout: word

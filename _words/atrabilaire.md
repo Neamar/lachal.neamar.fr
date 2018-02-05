@@ -1,5 +1,6 @@
 ---
 title: Atrabilaire
+word: Atrabilaire
 permalink: atrabilaire.html
 canonical: http://lachal.neamar.fr/Atrabilaire
 layout: word

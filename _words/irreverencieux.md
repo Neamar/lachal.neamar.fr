@@ -1,5 +1,6 @@
 ---
 title: Irrévérencieux
+word: Irrévérencieux
 permalink: irreverencieux.html
 canonical: http://lachal.neamar.fr/Irreverencieux
 layout: word

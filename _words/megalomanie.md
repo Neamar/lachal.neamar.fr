@@ -1,5 +1,6 @@
 ---
 title: Mégalomanie
+word: Mégalomanie
 permalink: megalomanie.html
 canonical: http://lachal.neamar.fr/Megalomanie
 layout: word

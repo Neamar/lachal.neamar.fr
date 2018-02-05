@@ -1,5 +1,6 @@
 ---
 title: Stomoxe
+word: Stomoxe
 permalink: stomoxe.html
 canonical: http://lachal.neamar.fr/Stomoxe
 layout: word

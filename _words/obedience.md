@@ -1,5 +1,6 @@
 ---
 title: Obédience
+word: Obédience
 permalink: obedience.html
 canonical: http://lachal.neamar.fr/Obedience
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Ampoulé
+word: Ampoulé
 permalink: ampoule.html
 canonical: http://lachal.neamar.fr/Ampoule
 layout: word

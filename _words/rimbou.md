@@ -1,5 +1,6 @@
 ---
 title: Rimbou
+word: Rimbou
 permalink: rimbou.html
 canonical: http://lachal.neamar.fr/Rimbou
 layout: word

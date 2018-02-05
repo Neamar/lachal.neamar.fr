@@ -17,10 +17,11 @@ layout: default
 </ul>
 <h5>Exemples d'utilisation</h5>
 <ul>
-{% assign word = page.title | downcase %}
+{% assign lower_word = page.word | downcase %}
+{{ word }}
 {% for example in site.data.examples %}
   {% assign lower_example = example.example | downcase %}
-  {% if example.words contains word or lower_example contains word %}
+  {% if example.words contains page.word or lower_example contains lower_word %}
 	<li>{{ example.example }}</li>
   {% endif %}
 {% endfor %}

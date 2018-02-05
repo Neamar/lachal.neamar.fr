@@ -1,5 +1,6 @@
 ---
 title: Résipiscence
+word: Résipiscence
 permalink: resipiscence.html
 canonical: http://lachal.neamar.fr/Resipiscence
 layout: word

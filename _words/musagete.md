@@ -1,5 +1,6 @@
 ---
 title: Musagète
+word: Musagète
 permalink: musagete.html
 canonical: http://lachal.neamar.fr/Musagete
 layout: word

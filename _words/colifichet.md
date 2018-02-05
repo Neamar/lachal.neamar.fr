@@ -1,5 +1,6 @@
 ---
 title: Colifichet
+word: Colifichet
 permalink: colifichet.html
 canonical: http://lachal.neamar.fr/Colifichet
 layout: word

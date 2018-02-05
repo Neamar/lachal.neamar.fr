@@ -1,5 +1,6 @@
 ---
 title: Cacochyme
+word: Cacochyme
 permalink: cacochyme.html
 canonical: http://lachal.neamar.fr/Cacochyme
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Dithyrambique
+word: Dithyrambique
 permalink: dithyrambique.html
 canonical: http://lachal.neamar.fr/Dithyrambique
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Prévarication
+word: Prévarication
 permalink: prevarication.html
 canonical: http://lachal.neamar.fr/Prevarication
 layout: word

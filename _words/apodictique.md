@@ -1,5 +1,6 @@
 ---
 title: Apodictique
+word: Apodictique
 permalink: apodictique.html
 canonical: http://lachal.neamar.fr/Apodictique
 layout: word

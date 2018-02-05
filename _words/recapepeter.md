@@ -1,5 +1,6 @@
 ---
 title: Récapépèter
+word: Récapépèter
 permalink: recapepeter.html
 canonical: http://lachal.neamar.fr/Recapepeter
 layout: word

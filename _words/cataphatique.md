@@ -1,5 +1,6 @@
 ---
 title: Cataphatique
+word: Cataphatique
 permalink: cataphatique.html
 canonical: http://lachal.neamar.fr/Cataphatique
 layout: word

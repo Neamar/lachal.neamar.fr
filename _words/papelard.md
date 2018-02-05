@@ -1,5 +1,6 @@
 ---
 title: Papelard
+word: Papelard
 permalink: papelard.html
 canonical: http://lachal.neamar.fr/Papelard
 layout: word

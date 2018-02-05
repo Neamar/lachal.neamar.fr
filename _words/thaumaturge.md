@@ -1,5 +1,6 @@
 ---
 title: Thaumaturge
+word: Thaumaturge
 permalink: thaumaturge.html
 canonical: http://lachal.neamar.fr/Thaumaturge
 layout: word

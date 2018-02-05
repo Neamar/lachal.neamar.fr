@@ -1,5 +1,6 @@
 ---
 title: Sui Generis
+word: Sui Generis
 permalink: sui_generis.html
 canonical: http://lachal.neamar.fr/Sui_generis
 layout: word

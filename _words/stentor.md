@@ -1,5 +1,6 @@
 ---
 title: Stentor
+word: Stentor
 permalink: stentor.html
 canonical: http://lachal.neamar.fr/Stentor
 layout: word

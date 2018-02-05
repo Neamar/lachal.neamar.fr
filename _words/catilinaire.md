@@ -1,5 +1,6 @@
 ---
 title: Catilinaire
+word: Catilinaire
 permalink: catilinaire.html
 canonical: http://lachal.neamar.fr/Catilinaire
 layout: word

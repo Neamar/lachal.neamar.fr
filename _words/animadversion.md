@@ -1,5 +1,6 @@
 ---
 title: Animadversion
+word: Animadversion
 permalink: animadversion.html
 canonical: http://lachal.neamar.fr/Animadversion
 layout: word

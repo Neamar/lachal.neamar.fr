@@ -1,5 +1,6 @@
 ---
 title: Magnificence
+word: Magnificence
 permalink: magnificence.html
 canonical: http://lachal.neamar.fr/Magnificence
 layout: word

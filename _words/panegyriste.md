@@ -1,5 +1,6 @@
 ---
 title: Panégyriste
+word: Panégyriste
 permalink: panegyriste.html
 canonical: http://lachal.neamar.fr/Panegyriste
 layout: word

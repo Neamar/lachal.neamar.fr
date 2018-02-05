@@ -1,5 +1,6 @@
 ---
 title: Logorrhée
+word: Logorrhée
 permalink: logorrhee.html
 canonical: http://lachal.neamar.fr/Logorrhee
 layout: word

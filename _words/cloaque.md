@@ -1,5 +1,6 @@
 ---
 title: Cloaque
+word: Cloaque
 permalink: cloaque.html
 canonical: http://lachal.neamar.fr/Cloaque
 layout: word

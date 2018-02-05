@@ -1,5 +1,6 @@
 ---
 title: Cathartique
+word: Cathartique
 permalink: cathartique.html
 canonical: http://lachal.neamar.fr/Cathartique
 layout: word

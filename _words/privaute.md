@@ -1,5 +1,6 @@
 ---
 title: Privauté
+word: Privauté
 permalink: privaute.html
 canonical: http://lachal.neamar.fr/Privaute
 layout: word

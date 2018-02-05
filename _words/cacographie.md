@@ -1,5 +1,6 @@
 ---
 title: Cacographie
+word: Cacographie
 permalink: cacographie.html
 canonical: http://lachal.neamar.fr/Cacographie
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Mafflu
+word: Mafflu
 permalink: mafflu.html
 canonical: http://lachal.neamar.fr/Mafflu
 layout: word

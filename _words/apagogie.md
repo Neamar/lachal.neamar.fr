@@ -1,5 +1,6 @@
 ---
 title: Apagogie
+word: Apagogie
 permalink: apagogie.html
 canonical: http://lachal.neamar.fr/Apagogie
 layout: word

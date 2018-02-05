@@ -1,5 +1,6 @@
 ---
 title: Paradigmatique
+word: Paradigmatique
 permalink: paradigmatique.html
 canonical: http://lachal.neamar.fr/Paradigmatique
 layout: word

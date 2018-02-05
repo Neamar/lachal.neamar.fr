@@ -1,5 +1,6 @@
 ---
 title: Glose
+word: Glose
 permalink: glose.html
 canonical: http://lachal.neamar.fr/Glose
 layout: word

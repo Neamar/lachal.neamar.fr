@@ -1,5 +1,6 @@
 ---
 title: Nycthémère
+word: Nycthémère
 permalink: nycthemere.html
 canonical: http://lachal.neamar.fr/Nycthemere
 layout: word

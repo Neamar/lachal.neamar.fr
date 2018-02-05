@@ -1,5 +1,6 @@
 ---
 title: Ratiocination
+word: Ratiocination
 permalink: ratiocination.html
 canonical: http://lachal.neamar.fr/Ratiocination
 layout: word

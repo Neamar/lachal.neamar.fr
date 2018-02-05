@@ -1,5 +1,6 @@
 ---
 title: Marshmallow
+word: Marshmallow
 permalink: marshmallow.html
 canonical: http://lachal.neamar.fr/Marshmallow
 layout: word

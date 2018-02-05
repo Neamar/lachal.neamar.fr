@@ -1,5 +1,6 @@
 ---
 title: Giga X
+word: Giga X
 permalink: giga_x.html
 canonical: http://lachal.neamar.fr/Giga_x
 layout: word

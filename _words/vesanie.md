@@ -1,5 +1,6 @@
 ---
 title: Vésanie
+word: Vésanie
 permalink: vesanie.html
 canonical: http://lachal.neamar.fr/Vesanie
 layout: word

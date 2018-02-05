@@ -1,5 +1,6 @@
 ---
 title: Byzantin
+word: Byzantin
 permalink: byzantin.html
 canonical: http://lachal.neamar.fr/Byzantin
 layout: word

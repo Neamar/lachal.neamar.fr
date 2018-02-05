@@ -1,5 +1,6 @@
 ---
 title: Apologétique
+word: Apologétique
 permalink: apologetique.html
 canonical: http://lachal.neamar.fr/Apologetique
 layout: word

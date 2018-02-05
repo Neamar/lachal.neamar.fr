@@ -1,5 +1,6 @@
 ---
 title: Pamphlétaire
+word: Pamphlétaire
 permalink: pamphletaire.html
 canonical: http://lachal.neamar.fr/Pamphletaire
 layout: word

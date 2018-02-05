@@ -1,5 +1,6 @@
 ---
 title: Atavisme
+word: Atavisme
 permalink: atavisme.html
 canonical: http://lachal.neamar.fr/Atavisme
 layout: word

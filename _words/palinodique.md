@@ -1,5 +1,6 @@
 ---
 title: Palinodique
+word: Palinodique
 permalink: palinodique.html
 canonical: http://lachal.neamar.fr/Palinodique
 layout: word

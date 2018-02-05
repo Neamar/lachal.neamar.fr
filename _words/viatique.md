@@ -1,5 +1,6 @@
 ---
 title: Viatique
+word: Viatique
 permalink: viatique.html
 canonical: http://lachal.neamar.fr/Viatique
 layout: word

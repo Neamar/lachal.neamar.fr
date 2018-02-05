@@ -1,5 +1,6 @@
 ---
 title: i.e.
+word: i.e.
 permalink: i.e..html
 canonical: http://lachal.neamar.fr/I.e.
 layout: word

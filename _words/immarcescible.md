@@ -1,5 +1,6 @@
 ---
 title: Immarcescible
+word: Immarcescible
 permalink: immarcescible.html
 canonical: http://lachal.neamar.fr/Immarcescible
 layout: word

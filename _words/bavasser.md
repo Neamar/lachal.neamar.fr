@@ -1,5 +1,6 @@
 ---
 title: Bavasser
+word: Bavasser
 permalink: bavasser.html
 canonical: http://lachal.neamar.fr/Bavasser
 layout: word

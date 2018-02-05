@@ -1,5 +1,6 @@
 ---
 title: Idiolecte
+word: Idiolecte
 permalink: idiolecte.html
 canonical: http://lachal.neamar.fr/Idiolecte
 layout: word

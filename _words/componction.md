@@ -1,5 +1,6 @@
 ---
 title: Componction
+word: Componction
 permalink: componction.html
 canonical: http://lachal.neamar.fr/Componction
 layout: word

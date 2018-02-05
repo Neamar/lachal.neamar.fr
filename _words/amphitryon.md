@@ -1,5 +1,6 @@
 ---
 title: Amphitryon
+word: Amphitryon
 permalink: amphitryon.html
 canonical: http://lachal.neamar.fr/Amphitryon
 layout: word

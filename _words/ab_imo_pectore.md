@@ -1,5 +1,6 @@
 ---
 title: Ab imo pectore
+word: Ab imo pectore
 permalink: ab_imo_pectore.html
 canonical: http://lachal.neamar.fr/Ab_imo_pectore
 layout: word

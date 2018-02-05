@@ -1,5 +1,6 @@
 ---
 title: Entropie
+word: Entropie
 permalink: entropie.html
 canonical: http://lachal.neamar.fr/Entropie
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Hic et nunc
+word: Hic et nunc
 permalink: hic_et_nunc.html
 canonical: http://lachal.neamar.fr/Hic_et_nunc
 layout: word

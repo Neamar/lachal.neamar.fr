@@ -1,5 +1,6 @@
 ---
 title: Déliquescence
+word: Déliquescence
 permalink: deliquescence.html
 canonical: http://lachal.neamar.fr/Deliquescence
 layout: word

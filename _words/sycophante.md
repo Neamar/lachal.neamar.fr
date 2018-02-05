@@ -1,5 +1,6 @@
 ---
 title: Sycophante
+word: Sycophante
 permalink: sycophante.html
 canonical: http://lachal.neamar.fr/Sycophante
 layout: word

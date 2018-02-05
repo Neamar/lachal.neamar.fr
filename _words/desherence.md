@@ -1,5 +1,6 @@
 ---
 title: Déshérence
+word: Déshérence
 permalink: desherence.html
 canonical: http://lachal.neamar.fr/Desherence
 layout: word

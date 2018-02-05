@@ -1,5 +1,6 @@
 ---
 title: Marivauder
+word: Marivauder
 permalink: marivauder.html
 canonical: http://lachal.neamar.fr/Marivauder
 layout: word

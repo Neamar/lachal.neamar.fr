@@ -1,5 +1,6 @@
 ---
 title: Vilipender
+word: Vilipender
 permalink: vilipender.html
 canonical: http://lachal.neamar.fr/Vilipender
 layout: word

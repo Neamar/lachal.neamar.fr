@@ -1,5 +1,6 @@
 ---
 title: Cassandre
+word: Cassandre
 permalink: cassandre.html
 canonical: http://lachal.neamar.fr/Cassandre
 layout: word

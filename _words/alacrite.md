@@ -1,5 +1,6 @@
 ---
 title: Alacrité
+word: Alacrité
 permalink: alacrite.html
 canonical: http://lachal.neamar.fr/Alacrite
 layout: word

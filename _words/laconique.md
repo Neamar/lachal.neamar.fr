@@ -1,5 +1,6 @@
 ---
 title: Laconique
+word: Laconique
 permalink: laconique.html
 canonical: http://lachal.neamar.fr/Laconique
 layout: word

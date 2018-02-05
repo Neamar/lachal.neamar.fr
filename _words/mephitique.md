@@ -1,5 +1,6 @@
 ---
 title: Méphitique
+word: Méphitique
 permalink: mephitique.html
 canonical: http://lachal.neamar.fr/Mephitique
 layout: word

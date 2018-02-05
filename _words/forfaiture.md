@@ -1,5 +1,6 @@
 ---
 title: Forfaiture
+word: Forfaiture
 permalink: forfaiture.html
 canonical: http://lachal.neamar.fr/Forfaiture
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Catabatique
+word: Catabatique
 permalink: catabatique.html
 canonical: http://lachal.neamar.fr/Catabatique
 layout: word

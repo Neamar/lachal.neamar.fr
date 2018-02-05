@@ -1,5 +1,6 @@
 ---
 title: Eclectisme
+word: Eclectisme
 permalink: eclectisme.html
 canonical: http://lachal.neamar.fr/Eclectisme
 layout: word

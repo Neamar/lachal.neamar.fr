@@ -1,5 +1,6 @@
 ---
 title: Primesautier
+word: Primesautier
 permalink: primesautier.html
 canonical: http://lachal.neamar.fr/Primesautier
 layout: word

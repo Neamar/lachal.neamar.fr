@@ -1,5 +1,6 @@
 ---
 title: Munificence
+word: Munificence
 permalink: munificence.html
 canonical: http://lachal.neamar.fr/Munificence
 layout: word

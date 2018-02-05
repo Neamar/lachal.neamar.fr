@@ -1,5 +1,6 @@
 ---
 title: Condominium
+word: Condominium
 permalink: condominium.html
 canonical: http://lachal.neamar.fr/Condominium
 layout: word

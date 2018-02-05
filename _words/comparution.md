@@ -1,5 +1,6 @@
 ---
 title: Comparution
+word: Comparution
 permalink: comparution.html
 canonical: http://lachal.neamar.fr/Comparution
 layout: word

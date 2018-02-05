@@ -1,5 +1,6 @@
 ---
 title: Captieux
+word: Captieux
 permalink: captieux.html
 canonical: http://lachal.neamar.fr/Captieux
 layout: word

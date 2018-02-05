@@ -1,5 +1,6 @@
 ---
 title: Adamantin
+word: Adamantin
 permalink: adamantin.html
 canonical: http://lachal.neamar.fr/Adamantin
 layout: word

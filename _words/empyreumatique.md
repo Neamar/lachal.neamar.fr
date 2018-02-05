@@ -1,5 +1,6 @@
 ---
 title: Empyreumatique
+word: Empyreumatique
 permalink: empyreumatique.html
 canonical: http://lachal.neamar.fr/Empyreumatique
 layout: word

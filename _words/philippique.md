@@ -1,5 +1,6 @@
 ---
 title: Philippique
+word: Philippique
 permalink: philippique.html
 canonical: http://lachal.neamar.fr/Philippique
 layout: word

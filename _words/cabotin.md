@@ -1,5 +1,6 @@
 ---
 title: Cabotin
+word: Cabotin
 permalink: cabotin.html
 canonical: http://lachal.neamar.fr/Cabotin
 layout: word

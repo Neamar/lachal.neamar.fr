@@ -1,5 +1,6 @@
 ---
 title: Éponyme
+word: Éponyme
 permalink: eponyme.html
 canonical: http://lachal.neamar.fr/Eponyme
 layout: word

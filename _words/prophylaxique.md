@@ -1,5 +1,6 @@
 ---
 title: Prophylaxique
+word: Prophylaxique
 permalink: prophylaxique.html
 canonical: http://lachal.neamar.fr/Prophylaxique
 layout: word

@@ -1,5 +1,6 @@
 ---
 title: Pantomime
+word: Pantomime
 permalink: pantomime.html
 canonical: http://lachal.neamar.fr/Pantomime
 layout: word

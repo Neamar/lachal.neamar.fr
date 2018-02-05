@@ -1,5 +1,6 @@
 ---
 title: Pédotribe
+word: Pédotribe
 permalink: pedotribe.html
 canonical: http://lachal.neamar.fr/Pedotribe
 layout: word
