@@ -1,7 +1,7 @@
 <dt>
-	<a class="word" href="{{ site.github.url }}/{{ word.permalink }}">{{ word.title }}</a>
-	{% include display_category.html categories=word.categories %}
+	<a class="word" href="{{ site.github.url }}/{{ include.word.permalink }}">{{ include.word.title }}</a>
+	{% include display_category.html categories=include.word.categories %}
 </dt>
 <dd>
-	<p>{{ word.excerpt }}</p>
+	<p>{{ include.word.excerpt }}</p>
 </dd>

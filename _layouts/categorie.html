@@ -19,7 +19,7 @@ Cliquez sur le mot pour ouvrir une nouvelle page affichant plus d'informations e
 			{% assign current_section = first_letter %}
 		{% endif %}
 
-		{% include word_excerpt.html %}
+		{% include word_excerpt.html word=word %}
 	{% endif %}
 {% endfor %}
 </dl>
