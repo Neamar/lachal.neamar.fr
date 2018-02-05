@@ -1,0 +1,12 @@
+{% assign current_section = "" %}
+<ul class="index">
+{% for word in include.words %}
+  {% if include.categorie == "" or word.categories contains include.categorie %}
+    {% include get_first_letter.html %}
+    {% if first_letter != current_section %}
+      {% assign current_section = first_letter %}
+      <li><a href="#lettre-{{ first_letter }}">{{ first_letter }}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>

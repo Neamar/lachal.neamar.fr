@@ -6,8 +6,10 @@ layout: default
 <h2>Catégorie&nbsp;: {{ page.categorie }}</h2>
 {% endif %}
 
-La définition jointe est incomplète.
-Cliquez sur le mot pour ouvrir une nouvelle page affichant plus d'informations et des exemples.
+<p>La définition jointe est incomplète.<br />
+Cliquez sur le mot pour ouvrir une nouvelle page affichant plus d'informations et des exemples.</p>
+
+{% include paginator.html words=site.words categorie=page.categorie %}
 
 <dl>
 {% assign current_section = "" %}
@@ -15,7 +17,7 @@ Cliquez sur le mot pour ouvrir une nouvelle page affichant plus d'informations e
 	{% if page.categorie == "" or word.categories contains page.categorie %}
 		{% include get_first_letter.html %}
 		{% if first_letter != current_section %}
-			<h2>{{ first_letter }}</h2>
+			<h2 id="lettre-{{ first_letter }}">{{ first_letter }}</h2>
 			{% assign current_section = first_letter %}
 		{% endif %}
 
@@ -23,3 +25,5 @@ Cliquez sur le mot pour ouvrir une nouvelle page affichant plus d'informations e
 	{% endif %}
 {% endfor %}
 </dl>
+
+{% include paginator.html words=site.words categorie=page.categorie %}
