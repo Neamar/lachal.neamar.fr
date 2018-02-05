@@ -16,9 +16,10 @@ layout: default
 {% endfor %}
 </ul>
 <h5>Exemples d'utilisation</h5>
+<p>TEMPORAIREMENT DÉSACTIVÉ</p>
+{% comment %}
 <ul>
 {% assign lower_word = page.word | downcase %}
-{{ word }}
 {% for example in site.data.examples %}
   {% assign lower_example = example.example | downcase %}
   {% if example.words contains page.word or lower_example contains lower_word %}
@@ -26,6 +27,7 @@ layout: default
   {% endif %}
 {% endfor %}
 </ul>
+{% endcomment %}
 
 <p>Pour plus d'informations&nbsp;: <a href="{{ page.link }}">{{ page.title }}</a>
 </dd>
