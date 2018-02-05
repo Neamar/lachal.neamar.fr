@@ -1,8 +1,8 @@
 ---
 title: Dithyrambique
 word: Dithyrambique
-permalink: dithyrambique.html
-canonical: http://lachal.neamar.fr/Dithyrambique
+permalink: Dithyrambique.html
+canonical: https://lachal.neamar.fr/Dithyrambique
 layout: word
 categories:
   - Mot complexe

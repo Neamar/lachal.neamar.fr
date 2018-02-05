@@ -1,8 +1,8 @@
 ---
 title: Eclectisme
 word: Eclectisme
-permalink: eclectisme.html
-canonical: http://lachal.neamar.fr/Eclectisme
+permalink: Eclectisme.html
+canonical: https://lachal.neamar.fr/Eclectisme
 layout: word
 categories:
 synonyms:

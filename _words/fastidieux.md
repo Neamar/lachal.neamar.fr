@@ -1,8 +1,8 @@
 ---
 title: Fastidieux
 word: Fastidieux
-permalink: fastidieux.html
-canonical: http://lachal.neamar.fr/Fastidieux
+permalink: Fastidieux.html
+canonical: https://lachal.neamar.fr/Fastidieux
 layout: word
 categories:
 synonyms:

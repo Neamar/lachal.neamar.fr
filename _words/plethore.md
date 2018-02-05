@@ -1,8 +1,8 @@
 ---
 title: Pléthore
 word: Pléthore
-permalink: plethore.html
-canonical: http://lachal.neamar.fr/Plethore
+permalink: Plethore.html
+canonical: https://lachal.neamar.fr/Plethore
 layout: word
 categories:
   - Rhétorique

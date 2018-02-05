@@ -1,8 +1,8 @@
 ---
 title: Paraphrénie
 word: Paraphrénie
-permalink: paraphrenie.html
-canonical: http://lachal.neamar.fr/Paraphrenie
+permalink: Paraphrenie.html
+canonical: https://lachal.neamar.fr/Paraphrenie
 layout: word
 categories:
   - Mot complexe

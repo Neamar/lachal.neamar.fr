@@ -1,8 +1,8 @@
 ---
 title: Surnuméraire
 word: Surnuméraire
-permalink: surnumeraire.html
-canonical: http://lachal.neamar.fr/Surnumeraire
+permalink: Surnumeraire.html
+canonical: https://lachal.neamar.fr/Surnumeraire
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Vilipender
 word: Vilipender
-permalink: vilipender.html
-canonical: http://lachal.neamar.fr/Vilipender
+permalink: Vilipender.html
+canonical: https://lachal.neamar.fr/Vilipender
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Ex Nihilo
 word: Ex Nihilo
-permalink: ex_nihilo.html
-canonical: http://lachal.neamar.fr/Ex_nihilo
+permalink: Ex_nihilo.html
+canonical: https://lachal.neamar.fr/Ex_nihilo
 layout: word
 categories:
   - Citation latine

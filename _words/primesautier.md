@@ -1,8 +1,8 @@
 ---
 title: Primesautier
 word: Primesautier
-permalink: primesautier.html
-canonical: http://lachal.neamar.fr/Primesautier
+permalink: Primesautier.html
+canonical: https://lachal.neamar.fr/Primesautier
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Tribulations
 word: Tribulations
-permalink: tribulations.html
-canonical: http://lachal.neamar.fr/Tribulations
+permalink: Tribulations.html
+canonical: https://lachal.neamar.fr/Tribulations
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Cénacle
 word: Cénacle
-permalink: cenacle.html
-canonical: http://lachal.neamar.fr/Cenacle
+permalink: Cenacle.html
+canonical: https://lachal.neamar.fr/Cenacle
 layout: word
 categories:
   - Mot complexe

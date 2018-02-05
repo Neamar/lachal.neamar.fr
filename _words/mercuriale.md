@@ -1,8 +1,8 @@
 ---
 title: Mercuriale
 word: Mercuriale
-permalink: mercuriale.html
-canonical: http://lachal.neamar.fr/Mercuriale
+permalink: Mercuriale.html
+canonical: https://lachal.neamar.fr/Mercuriale
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Bacchanales
 word: Bacchanales
-permalink: bacchanales.html
-canonical: http://lachal.neamar.fr/Bacchanales
+permalink: Bacchanales.html
+canonical: https://lachal.neamar.fr/Bacchanales
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Zélateur
 word: Zélateur
-permalink: zelateur.html
-canonical: http://lachal.neamar.fr/Zelateur
+permalink: Zelateur.html
+canonical: https://lachal.neamar.fr/Zelateur
 layout: word
 categories:
   - Mot complexe

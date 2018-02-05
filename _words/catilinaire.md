@@ -1,8 +1,8 @@
 ---
 title: Catilinaire
 word: Catilinaire
-permalink: catilinaire.html
-canonical: http://lachal.neamar.fr/Catilinaire
+permalink: Catilinaire.html
+canonical: https://lachal.neamar.fr/Catilinaire
 layout: word
 categories:
   - Mot complexe

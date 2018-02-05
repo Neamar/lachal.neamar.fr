@@ -1,8 +1,8 @@
 ---
 title: Vaudou
 word: Vaudou
-permalink: vaudou.html
-canonical: http://lachal.neamar.fr/Vaudou
+permalink: Vaudou.html
+canonical: https://lachal.neamar.fr/Vaudou
 layout: word
 categories:
 synonyms:

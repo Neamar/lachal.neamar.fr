@@ -1,8 +1,8 @@
 ---
 title: Mégalomanie
 word: Mégalomanie
-permalink: megalomanie.html
-canonical: http://lachal.neamar.fr/Megalomanie
+permalink: Megalomanie.html
+canonical: https://lachal.neamar.fr/Megalomanie
 layout: word
 categories:
 synonyms:

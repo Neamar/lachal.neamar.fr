@@ -1,8 +1,8 @@
 ---
 title: Poissarde
 word: Poissarde
-permalink: poissarde.html
-canonical: http://lachal.neamar.fr/Poissarde
+permalink: Poissarde.html
+canonical: https://lachal.neamar.fr/Poissarde
 layout: word
 categories:
 synonyms:

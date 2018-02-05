@@ -1,8 +1,8 @@
 ---
 title: Marshmallow
 word: Marshmallow
-permalink: marshmallow.html
-canonical: http://lachal.neamar.fr/Marshmallow
+permalink: Marshmallow.html
+canonical: https://lachal.neamar.fr/Marshmallow
 layout: word
 categories:
 synonyms:

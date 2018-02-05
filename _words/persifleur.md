@@ -1,8 +1,8 @@
 ---
 title: Persifleur
 word: Persifleur
-permalink: persifleur.html
-canonical: http://lachal.neamar.fr/Persifleur
+permalink: Persifleur.html
+canonical: https://lachal.neamar.fr/Persifleur
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Dyonisiaque
 word: Dyonisiaque
-permalink: dyonisiaque.html
-canonical: http://lachal.neamar.fr/Dyonisiaque
+permalink: Dyonisiaque.html
+canonical: https://lachal.neamar.fr/Dyonisiaque
 layout: word
 categories:
   - Mot complexe

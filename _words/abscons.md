@@ -1,8 +1,8 @@
 ---
 title: Abscons
 word: Abscons
-permalink: abscons.html
-canonical: http://lachal.neamar.fr/Abscons
+permalink: Abscons.html
+canonical: https://lachal.neamar.fr/Abscons
 layout: word
 categories:
 synonyms:

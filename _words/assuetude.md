@@ -1,8 +1,8 @@
 ---
 title: Assuétude
 word: Assuétude
-permalink: assuetude.html
-canonical: http://lachal.neamar.fr/Assuetude
+permalink: Assuetude.html
+canonical: https://lachal.neamar.fr/Assuetude
 layout: word
 categories:
 synonyms:

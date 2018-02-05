@@ -1,8 +1,8 @@
 ---
 title: Anathème
 word: Anathème
-permalink: anatheme.html
-canonical: http://lachal.neamar.fr/Anatheme
+permalink: Anatheme.html
+canonical: https://lachal.neamar.fr/Anatheme
 layout: word
 categories:
   - Mot complexe

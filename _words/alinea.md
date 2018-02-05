@@ -1,8 +1,8 @@
 ---
 title: Alinéa
 word: Alinéa
-permalink: alinea.html
-canonical: http://lachal.neamar.fr/Alinea
+permalink: Alinea.html
+canonical: https://lachal.neamar.fr/Alinea
 layout: word
 categories:
   - Rhétorique

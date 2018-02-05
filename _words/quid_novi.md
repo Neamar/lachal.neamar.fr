@@ -1,8 +1,8 @@
 ---
 title: Quid novi
 word: Quid novi
-permalink: quid_novi.html
-canonical: http://lachal.neamar.fr/Quid_novi
+permalink: Quid_novi.html
+canonical: https://lachal.neamar.fr/Quid_novi
 layout: word
 categories:
   - Citation latine

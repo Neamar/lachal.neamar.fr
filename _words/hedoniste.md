@@ -1,8 +1,8 @@
 ---
 title: Hédoniste
 word: Hédoniste
-permalink: hedoniste.html
-canonical: http://lachal.neamar.fr/Hedoniste
+permalink: Hedoniste.html
+canonical: https://lachal.neamar.fr/Hedoniste
 layout: word
 categories:
   - Mot complexe

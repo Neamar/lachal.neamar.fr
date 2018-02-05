@@ -1,8 +1,8 @@
 ---
 title: Cauteleux
 word: Cauteleux
-permalink: cauteleux.html
-canonical: http://lachal.neamar.fr/Cauteleux
+permalink: Cauteleux.html
+canonical: https://lachal.neamar.fr/Cauteleux
 layout: word
 categories:
   - Mot complexe

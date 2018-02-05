@@ -1,8 +1,8 @@
 ---
 title: Pathos
 word: Pathos
-permalink: pathos.html
-canonical: http://lachal.neamar.fr/Pathos
+permalink: Pathos.html
+canonical: https://lachal.neamar.fr/Pathos
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Capilotade
 word: Capilotade
-permalink: capilotade.html
-canonical: http://lachal.neamar.fr/Capilotade
+permalink: Capilotade.html
+canonical: https://lachal.neamar.fr/Capilotade
 layout: word
 categories:
   - Mot complexe

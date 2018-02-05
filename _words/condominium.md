@@ -1,8 +1,8 @@
 ---
 title: Condominium
 word: Condominium
-permalink: condominium.html
-canonical: http://lachal.neamar.fr/Condominium
+permalink: Condominium.html
+canonical: https://lachal.neamar.fr/Condominium
 layout: word
 categories:
   - Mot complexe

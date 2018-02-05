@@ -1,8 +1,8 @@
 ---
 title: Obédience
 word: Obédience
-permalink: obedience.html
-canonical: http://lachal.neamar.fr/Obedience
+permalink: Obedience.html
+canonical: https://lachal.neamar.fr/Obedience
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Ex Abrupto
 word: Ex Abrupto
-permalink: ex_abrupto.html
-canonical: http://lachal.neamar.fr/Ex_abrupto
+permalink: Ex_abrupto.html
+canonical: https://lachal.neamar.fr/Ex_abrupto
 layout: word
 categories:
   - Citation latine

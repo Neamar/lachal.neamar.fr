@@ -1,8 +1,8 @@
 ---
 title: Mystagogie
 word: Mystagogie
-permalink: mystagogie.html
-canonical: http://lachal.neamar.fr/Mystagogie
+permalink: Mystagogie.html
+canonical: https://lachal.neamar.fr/Mystagogie
 layout: word
 categories:
   - Mot complexe

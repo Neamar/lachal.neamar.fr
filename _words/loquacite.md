@@ -1,8 +1,8 @@
 ---
 title: Loquacité
 word: Loquacité
-permalink: loquacite.html
-canonical: http://lachal.neamar.fr/Loquacite
+permalink: Loquacite.html
+canonical: https://lachal.neamar.fr/Loquacite
 layout: word
 categories:
   - Rhétorique

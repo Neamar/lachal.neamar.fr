@@ -1,8 +1,8 @@
 ---
 title: Pétaudière
 word: Pétaudière
-permalink: petaudiere.html
-canonical: http://lachal.neamar.fr/Petaudiere
+permalink: Petaudiere.html
+canonical: https://lachal.neamar.fr/Petaudiere
 layout: word
 categories:
 synonyms:

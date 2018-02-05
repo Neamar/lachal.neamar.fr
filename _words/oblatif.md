@@ -1,8 +1,8 @@
 ---
 title: Oblatif
 word: Oblatif
-permalink: oblatif.html
-canonical: http://lachal.neamar.fr/Oblatif
+permalink: Oblatif.html
+canonical: https://lachal.neamar.fr/Oblatif
 layout: word
 categories:
   - Mot complexe

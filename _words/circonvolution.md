@@ -1,8 +1,8 @@
 ---
 title: Circonvolution
 word: Circonvolution
-permalink: circonvolution.html
-canonical: http://lachal.neamar.fr/Circonvolution
+permalink: Circonvolution.html
+canonical: https://lachal.neamar.fr/Circonvolution
 layout: word
 categories:
 synonyms:

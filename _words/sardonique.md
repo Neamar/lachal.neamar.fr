@@ -1,8 +1,8 @@
 ---
 title: Sardonique
 word: Sardonique
-permalink: sardonique.html
-canonical: http://lachal.neamar.fr/Sardonique
+permalink: Sardonique.html
+canonical: https://lachal.neamar.fr/Sardonique
 layout: word
 categories:
   - Mot complexe

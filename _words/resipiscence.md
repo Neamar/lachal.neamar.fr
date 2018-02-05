@@ -1,8 +1,8 @@
 ---
 title: Résipiscence
 word: Résipiscence
-permalink: resipiscence.html
-canonical: http://lachal.neamar.fr/Resipiscence
+permalink: Resipiscence.html
+canonical: https://lachal.neamar.fr/Resipiscence
 layout: word
 categories:
   - Mot complexe

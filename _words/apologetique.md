@@ -1,8 +1,8 @@
 ---
 title: Apologétique
 word: Apologétique
-permalink: apologetique.html
-canonical: http://lachal.neamar.fr/Apologetique
+permalink: Apologetique.html
+canonical: https://lachal.neamar.fr/Apologetique
 layout: word
 categories:
   - Rhétorique

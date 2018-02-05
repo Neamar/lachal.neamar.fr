@@ -1,8 +1,8 @@
 ---
 title: Méga X
 word: Méga X
-permalink: mega_x.html
-canonical: http://lachal.neamar.fr/Mega_x
+permalink: Mega_x.html
+canonical: https://lachal.neamar.fr/Mega_x
 layout: word
 categories:
   - Néologisme Lachalien

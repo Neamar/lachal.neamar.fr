@@ -1,8 +1,8 @@
 ---
 title: Comminatoire
 word: Comminatoire
-permalink: comminatoire.html
-canonical: http://lachal.neamar.fr/Comminatoire
+permalink: Comminatoire.html
+canonical: https://lachal.neamar.fr/Comminatoire
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Rhétorique
 word: Rhétorique
-permalink: rhetorique.html
-canonical: http://lachal.neamar.fr/Rhetorique
+permalink: Rhetorique.html
+canonical: https://lachal.neamar.fr/Rhetorique
 layout: word
 categories:
   - Rhétorique

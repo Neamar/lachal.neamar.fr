@@ -1,8 +1,8 @@
 ---
 title: Atavisme
 word: Atavisme
-permalink: atavisme.html
-canonical: http://lachal.neamar.fr/Atavisme
+permalink: Atavisme.html
+canonical: https://lachal.neamar.fr/Atavisme
 layout: word
 categories:
 synonyms:

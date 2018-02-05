@@ -1,8 +1,8 @@
 ---
 title: Infatuation
 word: Infatuation
-permalink: infatuation.html
-canonical: http://lachal.neamar.fr/Infatuation
+permalink: Infatuation.html
+canonical: https://lachal.neamar.fr/Infatuation
 layout: word
 categories:
   - Mot complexe

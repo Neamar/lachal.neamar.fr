@@ -1,8 +1,8 @@
 ---
 title: Pantomime
 word: Pantomime
-permalink: pantomime.html
-canonical: http://lachal.neamar.fr/Pantomime
+permalink: Pantomime.html
+canonical: https://lachal.neamar.fr/Pantomime
 layout: word
 categories:
 synonyms:

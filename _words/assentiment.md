@@ -1,8 +1,8 @@
 ---
 title: Assentiment
 word: Assentiment
-permalink: assentiment.html
-canonical: http://lachal.neamar.fr/Assentiment
+permalink: Assentiment.html
+canonical: https://lachal.neamar.fr/Assentiment
 layout: word
 categories:
 synonyms:

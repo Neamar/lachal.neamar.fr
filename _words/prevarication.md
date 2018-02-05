@@ -1,8 +1,8 @@
 ---
 title: Prévarication
 word: Prévarication
-permalink: prevarication.html
-canonical: http://lachal.neamar.fr/Prevarication
+permalink: Prevarication.html
+canonical: https://lachal.neamar.fr/Prevarication
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Histrion
 word: Histrion
-permalink: histrion.html
-canonical: http://lachal.neamar.fr/Histrion
+permalink: Histrion.html
+canonical: https://lachal.neamar.fr/Histrion
 layout: word
 categories:
   - Mot complexe

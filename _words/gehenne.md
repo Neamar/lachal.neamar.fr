@@ -1,8 +1,8 @@
 ---
 title: Géhenne
 word: Géhenne
-permalink: gehenne.html
-canonical: http://lachal.neamar.fr/Gehenne
+permalink: Gehenne.html
+canonical: https://lachal.neamar.fr/Gehenne
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Paronomase
 word: Paronomase
-permalink: paronomase.html
-canonical: http://lachal.neamar.fr/Paronomase
+permalink: Paronomase.html
+canonical: https://lachal.neamar.fr/Paronomase
 layout: word
 categories:
   - Mot complexe

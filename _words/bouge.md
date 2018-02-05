@@ -1,8 +1,8 @@
 ---
 title: Bouge
 word: Bouge
-permalink: bouge.html
-canonical: http://lachal.neamar.fr/Bouge
+permalink: Bouge.html
+canonical: https://lachal.neamar.fr/Bouge
 layout: word
 categories:
 synonyms:

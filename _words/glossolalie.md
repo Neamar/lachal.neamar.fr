@@ -1,8 +1,8 @@
 ---
 title: Glossolalie
 word: Glossolalie
-permalink: glossolalie.html
-canonical: http://lachal.neamar.fr/Glossolalie
+permalink: Glossolalie.html
+canonical: https://lachal.neamar.fr/Glossolalie
 layout: word
 categories:
   - Mot complexe

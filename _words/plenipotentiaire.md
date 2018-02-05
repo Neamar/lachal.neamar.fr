@@ -1,8 +1,8 @@
 ---
 title: Plénipotentiaire
 word: Plénipotentiaire
-permalink: plenipotentiaire.html
-canonical: http://lachal.neamar.fr/Plenipotentiaire
+permalink: Plenipotentiaire.html
+canonical: https://lachal.neamar.fr/Plenipotentiaire
 layout: word
 categories:
 synonyms:

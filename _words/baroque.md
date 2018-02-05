@@ -1,8 +1,8 @@
 ---
 title: Baroque
 word: Baroque
-permalink: baroque.html
-canonical: http://lachal.neamar.fr/Baroque
+permalink: Baroque.html
+canonical: https://lachal.neamar.fr/Baroque
 layout: word
 categories:
 synonyms:

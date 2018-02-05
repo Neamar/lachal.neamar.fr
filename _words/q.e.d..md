@@ -1,8 +1,8 @@
 ---
 title: Q.E.D.
 word: Q.E.D.
-permalink: q.e.d..html
-canonical: http://lachal.neamar.fr/Q.e.d.
+permalink: Q.e.d..html
+canonical: https://lachal.neamar.fr/Q.e.d.
 layout: word
 categories:
   - Citation latine

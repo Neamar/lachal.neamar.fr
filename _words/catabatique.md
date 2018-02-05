@@ -1,8 +1,8 @@
 ---
 title: Catabatique
 word: Catabatique
-permalink: catabatique.html
-canonical: http://lachal.neamar.fr/Catabatique
+permalink: Catabatique.html
+canonical: https://lachal.neamar.fr/Catabatique
 layout: word
 categories:
   - Mot complexe

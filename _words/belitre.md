@@ -1,8 +1,8 @@
 ---
 title: Bélître
 word: Bélître
-permalink: belitre.html
-canonical: http://lachal.neamar.fr/Belitre
+permalink: Belitre.html
+canonical: https://lachal.neamar.fr/Belitre
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Paroxystique
 word: Paroxystique
-permalink: paroxystique.html
-canonical: http://lachal.neamar.fr/Paroxystique
+permalink: Paroxystique.html
+canonical: https://lachal.neamar.fr/Paroxystique
 layout: word
 categories:
 synonyms:

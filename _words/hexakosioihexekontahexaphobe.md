@@ -1,8 +1,8 @@
 ---
 title: Hexakosioihexekontahexaphobe
 word: Hexakosioihexekontahexaphobe
-permalink: hexakosioihexekontahexaphobe.html
-canonical: http://lachal.neamar.fr/Hexakosioihexekontahexaphobe
+permalink: Hexakosioihexekontahexaphobe.html
+canonical: https://lachal.neamar.fr/Hexakosioihexekontahexaphobe
 layout: word
 categories:
   - Mot complexe

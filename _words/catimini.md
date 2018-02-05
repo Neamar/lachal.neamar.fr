@@ -1,8 +1,8 @@
 ---
 title: Catimini
 word: Catimini
-permalink: catimini.html
-canonical: http://lachal.neamar.fr/Catimini
+permalink: Catimini.html
+canonical: https://lachal.neamar.fr/Catimini
 layout: word
 categories:
 synonyms:

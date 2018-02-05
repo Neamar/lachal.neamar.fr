@@ -1,8 +1,8 @@
 ---
 title: Imprécatoire
 word: Imprécatoire
-permalink: imprecatoire.html
-canonical: http://lachal.neamar.fr/Imprecatoire
+permalink: Imprecatoire.html
+canonical: https://lachal.neamar.fr/Imprecatoire
 layout: word
 categories:
   - Mot complexe

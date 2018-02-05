@@ -1,8 +1,8 @@
 ---
 title: Génuflexion
 word: Génuflexion
-permalink: genuflexion.html
-canonical: http://lachal.neamar.fr/Genuflexion
+permalink: Genuflexion.html
+canonical: https://lachal.neamar.fr/Genuflexion
 layout: word
 categories:
 synonyms:

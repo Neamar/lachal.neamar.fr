@@ -1,8 +1,8 @@
 ---
 title: Malversation
 word: Malversation
-permalink: malversation.html
-canonical: http://lachal.neamar.fr/Malversation
+permalink: Malversation.html
+canonical: https://lachal.neamar.fr/Malversation
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Satrape
 word: Satrape
-permalink: satrape.html
-canonical: http://lachal.neamar.fr/Satrape
+permalink: Satrape.html
+canonical: https://lachal.neamar.fr/Satrape
 layout: word
 categories:
   - Mot complexe

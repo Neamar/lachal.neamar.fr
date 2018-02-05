@@ -1,8 +1,8 @@
 ---
 title: Dilatoire
 word: Dilatoire
-permalink: dilatoire.html
-canonical: http://lachal.neamar.fr/Dilatoire
+permalink: Dilatoire.html
+canonical: https://lachal.neamar.fr/Dilatoire
 layout: word
 categories:
   - Mot complexe

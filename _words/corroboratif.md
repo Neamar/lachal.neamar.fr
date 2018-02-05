@@ -1,8 +1,8 @@
 ---
 title: Corroboratif
 word: Corroboratif
-permalink: corroboratif.html
-canonical: http://lachal.neamar.fr/Corroboratif
+permalink: Corroboratif.html
+canonical: https://lachal.neamar.fr/Corroboratif
 layout: word
 categories:
 synonyms:

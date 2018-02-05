@@ -1,8 +1,8 @@
 ---
 title: Onirique
 word: Onirique
-permalink: onirique.html
-canonical: http://lachal.neamar.fr/Onirique
+permalink: Onirique.html
+canonical: https://lachal.neamar.fr/Onirique
 layout: word
 categories:
   - Mot complexe

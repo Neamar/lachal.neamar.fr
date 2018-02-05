@@ -1,8 +1,8 @@
 ---
 title: Paralogisme
 word: Paralogisme
-permalink: paralogisme.html
-canonical: http://lachal.neamar.fr/Paralogisme
+permalink: Paralogisme.html
+canonical: https://lachal.neamar.fr/Paralogisme
 layout: word
 categories:
 synonyms:

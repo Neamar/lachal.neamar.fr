@@ -1,8 +1,8 @@
 ---
 title: Protéiforme
 word: Protéiforme
-permalink: proteiforme.html
-canonical: http://lachal.neamar.fr/Proteiforme
+permalink: Proteiforme.html
+canonical: https://lachal.neamar.fr/Proteiforme
 layout: word
 categories:
   - Mot complexe

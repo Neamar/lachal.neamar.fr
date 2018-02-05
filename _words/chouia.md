@@ -1,8 +1,8 @@
 ---
 title: Chouïa
 word: Chouïa
-permalink: chouia.html
-canonical: http://lachal.neamar.fr/Chouia
+permalink: Chouia.html
+canonical: https://lachal.neamar.fr/Chouia
 layout: word
 categories:
 synonyms:

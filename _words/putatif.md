@@ -1,8 +1,8 @@
 ---
 title: Putatif
 word: Putatif
-permalink: putatif.html
-canonical: http://lachal.neamar.fr/Putatif
+permalink: Putatif.html
+canonical: https://lachal.neamar.fr/Putatif
 layout: word
 categories:
 synonyms:

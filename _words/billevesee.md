@@ -1,8 +1,8 @@
 ---
 title: Billevesée
 word: Billevesée
-permalink: billevesee.html
-canonical: http://lachal.neamar.fr/Billevesee
+permalink: Billevesee.html
+canonical: https://lachal.neamar.fr/Billevesee
 layout: word
 categories:
   - Rhétorique

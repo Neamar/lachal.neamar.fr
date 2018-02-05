@@ -1,8 +1,8 @@
 ---
 title: Moult
 word: Moult
-permalink: moult.html
-canonical: http://lachal.neamar.fr/Moult
+permalink: Moult.html
+canonical: https://lachal.neamar.fr/Moult
 layout: word
 categories:
 synonyms:

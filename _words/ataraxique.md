@@ -1,8 +1,8 @@
 ---
 title: Ataraxique
 word: Ataraxique
-permalink: ataraxique.html
-canonical: http://lachal.neamar.fr/Ataraxique
+permalink: Ataraxique.html
+canonical: https://lachal.neamar.fr/Ataraxique
 layout: word
 categories:
   - Mot complexe

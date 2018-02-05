@@ -1,8 +1,8 @@
 ---
 title: Outrecuidance
 word: Outrecuidance
-permalink: outrecuidance.html
-canonical: http://lachal.neamar.fr/Outrecuidance
+permalink: Outrecuidance.html
+canonical: https://lachal.neamar.fr/Outrecuidance
 layout: word
 categories:
 synonyms:

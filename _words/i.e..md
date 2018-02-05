@@ -1,8 +1,8 @@
 ---
 title: i.e.
 word: i.e.
-permalink: i.e..html
-canonical: http://lachal.neamar.fr/I.e.
+permalink: I.e..html
+canonical: https://lachal.neamar.fr/I.e.
 layout: word
 categories:
   - Citation latine

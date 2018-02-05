@@ -1,8 +1,8 @@
 ---
 title: Oecuménique
 word: Oecuménique
-permalink: oecumenique.html
-canonical: http://lachal.neamar.fr/Oecumenique
+permalink: Oecumenique.html
+canonical: https://lachal.neamar.fr/Oecumenique
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Laconique
 word: Laconique
-permalink: laconique.html
-canonical: http://lachal.neamar.fr/Laconique
+permalink: Laconique.html
+canonical: https://lachal.neamar.fr/Laconique
 layout: word
 categories:
 synonyms:

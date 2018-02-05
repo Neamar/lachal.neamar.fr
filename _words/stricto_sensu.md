@@ -1,8 +1,8 @@
 ---
 title: Stricto Sensu
 word: Stricto Sensu
-permalink: stricto_sensu.html
-canonical: http://lachal.neamar.fr/Stricto_sensu
+permalink: Stricto_sensu.html
+canonical: https://lachal.neamar.fr/Stricto_sensu
 layout: word
 categories:
   - Citation latine

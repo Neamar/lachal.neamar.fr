@@ -1,8 +1,8 @@
 ---
 title: Apopathodiaphulatophobe
 word: Apopathodiaphulatophobe
-permalink: apopathodiaphulatophobe.html
-canonical: http://lachal.neamar.fr/Apopathodiaphulatophobe
+permalink: Apopathodiaphulatophobe.html
+canonical: https://lachal.neamar.fr/Apopathodiaphulatophobe
 layout: word
 categories:
   - Mot complexe

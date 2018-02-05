@@ -1,8 +1,8 @@
 ---
 title: Galimatias
 word: Galimatias
-permalink: galimatias.html
-canonical: http://lachal.neamar.fr/Galimatias
+permalink: Galimatias.html
+canonical: https://lachal.neamar.fr/Galimatias
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Thuriféraire
 word: Thuriféraire
-permalink: thuriferaire.html
-canonical: http://lachal.neamar.fr/Thuriferaire
+permalink: Thuriferaire.html
+canonical: https://lachal.neamar.fr/Thuriferaire
 layout: word
 categories:
   - Mot complexe

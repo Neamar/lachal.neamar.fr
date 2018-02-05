@@ -1,8 +1,8 @@
 ---
 title: Obsolescence
 word: Obsolescence
-permalink: obsolescence.html
-canonical: http://lachal.neamar.fr/Obsolescence
+permalink: Obsolescence.html
+canonical: https://lachal.neamar.fr/Obsolescence
 layout: word
 categories:
   - Mot complexe

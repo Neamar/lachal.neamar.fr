@@ -1,8 +1,8 @@
 ---
 title: Élégie
 word: Élégie
-permalink: elegie.html
-canonical: http://lachal.neamar.fr/Elegie
+permalink: Elegie.html
+canonical: https://lachal.neamar.fr/Elegie
 layout: word
 categories:
   - Rhétorique

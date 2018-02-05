@@ -1,8 +1,8 @@
 ---
 title: Obsolète
 word: Obsolète
-permalink: obsolete.html
-canonical: http://lachal.neamar.fr/Obsolete
+permalink: Obsolete.html
+canonical: https://lachal.neamar.fr/Obsolete
 layout: word
 categories:
 synonyms:

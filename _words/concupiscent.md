@@ -1,8 +1,8 @@
 ---
 title: Concupiscent
 word: Concupiscent
-permalink: concupiscent.html
-canonical: http://lachal.neamar.fr/Concupiscent
+permalink: Concupiscent.html
+canonical: https://lachal.neamar.fr/Concupiscent
 layout: word
 categories:
 synonyms:

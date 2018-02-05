@@ -1,8 +1,8 @@
 ---
 title: Toto
 word: Toto
-permalink: toto.html
-canonical: http://lachal.neamar.fr/Toto
+permalink: Toto.html
+canonical: https://lachal.neamar.fr/Toto
 layout: word
 categories:
   - Néologisme Lachalien

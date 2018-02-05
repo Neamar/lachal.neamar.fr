@@ -1,8 +1,8 @@
 ---
 title: Défalcation
 word: Défalcation
-permalink: defalcation.html
-canonical: http://lachal.neamar.fr/Defalcation
+permalink: Defalcation.html
+canonical: https://lachal.neamar.fr/Defalcation
 layout: word
 categories:
 synonyms:

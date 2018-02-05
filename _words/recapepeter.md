@@ -1,8 +1,8 @@
 ---
 title: Récapépèter
 word: Récapépèter
-permalink: recapepeter.html
-canonical: http://lachal.neamar.fr/Recapepeter
+permalink: Recapepeter.html
+canonical: https://lachal.neamar.fr/Recapepeter
 layout: word
 categories:
   - Néologisme Lachalien

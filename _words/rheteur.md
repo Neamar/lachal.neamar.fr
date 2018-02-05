@@ -1,8 +1,8 @@
 ---
 title: Rhéteur
 word: Rhéteur
-permalink: rheteur.html
-canonical: http://lachal.neamar.fr/Rheteur
+permalink: Rheteur.html
+canonical: https://lachal.neamar.fr/Rheteur
 layout: word
 categories:
   - Rhétorique

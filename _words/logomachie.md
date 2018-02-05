@@ -1,8 +1,8 @@
 ---
 title: Logomachie
 word: Logomachie
-permalink: logomachie.html
-canonical: http://lachal.neamar.fr/Logomachie
+permalink: Logomachie.html
+canonical: https://lachal.neamar.fr/Logomachie
 layout: word
 categories:
   - Mot complexe

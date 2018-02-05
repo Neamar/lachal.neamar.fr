@@ -1,8 +1,8 @@
 ---
 title: Stomoxe
 word: Stomoxe
-permalink: stomoxe.html
-canonical: http://lachal.neamar.fr/Stomoxe
+permalink: Stomoxe.html
+canonical: https://lachal.neamar.fr/Stomoxe
 layout: word
 categories:
   - Mot complexe

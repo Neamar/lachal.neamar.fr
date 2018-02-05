@@ -1,8 +1,8 @@
 ---
 title: Gouaillerie
 word: Gouaillerie
-permalink: gouaillerie.html
-canonical: http://lachal.neamar.fr/Gouaillerie
+permalink: Gouaillerie.html
+canonical: https://lachal.neamar.fr/Gouaillerie
 layout: word
 categories:
   - Rhétorique

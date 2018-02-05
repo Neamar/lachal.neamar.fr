@@ -1,8 +1,8 @@
 ---
 title: Tautologie
 word: Tautologie
-permalink: tautologie.html
-canonical: http://lachal.neamar.fr/Tautologie
+permalink: Tautologie.html
+canonical: https://lachal.neamar.fr/Tautologie
 layout: word
 categories:
   - Mot complexe

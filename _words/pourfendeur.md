@@ -1,8 +1,8 @@
 ---
 title: Pourfendeur
 word: Pourfendeur
-permalink: pourfendeur.html
-canonical: http://lachal.neamar.fr/Pourfendeur
+permalink: Pourfendeur.html
+canonical: https://lachal.neamar.fr/Pourfendeur
 layout: word
 categories:
 synonyms:

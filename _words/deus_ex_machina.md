@@ -1,8 +1,8 @@
 ---
 title: Deus ex machina
 word: Deus ex machina
-permalink: deus_ex_machina.html
-canonical: http://lachal.neamar.fr/Deus_ex_machina
+permalink: Deus_ex_machina.html
+canonical: https://lachal.neamar.fr/Deus_ex_machina
 layout: word
 categories:
   - Citation latine

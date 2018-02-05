@@ -1,8 +1,8 @@
 ---
 title: Giga X
 word: Giga X
-permalink: giga_x.html
-canonical: http://lachal.neamar.fr/Giga_x
+permalink: Giga_x.html
+canonical: https://lachal.neamar.fr/Giga_x
 layout: word
 categories:
   - Néologisme Lachalien

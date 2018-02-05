@@ -1,8 +1,8 @@
 ---
 title: Déréliction
 word: Déréliction
-permalink: dereliction.html
-canonical: http://lachal.neamar.fr/Dereliction
+permalink: Dereliction.html
+canonical: https://lachal.neamar.fr/Dereliction
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Zoïle
 word: Zoïle
-permalink: zoile.html
-canonical: http://lachal.neamar.fr/Zoile
+permalink: Zoile.html
+canonical: https://lachal.neamar.fr/Zoile
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Semnopithèque
 word: Semnopithèque
-permalink: semnopitheque.html
-canonical: http://lachal.neamar.fr/Semnopitheque
+permalink: Semnopitheque.html
+canonical: https://lachal.neamar.fr/Semnopitheque
 layout: word
 categories:
   - Mot complexe

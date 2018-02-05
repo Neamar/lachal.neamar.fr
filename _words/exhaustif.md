@@ -1,8 +1,8 @@
 ---
 title: Exhaustif
 word: Exhaustif
-permalink: exhaustif.html
-canonical: http://lachal.neamar.fr/Exhaustif
+permalink: Exhaustif.html
+canonical: https://lachal.neamar.fr/Exhaustif
 layout: word
 categories:
 synonyms:

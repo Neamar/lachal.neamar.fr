@@ -1,8 +1,8 @@
 ---
 title: Étrusque
 word: Étrusque
-permalink: etrusque.html
-canonical: http://lachal.neamar.fr/Etrusque
+permalink: Etrusque.html
+canonical: https://lachal.neamar.fr/Etrusque
 layout: word
 categories:
 synonyms:

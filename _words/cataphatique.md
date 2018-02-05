@@ -1,8 +1,8 @@
 ---
 title: Cataphatique
 word: Cataphatique
-permalink: cataphatique.html
-canonical: http://lachal.neamar.fr/Cataphatique
+permalink: Cataphatique.html
+canonical: https://lachal.neamar.fr/Cataphatique
 layout: word
 categories:
   - Mot complexe

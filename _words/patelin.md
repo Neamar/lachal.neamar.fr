@@ -1,8 +1,8 @@
 ---
 title: Patelin
 word: Patelin
-permalink: patelin.html
-canonical: http://lachal.neamar.fr/Patelin
+permalink: Patelin.html
+canonical: https://lachal.neamar.fr/Patelin
 layout: word
 categories:
   - Mot complexe

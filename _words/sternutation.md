@@ -1,8 +1,8 @@
 ---
 title: Sternutation
 word: Sternutation
-permalink: sternutation.html
-canonical: http://lachal.neamar.fr/Sternutation
+permalink: Sternutation.html
+canonical: https://lachal.neamar.fr/Sternutation
 layout: word
 categories:
   - Mot complexe

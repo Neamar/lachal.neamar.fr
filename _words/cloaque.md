@@ -1,8 +1,8 @@
 ---
 title: Cloaque
 word: Cloaque
-permalink: cloaque.html
-canonical: http://lachal.neamar.fr/Cloaque
+permalink: Cloaque.html
+canonical: https://lachal.neamar.fr/Cloaque
 layout: word
 categories:
 synonyms:

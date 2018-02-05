@@ -1,8 +1,8 @@
 ---
 title: Inextinguible
 word: Inextinguible
-permalink: inextinguible.html
-canonical: http://lachal.neamar.fr/Inextinguible
+permalink: Inextinguible.html
+canonical: https://lachal.neamar.fr/Inextinguible
 layout: word
 categories:
 synonyms:

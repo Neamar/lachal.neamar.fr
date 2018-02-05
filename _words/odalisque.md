@@ -1,8 +1,8 @@
 ---
 title: Odalisque
 word: Odalisque
-permalink: odalisque.html
-canonical: http://lachal.neamar.fr/Odalisque
+permalink: Odalisque.html
+canonical: https://lachal.neamar.fr/Odalisque
 layout: word
 categories:
   - Mot complexe

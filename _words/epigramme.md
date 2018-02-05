@@ -1,8 +1,8 @@
 ---
 title: Épigramme
 word: Épigramme
-permalink: epigramme.html
-canonical: http://lachal.neamar.fr/Epigramme
+permalink: Epigramme.html
+canonical: https://lachal.neamar.fr/Epigramme
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Apocryphe
 word: Apocryphe
-permalink: apocryphe.html
-canonical: http://lachal.neamar.fr/Apocryphe
+permalink: Apocryphe.html
+canonical: https://lachal.neamar.fr/Apocryphe
 layout: word
 categories:
   - Mot complexe

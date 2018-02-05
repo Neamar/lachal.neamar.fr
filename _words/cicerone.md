@@ -1,8 +1,8 @@
 ---
 title: Cicérone
 word: Cicérone
-permalink: cicerone.html
-canonical: http://lachal.neamar.fr/Cicerone
+permalink: Cicerone.html
+canonical: https://lachal.neamar.fr/Cicerone
 layout: word
 categories:
   - Rhétorique

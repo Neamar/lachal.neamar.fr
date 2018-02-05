@@ -1,8 +1,8 @@
 ---
 title: Versatile
 word: Versatile
-permalink: versatile.html
-canonical: http://lachal.neamar.fr/Versatile
+permalink: Versatile.html
+canonical: https://lachal.neamar.fr/Versatile
 layout: word
 categories:
 synonyms:

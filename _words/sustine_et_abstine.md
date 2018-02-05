@@ -1,8 +1,8 @@
 ---
 title: Sustine et abstine
 word: Sustine et abstine
-permalink: sustine_et_abstine.html
-canonical: http://lachal.neamar.fr/Sustine_et_abstine
+permalink: Sustine_et_abstine.html
+canonical: https://lachal.neamar.fr/Sustine_et_abstine
 layout: word
 categories:
   - Citation latine

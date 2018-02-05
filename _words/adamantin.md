@@ -1,8 +1,8 @@
 ---
 title: Adamantin
 word: Adamantin
-permalink: adamantin.html
-canonical: http://lachal.neamar.fr/Adamantin
+permalink: Adamantin.html
+canonical: https://lachal.neamar.fr/Adamantin
 layout: word
 categories:
   - Mot complexe

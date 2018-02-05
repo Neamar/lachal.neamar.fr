@@ -1,8 +1,8 @@
 ---
 title: Périssodactyle
 word: Périssodactyle
-permalink: perissodactyle.html
-canonical: http://lachal.neamar.fr/Perissodactyle
+permalink: Perissodactyle.html
+canonical: https://lachal.neamar.fr/Perissodactyle
 layout: word
 categories:
   - Mot complexe

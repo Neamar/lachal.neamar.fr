@@ -1,8 +1,8 @@
 ---
 title: Chantre
 word: Chantre
-permalink: chantre.html
-canonical: http://lachal.neamar.fr/Chantre
+permalink: Chantre.html
+canonical: https://lachal.neamar.fr/Chantre
 layout: word
 categories:
 synonyms:

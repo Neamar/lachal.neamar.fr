@@ -1,8 +1,8 @@
 ---
 title: Vade mecum
 word: Vade mecum
-permalink: vade_mecum.html
-canonical: http://lachal.neamar.fr/Vade_mecum
+permalink: Vade_mecum.html
+canonical: https://lachal.neamar.fr/Vade_mecum
 layout: word
 categories:
   - Citation latine

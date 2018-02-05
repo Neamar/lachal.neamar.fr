@@ -1,8 +1,8 @@
 ---
 title: Ploutocrate
 word: Ploutocrate
-permalink: ploutocrate.html
-canonical: http://lachal.neamar.fr/Ploutocrate
+permalink: Ploutocrate.html
+canonical: https://lachal.neamar.fr/Ploutocrate
 layout: word
 categories:
   - Mot complexe

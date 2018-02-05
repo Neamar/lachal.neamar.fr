@@ -1,8 +1,8 @@
 ---
 title: Magnificence
 word: Magnificence
-permalink: magnificence.html
-canonical: http://lachal.neamar.fr/Magnificence
+permalink: Magnificence.html
+canonical: https://lachal.neamar.fr/Magnificence
 layout: word
 categories:
 synonyms:

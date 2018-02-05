@@ -1,8 +1,8 @@
 ---
 title: Cathartique
 word: Cathartique
-permalink: cathartique.html
-canonical: http://lachal.neamar.fr/Cathartique
+permalink: Cathartique.html
+canonical: https://lachal.neamar.fr/Cathartique
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Éructer
 word: Éructer
-permalink: eructer.html
-canonical: http://lachal.neamar.fr/Eructer
+permalink: Eructer.html
+canonical: https://lachal.neamar.fr/Eructer
 layout: word
 categories:
 synonyms:

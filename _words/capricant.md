@@ -1,8 +1,8 @@
 ---
 title: Capricant
 word: Capricant
-permalink: capricant.html
-canonical: http://lachal.neamar.fr/Capricant
+permalink: Capricant.html
+canonical: https://lachal.neamar.fr/Capricant
 layout: word
 categories:
   - Mot complexe

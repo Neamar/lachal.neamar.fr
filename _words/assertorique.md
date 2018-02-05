@@ -1,8 +1,8 @@
 ---
 title: Assertorique
 word: Assertorique
-permalink: assertorique.html
-canonical: http://lachal.neamar.fr/Assertorique
+permalink: Assertorique.html
+canonical: https://lachal.neamar.fr/Assertorique
 layout: word
 categories:
   - Mot complexe

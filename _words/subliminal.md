@@ -1,8 +1,8 @@
 ---
 title: Subliminal
 word: Subliminal
-permalink: subliminal.html
-canonical: http://lachal.neamar.fr/Subliminal
+permalink: Subliminal.html
+canonical: https://lachal.neamar.fr/Subliminal
 layout: word
 categories:
 synonyms:

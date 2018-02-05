@@ -1,8 +1,8 @@
 ---
 title: Exsuder
 word: Exsuder
-permalink: exsuder.html
-canonical: http://lachal.neamar.fr/Exsuder
+permalink: Exsuder.html
+canonical: https://lachal.neamar.fr/Exsuder
 layout: word
 categories:
 synonyms:

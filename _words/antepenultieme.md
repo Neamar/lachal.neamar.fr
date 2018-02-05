@@ -1,8 +1,8 @@
 ---
 title: Antépénultième
 word: Antépénultième
-permalink: antepenultieme.html
-canonical: http://lachal.neamar.fr/Antepenultieme
+permalink: Antepenultieme.html
+canonical: https://lachal.neamar.fr/Antepenultieme
 layout: word
 categories:
 synonyms:

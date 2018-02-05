@@ -1,8 +1,8 @@
 ---
 title: Galvaniser
 word: Galvaniser
-permalink: galvaniser.html
-canonical: http://lachal.neamar.fr/Galvaniser
+permalink: Galvaniser.html
+canonical: https://lachal.neamar.fr/Galvaniser
 layout: word
 categories:
 synonyms:

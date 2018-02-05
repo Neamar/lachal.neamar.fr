@@ -1,8 +1,8 @@
 ---
 title: Méphistophélique
 word: Méphistophélique
-permalink: mephistophelique.html
-canonical: http://lachal.neamar.fr/Mephistophelique
+permalink: Mephistophelique.html
+canonical: https://lachal.neamar.fr/Mephistophelique
 layout: word
 categories:
 synonyms:

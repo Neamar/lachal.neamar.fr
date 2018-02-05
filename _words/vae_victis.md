@@ -1,8 +1,8 @@
 ---
 title: Vae victis
 word: Vae victis
-permalink: vae_victis.html
-canonical: http://lachal.neamar.fr/Vae_victis
+permalink: Vae_victis.html
+canonical: https://lachal.neamar.fr/Vae_victis
 layout: word
 categories:
   - Citation latine

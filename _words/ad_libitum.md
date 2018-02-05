@@ -1,8 +1,8 @@
 ---
 title: Ad libitum
 word: Ad libitum
-permalink: ad_libitum.html
-canonical: http://lachal.neamar.fr/Ad_libitum
+permalink: Ad_libitum.html
+canonical: https://lachal.neamar.fr/Ad_libitum
 layout: word
 categories:
   - Citation latine

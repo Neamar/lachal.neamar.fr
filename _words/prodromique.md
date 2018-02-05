@@ -1,8 +1,8 @@
 ---
 title: Prodromique
 word: Prodromique
-permalink: prodromique.html
-canonical: http://lachal.neamar.fr/Prodromique
+permalink: Prodromique.html
+canonical: https://lachal.neamar.fr/Prodromique
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Numismatique
 word: Numismatique
-permalink: numismatique.html
-canonical: http://lachal.neamar.fr/Numismatique
+permalink: Numismatique.html
+canonical: https://lachal.neamar.fr/Numismatique
 layout: word
 categories:
   - Mot complexe

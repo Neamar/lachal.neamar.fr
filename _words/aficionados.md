@@ -1,8 +1,8 @@
 ---
 title: Aficionados
 word: Aficionados
-permalink: aficionados.html
-canonical: http://lachal.neamar.fr/Aficionados
+permalink: Aficionados.html
+canonical: https://lachal.neamar.fr/Aficionados
 layout: word
 categories:
 synonyms:

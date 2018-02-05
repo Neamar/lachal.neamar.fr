@@ -1,8 +1,8 @@
 ---
 title: Mutatis Mutandis
 word: Mutatis Mutandis
-permalink: mutatis_mutandis.html
-canonical: http://lachal.neamar.fr/Mutatis_mutandis
+permalink: Mutatis_mutandis.html
+canonical: https://lachal.neamar.fr/Mutatis_mutandis
 layout: word
 categories:
   - Citation latine

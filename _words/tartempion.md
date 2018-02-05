@@ -1,8 +1,8 @@
 ---
 title: Tartempion
 word: Tartempion
-permalink: tartempion.html
-canonical: http://lachal.neamar.fr/Tartempion
+permalink: Tartempion.html
+canonical: https://lachal.neamar.fr/Tartempion
 layout: word
 categories:
 synonyms:

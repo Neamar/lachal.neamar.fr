@@ -1,8 +1,8 @@
 ---
 title: Inanité
 word: Inanité
-permalink: inanite.html
-canonical: http://lachal.neamar.fr/Inanite
+permalink: Inanite.html
+canonical: https://lachal.neamar.fr/Inanite
 layout: word
 categories:
   - Mot complexe

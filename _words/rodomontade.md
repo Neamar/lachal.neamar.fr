@@ -1,8 +1,8 @@
 ---
 title: Rodomontade
 word: Rodomontade
-permalink: rodomontade.html
-canonical: http://lachal.neamar.fr/Rodomontade
+permalink: Rodomontade.html
+canonical: https://lachal.neamar.fr/Rodomontade
 layout: word
 categories:
   - Mot complexe

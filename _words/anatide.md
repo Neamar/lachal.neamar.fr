@@ -1,8 +1,8 @@
 ---
 title: Anatidé
 word: Anatidé
-permalink: anatide.html
-canonical: http://lachal.neamar.fr/Anatide
+permalink: Anatide.html
+canonical: https://lachal.neamar.fr/Anatide
 layout: word
 categories:
 synonyms:

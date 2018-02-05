@@ -1,8 +1,8 @@
 ---
 title: Nonobstant
 word: Nonobstant
-permalink: nonobstant.html
-canonical: http://lachal.neamar.fr/Nonobstant
+permalink: Nonobstant.html
+canonical: https://lachal.neamar.fr/Nonobstant
 layout: word
 categories:
   - Mot complexe

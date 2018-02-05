@@ -1,8 +1,8 @@
 ---
 title: A Priori
 word: A Priori
-permalink: a_priori.html
-canonical: http://lachal.neamar.fr/A_priori
+permalink: A_priori.html
+canonical: https://lachal.neamar.fr/A_priori
 layout: word
 categories:
   - Citation latine

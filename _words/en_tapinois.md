@@ -1,8 +1,8 @@
 ---
 title: En tapinois
 word: En tapinois
-permalink: en_tapinois.html
-canonical: http://lachal.neamar.fr/En_tapinois
+permalink: En_tapinois.html
+canonical: https://lachal.neamar.fr/En_tapinois
 layout: word
 categories:
 synonyms:

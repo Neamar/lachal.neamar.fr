@@ -1,8 +1,8 @@
 ---
 title: Mystagogue
 word: Mystagogue
-permalink: mystagogue.html
-canonical: http://lachal.neamar.fr/Mystagogue
+permalink: Mystagogue.html
+canonical: https://lachal.neamar.fr/Mystagogue
 layout: word
 categories:
   - Mot complexe

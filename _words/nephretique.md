@@ -1,8 +1,8 @@
 ---
 title: Néphrétique
 word: Néphrétique
-permalink: nephretique.html
-canonical: http://lachal.neamar.fr/Nephretique
+permalink: Nephretique.html
+canonical: https://lachal.neamar.fr/Nephretique
 layout: word
 categories:
 synonyms:

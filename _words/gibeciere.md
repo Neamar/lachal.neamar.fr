@@ -1,8 +1,8 @@
 ---
 title: Gibecière
 word: Gibecière
-permalink: gibeciere.html
-canonical: http://lachal.neamar.fr/Gibeciere
+permalink: Gibeciere.html
+canonical: https://lachal.neamar.fr/Gibeciere
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Affété
 word: Affété
-permalink: affete.html
-canonical: http://lachal.neamar.fr/Affete
+permalink: Affete.html
+canonical: https://lachal.neamar.fr/Affete
 layout: word
 categories:
   - Mot complexe

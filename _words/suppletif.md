@@ -1,8 +1,8 @@
 ---
 title: Supplétif
 word: Supplétif
-permalink: suppletif.html
-canonical: http://lachal.neamar.fr/Suppletif
+permalink: Suppletif.html
+canonical: https://lachal.neamar.fr/Suppletif
 layout: word
 categories:
   - Mot complexe

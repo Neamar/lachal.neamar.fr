@@ -1,8 +1,8 @@
 ---
 title: Philippique
 word: Philippique
-permalink: philippique.html
-canonical: http://lachal.neamar.fr/Philippique
+permalink: Philippique.html
+canonical: https://lachal.neamar.fr/Philippique
 layout: word
 categories:
   - Mot complexe

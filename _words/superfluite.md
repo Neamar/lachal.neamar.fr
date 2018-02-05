@@ -1,8 +1,8 @@
 ---
 title: Superfluité
 word: Superfluité
-permalink: superfluite.html
-canonical: http://lachal.neamar.fr/Superfluite
+permalink: Superfluite.html
+canonical: https://lachal.neamar.fr/Superfluite
 layout: word
 categories:
 synonyms:

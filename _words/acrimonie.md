@@ -1,8 +1,8 @@
 ---
 title: Acrimonie
 word: Acrimonie
-permalink: acrimonie.html
-canonical: http://lachal.neamar.fr/Acrimonie
+permalink: Acrimonie.html
+canonical: https://lachal.neamar.fr/Acrimonie
 layout: word
 categories:
   - Mot complexe

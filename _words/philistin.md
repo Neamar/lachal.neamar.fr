@@ -1,8 +1,8 @@
 ---
 title: Philistin
 word: Philistin
-permalink: philistin.html
-canonical: http://lachal.neamar.fr/Philistin
+permalink: Philistin.html
+canonical: https://lachal.neamar.fr/Philistin
 layout: word
 categories:
 synonyms:

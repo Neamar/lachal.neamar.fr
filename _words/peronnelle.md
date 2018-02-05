@@ -1,8 +1,8 @@
 ---
 title: Péronnelle
 word: Péronnelle
-permalink: peronnelle.html
-canonical: http://lachal.neamar.fr/Peronnelle
+permalink: Peronnelle.html
+canonical: https://lachal.neamar.fr/Peronnelle
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Fiduciaire
 word: Fiduciaire
-permalink: fiduciaire.html
-canonical: http://lachal.neamar.fr/Fiduciaire
+permalink: Fiduciaire.html
+canonical: https://lachal.neamar.fr/Fiduciaire
 layout: word
 categories:
   - Mot complexe

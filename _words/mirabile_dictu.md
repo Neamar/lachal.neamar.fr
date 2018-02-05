@@ -1,8 +1,8 @@
 ---
 title: Mirabile Dictu
 word: Mirabile Dictu
-permalink: mirabile_dictu.html
-canonical: http://lachal.neamar.fr/Mirabile_dictu
+permalink: Mirabile_dictu.html
+canonical: https://lachal.neamar.fr/Mirabile_dictu
 layout: word
 categories:
   - Citation latine

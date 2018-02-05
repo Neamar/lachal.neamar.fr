@@ -1,8 +1,8 @@
 ---
 title: Papelard
 word: Papelard
-permalink: papelard.html
-canonical: http://lachal.neamar.fr/Papelard
+permalink: Papelard.html
+canonical: https://lachal.neamar.fr/Papelard
 layout: word
 categories:
   - Mot complexe

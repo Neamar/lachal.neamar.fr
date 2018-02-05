@@ -1,8 +1,8 @@
 ---
 title: Gourdiflot
 word: Gourdiflot
-permalink: gourdiflot.html
-canonical: http://lachal.neamar.fr/Gourdiflot
+permalink: Gourdiflot.html
+canonical: https://lachal.neamar.fr/Gourdiflot
 layout: word
 categories:
 synonyms:

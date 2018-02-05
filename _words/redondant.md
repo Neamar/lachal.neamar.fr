@@ -1,8 +1,8 @@
 ---
 title: Redondant
 word: Redondant
-permalink: redondant.html
-canonical: http://lachal.neamar.fr/Redondant
+permalink: Redondant.html
+canonical: https://lachal.neamar.fr/Redondant
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Alambiqué
 word: Alambiqué
-permalink: alambique.html
-canonical: http://lachal.neamar.fr/Alambique
+permalink: Alambique.html
+canonical: https://lachal.neamar.fr/Alambique
 layout: word
 categories:
   - Mot complexe

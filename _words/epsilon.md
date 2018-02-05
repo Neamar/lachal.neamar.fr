@@ -1,8 +1,8 @@
 ---
 title: Epsilon
 word: Epsilon
-permalink: epsilon.html
-canonical: http://lachal.neamar.fr/Epsilon
+permalink: Epsilon.html
+canonical: https://lachal.neamar.fr/Epsilon
 layout: word
 categories:
 synonyms:

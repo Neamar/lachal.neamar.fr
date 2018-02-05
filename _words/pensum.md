@@ -1,8 +1,8 @@
 ---
 title: Pensum
 word: Pensum
-permalink: pensum.html
-canonical: http://lachal.neamar.fr/Pensum
+permalink: Pensum.html
+canonical: https://lachal.neamar.fr/Pensum
 layout: word
 categories:
 synonyms:

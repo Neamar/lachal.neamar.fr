@@ -1,8 +1,8 @@
 ---
 title: Privauté
 word: Privauté
-permalink: privaute.html
-canonical: http://lachal.neamar.fr/Privaute
+permalink: Privaute.html
+canonical: https://lachal.neamar.fr/Privaute
 layout: word
 categories:
   - Mot complexe

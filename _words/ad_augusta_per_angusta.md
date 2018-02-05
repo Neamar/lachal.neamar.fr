@@ -1,8 +1,8 @@
 ---
 title: Ad augusta per angusta
 word: Ad augusta per angusta
-permalink: ad_augusta_per_angusta.html
-canonical: http://lachal.neamar.fr/Ad_augusta_per_angusta
+permalink: Ad_augusta_per_angusta.html
+canonical: https://lachal.neamar.fr/Ad_augusta_per_angusta
 layout: word
 categories:
   - Citation latine

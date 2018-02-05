@@ -1,8 +1,8 @@
 ---
 title: Échanson
 word: Échanson
-permalink: echanson.html
-canonical: http://lachal.neamar.fr/Echanson
+permalink: Echanson.html
+canonical: https://lachal.neamar.fr/Echanson
 layout: word
 categories:
   - Mot complexe

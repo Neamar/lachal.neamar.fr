@@ -1,8 +1,8 @@
 ---
 title: Sui Generis
 word: Sui Generis
-permalink: sui_generis.html
-canonical: http://lachal.neamar.fr/Sui_generis
+permalink: Sui_generis.html
+canonical: https://lachal.neamar.fr/Sui_generis
 layout: word
 categories:
   - Citation latine

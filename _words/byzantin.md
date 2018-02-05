@@ -1,8 +1,8 @@
 ---
 title: Byzantin
 word: Byzantin
-permalink: byzantin.html
-canonical: http://lachal.neamar.fr/Byzantin
+permalink: Byzantin.html
+canonical: https://lachal.neamar.fr/Byzantin
 layout: word
 categories:
   - Mot complexe

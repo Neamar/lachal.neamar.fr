@@ -1,8 +1,8 @@
 ---
 title: Automédon
 word: Automédon
-permalink: automedon.html
-canonical: http://lachal.neamar.fr/Automedon
+permalink: Automedon.html
+canonical: https://lachal.neamar.fr/Automedon
 layout: word
 categories:
   - Mot complexe

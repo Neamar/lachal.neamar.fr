@@ -1,8 +1,8 @@
 ---
 title: Métromane
 word: Métromane
-permalink: metromane.html
-canonical: http://lachal.neamar.fr/Metromane
+permalink: Metromane.html
+canonical: https://lachal.neamar.fr/Metromane
 layout: word
 categories:
   - Mot complexe

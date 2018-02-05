@@ -1,8 +1,8 @@
 ---
 title: Ad hoc
 word: Ad hoc
-permalink: ad_hoc.html
-canonical: http://lachal.neamar.fr/Ad_hoc
+permalink: Ad_hoc.html
+canonical: https://lachal.neamar.fr/Ad_hoc
 layout: word
 categories:
   - Citation latine

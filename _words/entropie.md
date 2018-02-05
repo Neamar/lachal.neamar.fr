@@ -1,8 +1,8 @@
 ---
 title: Entropie
 word: Entropie
-permalink: entropie.html
-canonical: http://lachal.neamar.fr/Entropie
+permalink: Entropie.html
+canonical: https://lachal.neamar.fr/Entropie
 layout: word
 categories:
 synonyms:

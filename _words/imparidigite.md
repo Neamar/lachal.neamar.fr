@@ -1,8 +1,8 @@
 ---
 title: Imparidigité
 word: Imparidigité
-permalink: imparidigite.html
-canonical: http://lachal.neamar.fr/Imparidigite
+permalink: Imparidigite.html
+canonical: https://lachal.neamar.fr/Imparidigite
 layout: word
 categories:
   - Mot complexe

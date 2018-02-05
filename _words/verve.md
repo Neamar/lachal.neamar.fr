@@ -1,8 +1,8 @@
 ---
 title: Verve
 word: Verve
-permalink: verve.html
-canonical: http://lachal.neamar.fr/Verve
+permalink: Verve.html
+canonical: https://lachal.neamar.fr/Verve
 layout: word
 categories:
   - Rhétorique

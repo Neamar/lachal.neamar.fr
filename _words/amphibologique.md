@@ -1,8 +1,8 @@
 ---
 title: Amphibologique
 word: Amphibologique
-permalink: amphibologique.html
-canonical: http://lachal.neamar.fr/Amphibologique
+permalink: Amphibologique.html
+canonical: https://lachal.neamar.fr/Amphibologique
 layout: word
 categories:
   - Mot complexe

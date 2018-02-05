@@ -1,8 +1,8 @@
 ---
 title: Translittération
 word: Translittération
-permalink: translitteration.html
-canonical: http://lachal.neamar.fr/Translitteration
+permalink: Translitteration.html
+canonical: https://lachal.neamar.fr/Translitteration
 layout: word
 categories:
 synonyms:

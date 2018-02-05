@@ -1,8 +1,8 @@
 ---
 title: Fallacieux
 word: Fallacieux
-permalink: fallacieux.html
-canonical: http://lachal.neamar.fr/Fallacieux
+permalink: Fallacieux.html
+canonical: https://lachal.neamar.fr/Fallacieux
 layout: word
 categories:
 synonyms:

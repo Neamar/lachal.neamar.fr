@@ -1,8 +1,8 @@
 ---
 title: Cabotin
 word: Cabotin
-permalink: cabotin.html
-canonical: http://lachal.neamar.fr/Cabotin
+permalink: Cabotin.html
+canonical: https://lachal.neamar.fr/Cabotin
 layout: word
 categories:
 synonyms:

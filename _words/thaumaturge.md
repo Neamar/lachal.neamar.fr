@@ -1,8 +1,8 @@
 ---
 title: Thaumaturge
 word: Thaumaturge
-permalink: thaumaturge.html
-canonical: http://lachal.neamar.fr/Thaumaturge
+permalink: Thaumaturge.html
+canonical: https://lachal.neamar.fr/Thaumaturge
 layout: word
 categories:
   - Mot complexe

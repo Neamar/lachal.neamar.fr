@@ -1,8 +1,8 @@
 ---
 title: Doxologie
 word: Doxologie
-permalink: doxologie.html
-canonical: http://lachal.neamar.fr/Doxologie
+permalink: Doxologie.html
+canonical: https://lachal.neamar.fr/Doxologie
 layout: word
 categories:
   - Mot complexe

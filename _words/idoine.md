@@ -1,8 +1,8 @@
 ---
 title: Idoine
 word: Idoine
-permalink: idoine.html
-canonical: http://lachal.neamar.fr/Idoine
+permalink: Idoine.html
+canonical: https://lachal.neamar.fr/Idoine
 layout: word
 categories:
   - Mot complexe

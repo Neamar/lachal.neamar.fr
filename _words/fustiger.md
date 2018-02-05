@@ -1,8 +1,8 @@
 ---
 title: Fustiger
 word: Fustiger
-permalink: fustiger.html
-canonical: http://lachal.neamar.fr/Fustiger
+permalink: Fustiger.html
+canonical: https://lachal.neamar.fr/Fustiger
 layout: word
 categories:
 synonyms:

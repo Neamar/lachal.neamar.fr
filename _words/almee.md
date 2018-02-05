@@ -1,8 +1,8 @@
 ---
 title: Almée
 word: Almée
-permalink: almee.html
-canonical: http://lachal.neamar.fr/Almee
+permalink: Almee.html
+canonical: https://lachal.neamar.fr/Almee
 layout: word
 categories:
   - Mot complexe

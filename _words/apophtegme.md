@@ -1,8 +1,8 @@
 ---
 title: Apophtegme
 word: Apophtegme
-permalink: apophtegme.html
-canonical: http://lachal.neamar.fr/Apophtegme
+permalink: Apophtegme.html
+canonical: https://lachal.neamar.fr/Apophtegme
 layout: word
 categories:
   - Mot complexe

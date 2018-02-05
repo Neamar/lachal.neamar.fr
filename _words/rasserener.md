@@ -1,8 +1,8 @@
 ---
 title: Rasséréner
 word: Rasséréner
-permalink: rasserener.html
-canonical: http://lachal.neamar.fr/Rasserener
+permalink: Rasserener.html
+canonical: https://lachal.neamar.fr/Rasserener
 layout: word
 categories:
 synonyms:

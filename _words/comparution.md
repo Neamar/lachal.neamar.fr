@@ -1,8 +1,8 @@
 ---
 title: Comparution
 word: Comparution
-permalink: comparution.html
-canonical: http://lachal.neamar.fr/Comparution
+permalink: Comparution.html
+canonical: https://lachal.neamar.fr/Comparution
 layout: word
 categories:
 synonyms:

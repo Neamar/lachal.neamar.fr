@@ -1,8 +1,8 @@
 ---
 title: Diantre
 word: Diantre
-permalink: diantre.html
-canonical: http://lachal.neamar.fr/Diantre
+permalink: Diantre.html
+canonical: https://lachal.neamar.fr/Diantre
 layout: word
 categories:
 synonyms:

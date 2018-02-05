@@ -1,8 +1,8 @@
 ---
 title: Cacostomie
 word: Cacostomie
-permalink: cacostomie.html
-canonical: http://lachal.neamar.fr/Cacostomie
+permalink: Cacostomie.html
+canonical: https://lachal.neamar.fr/Cacostomie
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Sybarite
 word: Sybarite
-permalink: sybarite.html
-canonical: http://lachal.neamar.fr/Sybarite
+permalink: Sybarite.html
+canonical: https://lachal.neamar.fr/Sybarite
 layout: word
 categories:
   - Mot complexe

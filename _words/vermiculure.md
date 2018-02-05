@@ -1,8 +1,8 @@
 ---
 title: Vermiculure
 word: Vermiculure
-permalink: vermiculure.html
-canonical: http://lachal.neamar.fr/Vermiculure
+permalink: Vermiculure.html
+canonical: https://lachal.neamar.fr/Vermiculure
 layout: word
 categories:
   - Mot complexe

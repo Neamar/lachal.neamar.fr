@@ -1,8 +1,8 @@
 ---
 title: Cacochyme
 word: Cacochyme
-permalink: cacochyme.html
-canonical: http://lachal.neamar.fr/Cacochyme
+permalink: Cacochyme.html
+canonical: https://lachal.neamar.fr/Cacochyme
 layout: word
 categories:
   - Mot complexe

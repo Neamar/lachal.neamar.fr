@@ -1,8 +1,8 @@
 ---
 title: Nycthémère
 word: Nycthémère
-permalink: nycthemere.html
-canonical: http://lachal.neamar.fr/Nycthemere
+permalink: Nycthemere.html
+canonical: https://lachal.neamar.fr/Nycthemere
 layout: word
 categories:
   - Mot complexe

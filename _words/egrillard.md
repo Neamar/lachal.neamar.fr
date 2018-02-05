@@ -1,8 +1,8 @@
 ---
 title: Égrillard
 word: Égrillard
-permalink: egrillard.html
-canonical: http://lachal.neamar.fr/Egrillard
+permalink: Egrillard.html
+canonical: https://lachal.neamar.fr/Egrillard
 layout: word
 categories:
 synonyms:

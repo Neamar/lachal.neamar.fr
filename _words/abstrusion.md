@@ -1,8 +1,8 @@
 ---
 title: Abstrusion
 word: Abstrusion
-permalink: abstrusion.html
-canonical: http://lachal.neamar.fr/Abstrusion
+permalink: Abstrusion.html
+canonical: https://lachal.neamar.fr/Abstrusion
 layout: word
 categories:
   - Mot complexe

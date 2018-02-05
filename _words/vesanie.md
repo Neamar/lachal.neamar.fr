@@ -1,8 +1,8 @@
 ---
 title: Vésanie
 word: Vésanie
-permalink: vesanie.html
-canonical: http://lachal.neamar.fr/Vesanie
+permalink: Vesanie.html
+canonical: https://lachal.neamar.fr/Vesanie
 layout: word
 categories:
   - Mot complexe

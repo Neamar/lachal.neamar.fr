@@ -1,8 +1,8 @@
 ---
 title: Bucolique
 word: Bucolique
-permalink: bucolique.html
-canonical: http://lachal.neamar.fr/Bucolique
+permalink: Bucolique.html
+canonical: https://lachal.neamar.fr/Bucolique
 layout: word
 categories:
   - Rhétorique

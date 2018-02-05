@@ -1,8 +1,8 @@
 ---
 title: Compulsif
 word: Compulsif
-permalink: compulsif.html
-canonical: http://lachal.neamar.fr/Compulsif
+permalink: Compulsif.html
+canonical: https://lachal.neamar.fr/Compulsif
 layout: word
 categories:
 synonyms:

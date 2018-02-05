@@ -1,8 +1,8 @@
 ---
 title: Affidé
 word: Affidé
-permalink: affide.html
-canonical: http://lachal.neamar.fr/Affide
+permalink: Affide.html
+canonical: https://lachal.neamar.fr/Affide
 layout: word
 categories:
   - Mot complexe

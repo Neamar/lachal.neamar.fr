@@ -1,8 +1,8 @@
 ---
 title: Superfétatoire
 word: Superfétatoire
-permalink: superfetatoire.html
-canonical: http://lachal.neamar.fr/Superfetatoire
+permalink: Superfetatoire.html
+canonical: https://lachal.neamar.fr/Superfetatoire
 layout: word
 categories:
   - Mot complexe

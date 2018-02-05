@@ -1,8 +1,8 @@
 ---
 title: Circonlocution
 word: Circonlocution
-permalink: circonlocution.html
-canonical: http://lachal.neamar.fr/Circonlocution
+permalink: Circonlocution.html
+canonical: https://lachal.neamar.fr/Circonlocution
 layout: word
 categories:
   - Rhétorique

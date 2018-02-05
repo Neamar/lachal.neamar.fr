@@ -1,8 +1,8 @@
 ---
 title: Amphigourique
 word: Amphigourique
-permalink: amphigourique.html
-canonical: http://lachal.neamar.fr/Amphigourique
+permalink: Amphigourique.html
+canonical: https://lachal.neamar.fr/Amphigourique
 layout: word
 categories:
   - Mot complexe

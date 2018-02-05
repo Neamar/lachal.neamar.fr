@@ -1,8 +1,8 @@
 ---
 title: Atermoiement
 word: Atermoiement
-permalink: atermoiement.html
-canonical: http://lachal.neamar.fr/Atermoiement
+permalink: Atermoiement.html
+canonical: https://lachal.neamar.fr/Atermoiement
 layout: word
 categories:
 synonyms:

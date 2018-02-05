@@ -1,8 +1,8 @@
 ---
 title: Ampoulé
 word: Ampoulé
-permalink: ampoule.html
-canonical: http://lachal.neamar.fr/Ampoule
+permalink: Ampoule.html
+canonical: https://lachal.neamar.fr/Ampoule
 layout: word
 categories:
   - Rhétorique

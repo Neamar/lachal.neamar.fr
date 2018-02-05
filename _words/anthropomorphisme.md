@@ -1,8 +1,8 @@
 ---
 title: Anthropomorphisme
 word: Anthropomorphisme
-permalink: anthropomorphisme.html
-canonical: http://lachal.neamar.fr/Anthropomorphisme
+permalink: Anthropomorphisme.html
+canonical: https://lachal.neamar.fr/Anthropomorphisme
 layout: word
 categories:
 synonyms:

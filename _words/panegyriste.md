@@ -1,8 +1,8 @@
 ---
 title: Panégyriste
 word: Panégyriste
-permalink: panegyriste.html
-canonical: http://lachal.neamar.fr/Panegyriste
+permalink: Panegyriste.html
+canonical: https://lachal.neamar.fr/Panegyriste
 layout: word
 categories:
   - Mot complexe

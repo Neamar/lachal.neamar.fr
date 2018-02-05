@@ -1,8 +1,8 @@
 ---
 title: Que nenni
 word: Que nenni
-permalink: que_nenni.html
-canonical: http://lachal.neamar.fr/Que_nenni
+permalink: Que_nenni.html
+canonical: https://lachal.neamar.fr/Que_nenni
 layout: word
 categories:
 synonyms:

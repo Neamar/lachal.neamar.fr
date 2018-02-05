@@ -1,8 +1,8 @@
 ---
 title: Componction
 word: Componction
-permalink: componction.html
-canonical: http://lachal.neamar.fr/Componction
+permalink: Componction.html
+canonical: https://lachal.neamar.fr/Componction
 layout: word
 categories:
   - Mot complexe

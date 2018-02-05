@@ -1,8 +1,8 @@
 ---
 title: Ab irato
 word: Ab irato
-permalink: ab_irato.html
-canonical: http://lachal.neamar.fr/Ab_irato
+permalink: Ab_irato.html
+canonical: https://lachal.neamar.fr/Ab_irato
 layout: word
 categories:
   - Citation latine

@@ -1,8 +1,8 @@
 ---
 title: Anamnèse
 word: Anamnèse
-permalink: anamnese.html
-canonical: http://lachal.neamar.fr/Anamnese
+permalink: Anamnese.html
+canonical: https://lachal.neamar.fr/Anamnese
 layout: word
 categories:
   - Mot complexe

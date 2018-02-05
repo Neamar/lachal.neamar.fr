@@ -1,8 +1,8 @@
 ---
 title: Palinodique
 word: Palinodique
-permalink: palinodique.html
-canonical: http://lachal.neamar.fr/Palinodique
+permalink: Palinodique.html
+canonical: https://lachal.neamar.fr/Palinodique
 layout: word
 categories:
   - Mot complexe

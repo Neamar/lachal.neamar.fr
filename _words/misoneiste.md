@@ -1,8 +1,8 @@
 ---
 title: Misonéiste
 word: Misonéiste
-permalink: misoneiste.html
-canonical: http://lachal.neamar.fr/Misoneiste
+permalink: Misoneiste.html
+canonical: https://lachal.neamar.fr/Misoneiste
 layout: word
 categories:
   - Mot complexe

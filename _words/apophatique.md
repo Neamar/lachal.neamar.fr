@@ -1,8 +1,8 @@
 ---
 title: Apophatique
 word: Apophatique
-permalink: apophatique.html
-canonical: http://lachal.neamar.fr/Apophatique
+permalink: Apophatique.html
+canonical: https://lachal.neamar.fr/Apophatique
 layout: word
 categories:
   - Mot complexe

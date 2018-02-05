@@ -1,8 +1,8 @@
 ---
 title: Atrabilaire
 word: Atrabilaire
-permalink: atrabilaire.html
-canonical: http://lachal.neamar.fr/Atrabilaire
+permalink: Atrabilaire.html
+canonical: https://lachal.neamar.fr/Atrabilaire
 layout: word
 categories:
   - Mot complexe

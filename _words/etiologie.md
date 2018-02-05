@@ -1,8 +1,8 @@
 ---
 title: Étiologie
 word: Étiologie
-permalink: etiologie.html
-canonical: http://lachal.neamar.fr/Etiologie
+permalink: Etiologie.html
+canonical: https://lachal.neamar.fr/Etiologie
 layout: word
 categories:
   - Mot complexe

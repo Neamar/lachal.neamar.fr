@@ -1,8 +1,8 @@
 ---
 title: Irréfragable
 word: Irréfragable
-permalink: irrefragable.html
-canonical: http://lachal.neamar.fr/Irrefragable
+permalink: Irrefragable.html
+canonical: https://lachal.neamar.fr/Irrefragable
 layout: word
 categories:
   - Mot complexe

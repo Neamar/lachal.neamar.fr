@@ -1,8 +1,8 @@
 ---
 title: Idiosyncrasie
 word: Idiosyncrasie
-permalink: idiosyncrasie.html
-canonical: http://lachal.neamar.fr/Idiosyncrasie
+permalink: Idiosyncrasie.html
+canonical: https://lachal.neamar.fr/Idiosyncrasie
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Diatribe
 word: Diatribe
-permalink: diatribe.html
-canonical: http://lachal.neamar.fr/Diatribe
+permalink: Diatribe.html
+canonical: https://lachal.neamar.fr/Diatribe
 layout: word
 categories:
   - Mot complexe

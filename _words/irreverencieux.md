@@ -1,8 +1,8 @@
 ---
 title: Irrévérencieux
 word: Irrévérencieux
-permalink: irreverencieux.html
-canonical: http://lachal.neamar.fr/Irreverencieux
+permalink: Irreverencieux.html
+canonical: https://lachal.neamar.fr/Irreverencieux
 layout: word
 categories:
 synonyms:

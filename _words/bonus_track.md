@@ -1,8 +1,8 @@
 ---
 title: Bonus track
 word: Bonus track
-permalink: bonus_track.html
-canonical: http://lachal.neamar.fr/Bonus_track
+permalink: Bonus_track.html
+canonical: https://lachal.neamar.fr/Bonus_track
 layout: word
 categories:
 synonyms:

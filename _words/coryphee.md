@@ -1,8 +1,8 @@
 ---
 title: Coryphée
 word: Coryphée
-permalink: coryphee.html
-canonical: http://lachal.neamar.fr/Coryphee
+permalink: Coryphee.html
+canonical: https://lachal.neamar.fr/Coryphee
 layout: word
 categories:
   - Mot complexe

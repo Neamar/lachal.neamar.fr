@@ -1,8 +1,8 @@
 ---
 title: Admonestation
 word: Admonestation
-permalink: admonestation.html
-canonical: http://lachal.neamar.fr/Admonestation
+permalink: Admonestation.html
+canonical: https://lachal.neamar.fr/Admonestation
 layout: word
 categories:
   - Mot complexe

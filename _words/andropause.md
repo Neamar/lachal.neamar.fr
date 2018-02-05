@@ -1,8 +1,8 @@
 ---
 title: Andropause
 word: Andropause
-permalink: andropause.html
-canonical: http://lachal.neamar.fr/Andropause
+permalink: Andropause.html
+canonical: https://lachal.neamar.fr/Andropause
 layout: word
 categories:
 synonyms:

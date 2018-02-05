@@ -1,8 +1,8 @@
 ---
 title: Concaténation
 word: Concaténation
-permalink: concatenation.html
-canonical: http://lachal.neamar.fr/Concatenation
+permalink: Concatenation.html
+canonical: https://lachal.neamar.fr/Concatenation
 layout: word
 categories:
 synonyms:

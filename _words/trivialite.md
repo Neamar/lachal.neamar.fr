@@ -1,8 +1,8 @@
 ---
 title: Trivialité
 word: Trivialité
-permalink: trivialite.html
-canonical: http://lachal.neamar.fr/Trivialite
+permalink: Trivialite.html
+canonical: https://lachal.neamar.fr/Trivialite
 layout: word
 categories:
 synonyms:

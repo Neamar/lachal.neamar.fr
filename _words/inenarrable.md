@@ -1,8 +1,8 @@
 ---
 title: Inénarrable
 word: Inénarrable
-permalink: inenarrable.html
-canonical: http://lachal.neamar.fr/Inenarrable
+permalink: Inenarrable.html
+canonical: https://lachal.neamar.fr/Inenarrable
 layout: word
 categories:
 synonyms:

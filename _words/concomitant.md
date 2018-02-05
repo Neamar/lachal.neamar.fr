@@ -1,8 +1,8 @@
 ---
 title: Concomitant
 word: Concomitant
-permalink: concomitant.html
-canonical: http://lachal.neamar.fr/Concomitant
+permalink: Concomitant.html
+canonical: https://lachal.neamar.fr/Concomitant
 layout: word
 categories:
 synonyms:

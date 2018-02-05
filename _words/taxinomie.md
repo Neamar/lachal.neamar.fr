@@ -1,8 +1,8 @@
 ---
 title: Taxinomie
 word: Taxinomie
-permalink: taxinomie.html
-canonical: http://lachal.neamar.fr/Taxinomie
+permalink: Taxinomie.html
+canonical: https://lachal.neamar.fr/Taxinomie
 layout: word
 categories:
   - Mot complexe

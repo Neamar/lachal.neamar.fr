@@ -1,8 +1,8 @@
 ---
 title: Élucubration
 word: Élucubration
-permalink: elucubration.html
-canonical: http://lachal.neamar.fr/Elucubration
+permalink: Elucubration.html
+canonical: https://lachal.neamar.fr/Elucubration
 layout: word
 categories:
   - Rhétorique

@@ -1,8 +1,8 @@
 ---
 title: Ubiquité
 word: Ubiquité
-permalink: ubiquite.html
-canonical: http://lachal.neamar.fr/Ubiquite
+permalink: Ubiquite.html
+canonical: https://lachal.neamar.fr/Ubiquite
 layout: word
 categories:
 synonyms:

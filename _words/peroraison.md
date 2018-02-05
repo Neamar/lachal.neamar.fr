@@ -1,8 +1,8 @@
 ---
 title: Péroraison
 word: Péroraison
-permalink: peroraison.html
-canonical: http://lachal.neamar.fr/Peroraison
+permalink: Peroraison.html
+canonical: https://lachal.neamar.fr/Peroraison
 layout: word
 categories:
   - Rhétorique

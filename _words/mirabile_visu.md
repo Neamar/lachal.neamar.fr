@@ -1,8 +1,8 @@
 ---
 title: Mirabile Visu
 word: Mirabile Visu
-permalink: mirabile_visu.html
-canonical: http://lachal.neamar.fr/Mirabile_visu
+permalink: Mirabile_visu.html
+canonical: https://lachal.neamar.fr/Mirabile_visu
 layout: word
 categories:
   - Citation latine

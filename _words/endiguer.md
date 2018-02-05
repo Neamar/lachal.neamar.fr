@@ -1,8 +1,8 @@
 ---
 title: Endiguer
 word: Endiguer
-permalink: endiguer.html
-canonical: http://lachal.neamar.fr/Endiguer
+permalink: Endiguer.html
+canonical: https://lachal.neamar.fr/Endiguer
 layout: word
 categories:
 synonyms:

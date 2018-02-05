@@ -1,8 +1,8 @@
 ---
 title: Vitupérer
 word: Vitupérer
-permalink: vituperer.html
-canonical: http://lachal.neamar.fr/Vituperer
+permalink: Vituperer.html
+canonical: https://lachal.neamar.fr/Vituperer
 layout: word
 categories:
   - Rhétorique

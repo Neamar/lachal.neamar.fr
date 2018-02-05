@@ -1,8 +1,8 @@
 ---
 title: Cassandre
 word: Cassandre
-permalink: cassandre.html
-canonical: http://lachal.neamar.fr/Cassandre
+permalink: Cassandre.html
+canonical: https://lachal.neamar.fr/Cassandre
 layout: word
 categories:
   - Mot complexe

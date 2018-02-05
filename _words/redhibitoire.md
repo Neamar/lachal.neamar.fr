@@ -1,8 +1,8 @@
 ---
 title: Rédhibitoire
 word: Rédhibitoire
-permalink: redhibitoire.html
-canonical: http://lachal.neamar.fr/Redhibitoire
+permalink: Redhibitoire.html
+canonical: https://lachal.neamar.fr/Redhibitoire
 layout: word
 categories:
 synonyms:

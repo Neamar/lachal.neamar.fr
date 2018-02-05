@@ -1,8 +1,8 @@
 ---
 title: Aporie
 word: Aporie
-permalink: aporie.html
-canonical: http://lachal.neamar.fr/Aporie
+permalink: Aporie.html
+canonical: https://lachal.neamar.fr/Aporie
 layout: word
 categories:
   - Mot complexe

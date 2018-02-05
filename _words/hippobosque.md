@@ -1,8 +1,8 @@
 ---
 title: Hippobosque
 word: Hippobosque
-permalink: hippobosque.html
-canonical: http://lachal.neamar.fr/Hippobosque
+permalink: Hippobosque.html
+canonical: https://lachal.neamar.fr/Hippobosque
 layout: word
 categories:
   - Mot complexe

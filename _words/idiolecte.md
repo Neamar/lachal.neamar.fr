@@ -1,8 +1,8 @@
 ---
 title: Idiolecte
 word: Idiolecte
-permalink: idiolecte.html
-canonical: http://lachal.neamar.fr/Idiolecte
+permalink: Idiolecte.html
+canonical: https://lachal.neamar.fr/Idiolecte
 layout: word
 categories:
   - Mot complexe

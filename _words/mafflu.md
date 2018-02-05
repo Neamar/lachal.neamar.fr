@@ -1,8 +1,8 @@
 ---
 title: Mafflu
 word: Mafflu
-permalink: mafflu.html
-canonical: http://lachal.neamar.fr/Mafflu
+permalink: Mafflu.html
+canonical: https://lachal.neamar.fr/Mafflu
 layout: word
 categories:
   - Mot complexe

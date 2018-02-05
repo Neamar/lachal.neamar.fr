@@ -1,8 +1,8 @@
 ---
 title: Analepse
 word: Analepse
-permalink: analepse.html
-canonical: http://lachal.neamar.fr/Analepse
+permalink: Analepse.html
+canonical: https://lachal.neamar.fr/Analepse
 layout: word
 categories:
   - Mot complexe

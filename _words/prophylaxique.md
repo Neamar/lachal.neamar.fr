@@ -1,8 +1,8 @@
 ---
 title: Prophylaxique
 word: Prophylaxique
-permalink: prophylaxique.html
-canonical: http://lachal.neamar.fr/Prophylaxique
+permalink: Prophylaxique.html
+canonical: https://lachal.neamar.fr/Prophylaxique
 layout: word
 categories:
   - Mot complexe

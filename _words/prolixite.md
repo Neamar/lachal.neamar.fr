@@ -1,8 +1,8 @@
 ---
 title: Prolixité
 word: Prolixité
-permalink: prolixite.html
-canonical: http://lachal.neamar.fr/Prolixite
+permalink: Prolixite.html
+canonical: https://lachal.neamar.fr/Prolixite
 layout: word
 categories:
   - Mot complexe

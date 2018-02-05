@@ -1,8 +1,8 @@
 ---
 title: Ad Patres
 word: Ad Patres
-permalink: ad_patres.html
-canonical: http://lachal.neamar.fr/Ad_patres
+permalink: Ad_patres.html
+canonical: https://lachal.neamar.fr/Ad_patres
 layout: word
 categories:
   - Citation latine

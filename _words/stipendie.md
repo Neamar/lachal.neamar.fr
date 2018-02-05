@@ -1,8 +1,8 @@
 ---
 title: Stipendié
 word: Stipendié
-permalink: stipendie.html
-canonical: http://lachal.neamar.fr/Stipendie
+permalink: Stipendie.html
+canonical: https://lachal.neamar.fr/Stipendie
 layout: word
 categories:
   - Mot complexe

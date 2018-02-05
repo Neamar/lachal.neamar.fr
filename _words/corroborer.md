@@ -1,8 +1,8 @@
 ---
 title: Corroborer
 word: Corroborer
-permalink: corroborer.html
-canonical: http://lachal.neamar.fr/Corroborer
+permalink: Corroborer.html
+canonical: https://lachal.neamar.fr/Corroborer
 layout: word
 categories:
   - Rhétorique

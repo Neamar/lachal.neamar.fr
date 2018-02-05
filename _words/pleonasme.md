@@ -1,8 +1,8 @@
 ---
 title: Pléonasme
 word: Pléonasme
-permalink: pleonasme.html
-canonical: http://lachal.neamar.fr/Pleonasme
+permalink: Pleonasme.html
+canonical: https://lachal.neamar.fr/Pleonasme
 layout: word
 categories:
   - Rhétorique

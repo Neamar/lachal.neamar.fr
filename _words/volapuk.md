@@ -1,8 +1,8 @@
 ---
 title: Volapuk
 word: Volapuk
-permalink: volapuk.html
-canonical: http://lachal.neamar.fr/Volapuk
+permalink: Volapuk.html
+canonical: https://lachal.neamar.fr/Volapuk
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Logorrhée
 word: Logorrhée
-permalink: logorrhee.html
-canonical: http://lachal.neamar.fr/Logorrhee
+permalink: Logorrhee.html
+canonical: https://lachal.neamar.fr/Logorrhee
 layout: word
 categories:
   - Mot complexe

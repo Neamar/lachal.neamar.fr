@@ -1,8 +1,8 @@
 ---
 title: Procrastination
 word: Procrastination
-permalink: procrastination.html
-canonical: http://lachal.neamar.fr/Procrastination
+permalink: Procrastination.html
+canonical: https://lachal.neamar.fr/Procrastination
 layout: word
 categories:
   - Mot complexe

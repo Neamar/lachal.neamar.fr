@@ -1,8 +1,8 @@
 ---
 title: Ostentatoire
 word: Ostentatoire
-permalink: ostentatoire.html
-canonical: http://lachal.neamar.fr/Ostentatoire
+permalink: Ostentatoire.html
+canonical: https://lachal.neamar.fr/Ostentatoire
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Autodafé
 word: Autodafé
-permalink: autodafe.html
-canonical: http://lachal.neamar.fr/Autodafe
+permalink: Autodafe.html
+canonical: https://lachal.neamar.fr/Autodafe
 layout: word
 categories:
   - Mot complexe

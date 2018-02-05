@@ -1,8 +1,8 @@
 ---
 title: Alea jacta est
 word: Alea jacta est
-permalink: alea_jacta_est.html
-canonical: http://lachal.neamar.fr/Alea_jacta_est
+permalink: Alea_jacta_est.html
+canonical: https://lachal.neamar.fr/Alea_jacta_est
 layout: word
 categories:
   - Citation latine

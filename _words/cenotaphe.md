@@ -1,8 +1,8 @@
 ---
 title: Cénotaphe
 word: Cénotaphe
-permalink: cenotaphe.html
-canonical: http://lachal.neamar.fr/Cenotaphe
+permalink: Cenotaphe.html
+canonical: https://lachal.neamar.fr/Cenotaphe
 layout: word
 categories:
   - Mot complexe

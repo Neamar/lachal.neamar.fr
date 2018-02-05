@@ -1,8 +1,8 @@
 ---
 title: Béotien
 word: Béotien
-permalink: beotien.html
-canonical: http://lachal.neamar.fr/Beotien
+permalink: Beotien.html
+canonical: https://lachal.neamar.fr/Beotien
 layout: word
 categories:
 synonyms:

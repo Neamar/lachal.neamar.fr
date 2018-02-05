@@ -1,8 +1,8 @@
 ---
 title: Tehon
 word: Tehon
-permalink: tehon.html
-canonical: http://lachal.neamar.fr/Tehon
+permalink: Tehon.html
+canonical: https://lachal.neamar.fr/Tehon
 layout: word
 categories:
 synonyms:

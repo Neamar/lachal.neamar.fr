@@ -1,8 +1,8 @@
 ---
 title: Callipyge
 word: Callipyge
-permalink: callipyge.html
-canonical: http://lachal.neamar.fr/Callipyge
+permalink: Callipyge.html
+canonical: https://lachal.neamar.fr/Callipyge
 layout: word
 categories:
 synonyms:

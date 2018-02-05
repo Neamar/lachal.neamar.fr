@@ -1,8 +1,8 @@
 ---
 title: Aduler
 word: Aduler
-permalink: aduler.html
-canonical: http://lachal.neamar.fr/Aduler
+permalink: Aduler.html
+canonical: https://lachal.neamar.fr/Aduler
 layout: word
 categories:
 synonyms:

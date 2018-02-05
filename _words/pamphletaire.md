@@ -1,8 +1,8 @@
 ---
 title: Pamphlétaire
 word: Pamphlétaire
-permalink: pamphletaire.html
-canonical: http://lachal.neamar.fr/Pamphletaire
+permalink: Pamphletaire.html
+canonical: https://lachal.neamar.fr/Pamphletaire
 layout: word
 categories:
   - Rhétorique

@@ -1,8 +1,8 @@
 ---
 title: Psychopompe
 word: Psychopompe
-permalink: psychopompe.html
-canonical: http://lachal.neamar.fr/Psychopompe
+permalink: Psychopompe.html
+canonical: https://lachal.neamar.fr/Psychopompe
 layout: word
 categories:
   - Mot complexe

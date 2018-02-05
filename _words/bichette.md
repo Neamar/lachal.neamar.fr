@@ -1,8 +1,8 @@
 ---
 title: Bichette
 word: Bichette
-permalink: bichette.html
-canonical: http://lachal.neamar.fr/Bichette
+permalink: Bichette.html
+canonical: https://lachal.neamar.fr/Bichette
 layout: word
 categories:
 synonyms:

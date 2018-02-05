@@ -1,8 +1,8 @@
 ---
 title: Munificence
 word: Munificence
-permalink: munificence.html
-canonical: http://lachal.neamar.fr/Munificence
+permalink: Munificence.html
+canonical: https://lachal.neamar.fr/Munificence
 layout: word
 categories:
   - Mot complexe

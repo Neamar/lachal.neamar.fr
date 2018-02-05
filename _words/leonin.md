@@ -1,8 +1,8 @@
 ---
 title: Léonin
 word: Léonin
-permalink: leonin.html
-canonical: http://lachal.neamar.fr/Leonin
+permalink: Leonin.html
+canonical: https://lachal.neamar.fr/Leonin
 layout: word
 categories:
   - Mot complexe

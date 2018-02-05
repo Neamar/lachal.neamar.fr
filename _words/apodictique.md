@@ -1,8 +1,8 @@
 ---
 title: Apodictique
 word: Apodictique
-permalink: apodictique.html
-canonical: http://lachal.neamar.fr/Apodictique
+permalink: Apodictique.html
+canonical: https://lachal.neamar.fr/Apodictique
 layout: word
 categories:
   - Mot complexe

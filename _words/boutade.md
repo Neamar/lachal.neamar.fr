@@ -1,8 +1,8 @@
 ---
 title: Boutade
 word: Boutade
-permalink: boutade.html
-canonical: http://lachal.neamar.fr/Boutade
+permalink: Boutade.html
+canonical: https://lachal.neamar.fr/Boutade
 layout: word
 categories:
   - Rhétorique

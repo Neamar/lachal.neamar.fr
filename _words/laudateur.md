@@ -1,8 +1,8 @@
 ---
 title: Laudateur
 word: Laudateur
-permalink: laudateur.html
-canonical: http://lachal.neamar.fr/Laudateur
+permalink: Laudateur.html
+canonical: https://lachal.neamar.fr/Laudateur
 layout: word
 categories:
 synonyms:

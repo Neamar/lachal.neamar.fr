@@ -1,8 +1,8 @@
 ---
 title: Bavasser
 word: Bavasser
-permalink: bavasser.html
-canonical: http://lachal.neamar.fr/Bavasser
+permalink: Bavasser.html
+canonical: https://lachal.neamar.fr/Bavasser
 layout: word
 categories:
   - Rhétorique

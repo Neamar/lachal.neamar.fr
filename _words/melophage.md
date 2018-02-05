@@ -1,8 +1,8 @@
 ---
 title: Mélophage
 word: Mélophage
-permalink: melophage.html
-canonical: http://lachal.neamar.fr/Melophage
+permalink: Melophage.html
+canonical: https://lachal.neamar.fr/Melophage
 layout: word
 categories:
   - Mot complexe

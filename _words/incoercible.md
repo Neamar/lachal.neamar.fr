@@ -1,8 +1,8 @@
 ---
 title: Incoercible
 word: Incoercible
-permalink: incoercible.html
-canonical: http://lachal.neamar.fr/Incoercible
+permalink: Incoercible.html
+canonical: https://lachal.neamar.fr/Incoercible
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Amphitryon
 word: Amphitryon
-permalink: amphitryon.html
-canonical: http://lachal.neamar.fr/Amphitryon
+permalink: Amphitryon.html
+canonical: https://lachal.neamar.fr/Amphitryon
 layout: word
 categories:
 synonyms:

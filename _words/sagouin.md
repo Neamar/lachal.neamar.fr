@@ -1,8 +1,8 @@
 ---
 title: Sagouin
 word: Sagouin
-permalink: sagouin.html
-canonical: http://lachal.neamar.fr/Sagouin
+permalink: Sagouin.html
+canonical: https://lachal.neamar.fr/Sagouin
 layout: word
 categories:
 synonyms:

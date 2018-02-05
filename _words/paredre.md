@@ -1,8 +1,8 @@
 ---
 title: Parèdre
 word: Parèdre
-permalink: paredre.html
-canonical: http://lachal.neamar.fr/Paredre
+permalink: Paredre.html
+canonical: https://lachal.neamar.fr/Paredre
 layout: word
 categories:
   - Mot complexe

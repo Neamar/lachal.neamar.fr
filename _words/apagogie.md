@@ -1,8 +1,8 @@
 ---
 title: Apagogie
 word: Apagogie
-permalink: apagogie.html
-canonical: http://lachal.neamar.fr/Apagogie
+permalink: Apagogie.html
+canonical: https://lachal.neamar.fr/Apagogie
 layout: word
 categories:
   - Mot complexe

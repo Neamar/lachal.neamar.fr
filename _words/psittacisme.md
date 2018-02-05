@@ -1,8 +1,8 @@
 ---
 title: Psittacisme
 word: Psittacisme
-permalink: psittacisme.html
-canonical: http://lachal.neamar.fr/Psittacisme
+permalink: Psittacisme.html
+canonical: https://lachal.neamar.fr/Psittacisme
 layout: word
 categories:
   - Rhétorique

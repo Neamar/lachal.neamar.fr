@@ -1,8 +1,8 @@
 ---
 title: Lascive
 word: Lascive
-permalink: lascive.html
-canonical: http://lachal.neamar.fr/Lascive
+permalink: Lascive.html
+canonical: https://lachal.neamar.fr/Lascive
 layout: word
 categories:
 synonyms:

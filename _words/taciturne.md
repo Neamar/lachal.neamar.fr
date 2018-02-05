@@ -1,8 +1,8 @@
 ---
 title: Taciturne
 word: Taciturne
-permalink: taciturne.html
-canonical: http://lachal.neamar.fr/Taciturne
+permalink: Taciturne.html
+canonical: https://lachal.neamar.fr/Taciturne
 layout: word
 categories:
 synonyms:

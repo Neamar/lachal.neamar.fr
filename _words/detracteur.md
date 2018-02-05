@@ -1,8 +1,8 @@
 ---
 title: Détracteur
 word: Détracteur
-permalink: detracteur.html
-canonical: http://lachal.neamar.fr/Detracteur
+permalink: Detracteur.html
+canonical: https://lachal.neamar.fr/Detracteur
 layout: word
 categories:
 synonyms:

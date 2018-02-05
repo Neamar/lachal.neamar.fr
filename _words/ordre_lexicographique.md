@@ -1,8 +1,8 @@
 ---
 title: Ordre Lexicographique
 word: Ordre Lexicographique
-permalink: ordre_lexicographique.html
-canonical: http://lachal.neamar.fr/Ordre_lexicographique
+permalink: Ordre_lexicographique.html
+canonical: https://lachal.neamar.fr/Ordre_lexicographique
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Affiquet
 word: Affiquet
-permalink: affiquet.html
-canonical: http://lachal.neamar.fr/Affiquet
+permalink: Affiquet.html
+canonical: https://lachal.neamar.fr/Affiquet
 layout: word
 categories:
   - Mot complexe

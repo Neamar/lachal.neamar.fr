@@ -1,8 +1,8 @@
 ---
 title: Ad litteram
 word: Ad litteram
-permalink: ad_litteram.html
-canonical: http://lachal.neamar.fr/Ad_litteram
+permalink: Ad_litteram.html
+canonical: https://lachal.neamar.fr/Ad_litteram
 layout: word
 categories:
   - Citation latine

@@ -1,8 +1,8 @@
 ---
 title: Cabale
 word: Cabale
-permalink: cabale.html
-canonical: http://lachal.neamar.fr/Cabale
+permalink: Cabale.html
+canonical: https://lachal.neamar.fr/Cabale
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Quid
 word: Quid
-permalink: quid.html
-canonical: http://lachal.neamar.fr/Quid
+permalink: Quid.html
+canonical: https://lachal.neamar.fr/Quid
 layout: word
 categories:
   - Citation latine

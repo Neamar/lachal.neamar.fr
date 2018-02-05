@@ -1,8 +1,8 @@
 ---
 title: Cynégétique
 word: Cynégétique
-permalink: cynegetique.html
-canonical: http://lachal.neamar.fr/Cynegetique
+permalink: Cynegetique.html
+canonical: https://lachal.neamar.fr/Cynegetique
 layout: word
 categories:
   - Mot complexe

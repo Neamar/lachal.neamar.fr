@@ -1,8 +1,8 @@
 ---
 title: Coprolalie
 word: Coprolalie
-permalink: coprolalie.html
-canonical: http://lachal.neamar.fr/Coprolalie
+permalink: Coprolalie.html
+canonical: https://lachal.neamar.fr/Coprolalie
 layout: word
 categories:
   - Mot complexe

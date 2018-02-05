@@ -1,8 +1,8 @@
 ---
 title: Antinomique
 word: Antinomique
-permalink: antinomique.html
-canonical: http://lachal.neamar.fr/Antinomique
+permalink: Antinomique.html
+canonical: https://lachal.neamar.fr/Antinomique
 layout: word
 categories:
 synonyms:

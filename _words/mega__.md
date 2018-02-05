@@ -1,8 +1,8 @@
 ---
 title: Méga  
 word: Méga  
-permalink: mega__.html
-canonical: http://lachal.neamar.fr/Mega__
+permalink: Mega__.html
+canonical: https://lachal.neamar.fr/Mega__
 layout: word
 categories:
 synonyms:

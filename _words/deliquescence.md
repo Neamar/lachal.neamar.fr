@@ -1,8 +1,8 @@
 ---
 title: Déliquescence
 word: Déliquescence
-permalink: deliquescence.html
-canonical: http://lachal.neamar.fr/Deliquescence
+permalink: Deliquescence.html
+canonical: https://lachal.neamar.fr/Deliquescence
 layout: word
 categories:
 synonyms:

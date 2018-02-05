@@ -1,8 +1,8 @@
 ---
 title: Coruscant
 word: Coruscant
-permalink: coruscant.html
-canonical: http://lachal.neamar.fr/Coruscant
+permalink: Coruscant.html
+canonical: https://lachal.neamar.fr/Coruscant
 layout: word
 categories:
   - Mot complexe

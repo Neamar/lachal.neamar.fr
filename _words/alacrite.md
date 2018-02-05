@@ -1,8 +1,8 @@
 ---
 title: Alacrité
 word: Alacrité
-permalink: alacrite.html
-canonical: http://lachal.neamar.fr/Alacrite
+permalink: Alacrite.html
+canonical: https://lachal.neamar.fr/Alacrite
 layout: word
 categories:
   - Mot complexe

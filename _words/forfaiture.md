@@ -1,8 +1,8 @@
 ---
 title: Forfaiture
 word: Forfaiture
-permalink: forfaiture.html
-canonical: http://lachal.neamar.fr/Forfaiture
+permalink: Forfaiture.html
+canonical: https://lachal.neamar.fr/Forfaiture
 layout: word
 categories:
   - Mot complexe

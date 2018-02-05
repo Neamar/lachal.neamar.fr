@@ -1,8 +1,8 @@
 ---
 title: Béjaune
 word: Béjaune
-permalink: bejaune.html
-canonical: http://lachal.neamar.fr/Bejaune
+permalink: Bejaune.html
+canonical: https://lachal.neamar.fr/Bejaune
 layout: word
 categories:
   - Mot complexe

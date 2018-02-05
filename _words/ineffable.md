@@ -1,8 +1,8 @@
 ---
 title: Ineffable
 word: Ineffable
-permalink: ineffable.html
-canonical: http://lachal.neamar.fr/Ineffable
+permalink: Ineffable.html
+canonical: https://lachal.neamar.fr/Ineffable
 layout: word
 categories:
 synonyms:

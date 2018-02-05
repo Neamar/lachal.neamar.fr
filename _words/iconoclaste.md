@@ -1,8 +1,8 @@
 ---
 title: Iconoclaste
 word: Iconoclaste
-permalink: iconoclaste.html
-canonical: http://lachal.neamar.fr/Iconoclaste
+permalink: Iconoclaste.html
+canonical: https://lachal.neamar.fr/Iconoclaste
 layout: word
 categories:
 synonyms:

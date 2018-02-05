@@ -1,8 +1,8 @@
 ---
 title: Captieux
 word: Captieux
-permalink: captieux.html
-canonical: http://lachal.neamar.fr/Captieux
+permalink: Captieux.html
+canonical: https://lachal.neamar.fr/Captieux
 layout: word
 categories:
   - Mot complexe

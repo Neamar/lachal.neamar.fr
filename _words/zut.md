@@ -1,8 +1,8 @@
 ---
 title: Zut
 word: Zut
-permalink: zut.html
-canonical: http://lachal.neamar.fr/Zut
+permalink: Zut.html
+canonical: https://lachal.neamar.fr/Zut
 layout: word
 categories:
 synonyms:

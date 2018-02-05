@@ -1,8 +1,8 @@
 ---
 title: Satisfecit
 word: Satisfecit
-permalink: satisfecit.html
-canonical: http://lachal.neamar.fr/Satisfecit
+permalink: Satisfecit.html
+canonical: https://lachal.neamar.fr/Satisfecit
 layout: word
 categories:
   - Mot complexe

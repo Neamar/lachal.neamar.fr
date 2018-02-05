@@ -1,8 +1,8 @@
 ---
 title: Ostracisme
 word: Ostracisme
-permalink: ostracisme.html
-canonical: http://lachal.neamar.fr/Ostracisme
+permalink: Ostracisme.html
+canonical: https://lachal.neamar.fr/Ostracisme
 layout: word
 categories:
   - Mot complexe

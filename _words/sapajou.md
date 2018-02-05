@@ -1,8 +1,8 @@
 ---
 title: Sapajou
 word: Sapajou
-permalink: sapajou.html
-canonical: http://lachal.neamar.fr/Sapajou
+permalink: Sapajou.html
+canonical: https://lachal.neamar.fr/Sapajou
 layout: word
 categories:
 synonyms:

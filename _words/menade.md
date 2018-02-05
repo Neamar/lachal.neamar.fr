@@ -1,8 +1,8 @@
 ---
 title: Ménade
 word: Ménade
-permalink: menade.html
-canonical: http://lachal.neamar.fr/Menade
+permalink: Menade.html
+canonical: https://lachal.neamar.fr/Menade
 layout: word
 categories:
   - Mot complexe

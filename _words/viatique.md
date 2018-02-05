@@ -1,8 +1,8 @@
 ---
 title: Viatique
 word: Viatique
-permalink: viatique.html
-canonical: http://lachal.neamar.fr/Viatique
+permalink: Viatique.html
+canonical: https://lachal.neamar.fr/Viatique
 layout: word
 categories:
   - Mot complexe

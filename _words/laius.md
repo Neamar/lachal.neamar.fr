@@ -1,8 +1,8 @@
 ---
 title: Laïus
 word: Laïus
-permalink: laius.html
-canonical: http://lachal.neamar.fr/Laius
+permalink: Laius.html
+canonical: https://lachal.neamar.fr/Laius
 layout: word
 categories:
   - Rhétorique

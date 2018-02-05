@@ -1,8 +1,8 @@
 ---
 title: Relou
 word: Relou
-permalink: relou.html
-canonical: http://lachal.neamar.fr/Relou
+permalink: Relou.html
+canonical: https://lachal.neamar.fr/Relou
 layout: word
 categories:
 synonyms:

@@ -1,8 +1,8 @@
 ---
 title: Pandémonium
 word: Pandémonium
-permalink: pandemonium.html
-canonical: http://lachal.neamar.fr/Pandemonium
+permalink: Pandemonium.html
+canonical: https://lachal.neamar.fr/Pandemonium
 layout: word
 categories:
   - Mot complexe

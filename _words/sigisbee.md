@@ -1,8 +1,8 @@
 ---
 title: Sigisbée
 word: Sigisbée
-permalink: sigisbee.html
-canonical: http://lachal.neamar.fr/Sigisbee
+permalink: Sigisbee.html
+canonical: https://lachal.neamar.fr/Sigisbee
 layout: word
 categories:
 synonyms:

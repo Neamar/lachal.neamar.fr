@@ -1,8 +1,8 @@
 ---
 title: Rimbou
 word: Rimbou
-permalink: rimbou.html
-canonical: http://lachal.neamar.fr/Rimbou
+permalink: Rimbou.html
+canonical: https://lachal.neamar.fr/Rimbou
 layout: word
 categories:
 synonyms:

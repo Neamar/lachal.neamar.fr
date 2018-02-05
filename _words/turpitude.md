@@ -1,8 +1,8 @@
 ---
 title: Turpitude
 word: Turpitude
-permalink: turpitude.html
-canonical: http://lachal.neamar.fr/Turpitude
+permalink: Turpitude.html
+canonical: https://lachal.neamar.fr/Turpitude
 layout: word
 categories:
   - Mot complexe

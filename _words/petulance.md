@@ -1,8 +1,8 @@
 ---
 title: Pétulance
 word: Pétulance
-permalink: petulance.html
-canonical: http://lachal.neamar.fr/Petulance
+permalink: Petulance.html
+canonical: https://lachal.neamar.fr/Petulance
 layout: word
 categories:
 synonyms:

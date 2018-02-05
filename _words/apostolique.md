@@ -1,8 +1,8 @@
 ---
 title: Apostolique
 word: Apostolique
-permalink: apostolique.html
-canonical: http://lachal.neamar.fr/Apostolique
+permalink: Apostolique.html
+canonical: https://lachal.neamar.fr/Apostolique
 layout: word
 categories:
 synonyms:

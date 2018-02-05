@@ -1,8 +1,8 @@
 ---
 title: Galantin
 word: Galantin
-permalink: galantin.html
-canonical: http://lachal.neamar.fr/Galantin
+permalink: Galantin.html
+canonical: https://lachal.neamar.fr/Galantin
 layout: word
 categories:
 synonyms:

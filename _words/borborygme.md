@@ -1,8 +1,8 @@
 ---
 title: Borborygme
 word: Borborygme
-permalink: borborygme.html
-canonical: http://lachal.neamar.fr/Borborygme
+permalink: Borborygme.html
+canonical: https://lachal.neamar.fr/Borborygme
 layout: word
 categories:
 synonyms:

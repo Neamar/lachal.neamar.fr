@@ -1,8 +1,8 @@
 ---
 title: Clabauderie
 word: Clabauderie
-permalink: clabauderie.html
-canonical: http://lachal.neamar.fr/Clabauderie
+permalink: Clabauderie.html
+canonical: https://lachal.neamar.fr/Clabauderie
 layout: word
 categories:
   - Mot complexe

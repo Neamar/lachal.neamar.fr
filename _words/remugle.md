@@ -1,8 +1,8 @@
 ---
 title: Remugle
 word: Remugle
-permalink: remugle.html
-canonical: http://lachal.neamar.fr/Remugle
+permalink: Remugle.html
+canonical: https://lachal.neamar.fr/Remugle
 layout: word
 categories:
 synonyms:

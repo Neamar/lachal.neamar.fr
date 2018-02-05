@@ -1,8 +1,8 @@
 ---
 title: Oligarchique
 word: Oligarchique
-permalink: oligarchique.html
-canonical: http://lachal.neamar.fr/Oligarchique
+permalink: Oligarchique.html
+canonical: https://lachal.neamar.fr/Oligarchique
 layout: word
 categories:
   - Mot complexe

@@ -1,8 +1,8 @@
 ---
 title: Ossianique
 word: Ossianique
-permalink: ossianique.html
-canonical: http://lachal.neamar.fr/Ossianique
+permalink: Ossianique.html
+canonical: https://lachal.neamar.fr/Ossianique
 layout: word
 categories:
   - Mot complexe

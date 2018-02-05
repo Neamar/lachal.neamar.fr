@@ -1,8 +1,8 @@
 ---
 title: Littérateur
 word: Littérateur
-permalink: litterateur.html
-canonical: http://lachal.neamar.fr/Litterateur
+permalink: Litterateur.html
+canonical: https://lachal.neamar.fr/Litterateur
 layout: word
 categories:
   - Rhétorique
