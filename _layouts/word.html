@@ -17,8 +17,12 @@ layout: default
 </ul>
 <h5>Exemples d'utilisation</h5>
 <ul>
-{% for example in page.examples %}
-	<li>{{ example }}</li>
+{% assign word = page.title | downcase %}
+{% for example in site.data.examples %}
+  {% assign lower_example = example.example | downcase %}
+  {% if example.words contains word or lower_example contains word %}
+	<li>{{ example.example }}</li>
+  {% endif %}
 {% endfor %}
 </ul>
 

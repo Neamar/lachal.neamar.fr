@@ -76,4 +76,4 @@ words.forEach(function(data) {
   fs.writeFileSync(__dirname + "/../_words/" + data.Slug + ".md", content);
 });
 
-fs.writeFileSync(__dirname + "/../_data/examples.csv", Object.keys(examples).map((e) => `${examples[e].join("|")},"${e}"`).sort().join("\n"));
+fs.writeFileSync(__dirname + "/../_data/examples.csv", "words,example\n" + Object.keys(examples).map((e) => `${examples[e].join("|").toLowerCase()},"${e}"`).sort().join("\n"));
