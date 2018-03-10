@@ -4362,7 +4362,7 @@
     "Definition": "\"Id est\" est une expression latine signifiant « c’est-à-dire ». Son abréviation est souvent employée : \"i.e.\", principalement pour des définitions ou des théorèmes mathématiques.\r\n\r\nCette locution latine (à l’instar de e.g.), disparue de la langue française auparavant est revenue dans l’usage français par anglicisme (les anglais utilisant i.e et e.g de façon courante).",
     "Synonyme": "C'est à dire, c-à-d, Signifiant",
     "Exemple1": "Notre Toto automédon (i.e. le chauffeur de car) dit : \"nous pouvons loger tout le monde !\" (cf. histoires).",
-    "Exemple2": "Allez, petite anamnèse collective : 275 divisé par 13, il y va deux fois, deux fois 13 égalent 26, ôtés de 27 égalent 1, etc., bref, on arrive, sous forme linéaire, à 275=13× 21+2. Mais 275 c'est quoi ? 5, c'est le chiffre des unités, 7, celui des dizaines, 2, celui des centaines, i.e. 275=2× 102+7× 10+5 (cf. histoires). ",
+    "Exemple2": "Allez, petite anamnèse collective : 275 divisé par 13, il y va deux fois, deux fois 13 égalent 26, ôtés de 27 égalent 1, etc., bref, on arrive, sous forme linéaire, à $275^= 13 \\times 21 + 2$. Mais 275 c'est quoi ? 5, c'est le chiffre des unités, 7, celui des dizaines, 2, celui des centaines, i.e. $275=2 \\times 100 + 7 \\times 10 + 5$ (cf. histoires).",
     "Date": "2009-05-07"
   },
   {
